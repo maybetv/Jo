@@ -1,40 +1,6 @@
-#EXTINF:-1 tvg-id="1132" tvg-name="Star Plus HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png" tvg-language="hin" group-title="Jio TV+ | Entertainment",Star Plus HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6255706bca250079aeaf1fc4474d1b9:eab6217aac6f1feec103120e6218eb43
-#EXTVLCOPT:http-user-agent=@shoebbro
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1788609030~exp=1788630630~acl=/*~hmac=55a122c166554d6774daaf76ac1dc3626b06f39c523e93760cad3e271fa2e09e
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Plus_HD_MOB/WDVLive/index.mpd|User-Agent=@shoebbro&Referer=https://www.jiotv.com/&Cookie=__hdnea__=st=1788609030~exp=1788630630~acl=/*~hmac=55a122c166554d6774daaf76ac1dc3626b06f39c523e93760cad3e271fa2e09e
-
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6255706bca250079aeaf1fc4474d1b9:eab6217aac6f1feec103120e6218eb43
-#EXTINF:-1 tvg-id="1132" tvg-name="Star Plus HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png" tvg-language="hin" group-title="Jio TV+ | Entertainment",Star Plus HD
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"User-Agent":"plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0","cookie":"__hdnea__=st=1788609030~exp=1788630630~acl=/*~hmac=55a122c166554d6774daaf76ac1dc3626b06f39c523e93760cad3e271fa2e09e"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Plus_HD_MOB/WDVLive/index.mpd
-
-
-
-
-#EXTINF:-1 tvg-id="443" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_HD.png" group-title="Malayalam",Asianet HD
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1788616805~exp=1788638405~acl=/*~hmac=a645546c479dc058e6f77a17537edde5c5c117a6f4981816b644b5a184acf23b"}
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=445
-https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_HD_MOB/WDVLive/index.mpd
-
-
-
-
-#EXTINF:-1 tvg-id="443" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_HD.png" group-title="Malayalam",Asianet HD
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) - @Vortex Tv - ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1788616805~exp=1788638405~acl=/*~hmac=a645546c479dc058e6f77a17537edde5c5c117a6f4981816b644b5a184acf23b"}
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vortexsu.azmodz.in/vortextv/serve/keys/key.php?id=445
-https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_HD_MOB/WDVLive/index.mpd
+#EXTM3U
+#EXTINF:-1 tvg-id="7200218114" tvg-name="Bbs13   24X7 Stream [Deferred]" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1_5x/sources/r1/cms/prod/7246/1788706787246-b" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | BIGG BOSS 24/7", ENG-FHD Bbs13   24X7 Stream [Deferred]
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-origin=https://www.hotstar.com
+https://live09p.hotstar.com/mp1/incagbsgallow-biggboss-kan-2026/511768cd9dab414aa551e9d15da2202b/index.m3u8?hdnea=exp=1788772097~acl=%2f*~id=3d672b190513a926da2653e3148ccba8~data=hdntl~hmac=d1cacaf04e3da941127af98929df7ceba8ced08c63c5b6c4e0145c1e2ce369e7
