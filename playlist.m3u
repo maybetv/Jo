@@ -3,6 +3,9 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz",
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz",
 #EXTM3U x-tvg-url=https://github.com/whythishome/epg/raw/refs/heads/master/guides/dishtv.in_en.xml.gz",
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Asianet News" tvg-logo="https://jalworldiptv.vercel.app/image/JALworLD-IPTV-logo.png" group-title="📋 Info",JALworLD IPTV
+https://jalworldiptv.vercel.app/play/intro-JIPTV.ts
+https://jalworldiptv.vercel.app/play/intro1-JIPTV.mp4
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Asianet News" tvg-logo="https://i.postimg.cc/2617yL24/Asianet-News.webp" group-title="Malayalam News",Asianet News
 https://janya-asianet.vgcdn.net/ptnr-monitoring/title-AsianetNews_POC/vglive-sk-917600/playlist.m3u8
 https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8
