@@ -130,6 +130,10 @@ https://yuppparoriglin.akamaized.net/181224/smil:darshanatv.smil/playlist.m3u8?h
 https://stream.logichost.in/NTV/live/playlist.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Vibgyor TV" tvg-logo="https://i.postimg.cc/QxHqvM1D/Vibgyor-TV.png" group-title="Malayalam",Vibgyor TV
 https://livestream.vibgyortv.com/hls/stream.m3u8
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Kerala Today" tvg-logo="https://i.postimg.cc/76dYPBPW/Janapriyam-TV.png" group-title="Malayalam",Kerala Today
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://bhoomtv.net/
+https://bhoomtv.net/geo/live.m3u8?id=1455&vtoken=st=1789041662~exp=1789042322~data=66874ac16353f706db3cafe566f6be7a1e458f61~id=1455~ip=83.110.73.244~hmac=40c6ae8d4b02ec88603d818e11de61be03918ad2494a07ae85c337f349878fd1
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Magna Vision" tvg-logo="https://i.imgur.com/mUHixbi.png" group-title="Malayalam",Magna Vision
 https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Pulari TV" tvg-logo="https://i.postimg.cc/1t7bZSB8/pulari_tv.png" group-title="Malayalam",Pulari TV
