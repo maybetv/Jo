@@ -252,11 +252,35 @@ http://line.mytv-zone.com:80/live/muratdingol/UUFFWZEY6L/63506.ts
 
 
 #EXTINF:-1 tvg-id="506" group-title="Sports" tvg-logo="https://i.ibb.co/d4JpmFN9/Unite8-2.png",Unite8 Sports 2 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/wc8/wc8/155990.m3u8
+http://202.70.146.135:8000/play/a126/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-name="Sony BBC Earth HD" tvg-language="English" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Infotainment" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony BBC Earth HD
 https://sliv.tgaadi.workers.dev/sonybbcearthhd.m3u8
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Star Sports 1 HD" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="Sports",Star Sports 1 HD
+https://streamhub.dhruvpatil681.workers.dev/290.m3u8
+
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Star Sports 1 Tamil HD" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="Sports",Star Sports 1 Tamil HD
+https://streamhub.dhruvpatil681.workers.dev/4353.m3u8
+
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Star Sports 2 HD" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="Sports",Star Sports 2 HD
+https://streamhub.dhruvpatil681.workers.dev/1446.m3u8
+
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Star Sports 3" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="Sports",Star Sports 3
+https://streamhub.dhruvpatil681.workers.dev/6167.m3u8
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Star Sports Select 1 HD" tvg-logo="https://i.postimg.cc/DfqNzZcw/star-sports-select.png" group-title="Sports",Star Sports Select 1 HD
+https://streamhub.dhruvpatil681.workers.dev/1444.m3u8
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Star Sports Select 2 HD" tvg-logo="https://i.postimg.cc/DfqNzZcw/star-sports-select.png" group-title="Sports",Star Sports Select 2 HD
+https://streamhub.dhruvpatil681.workers.dev/1448.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-id="sony-ten-1" tvg-name="Sony Sports Ten 1" tvg-language="English" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="Sports" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Sports Ten 1
