@@ -1,0 +1,129 @@
+name: Zoh2 update
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/30 * * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Dependencies
+        run: pip install requests
+
+      - name: Run Sync Script
+        run: |
+          python << 'EOF'
+          import requests
+          import re
+          import os
+
+          FILE_NAME = "Zoh2.m3u"
+          SOURCE_URL = "https://raw.githubusercontent.com/Sflex0719/STBPLUS/main/Zio.m3u"
+          HEADERS = {"User-Agent": "Mozilla/5.0"}
+
+          def parse_m3u(content):
+              header_lines = []
+              blocks = []
+              current_block = []
+              
+              for line in content.splitlines():
+                  stripped = line.strip()
+                  if not stripped:
+                      continue
+                  if stripped.startswith("#EXTM3U"):
+                      header_lines.append(stripped)
+                      continue
+                  if stripped.startswith("#EXTINF"):
+                      if current_block:
+                          blocks.append("\n".join(current_block))
+                          current_block = []
+                  if not blocks and not current_block and not stripped.startswith("#EXTINF"):
+                      header_lines.append(stripped)
+                      continue
+                  current_block.append(stripped)
+
+              if current_block:
+                  blocks.append("\n".join(current_block))
+
+              header = "\n".join(header_lines) if header_lines else "#EXTM3U"
+              return header, blocks
+
+          def get_channel_id(block):
+              match = re.search(r'tvg-id="([^"]+)"', block)
+              return match.group(1) if match else None
+
+          try:
+              print("Fetching source playlist...")
+              response = requests.get(SOURCE_URL, headers=HEADERS, timeout=30)
+              response.raise_for_status()
+
+              _, source_blocks = parse_m3u(response.text)
+              source_dict = {
+                  get_channel_id(b): b
+                  for b in source_blocks
+                  if get_channel_id(b)
+              }
+
+              if not os.path.exists(FILE_NAME):
+                  print(f"Error: {FILE_NAME} not found!")
+                  exit(1)
+
+              with open(FILE_NAME, "r", encoding="utf-8") as f:
+                  current_content = f.read()
+
+              header, my_blocks = parse_m3u(current_content)
+              updated_blocks = []
+              updated_count = 0
+
+              for mb in my_blocks:
+                  if "jiotv" in mb.lower():
+                      cid = get_channel_id(mb)
+                      if cid and cid in source_dict:
+                          updated_blocks.append(source_dict[cid])
+                          updated_count += 1
+                      else:
+                          updated_blocks.append(mb)
+                  else:
+                      updated_blocks.append(mb)
+
+              new_playlist = header + "\n\n\n" + "\n\n\n".join(updated_blocks) + "\n"
+
+              with open(FILE_NAME, "w", encoding="utf-8") as f:
+                  f.write(new_playlist)
+
+              print(f"Successfully processed. Channels updated: {updated_count}")
+
+          except Exception as e:
+              print(f"Sync failed: {e}")
+              exit(1)
+          EOF
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add Zoh2.m3u
+          if [ -n "$(git status --porcelain)" ]; then
+            git pull --rebase origin main || true
+            git commit -m "Auto-update JioTV links [skip ci]"
+            git push
+          else
+            echo "No changes to commit"
+          fi
+
