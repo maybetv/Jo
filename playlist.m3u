@@ -3,9 +3,10 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz",
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz",
 #EXTM3U x-tvg-url=https://github.com/whythishome/epg/raw/refs/heads/master/guides/dishtv.in_en.xml.gz",
-#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Asianet News" tvg-logo="https://jalworldiptv.vercel.app/image/JALworLD-IPTV-logo.png" group-title="📋 Info",JALworLD IPTV info
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="JALworLD IPTV info" tvg-logo="https://jalworldiptv.vercel.app/image/JALworLD-IPTV-logo.png" group-title="📋 Info",JALworLD IPTV info
 https://jalworldiptv.vercel.app/play//intro-tv/master.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Asianet News" tvg-logo="https://i.postimg.cc/2617yL24/Asianet-News.webp" group-title="Malayalam News",Asianet News
+https://asianet-prasarbharati.vgcdn.net/out/v1/4bb23b61ea954a7a9ab0aedc5f71d998/playlist.m3u8
 https://janya-asianet.vgcdn.net/ptnr-monitoring/title-AsianetNews_POC/vglive-sk-917600/playlist.m3u8
 https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8
 https://asianet-yupptv.vgcdn.net/ptnr-yupptv/title-Asianet_News/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/26f4b1f3-41c6-4a57-b7f2-759f8b319ac8/main.m3u8
@@ -573,10 +574,13 @@ https://streamhub.dhruvpatil681.workers.dev/4514.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Nova Sports 5" tvg-logo="https://i.postimg.cc/x1wNgRW9/nova-sports.png" group-title="Sports",Nova Sports 5
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Nova Sports 6" tvg-logo="https://i.postimg.cc/x1wNgRW9/nova-sports.png" group-title="Sports",Nova Sports 6
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Nova Sports Premier League" tvg-logo="https://i.postimg.cc/x1wNgRW9/nova-sports.png" group-title="Sports",Nova Sports Premier League
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Ariana Sports" tvg-logo="https://i.postimg.cc/2SqXtsjZ/ariana-sports.png" group-title="Sports",Ariana Sports
+https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/chunklist_w440122171.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Solh Sports" tvg-logo="https://i.postimg.cc/Z5QtVZRK/Solh_Sports.jpg" group-title="Sports",Solh Sports
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Arena Sport 1" tvg-logo="https://i.postimg.cc/0Q4wctxP/Arena-Sport-1-HR-logo-v2.webp" group-title="Sports",Arena Sport 1
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="RTA Sports HD" tvg-logo="https://i.postimg.cc/y623wyLK/rta_sports_live.png" group-title="Sports",RTA Sports HD
 https://rta-tv.akamaized.net/live/SD/RTA-3/RTA/RTA-3.m3u8
+https://rta-tv.akamaized.net/live/SD/RTA-3/RTA/RTA-3-avc1_5800000=10002.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="T Sports HD" tvg-logo="https://i.postimg.cc/1XfnNsjH/t-sports-hd.jpg" group-title="Sports",T Sports HD
 https://streamhub.dhruvpatil681.workers.dev/2460.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Ten Sports HD" tvg-logo="https://i.postimg.cc/YC88ss92/ten-sports.png" group-title="Sports",Ten Sports HD
