@@ -172,7 +172,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/mvtv/chunks.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Mediavision Movies" tvg-logo="https://i.postimg.cc/mrZbqdsq/MV-MOVIES.png" group-title="Malayalam Local TV",Media vision Movies
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Mediavision Movies" tvg-logo="https://i.postimg.cc/mrZbqdsq/MV-MOVIES.png" group-title="Malayalam Local TV",Movies Classic
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Kerala GTPL TV" tvg-logo="https://i.postimg.cc/kXy2PXkj/Kerala-GTPL-TV.png" group-title="Malayalam Local TV",Kerala GTPL TV
-https://srvx.nellaiiptv.com/restream/4vwghq/index.m3u8
+https://sx.nellaiiptv.com/app-restream/4vw22q-keralagtpltv/index.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Kannur Vision" tvg-logo="https://i.postimg.cc/8zR0fcYN/kannur_vision.png" group-title="Malayalam Local TV",Kannur Vision
 https://stream.logichost.in/kannurvision/live/playlist.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Network payyanur" tvg-logo="https://i.postimg.cc/kgTv7ykz/Network_Payyanur.jpg" group-title="Malayalam Local TV",Network Payyanur
@@ -185,6 +185,8 @@ https://online.wayanadvision.in/hls/wayanadvision.m3u8
 https://online.wayanadvision.in/hls/wvmovies.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Wayanad Vision Plus" tvg-logo="https://i.postimg.cc/GtbNVqLR/Wayanad-Vision-Plus.png" group-title="Malayalam Local TV",Wayanad Vision Plus
 https://online.wayanadvision.in/hls/streaming1.m3u8
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Cranganore TV" tvg-logo="https://i.postimg.cc/59CqBkbX/Cranganore-TV.png" group-title="Malayalam Local TV",Cranganore TV
+https://live.applelive.in/cranganorechannel/cranganorechannel/index.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="New Vision" tvg-logo="https://i.postimg.cc/nLW3KtY6/new-vision-mundakayam.jpg" group-title="Malayalam Local TV",New Vision
 https://live.skystream.in/live/newvision2924/index.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Kerala vision" tvg-logo="https://i.postimg.cc/zD9f81VR/kerala-vision.jpg" group-title="Malayalam Local TV",Kerala Vision
