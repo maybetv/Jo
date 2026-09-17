@@ -1,49 +1,87 @@
-name: Full Sync M3U Playlist
+name: Full Sync & Fix M3U Playlist
 
 on:
   schedule:
     # ഓരോ 30 മിനിറ്റിലും റൺ ചെയ്യും
     - cron: '*/30 * * * *'
-  workflow_dispatch: # മാനുവലായി 'Run workflow' ക്ലിക്ക് ചെയ്തും ടെസ്റ്റ് ചെയ്യാം
+  workflow_dispatch: # മാനുവലായി റൺ ചെയ്യാനുള്ള ഓപ്ഷൻ
 
 permissions:
-  contents: write # റിപോസിറ്ററിയിൽ ഫയൽ സേവ് ചെയ്യാനുള്ള അനുമതി
+  contents: write
 
 jobs:
-  sync-playlist:
+  sync-and-fix:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Fetch complete playlist data
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
         run: |
-          # കംപ്ലീറ്റ് ഡാറ്റ അതേപടി ഡൗൺലോഡ് ചെയ്ത് plex.m3u ലേക്ക് മാറ്റുന്നു
-          curl -s -L \
-            -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" \
-            -H "Accept: text/plain, */*" \
-            "https://premiumplugx.top/Geo/playlist.php" -o plex.m3u
+          pip install requests
 
-          # ഫയൽ ശൂന്യമല്ലെന്ന് ഉറപ്പുവരുത്തുന്നു
-          if [ ! -s plex.m3u ]; then
-            echo "Error: Downloaded file is empty! Check URL or server response."
-            exit 1
-          fi
+      - name: Fetch and Process PHP Playlist
+        run: |
+          python - << 'EOF'
+          import requests
+          import sys
 
-      - name: Commit and push if changed
+          url = "https://premiumplugx.top/Geo/playlist.php"
+          
+          # യഥാർത്ഥ ബ്രൗസറിന് സമാനമായ പൂർണ്ണ ഹെഡറുകൾ
+          headers = {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+              "Accept": "*/*",
+              "Accept-Encoding": "gzip, deflate, br",
+              "Connection": "keep-alive"
+          }
+
+          try:
+              session = requests.Session()
+              # allow_redirects=True വഴി PHP ഫയൽ എങ്ങോട്ടെങ്കിലും റീഡയറക്ട് ചെയ്താൽ അത് ഫോളോ ചെയ്യും
+              response = session.get(url, headers=headers, allow_redirects=True, timeout=30)
+              
+              if response.status_code != 200:
+                  print(f"Failed to fetch. HTTP Status: {response.status_code}")
+                  sys.exit(1)
+                  
+              content = response.text.strip()
+
+              # ഡൗൺലോഡ് ആയത് യഥാർത്ഥ M3U ഫയലാണോ അതോ എറർ HTML പേജാണോ എന്ന് പരിശോധിക്കുന്നു
+              if "#EXTM3U" not in content and "#EXTINF" not in content:
+                  print("Warning: Response does not look like a valid M3U playlist!")
+                  print("First 200 characters of response:")
+                  print(content[:200])
+                  sys.exit(1)
+
+              # പ്ലേലിസ്റ്റ് plex.m3u എന്ന ഫയലിലേക്ക് സേവ് ചെയ്യുന്നു
+              with open("plex.m3u", "w", encoding="utf-8") as f:
+                  f.write(content)
+
+              print("Playlist successfully downloaded and validated!")
+
+          except Exception as e:
+              print(f"Error occurred: {e}")
+              sys.exit(1)
+          EOF
+
+      - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # ഫയൽ ആഡ് ചെയ്യുന്നു
           git add plex.m3u
           
-          # മാറ്റങ്ങൾ ഉണ്ടെങ്കിൽ മാത്രം പുഷ് ചെയ്യുന്നു
           if git diff --staged --quiet; then
-            echo "No changes in playlist data. Skipping push."
+            echo "No changes found. Skipping push."
           else
-            echo "New updates found, pushing to repository..."
-            git commit -m "Auto-synced full playlist from source [$(date -u +'%Y-%m-%d %H:%M:%S UTC')]"
+            echo "Changes detected, pushing new playlist..."
+            git commit -m "Auto-update plex.m3u with verified streams [$(date -u +'%Y-%m-%d %H:%M:%S UTC')]"
             git push
           fi
