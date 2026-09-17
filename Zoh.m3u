@@ -226,20 +226,10 @@ https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 
 
-#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="AXN" tvg-logo="https://i.postimg.cc/CxgMTzd6/axn-movies-pt.png" group-title="English Movies",AXN
-http://209.61.12.132:9000/play/a09p/index.m3u8
-
-
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="AXN Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/AXN_Movies_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="English Movies",AXN Movies
 http://50.7.120.34:8080/AXN_BLACK/index.m3u8
 
 
-#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Cinemax" tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="English Movies",Cinemax
-http://181.78.106.127:5000/play/ca079/index.m3u8
-
-
-#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="FX HD" tvg-logo="https://i.postimg.cc/LX3b2T17/fx-hd.webp" group-title="English Movies",FX HD
-http://38.190.100.202:8000/play/a029/index.m3u8
 
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sony One Action Hits" tvg-logo="https://i.postimg.cc/kXyrp2c8/SONY-ONE-ACTION-HITS.jpg" group-title="English Movies",Sony One Action
