@@ -30,41 +30,53 @@ jobs:
         run: |
           python - << 'EOF'
           import requests
+          import gzip
+          import zlib
           import sys
 
           url = "https://premiumplugx.top/Geo/playlist.php"
           
-          # യഥാർത്ഥ ബ്രൗസറിന് സമാനമായ പൂർണ്ണ ഹെഡറുകൾ
           headers = {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-              "Accept": "*/*",
-              "Accept-Encoding": "gzip, deflate, br",
-              "Connection": "keep-alive"
+              "Accept": "*/*"
           }
 
           try:
               session = requests.Session()
-              # allow_redirects=True വഴി PHP ഫയൽ എങ്ങോട്ടെങ്കിലും റീഡയറക്ട് ചെയ്താൽ അത് ഫോളോ ചെയ്യും
+              # stream=True വെച്ച് റോ ഡാറ്റ എടുക്കുന്നു
               response = session.get(url, headers=headers, allow_redirects=True, timeout=30)
               
               if response.status_code != 200:
                   print(f"Failed to fetch. HTTP Status: {response.status_code}")
                   sys.exit(1)
-                  
-              content = response.text.strip()
 
-              # ഡൗൺലോഡ് ആയത് യഥാർത്ഥ M3U ഫയലാണോ അതോ എറർ HTML പേജാണോ എന്ന് പരിശോധിക്കുന്നു
+              raw_data = response.content
+
+              # Gzip വഴി കംപ്രസ് ചെയ്തതാണോ എന്ന് പരിശോധിച്ച് ഡീകോഡ് ചെയ്യുന്നു
+              content = ""
+              try:
+                  content = gzip.decompress(raw_data).decode("utf-8", errors="ignore")
+              except Exception:
+                  try:
+                      content = zlib.decompress(raw_data, 16 + zlib.MAX_WBITS).decode("utf-8", errors="ignore")
+                  except Exception:
+                      # സാധാരണ പ്ലെയിൻ ടെക്സ്റ്റ് ആണെങ്കിൽ നേരിട്ട് ഡീകോഡ് ചെയ്യുന്നു
+                      content = raw_data.decode("utf-8", errors="ignore")
+
+              content = content.strip()
+
+              # പ്ലേലിസ്റ്റ് സാധുവാണോ എന്ന് പരിശോധിക്കുന്നു
               if "#EXTM3U" not in content and "#EXTINF" not in content:
                   print("Warning: Response does not look like a valid M3U playlist!")
                   print("First 200 characters of response:")
                   print(content[:200])
                   sys.exit(1)
 
-              # പ്ലേലിസ്റ്റ് plex.m3u എന്ന ഫയലിലേക്ക് സേവ് ചെയ്യുന്നു
+              # plex.m3u ലേക്ക് കൃത്യമായ പ്ലേലിസ്റ്റ് സേവ് ചെയ്യുന്നു
               with open("plex.m3u", "w", encoding="utf-8") as f:
                   f.write(content)
 
-              print("Playlist successfully downloaded and validated!")
+              print("Success: Playlist successfully decompressed, verified and saved to plex.m3u!")
 
           except Exception as e:
               print(f"Error occurred: {e}")
@@ -79,7 +91,7 @@ jobs:
           git add plex.m3u
           
           if git diff --staged --quiet; then
-            echo "No changes found. Skipping push."
+            echo "No changes found in playlist. Skipping push."
           else
             echo "Changes detected, pushing new playlist..."
             git commit -m "Auto-update plex.m3u with verified streams [$(date -u +'%Y-%m-%d %H:%M:%S UTC')]"
