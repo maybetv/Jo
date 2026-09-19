@@ -10,6 +10,8 @@
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:audio-language=mal
 https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-mal-2026/28fdd2300bf04a60ac3c3318ff009886/index.m3u8?aws.manifestfilter=video_height:0-1080&hdnea=exp=1789852011~data=ip%3dvVS0TY4scasrkHpavbQ1MM-userid%3d3IiUYM7onTzObTmdwWkLOIe0bnXS6Z1kHh2uPoazPAJO-did%3dFisA98YGNmOly7liUGRASKhjw39He0xQsh74qx99DQfY-cc%3din-bl%3djhs-ctype%3dshow_live-de%3d1-pl%3dweb-ap%3d26.08.27.0-ut%3dfree-fpassv2-ttl%3d1800-type%3dpaid-~hmac=680577f5b5b042b0f078f39079e149aceff3722595beeb467a53d9fbc6bb5793
+
+
 #EXTINF:-1 tvg-id="Surya HD" tvg-logo="https://sund-images.sunnxt.com/194397/640x360_SuryaTVHD_194397_7b54e231-bbb9-48d2-8aae-35a5886deed3.jpg" group-title="Entertainment",Surya HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"glnODBEnJaTSyU0VQgdCXw", "kid":"6ug4zNddSh+/9v190cl3gA" } ], "type":"temporary" }
@@ -20,8 +22,8 @@ https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_i
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce59e82f061f57c5a423d3342ae4cb7d:5218a59b8da17a2b2e4b217802f716f0
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5
-#EXTHTTP:{"cookie":"__hdnea__=st=1789835408~exp=1789857008~acl=/*~hmac=40a09c75c5fe1283a6f6c933601a18070319673d61c81d6680701fbaeeb8f797","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1789835408~exp=1789857008~acl=/*~hmac=40a09c75c5fe1283a6f6c933601a18070319673d61c81d6680701fbaeeb8f797
+#EXTHTTP:{"cookie":"__hdnea__=st=1789842607~exp=1789864207~acl=/*~hmac=7521e5d2a0607456ce416da64a44d96d9e6b62fcfeaf2456b3a878b58bfd1b29","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1789842607~exp=1789864207~acl=/*~hmac=7521e5d2a0607456ce416da64a44d96d9e6b62fcfeaf2456b3a878b58bfd1b29
 
 
 #EXTINF:-1 tvg-id="22020" tvg-logo="https://i.imgur.com/fjgzW20.png" group-title="Malayalam Entertainment",Mazhavil Manorama HD
@@ -48,8 +50,8 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=442ef9bd1f175d81ad4ef6e2039621fb:5bae63aec5c404b3f25073bcf1f0ba98
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5
-#EXTHTTP:{"cookie":"__hdnea__=st=1789835408~exp=1789857008~acl=/*~hmac=40a09c75c5fe1283a6f6c933601a18070319673d61c81d6680701fbaeeb8f797","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Flower_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1789835408~exp=1789857008~acl=/*~hmac=40a09c75c5fe1283a6f6c933601a18070319673d61c81d6680701fbaeeb8f797
+#EXTHTTP:{"cookie":"__hdnea__=st=1789842607~exp=1789864207~acl=/*~hmac=7521e5d2a0607456ce416da64a44d96d9e6b62fcfeaf2456b3a878b58bfd1b29","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Flower_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1789842607~exp=1789864207~acl=/*~hmac=7521e5d2a0607456ce416da64a44d96d9e6b62fcfeaf2456b3a878b58bfd1b29
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Zee Keralam HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00239LE2.png" group-title="Entertainment",Zee Keralam HD
@@ -67,8 +69,8 @@ https://login.bheem.tv/bpk-tv/22389/output/index.mpd?
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=24618205971e53fa871bdf9c7b56bffb:751c4311a428fccbd4dda0a74991eb67
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5
-#EXTHTTP:{"cookie":"__hdnea__=st=1789835408~exp=1789857008~acl=/*~hmac=40a09c75c5fe1283a6f6c933601a18070319673d61c81d6680701fbaeeb8f797","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_Movies_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1789835408~exp=1789857008~acl=/*~hmac=40a09c75c5fe1283a6f6c933601a18070319673d61c81d6680701fbaeeb8f797
+#EXTHTTP:{"cookie":"__hdnea__=st=1789842607~exp=1789864207~acl=/*~hmac=7521e5d2a0607456ce416da64a44d96d9e6b62fcfeaf2456b3a878b58bfd1b29","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_Movies_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1789842607~exp=1789864207~acl=/*~hmac=7521e5d2a0607456ce416da64a44d96d9e6b62fcfeaf2456b3a878b58bfd1b29
 
 
 #EXTINF:-1 tvg-name="Asianet Movies" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7400/567400-h.jpg" group-title="JioHotstar" group-logo="", Asianet Movies
@@ -79,8 +81,8 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/playlist.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=679f44827ae353b6ae01046247b47a4f:7a401e0b947861c564af4dabf89410fc
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5
-#EXTHTTP:{"cookie":"__hdnea__=st=1789835408~exp=1789857008~acl=/*~hmac=40a09c75c5fe1283a6f6c933601a18070319673d61c81d6680701fbaeeb8f797","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_Plus_MOB/WDVLive/index.mpd?__hdnea__=st=1789835408~exp=1789857008~acl=/*~hmac=40a09c75c5fe1283a6f6c933601a18070319673d61c81d6680701fbaeeb8f797
+#EXTHTTP:{"cookie":"__hdnea__=st=1789842607~exp=1789864207~acl=/*~hmac=7521e5d2a0607456ce416da64a44d96d9e6b62fcfeaf2456b3a878b58bfd1b29","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_Plus_MOB/WDVLive/index.mpd?__hdnea__=st=1789842607~exp=1789864207~acl=/*~hmac=7521e5d2a0607456ce416da64a44d96d9e6b62fcfeaf2456b3a878b58bfd1b29
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/DgfjRPnf/Picsart-25-02-10-14-22-46-534.png" group-title="Entertainment",SURYA Movies
@@ -190,24 +192,24 @@ https://vglivessai.akamaized.net/ptnr-lg/title-News_Malayalam_LGIndia/us/v1/mast
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5fb29e5825b4554090de8d60674e4bd1:4234d56f45d2dc89f80e6d4d30b765be
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5
-#EXTHTTP:{"cookie":"__hdnea__=st=1789835408~exp=1789857008~acl=/*~hmac=40a09c75c5fe1283a6f6c933601a18070319673d61c81d6680701fbaeeb8f797","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/StarMoviesHD_MOB/WDVLive/index.mpd?__hdnea__=st=1789835408~exp=1789857008~acl=/*~hmac=40a09c75c5fe1283a6f6c933601a18070319673d61c81d6680701fbaeeb8f797
+#EXTHTTP:{"cookie":"__hdnea__=st=1789842607~exp=1789864207~acl=/*~hmac=7521e5d2a0607456ce416da64a44d96d9e6b62fcfeaf2456b3a878b58bfd1b29","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/StarMoviesHD_MOB/WDVLive/index.mpd?__hdnea__=st=1789842607~exp=1789864207~acl=/*~hmac=7521e5d2a0607456ce416da64a44d96d9e6b62fcfeaf2456b3a878b58bfd1b29
 
 
 #EXTINF:-1 tvg-id="1110" group-title="JioTV+ ▶ | English" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png",Star Movies Select HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee96dad500c4537390df63f0f2c8de60:f6bee36ddb86f9c24def2a4a8df19e8e
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5
-#EXTHTTP:{"cookie":"__hdnea__=st=1789835408~exp=1789857008~acl=/*~hmac=40a09c75c5fe1283a6f6c933601a18070319673d61c81d6680701fbaeeb8f797","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1789835408~exp=1789857008~acl=/*~hmac=40a09c75c5fe1283a6f6c933601a18070319673d61c81d6680701fbaeeb8f797
+#EXTHTTP:{"cookie":"__hdnea__=st=1789842607~exp=1789864207~acl=/*~hmac=7521e5d2a0607456ce416da64a44d96d9e6b62fcfeaf2456b3a878b58bfd1b29","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1789842607~exp=1789864207~acl=/*~hmac=7521e5d2a0607456ce416da64a44d96d9e6b62fcfeaf2456b3a878b58bfd1b29
 
 
 #EXTINF:-1 tvg-id="762" group-title="JioTV+ ▶ | English" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyPIX.png",Sony Pix HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ff1fe6b2519562ca3a28602592cd547:d43132eca3cefc4e29ca8fe548a0638b
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5
-#EXTHTTP:{"cookie":"__hdnea__=st=1789835408~exp=1789857008~acl=/*~hmac=40a09c75c5fe1283a6f6c933601a18070319673d61c81d6680701fbaeeb8f797","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyPIX_MOB/WDVLive/index.mpd?__hdnea__=st=1789835408~exp=1789857008~acl=/*~hmac=40a09c75c5fe1283a6f6c933601a18070319673d61c81d6680701fbaeeb8f797
+#EXTHTTP:{"cookie":"__hdnea__=st=1789842607~exp=1789864207~acl=/*~hmac=7521e5d2a0607456ce416da64a44d96d9e6b62fcfeaf2456b3a878b58bfd1b29","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyPIX_MOB/WDVLive/index.mpd?__hdnea__=st=1789842607~exp=1789864207~acl=/*~hmac=7521e5d2a0607456ce416da64a44d96d9e6b62fcfeaf2456b3a878b58bfd1b29
 
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-logo="" group-title="English Movies",Movies Now HD
