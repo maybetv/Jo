@@ -1,4 +1,4 @@
-name: BB Malayalam in Zoh.m3u
+name: Safely Update Only BB Malayalam in Zoh.m3u
 
 on:
   schedule:
@@ -16,6 +16,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -102,7 +104,7 @@ jobs:
           with open(target_file, "r", encoding="utf-8") as f:
               target_lines = f.read().splitlines()
 
-          # 4. Zoh.m3u-ലെ മറ്റ് ഒരു ലിങ്കിനും കോട്ടം വരാതെ BB Malayalam മാത്രം റീപ്ലേസ് ചെയ്യുന്നു
+          # 4. Zoh.m3u-ലെ മറ്റ് ഒരു ലിങ്കിനും കേടുപാട് വരാതെ BB Malayalam മാത്രം റീപ്ലേസ് ചെയ്യുന്നു
           output_lines = []
           i = 0
           bb_replaced = False
@@ -113,24 +115,21 @@ jobs:
 
               if stripped.startswith("#EXTINF:"):
                   upper_l = stripped.upper()
-                  # Zoh.m3u-ൽ നിലവിലുള്ള BB Malayalam മാത്രം കണ്ടെത്തുന്നു
                   is_existing_bbm = ("MALAYALAM" in upper_l) and (("BBS" in upper_l) or ("BIGG BOSS" in upper_l) or ("BIGGBOSS" in upper_l) or ("BB" in upper_l))
 
                   if is_existing_bbm:
-                      print("നിലവിലെ Zoh.m3u-ലെ പഴയ BB Malayalam ലൈൻ കണ്ടെത്തി, അത് മാത്രം പുതിയ ലിങ്ക് വെച്ച് മാറ്റുന്നു...")
+                      print("നിലവിലെ Zoh.m3u-ലെ പഴയ BB Malayalam കണ്ടെത്തി, അത് മാത്രം പുതിയ ലിങ്ക് വെച്ച് മാറ്റുന്നു...")
                       output_lines.extend(malayalam_bb_block)
                       bb_replaced = True
                       i += 1
-                      # പഴയ ലിങ്കും ടോക്കണും ഒഴിവാക്കുന്നു (അടുത്ത ചാനൽ തുടങ്ങുന്നത് വരെ)
                       while i < len(target_lines) and not target_lines[i].strip().startswith("#EXTINF:"):
                           i += 1
                       continue
 
-              # ബാക്കി മറ്റെല്ലാ ചാനലുകളും അതേപടി നിലനിർത്തുന്നു
+              # ബാക്കി മുഴുവൻ ചാനലുകളും അതേപടി നിലനിർത്തുന്നു
               output_lines.append(line)
               i += 1
 
-          # ഫയലിൽ മുൻപ് ഈ ചാനൽ ഇല്ലായിരുന്നുവെങ്കിൽ ഏറ്റവും അവസാനം ചേർക്കുന്നു
           if not bb_replaced:
               print("ഫയലിൽ മുൻപ് BB Malayalam ഉണ്ടായിരുന്നില്ല, ലിസ്റ്റിന്റെ അവസാനം ചേർക്കുന്നു.")
               output_lines.extend(malayalam_bb_block)
@@ -149,9 +148,9 @@ jobs:
           git add Zoh.m3u
           if git status --porcelain | grep -q 'Zoh.m3u'; then
             git commit -m "Safely updated BB Malayalam in Zoh.m3u [skip ci]"
-            git push
+            git pull --rebase origin main
+            git push origin main
             echo "Successfully pushed updates."
           else
             echo "No changes found. Zoh.m3u is up-to-date."
           fi
-
