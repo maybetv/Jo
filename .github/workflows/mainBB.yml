@@ -1,8 +1,8 @@
-name: Safely Update BB Malayalam in Zoh.m3u
+name: Safely Update BB Malayalam Exact Match
 
 on:
   schedule:
-    # കൃത്യമായി ഓരോ 1 മണിക്കൂർ കൂടുമ്പോഴും തനിയെ അപ്ഡേറ്റ് ആവാൻ
+    # കൃത്യമായി ഓരോ 1 മണിക്കൂർ കൂടുമ്പോഴും റൺ ആവാൻ
     - cron: '0 * * * *'
   workflow_dispatch: # മാനുവലായി റൺ ചെയ്യാൻ
 
@@ -28,11 +28,10 @@ jobs:
         run: |
           pip install requests
 
-      - name: Safely Extract and Update BB Malayalam
+      - name: Exact Match Update BB Malayalam
         run: |
           python - << 'EOF'
           import os
-          import re
           import requests
 
           source_url = "https://premiumplugx.com/jhsevents/liveevents.php?action=refresh"
@@ -42,17 +41,17 @@ jobs:
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
           }
 
-          # 1. സോഴ്സ് ഡൗൺലോഡ് ചെയ്യുന്നു
+          # 1. സോഴ്സ് ലിങ്കിൽ നിന്ന് കണ്ടന്റ് എടുക്കുന്നു
           try:
               print(f"Fetching updates from: {source_url}")
               res = requests.get(source_url, headers=headers, timeout=40)
               res.raise_for_status()
               source_text = res.text
           except Exception as e:
-              print(f"Error downloading source: {e}. നിലവിലെ Zoh.m3u-ൽ മാറ്റമൊന്നും വരുത്താതെ നിർത്തുന്നു.")
+              print(f"Error downloading source: {e}. പഴയ ഫയലിൽ മാറ്റമില്ലാതെ നിർത്തുന്നു.")
               exit(0)
 
-          # 2. സോഴ്സിലെ ചാനലുകൾ വേർതിരിക്കുന്നു
+          # 2. സോഴ്സ് കണ്ടന്റിലെ ചാനൽ ബ്ലോക്കുകൾ അതേപടി വേർതിരിക്കുന്നു
           source_lines = source_text.splitlines()
           all_blocks = []
           curr = []
@@ -64,82 +63,48 @@ jobs:
               if l.startswith("#EXTINF:"):
                   if curr:
                       all_blocks.append(curr)
-                  curr = [l]
+                  curr = [line]
               elif curr:
-                  curr.append(l)
+                  curr.append(line)
           if curr:
               all_blocks.append(curr)
 
-          print(f"ആകെ {len(all_blocks)} ചാനലുകൾ കണ്ടെത്തി.")
+          print(f"സോഴ്സിൽ ആകെ {len(all_blocks)} ചാനലുകൾ കണ്ടെത്തി.")
 
-          # Step A: Bigg Boss (BB/BBS) ഉള്ളത് മാത്രം തിരഞ്ഞെടുക്കുന്നു
+          # Step A: Bigg Boss (BB/BBS/BIGG BOSS) ബ്ലോക്കുകൾ മാത്രം കണ്ടെത്തുന്നു
           bb_candidates = []
           for block in all_blocks:
-              block_str = " ".join(block).upper()
+              block_str = "\n".join(block).upper()
               if any(key in block_str for key in ["BIGG BOSS", "BIGGBOSS", "BBS", " BB ", "BB:", "BBM"]):
                   bb_candidates.append(block)
 
-          # Step B: അതിൽ നിന്ന് 'MALAYALAM' ഉള്ളത് മാത്രം കൃത്യമായി ഫിൽട്ടർ ചെയ്യുന്നു
+          # Step B: അതിൽ നിന്ന് 'MALAYALAM' ഉള്ള ബ്ലോക്ക് കൃത്യമായി കണ്ടെത്തുന്നു
           malayalam_block = None
           for block in bb_candidates:
-              block_str = " ".join(block).upper()
+              block_str = "\n".join(block).upper()
               if "MALAYALAM" in block_str:
                   malayalam_block = block
                   break
 
           if not malayalam_block:
-              print("Warning: സോഴ്സിൽ BB Malayalam കാണാത്തതിനാൽ പഴയ ഫയലിൽ മാറ്റം വരുത്തുന്നില്ല.")
+              print("Warning: സോഴ്സിൽ BB Malayalam കണ്ടെത്താനായില്ല. ഫയലിൽ ഒരു മാറ്റവും വരുത്തുന്നില്ല.")
               exit(0)
 
-          # Step C: സ്ട്രീം പ്ലേ ആവാൻ ആവശ്യമായ ഹെഡറുകൾ ക്ലീൻ ചെയ്യുന്നു
-          clean_lines = []
-          url_line = ""
-          ua = "Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)"
-          ref = "https://www.hotstar.com/"
+          print("സോഴ്സിലുള്ള അതേ രീതിയിൽ BB Malayalam ബ്ലോക്ക് കണ്ടെത്തി:")
+          for item in malayalam_block:
+              print(f"  {item}")
 
-          for line in malayalam_block:
-              l = line.strip()
-              if l.startswith("http://") or l.startswith("https://"):
-                  # ലിങ്കിന്റെ ഒടുവിൽ അനാവശ്യമായി വരുന്ന അക്ഷരങ്ങൾ (ഉദാ: q) ക്ലീൻ ചെയ്യുന്നു
-                  url_line = re.sub(r'[^a-zA-Z0-9_\-~%&=:/?.]+$', '', l)
-              else:
-                  clean_lines.append(l)
-
-          if not url_line:
-              print("Warning: വാലിഡ് ആയ സ്ട്രീം URL കണ്ടെത്താനായില്ല. പ്ലേലിസ്റ്റ് പഴയപടി നിലനിർത്തുന്നു.")
-              exit(0)
-
-          # പ്ലെയറുകളിൽ സ്മൂത്തായി പ്ലേ ആവാൻ കംപ്ലീറ്റ് ബ്ലോക്ക് തയ്യാറാക്കുന്നു
-          formatted_block = []
-          # #EXTINF ലൈൻ ആദ്യം ഇടുന്നു
-          formatted_block.append(clean_lines[0])
-          
-          # VLCOPT ഹെഡറുകൾ
-          formatted_block.append(f"#EXTVLCOPT:http-user-agent={ua}")
-          formatted_block.append(f"#EXTVLCOPT:http-referrer={ref}")
-          formatted_block.append(f"#EXTVLCOPT:http-extra-headers=Origin: {ref}")
-          formatted_block.append("#EXTVLCOPT:audio-language=mal")
-          
-          # IPTV / TiviMate / OTT Navigator എന്നിവയ്ക്ക് വേണ്ടിയുള്ള Kodi പ്രോപ്പർട്ടികൾ
-          formatted_block.append("#KODIPROP:inputstreamaddon=inputstream.adaptive")
-          formatted_block.append("#KODIPROP:inputstream.adaptive.manifest_type=hls")
-          
-          # ഫൈനൽ സ്ട്രീം ലിങ്ക് (ഹെഡർ പൈപ്പ് സഹിതം)
-          formatted_block.append(f"{url_line}|User-Agent={ua}&Referer={ref}&Origin={ref}")
-
-          print(f"പുതിയ സ്ട്രീം വിജയകരമായി തയ്യാറാക്കി. URL ലിങ്ക് സാധുവാണ്.")
-
-          # 3. നിലവിലെ Zoh.m3u ഫയൽ വായിക്കുന്നു
+          # 3. നിങ്ങളുടെ നിലവിലുള്ള Zoh.m3u ഫയൽ വായിക്കുന്നു
           if not os.path.exists(target_file):
-              print(f"{target_file} നിലവിലില്ല, പുതിയത് ഉണ്ടാക്കുന്നു.")
+              print(f"{target_file} കാണാനില്ല. പുതിയതായി ഉണ്ടാക്കുന്നു.")
               with open(target_file, "w", encoding="utf-8") as f:
-                  f.write("#EXTM3U\n" + "\n".join(formatted_block) + "\n")
+                  f.write("#EXTM3U\n" + "\n".join(malayalam_block) + "\n")
               exit(0)
 
           with open(target_file, "r", encoding="utf-8") as f:
               target_lines = f.read().splitlines()
 
-          # 4. നിലവിലെ ഫയലിലെ മറ്റ് ലിങ്കുകൾ തൊടാതെ BB Malayalam മാത്രം റീപ്ലേസ് ചെയ്യുന്നു
+          # 4. നിലവിലെ Zoh.m3u-ലെ ബാക്കി ചാനലുകൾ തൊടാതെ BB Malayalam മാത്രം റീപ്ലേസ് ചെയ്യുന്നു
           output_lines = []
           i = 0
           bb_replaced = False
@@ -153,28 +118,29 @@ jobs:
                   is_bbm = ("MALAYALAM" in upper_l) and any(k in upper_l for k in ["BBS", "BIGG BOSS", "BIGGBOSS", "BB"])
 
                   if is_bbm:
-                      print("നിലവിലെ Zoh.m3u-ലെ പഴയ BB Malayalam ലൈൻ കണ്ടെത്തി, അത് മാത്രം മാറ്റുന്നു...")
-                      output_lines.extend(formatted_block)
+                      print("നിലവിലെ Zoh.m3u-ലെ പഴയ BB Malayalam ലൈൻ കണ്ടെത്തി. അത് മാറ്റി സോഴ്സിലുള്ള അതേ പാറ്റേണിൽ അപ്ഡേറ്റ് ചെയ്യുന്നു...")
+                      output_lines.extend(malayalam_block)
                       bb_replaced = True
                       i += 1
-                      # പഴയ ചാനലിന്റെ ബാക്കി ടാഗുകളും URL-ഉം ഒഴിവാക്കുന്നു
+                      # പഴയ BB Malayalam എൻട്രിയുടെ മുഴുവൻ ഭാഗവും (Headers, URL) ഒഴിവാക്കുന്നു
                       while i < len(target_lines) and not target_lines[i].strip().startswith("#EXTINF:"):
                           i += 1
                       continue
 
-              # ബാക്കി മുഴുവൻ ചാനലുകളും സുരക്ഷിതമായി അതേപടി വെക്കുന്നു
+              # ബാക്കി മുഴുവൻ ചാനലുകളും സുരക്ഷിതമായി അതേപടി നിലനിർത്തുന്നു
               output_lines.append(line)
               i += 1
 
+          # ഫയലിൽ മുൻപ് ഈ ചാനൽ ഇല്ലായിരുന്നുവെങ്കിൽ അവസാനം ചേർക്കുന്നു
           if not bb_replaced:
-              print("ഫയലിൽ മുൻപ് ഈ ചാനൽ ഇല്ലായിരുന്നു, താഴെ ചേർക്കുന്നു.")
-              output_lines.extend(formatted_block)
+              print("ഫയലിൽ മുൻപ് BB Malayalam ഉണ്ടായിരുന്നില്ല, ലിസ്റ്റിന്റെ അവസാനം ചേർക്കുന്നു.")
+              output_lines.extend(malayalam_block)
 
           # 5. ഫയൽ സേവ് ചെയ്യുന്നു
           with open(target_file, "w", encoding="utf-8") as f:
               f.write("\n".join(output_lines) + "\n")
 
-          print(f"{target_file} അപ്ഡേറ്റ് പൂർത്തിയായി. മറ്റ് ചാനലുകൾക്ക് ഒരു മാറ്റവും വന്നിട്ടില്ല.")
+          print(f"{target_file} സുരക്ഷിതമായി അപ്ഡേറ്റ് ചെയ്തു! മറ്റൊരു ചാനലിനും മാറ്റം വന്നിട്ടില്ല.")
           EOF
 
       - name: Commit and Push Changes
@@ -183,10 +149,11 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add Zoh.m3u
           if git status --porcelain | grep -q 'Zoh.m3u'; then
-            git commit -m "Safely updated BB Malayalam stream and headers [skip ci]"
+            git commit -m "Exact 1:1 match auto-update for BB Malayalam [skip ci]"
             git pull --rebase origin main
             git push origin main
-            echo "Successfully pushed updates."
+            echo "Successfully updated and pushed."
           else
-            echo "No changes found. Zoh.m3u is up-to-date."
+            echo "No changes detected. Zoh.m3u is up-to-date."
           fi
+
