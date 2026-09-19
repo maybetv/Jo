@@ -34,7 +34,7 @@ jobs:
           import os
 
           FILE_NAME = "Zoh.m3u"
-          SOURCE_URL = "https://holy-mountain-842f.vkgrow7.workers.dev/"
+          SOURCE_URL = "https://premiumplugx.com/VIP/pluglist.php"
           HEADERS = {"User-Agent": "Mozilla/5.0"}
 
           def parse_m3u(content):
