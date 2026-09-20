@@ -3,6 +3,7 @@ name: zoh update
 on:
   workflow_dispatch:
   schedule:
+    # ഓരോ 30 മിനിറ്റിലും റൺ ചെയ്യാൻ
     - cron: '*/30 * * * *'
 
 permissions:
@@ -92,6 +93,7 @@ jobs:
               updated_count = 0
 
               for mb in my_blocks:
+                  # JioTV ചാനലുകൾ tvg-id പ്രകാരം മാത്രം റീപ്ലേസ് ചെയ്യുന്നു
                   if "jiotv" in mb.lower():
                       cid = get_channel_id(mb)
                       if cid and cid in source_dict:
@@ -100,9 +102,9 @@ jobs:
                       else:
                           updated_blocks.append(mb)
                   else:
+                      # BB Malayalam ഉൾപ്പെടെയുള്ള മറ്റ് എല്ലാ ചാനലുകളും സുരക്ഷിതമായി നിലനിർത്തുന്നു
                       updated_blocks.append(mb)
 
-              # ഓരോ ചാനൽ ബ്ലോക്കും തമ്മിൽ കൃത്യമായി 2 ലൈൻ ഗ്യാപ്പ് (സ്പേസ്) നൽകുന്നു
               new_playlist = header + "\n\n\n" + "\n\n\n".join(updated_blocks) + "\n"
 
               with open(FILE_NAME, "w", encoding="utf-8") as f:
@@ -115,16 +117,17 @@ jobs:
               exit(1)
           EOF
 
-      - name: Commit and Push
+      - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add Zoh.m3u
-          if [ -n "$(git status --porcelain)" ]; then
-            git pull --rebase origin main || true
-            git commit -m "Auto-update JioTV links [skip ci]"
-            git push
+          if git status --porcelain | grep -q 'Zoh.m3u'; then
+            git commit -m "Auto-update JioTV links in Zoh.m3u [skip ci]"
+            # മറ്റ് ആക്ഷൻ (BB Malayalam) വഴി മാറ്റങ്ങൾ വന്നിട്ടുണ്ടെങ്കിൽ അത് ആദ്യം വലിച്ചെടുത്ത് ലയിപ്പിക്കുന്നു
+            git pull --rebase origin main
+            git push origin main
+            echo "Successfully committed and pushed updates."
           else
-            echo "No changes to commit"
+            echo "No changes found in JioTV links."
           fi
-        
