@@ -262,7 +262,7 @@ http://xott.live:8080/43325094/44315195/444333
 https://sliv.tgaadi.workers.dev/sonybbcearthhd.m3u8
 
 
-#EXTINF:-1 tvg-id="star_sports_1_hd" tvg-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" group-title="Sports",STAR SPORTS 1 HD
+#EXTINF:-1 tvg-id="star_sports_1_hd" tvg-logo="https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_medium.jpg" group-title="Sports",STAR SPORTS 1 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=starsports1hd
@@ -298,7 +298,7 @@ https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starsports2tamildigital
 #KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=starsports1selecthd
 https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starsports1selecthd
 
-#EXTINF:-1 tvg-id="star_sports_2_select_hd" tvg-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" group-title="Sports",STAR SPORTS 2 SELECT HD
+#EXTINF:-1 tvg-id="star_sports_2_select_hd" tvg-logo="https://img.media.jio.com/tvpimages/98/79/302114_1749665414817_l_medium.jpg" group-title="Sports",STAR SPORTS 2 SELECT HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=starsports2selecthd
@@ -382,3 +382,7 @@ http://103.155.18.186:8000/play/a05s/index.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="beIN SPORTS XTRA" tvg-logo="https://i.imgur.com/f7FXJm1.png" group-title="Sports", beIN SPORTS XTRA
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
+
+
+
+
