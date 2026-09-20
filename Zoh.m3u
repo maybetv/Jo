@@ -31,9 +31,10 @@ https://login.bheem.tv/bpk-tv/22020/output/index.mpd?
 
 
 #EXTINF:-1 tvg-name="Asianet HD" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/7420/567420-h" group-title="JioHotstar" group-logo="", Asianet HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://bhoomtv.me/
-https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=asianetdigital
+https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=asianetdigital
 
 
 
