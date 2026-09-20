@@ -9,7 +9,7 @@
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:audio-language=mal
-https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-mal-2026/28fdd2300bf04a60ac3c3318ff009886/index.m3u8?aws.manifestfilter=video_height:0-1080&hdnea=exp=1789885456~data=ip%3dvVS0TY4scasrkHpavbQ1MM-userid%3d3IiUYM7onTzObTmdwWkLOIe0bnXS6Z1kHh2uPoazPAJO-did%3dFisA98YGNmOly7liUGRASKhjw39He0xQsh74qx99DQfY-cc%3din-bl%3djhs-ctype%3dshow_live-de%3d1-pl%3dweb-ap%3d26.08.27.0-ut%3dfree-fpassv2-ttl%3d1800-type%3dpaid-~hmac=94523605b0b3d032a1ac667571bab8e32360b5f1b763dc6d4b2c5320bae18222
+https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-mal-2026/28fdd2300bf04a60ac3c3318ff009886/index.m3u8?aws.manifestfilter=video_height:0-1080&hdnea=exp=1789885990~data=ip%3dvVS0TY4scasrkHpavbQ1MM-userid%3d3IiUYM7onTzObTmdwWkLOIe0bnXS6Z1kHh2uPoazPAJO-did%3dFisA98YGNmOly7liUGRASKhjw39He0xQsh74qx99DQfY-cc%3din-bl%3djhs-ctype%3dshow_live-de%3d1-pl%3dweb-ap%3d26.08.27.0-ut%3dfree-fpassv2-ttl%3d1800-type%3dpaid-~hmac=f90fa5e7d503ef0edbe96096c06229af1cd1ab221eca0982103fd4bbcf5417be
 #EXTINF:-1 tvg-id="Surya HD" tvg-logo="https://sund-images.sunnxt.com/194397/640x360_SuryaTVHD_194397_7b54e231-bbb9-48d2-8aae-35a5886deed3.jpg" group-title="Entertainment",Surya HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"glnODBEnJaTSyU0VQgdCXw", "kid":"6ug4zNddSh+/9v190cl3gA" } ], "type":"temporary" }
