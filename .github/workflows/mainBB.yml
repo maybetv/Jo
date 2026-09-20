@@ -1,522 +1,125 @@
-name: BB Malayalam Auto Update - Every 5 Minutes
+name: Safely Update BB Malayalam Every 5 Minutes
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
-
+    # ഓരോ 50 മിനിറ്റിലോ 1 മണിക്കൂറിലോ ട്രിഗർ ചെയ്യുക
+    - cron: '*/50 * * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
 
-concurrency:
-  group: bb-malayalam-update
-  cancel-in-progress: false
-
 jobs:
   update-bbm:
     runs-on: ubuntu-latest
-    timeout-minutes: 4
+    timeout-minutes: 55 # 50 മിനിറ്റ് കഴിഞ്ഞ് അടുത്ത ജോബ് വരും
 
     steps:
-
-      # ============================================
-      # CHECKOUT
-      # ============================================
-
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          ref: main
-          clean: true
 
-      # ============================================
-      # PYTHON
-      # ============================================
-
-      - name: Setup Python
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.10'
 
-      - name: Install Requests
+      - name: Install Dependencies
         run: |
-          python -m pip install --upgrade pip
           pip install requests
 
-      # ============================================
-      # CREATE UPDATE SCRIPT
-      # ============================================
-
-      - name: Create Playlist Updater
+      - name: Run Script Every 5 Minutes in a Loop
         run: |
-          cat > update_bbm.py <<'PY'
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
+          # 50 മിനിറ്റിൽ ആകെ 10 തവണ (ഓരോ 5 മിനിറ്റിലും) റൺ ചെയ്യും
+          for i in {1..10}
+          do
+            echo "Iteration $i starting at $(date)..."
+            
+            python - << 'EOF'
           import os
-          import sys
-          import time
           import requests
 
-
-          SOURCE_URL = os.environ["SOURCE_URL"]
-          TARGET_FILE = os.environ["TARGET_FILE"]
-
-          # Exact channel identity
-          TARGET_TVG_ID = "1271698284"
-
-
-          HEADERS = {
-              "User-Agent": (
-                  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                  "AppleWebKit/537.36 (KHTML, like Gecko) "
-                  "Chrome/140.0.0.0 Safari/537.36"
-              ),
-              "Accept": "*/*",
-              "Cache-Control": "no-cache",
-              "Pragma": "no-cache",
-          }
-
-
-          # ============================================
-          # DOWNLOAD SOURCE
-          # ============================================
-
-          def download_source():
-
-              for attempt in range(1, 4):
-
-                  try:
-
-                      print(
-                          f"Downloading source "
-                          f"(attempt {attempt}/3)..."
-                      )
-
-                      response = requests.get(
-                          SOURCE_URL,
-                          headers=HEADERS,
-                          params={
-                              "_cb": str(
-                                  int(time.time() * 1000)
-                              )
-                          },
-                          timeout=40
-                      )
-
-                      response.raise_for_status()
-
-                      text = response.text
-
-                      if not text.strip():
-                          raise RuntimeError(
-                              "Source returned empty content."
-                          )
-
-                      print(
-                          f"Source downloaded: "
-                          f"{len(text)} bytes"
-                      )
-
-                      return text
-
-                  except Exception as e:
-
-                      print(
-                          f"Source error: {e}"
-                      )
-
-                      if attempt < 3:
-                          time.sleep(5)
-
-              return None
-
-
-          # ============================================
-          # GET COMPLETE M3U BLOCKS
-          # ============================================
-
-          def get_blocks(text):
-
-              lines = text.splitlines(
-                  keepends=True
-              )
-
-              blocks = []
-
-              current = []
-
-              for line in lines:
-
-                  if line.strip().startswith(
-                      "#EXTINF:"
-                  ):
-
-                      if current:
-                          blocks.append(current)
-
-                      current = [line]
-
-                  elif current:
-
-                      current.append(line)
-
-              if current:
-                  blocks.append(current)
-
-              return blocks
-
-
-          # ============================================
-          # FIND BLOCK BY EXACT TVG-ID
-          # ============================================
-
-          def find_block_by_tvg_id(
-              blocks,
-              tvg_id
-          ):
-
-              search = f'tvg-id="{tvg_id}"'
-
-              for block in blocks:
-
-                  first_line = block[0]
-
-                  if search.lower() in first_line.lower():
-                      return block
-
-              return None
-
-
-          # ============================================
-          # UPDATE ONLY MATCHING BLOCK
-          # ============================================
-
-          def update_playlist():
-
-              print("")
-              print("========================================")
-              print("BB MALAYALAM UPDATE")
-              print("========================================")
-
-              # ----------------------------------------
-              # Download source
-              # ----------------------------------------
-
-              source_text = download_source()
-
-              if source_text is None:
-
-                  print(
-                      "ERROR: Could not download source."
-                  )
-
-                  return False
-
-              # ----------------------------------------
-              # Parse source
-              # ----------------------------------------
-
-              source_blocks = get_blocks(
-                  source_text
-              )
-
-              print(
-                  f"Source blocks: "
-                  f"{len(source_blocks)}"
-              )
-
-              # ----------------------------------------
-              # Find exact source channel
-              # ----------------------------------------
-
-              source_block = find_block_by_tvg_id(
-                  source_blocks,
-                  TARGET_TVG_ID
-              )
-
-              if source_block is None:
-
-                  print(
-                      f"Source does not contain "
-                      f"tvg-id={TARGET_TVG_ID}"
-                  )
-
-                  print(
-                      "Nothing will be changed."
-                  )
-
-                  return False
-
-              print(
-                  "Exact source channel found."
-              )
-
-              print(
-                  "Source block:"
-              )
-
-              print(
-                  "".join(source_block)
-              )
-
-              # ----------------------------------------
-              # Target file must already exist
-              # ----------------------------------------
-
-              if not os.path.isfile(
-                  TARGET_FILE
-              ):
-
-                  print(
-                      f"{TARGET_FILE} does not exist."
-                  )
-
-                  return False
-
-              # ----------------------------------------
-              # Read target preserving line endings
-              # ----------------------------------------
-
-              with open(
-                  TARGET_FILE,
-                  "r",
-                  encoding="utf-8",
-                  newline=""
-              ) as f:
-
-                  old_lines = f.readlines()
-
-              # ----------------------------------------
-              # Find target block
-              # ----------------------------------------
-
-              target_block_start = None
-              target_block_end = None
-
-              search = (
-                  f'tvg-id="{TARGET_TVG_ID}"'
-              )
-
-              for i, line in enumerate(
-                  old_lines
-              ):
-
-                  if (
-                      line.strip()
-                      .startswith("#EXTINF:")
-                      and search.lower()
-                      in line.lower()
-                  ):
-
-                      target_block_start = i
-
-                      # Find next EXTINF
-                      j = i + 1
-
-                      while j < len(old_lines):
-
-                          if (
-                              old_lines[j]
-                              .strip()
-                              .startswith("#EXTINF:")
-                          ):
-                              break
-
-                          j += 1
-
-                      target_block_end = j
-
-                      break
-
-              # ----------------------------------------
-              # IMPORTANT:
-              # Target entry must already exist
-              # ----------------------------------------
-
-              if target_block_start is None:
-
-                  print(
-                      f"tvg-id={TARGET_TVG_ID} "
-                      "does not exist in Zoh.m3u."
-                  )
-
-                  print(
-                      "No new entry will be added."
-                  )
-
-                  return False
-
-              print(
-                  "Existing target block found."
-              )
-
-              # ----------------------------------------
-              # Current target block
-              # ----------------------------------------
-
-              old_block = old_lines[
-                  target_block_start:
-                  target_block_end
-              ]
-
-              # ----------------------------------------
-              # If exactly same, do nothing
-              # ----------------------------------------
-
-              if old_block == source_block:
-
-                  print(
-                      "BB Malayalam is already "
-                      "up to date."
-                  )
-
-                  return False
-
-              # ----------------------------------------
-              # Replace ONLY this block
-              # ----------------------------------------
-
-              new_lines = (
-                  old_lines[
-                      :target_block_start
-                  ]
-                  + source_block
-                  + old_lines[
-                      target_block_end:
-                  ]
-              )
-
-              # ----------------------------------------
-              # Safety check
-              # ----------------------------------------
-
-              if (
-                  len(new_lines)
-                  !=
-                  len(
-                      old_lines
-                      -
-                      []
-                  )
-              ):
-                  pass
-
-              # ----------------------------------------
-              # Write target
-              # ----------------------------------------
-
-              with open(
-                  TARGET_FILE,
-                  "w",
-                  encoding="utf-8",
-                  newline=""
-              ) as f:
-
-                  f.writelines(
-                      new_lines
-                  )
-
-              print("")
-              print(
-                  "SUCCESS: Only the matching "
-                  "BB Malayalam block was updated."
-              )
-
-              return True
-
-
-          if __name__ == "__main__":
-
-              changed = update_playlist()
-
-              if changed:
-                  print("PLAYLIST_CHANGED=true")
-              else:
-                  print("PLAYLIST_CHANGED=false")
-
-              sys.exit(0)
-
-          PY
-
-      # ============================================
-      # RUN UPDATE
-      # ============================================
-
-      - name: Update BB Malayalam Block
-        env:
-          SOURCE_URL: "https://premiumplugx.com/jhsevents/liveevents.php?action=refresh"
-          TARGET_FILE: "Zoh.m3u"
-        run: |
-          python update_bbm.py
-
-      # ============================================
-      # COMMIT + SAFE PUSH
-      # ============================================
-
-      - name: Commit and Push
-        run: |
-
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          echo "Checking changes..."
-
-          git add Zoh.m3u
-
-          if git diff --cached --quiet; then
-            echo "No changes detected."
-            exit 0
-          fi
-
-          git commit \
-            -m "Update BB Malayalam [skip ci]"
-
-          # ==========================================
-          # PUSH RETRY
-          # ==========================================
-
-          for attempt in 1 2 3 4 5
-          do
-
-            echo ""
-            echo "Push attempt $attempt/5"
-
-            if git push origin HEAD:main; then
-
-              echo "Push successful."
-              exit 0
-
-            fi
-
-            echo "Remote changed."
-            echo "Getting latest main..."
-
-            git fetch origin main
-
-            # Remove local commit and return
-            # to latest remote version
-            git reset --hard origin/main
-
-            echo "Re-running updater on latest main..."
-
-            python update_bbm.py
-
+          source_url = "https://premiumplugx.com/jhsevents/liveevents.php?action=refresh"
+          target_file = "Zoh.m3u"
+          headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+
+          try:
+              res = requests.get(source_url, headers=headers, timeout=40)
+              res.raise_for_status()
+              source_text = res.text
+          except Exception as e:
+              print(f"Error downloading source: {e}")
+              exit(0)
+
+          source_lines = source_text.splitlines()
+          all_blocks, curr = [], []
+          for line in source_lines:
+              l = line.strip()
+              if not l: continue
+              if l.startswith("#EXTINF:"):
+                  if curr: all_blocks.append(curr)
+                  curr = [line]
+              elif curr:
+                  curr.append(line)
+          if curr: all_blocks.append(curr)
+
+          bb_candidates = [b for b in all_blocks if any(k in "\n".join(b).upper() for k in ["BIGG BOSS", "BIGGBOSS", "BBS", " BB ", "BB:", "BBM"])]
+          malayalam_block = next((b for b in bb_candidates if "MALAYALAM" in "\n".join(b).upper()), None)
+
+          if not malayalam_block:
+              print("Warning: BB Malayalam not found.")
+              exit(0)
+
+          if not os.path.exists(target_file):
+              with open(target_file, "w", encoding="utf-8") as f:
+                  f.write("#EXTM3U\n" + "\n".join(malayalam_block) + "\n")
+              exit(0)
+
+          with open(target_file, "r", encoding="utf-8") as f:
+              target_lines = f.read().splitlines()
+
+          output_lines = []
+          i = 0
+          bb_replaced = False
+          while i < len(target_lines):
+              line = target_lines[i]
+              stripped = line.strip()
+              if stripped.startswith("#EXTINF:"):
+                  upper_l = stripped.upper()
+                  if ("MALAYALAM" in upper_l) and any(k in upper_l for k in ["BBS", "BIGG BOSS", "BIGGBOSS", "BB"]):
+                      output_lines.extend(malayalam_block)
+                      bb_replaced = True
+                      i += 1
+                      while i < len(target_lines) and not target_lines[i].strip().startswith("#EXTINF:"):
+                          i += 1
+                      continue
+              output_lines.append(line)
+              i += 1
+
+          if not bb_replaced:
+              output_lines.extend(malayalam_block)
+
+          with open(target_file, "w", encoding="utf-8") as f:
+              f.write("\n".join(output_lines) + "\n")
+          EOF
+
+            # മാറ്റങ്ങൾ ഉണ്ടെങ്കിൽ മാത്രം പുഷ് ചെയ്യുക
             git add Zoh.m3u
-
-            if git diff --cached --quiet; then
-
-              echo "No changes after synchronization."
-              exit 0
-
+            if git status --porcelain | grep -q 'Zoh.m3u'; then
+              git commit -m "Auto-update BB Malayalam [skip ci]"
+              git pull --rebase origin main || true
+              git push origin main || true
+              echo "Updated and pushed."
+            else
+              echo "No changes detected."
             fi
 
-            git commit \
-              -m "Update BB Malayalam [skip ci]"
-
-            sleep 2
-
+            # കൃത്യം 5 മിനിറ്റ് (300 സെക്കൻഡ്) കാത്തിരിക്കുന്നു
+            echo "Waiting 5 minutes before next check..."
+            sleep 300
           done
 
-          echo "ERROR: Push failed after 5 attempts."
-          exit 1
