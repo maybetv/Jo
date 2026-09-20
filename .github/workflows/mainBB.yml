@@ -1,24 +1,21 @@
-name: Safely Update BB Malayalam Every 5 Minutes
+name: BB Malayalam Update Every 5 Minutes
 
 on:
-  workflow_dispatch:
-
   schedule:
-    # Workflow starts every hour.
-    # The job itself performs the update every 5 minutes.
-    - cron: '0 * * * *'
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: bb-malayalam-updater
+  group: bb-malayalam-update
   cancel-in-progress: false
 
 jobs:
   update-bbm:
     runs-on: ubuntu-latest
-    timeout-minutes: 58
+    timeout-minutes: 4
 
     steps:
       - name: Checkout Repository
@@ -37,12 +34,12 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Update BB Malayalam Every 5 Minutes
+      - name: Update BB Malayalam
         env:
           SOURCE_URL: "https://premiumplugx.com/jhsevents/liveevents.php?action=refresh"
           TARGET_FILE: "Zoh.m3u"
         run: |
-          cat > update_bbm.py <<'PY'
+          python - <<'PY'
           import os
           import time
           import requests
@@ -61,35 +58,32 @@ jobs:
               "Pragma": "no-cache",
           }
 
+          print("Downloading source playlist...")
 
-          def download_source():
-              try:
-                  # Cache-busting parameter
-                  url = SOURCE_URL
+          try:
+              response = requests.get(
+                  SOURCE_URL,
+                  headers=HEADERS,
+                  params={"_": int(time.time())},
+                  timeout=40
+              )
 
-                  response = requests.get(
-                      url,
-                      headers=HEADERS,
-                      params={
-                          "_cb": str(int(time.time()))
-                      },
-                      timeout=40
-                  )
+              response.raise_for_status()
+              source_text = response.text
 
-                  response.raise_for_status()
+          except Exception as e:
+              print(f"Source download failed: {e}")
+              raise SystemExit(1)
 
-                  if not response.text.strip():
-                      print("Source returned empty response.")
-                      return None
+          if not source_text.strip():
+              print("Source playlist is empty.")
+              raise SystemExit(1)
 
-                  return response.text
+          # --------------------------------
+          # Parse M3U blocks
+          # --------------------------------
 
-              except Exception as e:
-                  print(f"Source download error: {e}")
-                  return None
-
-
-          def parse_blocks(text):
+          def get_blocks(text):
               blocks = []
               current = []
 
@@ -113,227 +107,191 @@ jobs:
 
               return blocks
 
+          source_blocks = get_blocks(source_text)
 
-          def find_bb_malayalam(blocks):
-              for block in blocks:
-                  text = "\n".join(block).upper()
+          print(
+              f"Source blocks found: {len(source_blocks)}"
+          )
 
-                  if "MALAYALAM" not in text:
-                      continue
+          # --------------------------------
+          # Find BB Malayalam
+          # --------------------------------
 
-                  keywords = [
+          bb_block = None
+
+          for block in source_blocks:
+
+              block_text = "\n".join(block).upper()
+
+              if "MALAYALAM" not in block_text:
+                  continue
+
+              if any(
+                  keyword in block_text
+                  for keyword in [
                       "BIGG BOSS",
                       "BIGGBOSS",
                       "BBS",
                       "BBM",
                       "BB:"
                   ]
+              ):
+                  bb_block = block
+                  break
 
-                  if any(keyword in text for keyword in keywords):
-                      return block
+          if not bb_block:
+              print("BB Malayalam not found.")
+              raise SystemExit(0)
 
-              return None
+          print("BB Malayalam found.")
 
+          # --------------------------------
+          # Read existing playlist
+          # --------------------------------
+
+          if not os.path.exists(TARGET_FILE):
+              print(f"{TARGET_FILE} not found.")
+              raise SystemExit(1)
+
+          with open(
+              TARGET_FILE,
+              "r",
+              encoding="utf-8"
+          ) as f:
+              old_text = f.read()
+
+          old_lines = old_text.splitlines()
+
+          # --------------------------------
+          # Identify existing BB Malayalam
+          # --------------------------------
 
           def is_bb_malayalam(line):
+
               text = line.upper()
 
               if "MALAYALAM" not in text:
                   return False
 
-              keywords = [
-                  "BIGG BOSS",
-                  "BIGGBOSS",
-                  "BBS",
-                  "BBM",
-                  "BB:"
-              ]
-
-              return any(keyword in text for keyword in keywords)
-
-
-          def update_playlist():
-              print("Downloading source...")
-
-              source_text = download_source()
-
-              if source_text is None:
-                  return False
-
-              source_blocks = parse_blocks(source_text)
-
-              print(
-                  f"Source playlist blocks found: "
-                  f"{len(source_blocks)}"
+              return any(
+                  keyword in text
+                  for keyword in [
+                      "BIGG BOSS",
+                      "BIGGBOSS",
+                      "BBS",
+                      "BBM",
+                      "BB:"
+                  ]
               )
 
-              bb_block = find_bb_malayalam(source_blocks)
+          # --------------------------------
+          # Replace complete existing block
+          # --------------------------------
 
-              if not bb_block:
-                  print("BB Malayalam not found in source.")
-                  return False
+          new_lines = []
 
-              print("BB Malayalam found in source.")
+          i = 0
+          replaced = False
 
-              if not os.path.exists(TARGET_FILE):
-                  print(
-                      f"{TARGET_FILE} does not exist. "
-                      "Nothing will be created."
-                  )
-                  return False
+          while i < len(old_lines):
 
-              with open(
-                  TARGET_FILE,
-                  "r",
-                  encoding="utf-8"
-              ) as f:
-                  old_text = f.read()
+              line = old_lines[i]
 
-              old_lines = old_text.splitlines()
+              if line.strip().startswith("#EXTINF:"):
 
-              new_lines = []
+                  if is_bb_malayalam(line):
 
-              i = 0
-              replaced = False
+                      print(
+                          "Existing BB Malayalam block found."
+                      )
 
-              while i < len(old_lines):
+                      # Replace COMPLETE block
+                      new_lines.extend(bb_block)
 
-                  line = old_lines[i]
+                      replaced = True
 
-                  if line.strip().startswith("#EXTINF:"):
+                      i += 1
 
-                      if is_bb_malayalam(line):
-
-                          print(
-                              "Existing BB Malayalam block found."
-                          )
-
-                          new_lines.extend(bb_block)
-
-                          replaced = True
-
-                          # Skip complete old block
+                      # Skip old block
+                      while (
+                          i < len(old_lines)
+                          and not old_lines[i]
+                          .strip()
+                          .startswith("#EXTINF:")
+                      ):
                           i += 1
 
-                          while (
-                              i < len(old_lines)
-                              and not old_lines[i]
-                              .strip()
-                              .startswith("#EXTINF:")
-                          ):
-                              i += 1
+                      continue
 
-                          continue
+              new_lines.append(line)
+              i += 1
 
-                  new_lines.append(line)
+          # --------------------------------
+          # Do NOT add new channel
+          # --------------------------------
 
-                  i += 1
+          if not replaced:
 
-              # IMPORTANT:
-              # Never add a new BB Malayalam entry if it
-              # wasn't already present in Zoh.m3u.
-              if not replaced:
-                  print(
-                      "BB Malayalam entry does not exist "
-                      "in Zoh.m3u."
-                  )
-                  print("No changes made.")
-                  return False
+              print(
+                  "BB Malayalam is not present "
+                  "in Zoh.m3u."
+              )
 
-              new_text = "\n".join(new_lines).rstrip() + "\n"
+              print(
+                  "No new entry will be added."
+              )
 
-              if new_text == old_text:
-                  print("No playlist change detected.")
-                  return False
+              raise SystemExit(0)
 
-              with open(
-                  TARGET_FILE,
-                  "w",
-                  encoding="utf-8"
-              ) as f:
-                  f.write(new_text)
+          # --------------------------------
+          # Compare
+          # --------------------------------
 
-              print("Zoh.m3u successfully updated.")
-              return True
+          new_text = (
+              "\n".join(new_lines).rstrip()
+              + "\n"
+          )
 
+          if new_text == old_text:
 
-          if __name__ == "__main__":
-              update_playlist()
+              print(
+                  "BB Malayalam has no changes."
+              )
+
+              raise SystemExit(0)
+
+          # --------------------------------
+          # Write updated playlist
+          # --------------------------------
+
+          with open(
+              TARGET_FILE,
+              "w",
+              encoding="utf-8"
+          ) as f:
+              f.write(new_text)
+
+          print(
+              "BB Malayalam updated successfully."
+          )
           PY
 
+      - name: Commit and Push
+        run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          for i in {1..11}
-          do
-            echo ""
-            echo "=========================================="
-            echo "UPDATE $i / 11"
-            echo "TIME: $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
-            echo "=========================================="
+          git add Zoh.m3u
 
-            python update_bbm.py
+          if git diff --cached --quiet; then
+            echo "No changes detected."
+            exit 0
+          fi
 
-            echo ""
-            echo "Checking Git changes..."
+          git commit -m "Auto-update BB Malayalam [skip ci]"
 
-            git add Zoh.m3u
+          git fetch origin main
 
-            if ! git diff --cached --quiet; then
+          git rebase origin/main
 
-              echo "Playlist changed."
-
-              git commit -m "Auto-update BB Malayalam [skip ci]"
-
-              echo "Syncing with remote..."
-
-              git fetch origin main
-
-              if ! git rebase origin/main; then
-                echo "Rebase failed. Resetting to remote and retrying."
-
-                git rebase --abort || true
-
-                git reset --soft origin/main
-
-                if ! git diff --cached --quiet; then
-                  git commit -m "Auto-update BB Malayalam [skip ci]"
-                fi
-              fi
-
-              echo "Pushing changes..."
-
-              PUSH_SUCCESS=false
-
-              for retry in {1..3}
-              do
-                if git push origin HEAD:main; then
-                  echo "Push successful."
-                  PUSH_SUCCESS=true
-                  break
-                fi
-
-                echo "Push failed. Retry $retry/3..."
-
-                sleep 10
-
-                git fetch origin main
-
-                git rebase origin/main || true
-              done
-
-              if [ "$PUSH_SUCCESS" = false ]; then
-                echo "ERROR: Could not push changes."
-                exit 1
-              fi
-
-            else
-              echo "No changes detected."
-            fi
-
-            if [ "$i" -lt 11 ]; then
-              echo ""
-              echo "Waiting exactly 5 minutes..."
-              sleep 300
-            fi
-          done
+          git push origin HEAD:main
