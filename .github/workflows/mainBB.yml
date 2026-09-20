@@ -1,124 +1,339 @@
 name: Safely Update BB Malayalam Every 5 Minutes
 
 on:
-  schedule:
-    # ഓരോ 50 മിനിറ്റിലോ 1 മണിക്കൂറിലോ ട്രിഗർ ചെയ്യുക
-    - cron: '*/50 * * * *'
   workflow_dispatch:
+
+  schedule:
+    # Workflow starts every hour.
+    # The job itself performs the update every 5 minutes.
+    - cron: '0 * * * *'
 
 permissions:
   contents: write
 
+concurrency:
+  group: bb-malayalam-updater
+  cancel-in-progress: false
+
 jobs:
   update-bbm:
     runs-on: ubuntu-latest
-    timeout-minutes: 55 # 50 മിനിറ്റ് കഴിഞ്ഞ് അടുത്ത ജോബ് വരും
+    timeout-minutes: 58
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          ref: main
 
-      - name: Set up Python
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: '3.11'
 
-      - name: Install Dependencies
+      - name: Install Requests
         run: |
+          python -m pip install --upgrade pip
           pip install requests
 
-      - name: Run Script Every 5 Minutes in a Loop
+      - name: Update BB Malayalam Every 5 Minutes
+        env:
+          SOURCE_URL: "https://premiumplugx.com/jhsevents/liveevents.php?action=refresh"
+          TARGET_FILE: "Zoh.m3u"
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-          # 50 മിനിറ്റിൽ ആകെ 10 തവണ (ഓരോ 5 മിനിറ്റിലും) റൺ ചെയ്യും
-          for i in {1..10}
-          do
-            echo "Iteration $i starting at $(date)..."
-            
-            python - << 'EOF'
+          cat > update_bbm.py <<'PY'
           import os
+          import time
           import requests
 
-          source_url = "https://premiumplugx.com/jhsevents/liveevents.php?action=refresh"
-          target_file = "Zoh.m3u"
-          headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+          SOURCE_URL = os.environ["SOURCE_URL"]
+          TARGET_FILE = os.environ["TARGET_FILE"]
 
-          try:
-              res = requests.get(source_url, headers=headers, timeout=40)
-              res.raise_for_status()
-              source_text = res.text
-          except Exception as e:
-              print(f"Error downloading source: {e}")
-              exit(0)
+          HEADERS = {
+              "User-Agent": (
+                  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                  "AppleWebKit/537.36 (KHTML, like Gecko) "
+                  "Chrome/140.0.0.0 Safari/537.36"
+              ),
+              "Accept": "*/*",
+              "Cache-Control": "no-cache",
+              "Pragma": "no-cache",
+          }
 
-          source_lines = source_text.splitlines()
-          all_blocks, curr = [], []
-          for line in source_lines:
-              l = line.strip()
-              if not l: continue
-              if l.startswith("#EXTINF:"):
-                  if curr: all_blocks.append(curr)
-                  curr = [line]
-              elif curr:
-                  curr.append(line)
-          if curr: all_blocks.append(curr)
 
-          bb_candidates = [b for b in all_blocks if any(k in "\n".join(b).upper() for k in ["BIGG BOSS", "BIGGBOSS", "BBS", " BB ", "BB:", "BBM"])]
-          malayalam_block = next((b for b in bb_candidates if "MALAYALAM" in "\n".join(b).upper()), None)
+          def download_source():
+              try:
+                  # Cache-busting parameter
+                  url = SOURCE_URL
 
-          if not malayalam_block:
-              print("Warning: BB Malayalam not found.")
-              exit(0)
+                  response = requests.get(
+                      url,
+                      headers=HEADERS,
+                      params={
+                          "_cb": str(int(time.time()))
+                      },
+                      timeout=40
+                  )
 
-          if not os.path.exists(target_file):
-              with open(target_file, "w", encoding="utf-8") as f:
-                  f.write("#EXTM3U\n" + "\n".join(malayalam_block) + "\n")
-              exit(0)
+                  response.raise_for_status()
 
-          with open(target_file, "r", encoding="utf-8") as f:
-              target_lines = f.read().splitlines()
+                  if not response.text.strip():
+                      print("Source returned empty response.")
+                      return None
 
-          output_lines = []
-          i = 0
-          bb_replaced = False
-          while i < len(target_lines):
-              line = target_lines[i]
-              stripped = line.strip()
-              if stripped.startswith("#EXTINF:"):
-                  upper_l = stripped.upper()
-                  if ("MALAYALAM" in upper_l) and any(k in upper_l for k in ["BBS", "BIGG BOSS", "BIGGBOSS", "BB"]):
-                      output_lines.extend(malayalam_block)
-                      bb_replaced = True
-                      i += 1
-                      while i < len(target_lines) and not target_lines[i].strip().startswith("#EXTINF:"):
-                          i += 1
+                  return response.text
+
+              except Exception as e:
+                  print(f"Source download error: {e}")
+                  return None
+
+
+          def parse_blocks(text):
+              blocks = []
+              current = []
+
+              for line in text.splitlines():
+                  line = line.rstrip()
+
+                  if not line.strip():
                       continue
-              output_lines.append(line)
-              i += 1
 
-          if not bb_replaced:
-              output_lines.extend(malayalam_block)
+                  if line.strip().startswith("#EXTINF:"):
+                      if current:
+                          blocks.append(current)
 
-          with open(target_file, "w", encoding="utf-8") as f:
-              f.write("\n".join(output_lines) + "\n")
-          EOF
+                      current = [line]
 
-            # മാറ്റങ്ങൾ ഉണ്ടെങ്കിൽ മാത്രം പുഷ് ചെയ്യുക
+                  elif current:
+                      current.append(line)
+
+              if current:
+                  blocks.append(current)
+
+              return blocks
+
+
+          def find_bb_malayalam(blocks):
+              for block in blocks:
+                  text = "\n".join(block).upper()
+
+                  if "MALAYALAM" not in text:
+                      continue
+
+                  keywords = [
+                      "BIGG BOSS",
+                      "BIGGBOSS",
+                      "BBS",
+                      "BBM",
+                      "BB:"
+                  ]
+
+                  if any(keyword in text for keyword in keywords):
+                      return block
+
+              return None
+
+
+          def is_bb_malayalam(line):
+              text = line.upper()
+
+              if "MALAYALAM" not in text:
+                  return False
+
+              keywords = [
+                  "BIGG BOSS",
+                  "BIGGBOSS",
+                  "BBS",
+                  "BBM",
+                  "BB:"
+              ]
+
+              return any(keyword in text for keyword in keywords)
+
+
+          def update_playlist():
+              print("Downloading source...")
+
+              source_text = download_source()
+
+              if source_text is None:
+                  return False
+
+              source_blocks = parse_blocks(source_text)
+
+              print(
+                  f"Source playlist blocks found: "
+                  f"{len(source_blocks)}"
+              )
+
+              bb_block = find_bb_malayalam(source_blocks)
+
+              if not bb_block:
+                  print("BB Malayalam not found in source.")
+                  return False
+
+              print("BB Malayalam found in source.")
+
+              if not os.path.exists(TARGET_FILE):
+                  print(
+                      f"{TARGET_FILE} does not exist. "
+                      "Nothing will be created."
+                  )
+                  return False
+
+              with open(
+                  TARGET_FILE,
+                  "r",
+                  encoding="utf-8"
+              ) as f:
+                  old_text = f.read()
+
+              old_lines = old_text.splitlines()
+
+              new_lines = []
+
+              i = 0
+              replaced = False
+
+              while i < len(old_lines):
+
+                  line = old_lines[i]
+
+                  if line.strip().startswith("#EXTINF:"):
+
+                      if is_bb_malayalam(line):
+
+                          print(
+                              "Existing BB Malayalam block found."
+                          )
+
+                          new_lines.extend(bb_block)
+
+                          replaced = True
+
+                          # Skip complete old block
+                          i += 1
+
+                          while (
+                              i < len(old_lines)
+                              and not old_lines[i]
+                              .strip()
+                              .startswith("#EXTINF:")
+                          ):
+                              i += 1
+
+                          continue
+
+                  new_lines.append(line)
+
+                  i += 1
+
+              # IMPORTANT:
+              # Never add a new BB Malayalam entry if it
+              # wasn't already present in Zoh.m3u.
+              if not replaced:
+                  print(
+                      "BB Malayalam entry does not exist "
+                      "in Zoh.m3u."
+                  )
+                  print("No changes made.")
+                  return False
+
+              new_text = "\n".join(new_lines).rstrip() + "\n"
+
+              if new_text == old_text:
+                  print("No playlist change detected.")
+                  return False
+
+              with open(
+                  TARGET_FILE,
+                  "w",
+                  encoding="utf-8"
+              ) as f:
+                  f.write(new_text)
+
+              print("Zoh.m3u successfully updated.")
+              return True
+
+
+          if __name__ == "__main__":
+              update_playlist()
+          PY
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          for i in {1..11}
+          do
+            echo ""
+            echo "=========================================="
+            echo "UPDATE $i / 11"
+            echo "TIME: $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+            echo "=========================================="
+
+            python update_bbm.py
+
+            echo ""
+            echo "Checking Git changes..."
+
             git add Zoh.m3u
-            if git status --porcelain | grep -q 'Zoh.m3u'; then
+
+            if ! git diff --cached --quiet; then
+
+              echo "Playlist changed."
+
               git commit -m "Auto-update BB Malayalam [skip ci]"
-              git pull --rebase origin main || true
-              git push origin main || true
-              echo "Updated and pushed."
+
+              echo "Syncing with remote..."
+
+              git fetch origin main
+
+              if ! git rebase origin/main; then
+                echo "Rebase failed. Resetting to remote and retrying."
+
+                git rebase --abort || true
+
+                git reset --soft origin/main
+
+                if ! git diff --cached --quiet; then
+                  git commit -m "Auto-update BB Malayalam [skip ci]"
+                fi
+              fi
+
+              echo "Pushing changes..."
+
+              PUSH_SUCCESS=false
+
+              for retry in {1..3}
+              do
+                if git push origin HEAD:main; then
+                  echo "Push successful."
+                  PUSH_SUCCESS=true
+                  break
+                fi
+
+                echo "Push failed. Retry $retry/3..."
+
+                sleep 10
+
+                git fetch origin main
+
+                git rebase origin/main || true
+              done
+
+              if [ "$PUSH_SUCCESS" = false ]; then
+                echo "ERROR: Could not push changes."
+                exit 1
+              fi
+
             else
               echo "No changes detected."
             fi
 
-            # കൃത്യം 5 മിനിറ്റ് (300 സെക്കൻഡ്) കാത്തിരിക്കുന്നു
-            echo "Waiting 5 minutes before next check..."
-            sleep 300
+            if [ "$i" -lt 11 ]; then
+              echo ""
+              echo "Waiting exactly 5 minutes..."
+              sleep 300
+            fi
           done
