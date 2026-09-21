@@ -440,8 +440,11 @@ https://playyonogames.in/sliv/stream.m3u8?id=1000009278
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sony Sports Ten 5 HD" tvg-logo="https://i.postimg.cc/0QL3ns2s/Sony-Sports-TEN-5-HD.png" group-title="Sports",Sony Sports Ten 5 HD
 http://103.155.18.186:8000/play/a0ao/index.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sony Sports Ten 1" tvg-logo="https://i.postimg.cc/hPR67c53/Sony-Sports-TEN-1.png" group-title="Sports",Sony Sports Ten 1
+https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sony Sports Ten 2" tvg-logo="https://i.postimg.cc/mkYdS153/Sony-Sports-TEN-2.png" group-title="Sports",Sony Sports Ten 2
+https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sony Sports Ten 3 Hindi" tvg-logo="https://i.postimg.cc/0NzcBB4y/Sony-Sports-TEN-3-Hindi.png" group-title="Sports",Sony Sports Ten 3 Hindi
+https://rangdhonu-proxy.tasinazad2009.workers.dev/stream/durontotv/playlist.m3u8?expires=1792534811&sig=y4HFbtwS-X9VSpH3DUatLUKEkZnZxw3CdA16Jaq-_uI
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sony Sports Ten 4 Tamil" tvg-logo="https://i.postimg.cc/J0Lxt4z8/Sony-Sports-TEN-4-Tamil.png" group-title="Sports",Sony Sports Ten 4 Tamil
 #EXTVLCOPT:http-referrer=https://playyonogames.in/
 https://playyonogames.in/sliv/stream.m3u8?id=1000119187
