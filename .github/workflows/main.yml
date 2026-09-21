@@ -35,7 +35,7 @@ jobs:
           import os
 
           FILE_NAME = "Zoh.m3u"
-          SOURCE_URL = "https://raw.githubusercontent.com/Diljan707/Automated-/refs/heads/main/JioTV_Auto.m3u"
+          SOURCE_URL = "https://raw.githubusercontent.com/qwerty180506/Geo/refs/heads/main/jiotv2.m3u"
           HEADERS = {"User-Agent": "Mozilla/5.0"}
 
           def parse_m3u(content):
