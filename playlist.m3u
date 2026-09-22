@@ -138,7 +138,7 @@ https://livestream.vibgyortv.com/hls/stream.m3u8
 https://bhoomtv.org/tv/restream-tv/stream.m3u8?id=8d2262ef4ff4&t=1789993044
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Janapriyam TV" tvg-logo="https://i.postimg.cc/76dYPBPW/Janapriyam-TV.png" group-title="Malayalam",Janapriyam TV
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
-https://bhoomtv.net/geo/live.m3u8?id=1455&vtoken=st=1789995193~exp=1789995853~data=0ae054aee82a234bf8bf09e85a4299cd6ad95905~id=1455~ip=83.110.73.244~hmac=d52583f7a3ff91021a98cba658889cde4f6f8f6bb916d183398ab06503c15f40
+https://bhoomtv.net/geo/live.m3u8?id=1455&vtoken=st=1789995193
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Magna Vision" tvg-logo="https://i.imgur.com/mUHixbi.png" group-title="Malayalam",Magna Vision
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 https://d1taaads3ztvmu.cloudfront.net//120723//smil:magnavision.smil//playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
@@ -219,7 +219,6 @@ http://cloud.logichost.in:1935/live/mplus/playlist.m3u8
 http://cloud.logichost.in:1935/live/citi/playlist.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="VISION Media" tvg-logo="https://i.imgur.com/YozqNL3.jpg" group-title="Malayalam Local TV",VISION Media
 http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
-#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Teak Vision Nilambur" tvg-logo="https://i.postimg.cc/CMbr9wxh/Teak-Vision.png" group-title="Malayalam Local TV",Teak Vision Nilambur
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Koickal News" tvg-logo="https://i.postimg.cc/BbwX8570/Koickal-News.png" group-title="Malayalam Local TV",Koickal News
 https://play.applelive.in/koickalnews/koickalnews.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="TCN Entertainments" tvg-logo="https://i.postimg.cc/hP53r0S6/TCN-Entertainments.jpg" group-title="Malayalam Local TV",TCN Entertainments
@@ -293,6 +292,8 @@ https://96vd9q4kyxq7-hls-live.5centscdn.com/CCTVWEB/3d17933d07af044d3a2caa608d6a
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="N vision" tvg-logo="https://i.postimg.cc/XNKGKFmN/nvision.png" group-title="Malayalam Local TV",N vision HD
 https://ipcloud.live/nvision/nvisionhd/index.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Nattuvartha TV" tvg-logo="https://i.postimg.cc/43Sn0vVS/Nattuvartha-TV.png" group-title="Malayalam Local TV",Nattuvartha TV
+https://live.skystream.in/live/nattuvartha5945/index.m3u8
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Teak Vision Nilambur" tvg-logo="https://i.postimg.cc/CMbr9wxh/Teak-Vision.png" group-title="Malayalam Local TV",Teak Vision Nilambur
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Venad News" tvg-logo="https://i.imgur.com/MC6edvH.jpg" group-title="Malayalam Local TV",Venad News
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="One tv" tvg-logo="https://i.postimg.cc/x1bjF7S5/One-tv.jpg" group-title="Malayalam Local TV",One TV
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="VTV Entraiment" tvg-logo="https://i.postimg.cc/xdm2c92f/vtv_entraiment.png" group-title="Malayalam Local TV",VTV Entraiment
@@ -438,11 +439,9 @@ http://103.155.18.186:8000/play/a0ap/index.m3u8
 http://202.70.146.135:8000/play/a0ap/index.m3u8
 https://streamhub.dhruvpatil681.workers.dev/1448.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sony Sports Ten 1 HD" tvg-logo="https://i.postimg.cc/5tPWwTC6/Sony-Sports-TEN-1-HD.png" group-title="Sports",Sony Sports Ten 1 HD
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000009276
+https://streamhub.dhruvpatil681.workers.dev/294.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sony Sports Ten 2 HD" tvg-logo="https://i.postimg.cc/8zD2xNdC/Sony-Sports-TEN-2-HD.png" group-title="Sports",Sony Sports Ten 2 HD
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000009277
+https://streamhub.dhruvpatil681.workers.dev/297.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sony Sports Ten 3 Hindi HD" tvg-logo="https://i.postimg.cc/rpZ7d4BL/Sony-Sports-TEN-3-Hindi-HD.png" group-title="Sports",Sony Sports Ten 3 Hindi HD
 http://202.70.146.135:8000/play/a0az/index.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sony Sports Ten 5 HD" tvg-logo="https://i.postimg.cc/0QL3ns2s/Sony-Sports-TEN-5-HD.png" group-title="Sports",Sony Sports Ten 5 HD
@@ -745,43 +744,43 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99991247/hls/master.m3u8?ads.xumo_cha
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="abp news" tvg-logo="https://i.postimg.cc/jSgkt3cJ/abp-news.webp" group-title="English News",abp news 
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
-#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Discovery Channel" tvg-logo="https://i.postimg.cc/GpZKGmtW/Discovery-Science.png" group-title="Documentary",Discovery Channel
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Discovery Channel" tvg-logo="https://i.postimg.cc/GpZKGmtW/Discovery-Science.png" group-title="Infotainment",Discovery Channel
 http://103.155.18.186:8000/play/a05z/index.m3u8
 http://103.157.248.140:8000/play/a017/index.m3u8
-#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Discovery Science" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Eng.png?width=200" group-title="Documentary",Discovery Science 
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Discovery Science" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Eng.png?width=200" group-title="Infotainment",Discovery Science 
 http://103.155.18.186:8000/play/a060/index.m3u8
 http://103.157.248.140:8000/play/a018/index.m3u8
-#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Discovery Turbo" tvg-logo="hhttps://yt3.googleusercontent.com/A3IRtaRvhGAl44dtu9-Mp8T9oXiy68OGfkSCc9uf682m91SFePPH5JUzPZwhnkgFRX07ObAbgQ=s900-c-k-c0x00ffffff-no-rj" group-title="Documentary",Discovery Turbo
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Discovery Turbo" tvg-logo="hhttps://yt3.googleusercontent.com/A3IRtaRvhGAl44dtu9-Mp8T9oXiy68OGfkSCc9uf682m91SFePPH5JUzPZwhnkgFRX07ObAbgQ=s900-c-k-c0x00ffffff-no-rj" group-title="Infotainment",Discovery Turbo
 http://103.155.18.186:8000/play/a050/index.m3u8
 http://103.157.248.140:8000/play/a00u/index.m3u8
-#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Animal Planet HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/26238275e95af4910a79cbed26a9bc73.png" group-title="Documentary",Animal Planet HD
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Animal Planet HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/26238275e95af4910a79cbed26a9bc73.png" group-title="Infotainment",Animal Planet HD
 http://103.155.18.186:8000/play/a0aa/index.m3u8
-#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="National Geographic" tvg-logo="https://i.imgur.com/gWqqLhQ.jpeg" group-title="Documentary",National Geographic
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="National Geographic" tvg-logo="https://i.imgur.com/gWqqLhQ.jpeg" group-title="Infotainment",National Geographic
 http://103.155.18.186:8000/play/a05o/index.m3u8
 http://103.157.248.140:8000/play/a012/index.m3u8
-#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Nat Geo Wild" tvg-logo="https://i.imgur.com/rtFRB49.jpeg" group-title="Documentary",Nat Geo Wild
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Nat Geo Wild" tvg-logo="https://i.imgur.com/rtFRB49.jpeg" group-title="Infotainment",Nat Geo Wild
 http://103.155.18.186:8000/play/a05j/index.m3u8
 http://103.157.248.140:8000/play/a010/index.m3u8 
-#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Wild TV" tvg-logo="https://i.postimg.cc/3xRS7DWR/wild-tv.png" group-title="Documentary",Wild TV
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Wild TV" tvg-logo="https://i.postimg.cc/3xRS7DWR/wild-tv.png" group-title="Infotainment",Wild TV
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
-#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="InTravel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/510382c862e53db5ba24b85a2ad2c106.png" group-title="Documentary",InTravel
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="InTravel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/510382c862e53db5ba24b85a2ad2c106.png" group-title="Infotainment",InTravel
 https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="DocuBay TV" tvg-logo="https://i.postimg.cc/L6fNLLmg/Docu-Bay-TV.jpg" group-title="Documentary",DocuBay TV
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="DocuBay TV" tvg-logo="https://i.postimg.cc/L6fNLLmg/Docu-Bay-TV.jpg" group-title="Infotainment",DocuBay TV
 https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8
-#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="TLC HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TLCHDEnglish.png?width=400" group-title="Documentary",TLC HD
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="TLC HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TLCHDEnglish.png?width=400" group-title="Infotainment",TLC HD
 http://103.155.18.186:8000/play/a05i/index.m3u8
-#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Love Nature 4K" tvg-logo="https://i.postimg.cc/tCNnXMpN/love-nature.png" group-title="Documentary",Love Nature 4K
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Love Nature 4K" tvg-logo="https://i.postimg.cc/tCNnXMpN/love-nature.png" group-title="Infotainment",Love Nature 4K
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
-#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Love Nature HD" tvg-logo="https://i.postimg.cc/tCNnXMpN/love-nature.png" group-title="Documentary",Love Nature HD
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Love Nature HD" tvg-logo="https://i.postimg.cc/tCNnXMpN/love-nature.png" group-title="Infotainment",Love Nature HD
 https://live-manifest.production-public.tubi.io/live/470abd8a-dea0-41a1-98bc-bf7f98671ab5/playlist.m3u8
-#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Love The Planet" tvg-logo="https://i.postimg.cc/5ttS4m2g/love-planet.png" group-title="Documentary",Love The Planet
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Love The Planet" tvg-logo="https://i.postimg.cc/5ttS4m2g/love-planet.png" group-title="Infotainment",Love The Planet
 https://amg01821-lovetv-amg01821c8-rlaxx-gb-10462.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01821-lovetvfast-lovetheplanetusuk-rlaxxgb/playlist.m3u8
-#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sony BBC Earth HD" tvg-logo="https://i.postimg.cc/zD6bDBmD/sony_bbc_earth.jpg" group-title="Documentary",Sony BBC Earth HD
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sony BBC Earth HD" tvg-logo="https://i.postimg.cc/zD6bDBmD/sony_bbc_earth.jpg" group-title="Infotainment",Sony BBC Earth HD
 http://103.155.18.186:8000/play/a067/index.m3u8
 http://103.253.18.58:8000/play/a01g
-#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Travelxp HD" tvg-logo="https://i.postimg.cc/NFSmhTY8/travel_xp.jpg" group-title="Documentary",Travelxp HD
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Travelxp HD" tvg-logo="https://i.postimg.cc/NFSmhTY8/travel_xp.jpg" group-title="Infotainment",Travelxp HD
 http://103.155.18.186:8000/play/a04o/index.m3u8
-#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="History TV 18" tvg-logo="https://i.postimg.cc/WzWc2Zbv/history-tv-18.png" group-title="Documentary",History TV 18
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="History TV 18" tvg-logo="https://i.postimg.cc/WzWc2Zbv/history-tv-18.png" group-title="Infotainment",History TV 18
 http://103.155.18.186:8000/play/a065/index.m3u8
 http://103.253.18.58:8000/play/a01f
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Star Movies HD" tvg-logo="https://i.postimg.cc/50JQ9sSh/star-movies-HD.png" group-title="English Movies",Star Movies HD
