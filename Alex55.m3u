@@ -5,6 +5,18 @@
 https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-tel-2026/f129670ca03b4bb988c841f9bbdce777/index_6.m3u8|User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169(Android/15)&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1789793027~acl=%2f*~id=138336710c7a44570e5e311aa10cad5d~data=hdntl~hmac=9f4ad820b76d2e626dd978f7fc811c468f421eb2745f3c7e9b6a92bb99f0b84f
 
 
+
+#EXTM3U
+#EXTINF:-1 tvg-name="Bigboss 24/7 live-MALAYALAM" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/6575/1788707966575-h" tvg-category="Entertainment" group-logo="https://images.bhaskarassets.com/web2images/1884/2025/02/14/jiohotstarweb_1739512810.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | BIGG BOSS 24/7", ENG-FHD Bigboss 24/7 live-MALAYALAM
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com&Cookie=hdntl=exp=1790060007~acl=%2f*~id=3923d2a2be266251ea16fcf0686afb7f~data=hdntl~hmac=ef5e4e132c593978b4d0e4871486267d5aaee8fa8d0bc4669a753c1ee6fe9acb
+https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-mal-2026/28fdd2300bf04a60ac3c3318ff009886/index_6.m3u8|User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)&Referer=https://www.hotstar.com/&Cookie=hdntl=exp=1790060007~acl=%2f*~id=3923d2a2be266251ea16fcf0686afb7f~data=hdntl~hmac=ef5e4e132c593978b4d0e4871486267d5aaee8fa8d0bc4669a753c1ee6fe9acb
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="BiggBossTelugu" tvg-logo="https://img.hotstar.com/logo.png" group-title="Entertainment",Bigg Boss Telugu
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169(Android/15)
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
