@@ -265,11 +265,11 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
 
 #EXTINF:-1 tvg-id="502" group-title="Sports" tvg-logo="https://i.postimg.cc/FH40r1LZ/unite8-1HD.png",Unite8 Sports 1 HD
-http://xott.live:8080/43325094/44315195/444332
+
 
 
 #EXTINF:-1 tvg-id="506" group-title="Sports" tvg-logo="https://i.postimg.cc/htng2RH2/Unite8-2HD.png",Unite8 Sports 2 HD
-http://xott.live:8080/43325094/44315195/444333
+http://202.70.146.135:8000/play/a126/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-name="Sony BBC Earth HD" tvg-language="English" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Infotainment" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony BBC Earth HD
