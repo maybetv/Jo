@@ -17,6 +17,16 @@ https://stream2.zoloj.com/stream/malayalam.m3u8?sid=593a07f6f17b02399e2febf4d13c
 
 
 
+#EXTM3U
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",NAME="AAC",LANGUAGE="mal",DEFAULT=YES,AUTOSELECT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1400000,RESOLUTION=1280x720,CODECS="avc1.640028,mp4a.40.2"
+#EXTINF:0,Bigg Boss Malayalam 2026
+https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-mal-2026/28fdd2300bf04a60ac3c3318ff009886/index_6.m3u8|Cookie="hdntl=exp=1790174984~acl=%2f*~id=9f3e80e77e2feedcdbf59a6b1adcf49c~data=hdntl~hmac=ebaedc1cc38ef9dc0b1df86092fde2b767b60942867fbfa1ba2f77001adb957d"&Referer="https://www.hotstar.com/"&Origin="https://www.hotstar.com"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+
+
+
+
+
 #EXTINF:-1 tvg-id="BiggBossTelugu" tvg-logo="https://img.hotstar.com/logo.png" group-title="Entertainment",Bigg Boss Telugu
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169(Android/15)
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
