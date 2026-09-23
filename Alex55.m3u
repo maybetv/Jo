@@ -11,6 +11,9 @@ https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-tel-2026/f129670ca03b4bb9
 https://stream2.zoloj.com/stream/malayalam.m3u8?sid=4e93b068d076a6aa76e93f99182a7196f9b8c0989ee50879443cf4b8e17914ae
 
 
+#EXTM3U
+#EXTINF:0,Malayalam Stream
+https://stream2.zoloj.com/stream/malayalam.m3u8?sid=593a07f6f17b02399e2febf4d13c8b47fcb28ff9ef982870b03bf916e7a194d6|Cookie=hs_session=593a07f6f17b02399e2febf4d13c8b47fcb28ff9ef982870b03bf916e7a194d6|Referer=https://stream2.zoloj.com/player?lang=malayalam|User-Agent=Mozilla/5.0 (Android 11; Mobile; rv:156.0) Gecko/156.0 Firefox/156.0
 
 
 
