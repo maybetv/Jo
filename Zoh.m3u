@@ -6,7 +6,9 @@
 
 #EXTINF:-1 tvg-id="1271698284" tvg-name="BBS84: MALAYALAM By @Premium Plug X" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/5711/1789027865711-t" group-title="Bigg Boss",BBS84: MALAYALAM By @Premium Plug X
 http://starhub.pro:80/live/12121212/13131313/796437.ts
-
+#EXTINF:-1 tvg-id="" tvg-name="Bigg Boss Malayalam" tvg-logo="" group-title="Live",Bigg Boss Malayalam
+https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-mal-2026/28fdd2300bf04a60ac3c3318ff009886/index_6.m3u8|Cookie="hdntl=exp=1790174984~acl=%2f*~id=9f3e80e77e2feedcdbf59a6b1adcf49c~data=hdntl~hmac=ebaedc1cc38ef9dc0b1df86092fde2b767b60942867fbfa1ba2f77001adb957d"&Referer="https://www.hotstar.com/"&Origin="https://www.hotstar.com"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-mal-2026/28fdd2300bf04a60ac3c3318ff009886/index_6.m3u8|Cookie=hdntl=exp=1790174984~acl=%2f*~id=9f3e80e77e2feedcdbf59a6b1adcf49c~data=hdntl~hmac=ebaedc1cc38ef9dc0b1df86092fde2b767b60942867fbfa1ba2f77001adb957d&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
 
 #EXTINF:-1 tvg-id="Surya HD" tvg-logo="https://sund-images.sunnxt.com/194397/640x360_SuryaTVHD_194397_7b54e231-bbb9-48d2-8aae-35a5886deed3.jpg" group-title="Entertainment",Surya HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
