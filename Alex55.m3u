@@ -15,6 +15,15 @@ https://stream2.zoloj.com/stream/malayalam.m3u8?sid=4e93b068d076a6aa76e93f99182a
 #EXTINF:0,Malayalam Stream
 https://stream2.zoloj.com/stream/malayalam.m3u8?sid=593a07f6f17b02399e2febf4d13c8b47fcb28ff9ef982870b03bf916e7a194d6|Cookie=hs_session=593a07f6f17b02399e2febf4d13c8b47fcb28ff9ef982870b03bf916e7a194d6|Referer=https://stream2.zoloj.com/player?lang=malayalam|User-Agent=Mozilla/5.0 (Android 11; Mobile; rv:156.0) Gecko/156.0 Firefox/156.0
 
+#EXTM3U
+#EXTINF:-1 tvg-name="Bigboss 24/7 live-MALAYALAM" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/6575/1788707966575-h" tvg-category="Entertainment" group-logo="https://images.bhaskarassets.com/web2images/1884/2025/02/14/jiohotstarweb_1739512810.png" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | BIGG BOSS 24/7", ENG-FHD Bigboss 24/7 live-MALAYALAM
+#EXTVLCOPT:http-user-agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%40Premium%20Plugx%28Android%2F15%29
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1790174984~acl=%2f*~id=9f3e80e77e2feedcdbf59a6b1adcf49c~data=hdntl~hmac=ebaedc1cc38ef9dc0b1df86092fde2b767b60942867fbfa1ba2f77001adb957d"}
+https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-mal-2026/28fdd2300bf04a60ac3c3318ff009886/index_6.m3u8
+
+
+
+
 
 
 #EXTM3U
