@@ -53,7 +53,7 @@ http://d4-smart-d4.it.com:80/live/marouane291023/9e1hq6uiv9/277187.ts
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Asianet Middle East" tvg-logo="https://i.postimg.cc/KjxvT1FR/Asianet-Middle-East.png" group-title="Malayalam",Middle East
 https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8
 https://streamhub.dhruvpatil681.workers.dev/3449.m3u8
-#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Surya TV" tvg-logo="https://i.postimg.cc/VsxSKwC1/sun_surya_tv.png" group-title="Malayalam",Surya TV HD
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Surya TV FHD" tvg-logo="https://i.postimg.cc/VsxSKwC1/sun_surya_tv.png" group-title="Malayalam",Surya TV FHD
 https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Surya movies" tvg-logo="https://i.postimg.cc/FK6F1bbz/sun_surya_movies.png" group-title="Malayalam",Surya Movies
 http://d4-smart-d4.it.com:80/live/marouane291023/9e1hq6uiv9/277188.ts
@@ -95,9 +95,7 @@ https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Kairali WE" tvg-logo="https://i.postimg.cc/HWK06Cgt/Kairali-WE.png" group-title="Malayalam",WE TV
 https://mumt01.tangotv.in/O5aw8Zn3WETV/index.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Kappa TV" tvg-logo="https://i.postimg.cc/mDKw1xZJ/Kappa-TV.png" group-title="Malayalam",Kappa TV
-https://streamhub.dhruvpatil681.workers.dev/4049.m3u8
-#EXTVLCOPT:http-referrer=https://colorsportscreen.com/
-https://colorsportscreen.com/freetv/stream.m3u8?id=2933d0818d2f
+https://mumt03.tangotv.in/Dsly5z3HKAPPATV/index.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Raj Musix malayalam" tvg-logo="https://i.postimg.cc/y6F9y3vp/Raj-Musix-Malayalam.png" group-title="Malayalam",Raj Musix malayalam
 #EXTVLCOPT:http-referrer=https://colorsportscreen.com/
 https://colorsportscreen.com/freetv/stream.m3u8?id=743e3ee3b8c3
@@ -123,10 +121,10 @@ https://stream.logichost.in/NTV/live/playlist.m3u8
 https://livestream.vibgyortv.com/hls/stream.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Globe ON" tvg-logo="https://i.postimg.cc/X79q43Qm/Globe-ON.png" group-title="Malayalam",Globe ON
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
-https://bhoomtv.org/tv/restream-tv/stream.m3u8?id=8d2262ef4ff4&t=1789993044
+https://bhoomtv.net/geo/live.m3u8?id=3565&vtoken=st=1790654897
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Janapriyam TV" tvg-logo="https://i.postimg.cc/76dYPBPW/Janapriyam-TV.png" group-title="Malayalam",Janapriyam TV
-#EXTVLCOPT:http-referrer=https://bhoomtv.org/
-https://bhoomtv.net/geo/live.m3u8?id=1455&vtoken=st=1789995193
+#EXTVLCOPT:http-referrer=https://bhoomtv.me/
+https://bhoomtv.net/geo/live.m3u8?id=1455&vtoken=st=1790654998
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Magna Vision" tvg-logo="https://i.imgur.com/mUHixbi.png" group-title="Malayalam",Magna Vision
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 https://d1taaads3ztvmu.cloudfront.net//120723//smil:magnavision.smil//playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
