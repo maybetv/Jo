@@ -28,11 +28,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_HD_MOB/WDVLive/index.mpd?__hdnea_
 https://login.bheem.tv/bpk-tv/22020/output/index.mpd?
 
 
-#EXTINF:-1 tvg-id="1118" tvg-name="Asianet" tvg-logo="https://img.media.jio.com/tvpimages/23/82/302101_1753203237028_l_medium.jpg" group-title="Entertainment",Asianet
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://web.cply.dpdns.org/keys/1118
-#EXTVLCOPT:http-user-agent=JioTV.Plus/2.8.4_2076/CloudPlay(CloudPlay;JioSTB) JioTvPlus-AndroidTv
-https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_BTS/WDVLive/index.mpd?__hdnea__=st=1790865605~exp=1790887205~acl=/bpk-tv/Asianet_BTS/WDVLive/*~hmac=fb566c788412c296318a56a97a2fcfba583991e65467b6756e5276a06101ba9b
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Asianet HD" tvg-logo="https://i.postimg.cc/DfHxNGTx/Asianet-hd.webp" group-title="Malayalam",Asianet HD
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/AsianetHD.m3u8fb566c788412c296318a56a97a2fcfba583991e65467b6756e5276a06101ba9b
 
 
 #EXTINF:-1 tvg-id="Surya" tvg-logo="https://sund-images.sunnxt.com/194398/640x360_SuryaTV_194398_45a56617-7aa9-4ced-a1c8-82b80adb83a7.jpg" group-title="Entertainment",Surya
@@ -75,11 +72,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_Movies_HD_MOB/WDVLive/index.mpd?_
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="asianet_plus" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Plus.png" group-title="Entertainment",Asianet Plus
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=asianetplus
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=asianetplus
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Asianet Plus" tvg-logo="https://i.postimg.cc/hvvZF8ym/Asianet-Plus.png" group-title="Malayalam",Asianet Plus
+http://d4-smart-d4.it.com:80/live/marouane291023/9e1hq6uiv9/277187.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/DgfjRPnf/Picsart-25-02-10-14-22-46-534.png" group-title="Entertainment",SURYA Movies
