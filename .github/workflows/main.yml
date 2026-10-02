@@ -6,10 +6,6 @@ on:
     # ഓരോ 30 മിനിറ്റിലും റൺ ചെയ്യാൻ
     - cron: '*/30 * * * *'
 
-concurrency:
-  group: sync-zoh-file
-  cancel-in-progress: true
-
 permissions:
   contents: write
 
@@ -39,18 +35,14 @@ jobs:
           import os
 
           FILE_NAME = "Zoh.m3u"
-          SOURCE_URL = "https://game.playindia.fun/Jtv/RiYlIZ/Playlist.m3u"
+          SOURCE_URL = "https://raw.githubusercontent.com/Diljan707/Automated-/refs/heads/main/JioTV_Auto.m3u"
           HEADERS = {"User-Agent": "Mozilla/5.0"}
-
-          # സോഴ്സ് ലിങ്കുകളെ തിരിച്ചറിയാനുള്ള പ്രധാന അടയാളങ്ങൾ (ഡൊമൈൻ / പാറ്റേൺ)
-          STREAM_IDENTIFIER = "jiotvmblive.cdn.jio.com"
-          KEY_IDENTIFIER = "key.php"
 
           def parse_m3u(content):
               header_lines = []
               blocks = []
               current_block = []
-
+              
               for line in content.splitlines():
                   stripped = line.strip()
                   if not stripped:
@@ -58,16 +50,13 @@ jobs:
                   if stripped.startswith("#EXTM3U"):
                       header_lines.append(stripped)
                       continue
-
-                  if stripped.startswith("#EXTINF") or stripped.startswith("#KODIPROP"):
-                      if any(l.startswith("#EXTINF") for l in current_block):
+                  if stripped.startswith("#EXTINF"):
+                      if current_block:
                           blocks.append("\n".join(current_block))
                           current_block = []
-
-                  if not blocks and not current_block and not stripped.startswith("#EXTINF") and not stripped.startswith("#KODIPROP"):
+                  if not blocks and not current_block and not stripped.startswith("#EXTINF"):
                       header_lines.append(stripped)
                       continue
-
                   current_block.append(stripped)
 
               if current_block:
@@ -80,72 +69,17 @@ jobs:
               match = re.search(r'tvg-id="([^"]+)"', block)
               return match.group(1) if match else None
 
-          def is_custom_or_hls(block):
-              """ .m3u അല്ലെങ്കിൽ .m3u8 എക്സ്റ്റൻഷൻ ലിങ്കുകൾ മാറ്റമില്ലാതെ സൂക്ഷിക്കാൻ """
-              lines = [l.strip() for l in block.splitlines() if not l.strip().startswith("#")]
-              for url in lines:
-                  clean_url = url.split("?")[0].split("|")[0].lower()
-                  if clean_url.endswith(".m3u") or clean_url.endswith(".m3u8") or ".m3u8" in clean_url:
-                      return True
-              return False
-
-          def is_matching_source(block):
-              """
-              ഒരു ചാനൽ നിലവിൽ സോഴ്സ് നെറ്റ്വർക്കിലുള്ളതാണോ എന്ന് ലിങ്കും കീയും വെച്ച് പരിശോധിക്കുന്നു.
-              മറ്റ് ലിങ്കുകളോ മറ്റ് സെർവർ ചാനലുകളോ ആണെങ്കിൽ False നൽകും.
-              """
-              has_stream_match = STREAM_IDENTIFIER in block
-              has_key_match = KEY_IDENTIFIER in block
-              return has_stream_match or has_key_match
-
-          def standardize_block(raw_block):
-              """
-              ലൈനുകളുടെ ക്രമം ഉറപ്പാക്കുന്നു:
-              1. #EXTINF
-              2. #KODIPROP
-              3. #EXTVLCOPT / Headers
-              4. മറ്റ് ടാഗുകൾ
-              5. സ്ട്രീം URL
-              """
-              lines = [l.strip() for l in raw_block.splitlines() if l.strip()]
-              extinfs = []
-              kodiprops = []
-              vlc_opts = []
-              other_tags = []
-              stream_urls = []
-
-              for line in lines:
-                  if line.startswith("#EXTINF"):
-                      extinfs.append(line)
-                  elif line.startswith("#KODIPROP"):
-                      kodiprops.append(line)
-                  elif line.startswith("#EXTVLCOPT") or line.startswith("#EXTHTTP"):
-                      vlc_opts.append(line)
-                  elif line.startswith("#"):
-                      other_tags.append(line)
-                  else:
-                      stream_urls.append(line)
-
-              ordered = []
-              ordered.extend(extinfs)
-              ordered.extend(kodiprops)
-              ordered.extend(vlc_opts)
-              ordered.extend(other_tags)
-              ordered.extend(stream_urls)
-
-              return "\n".join(ordered)
-
           try:
               print("Fetching source playlist...")
               response = requests.get(SOURCE_URL, headers=HEADERS, timeout=30)
               response.raise_for_status()
 
               _, source_blocks = parse_m3u(response.text)
-              source_dict = {}
-              for b in source_blocks:
-                  cid = get_channel_id(b)
-                  if cid:
-                      source_dict[cid] = standardize_block(b)
+              source_dict = {
+                  get_channel_id(b): b
+                  for b in source_blocks
+                  if get_channel_id(b)
+              }
 
               if not os.path.exists(FILE_NAME):
                   print(f"Error: {FILE_NAME} not found!")
@@ -157,41 +91,26 @@ jobs:
               header, my_blocks = parse_m3u(current_content)
               updated_blocks = []
               updated_count = 0
-              skipped_custom = 0
-              skipped_other_sources = 0
 
               for mb in my_blocks:
-                  cid = get_channel_id(mb)
-
-                  # 1. ലിങ്കിൽ .m3u / .m3u8 ഉണ്ടെങ്കിൽ മാറ്റമില്ലാതെ വെക്കുക
-                  if is_custom_or_hls(mb):
-                      updated_blocks.append(mb.strip())
-                      skipped_custom += 1
-                      continue
-
-                  # 2. സോഴ്സിൽ ഈ tvg-id ഉണ്ടെങ്കിൽ പോലും, നിങ്ങളുടെ ഫയലിലുള്ള ലിങ്ക് 
-                  # ആ സോഴ്സുമായി സാമ്യമുള്ളതാണോ എന്ന് താരതമ്യം ചെയ്യുന്നു
-                  if cid and cid in source_dict:
-                      if is_matching_source(mb):
-                          # സമാനമായ ചാനലാണെന്ന് ഉറപ്പുവരുത്തിയ ശേഷം മാത്രം അപ്ഡേറ്റ് ചെയ്യുന്നു
+                  # JioTV ചാനലുകൾ tvg-id പ്രകാരം മാത്രം റീപ്ലേസ് ചെയ്യുന്നു
+                  if "jiotv" in mb.lower():
+                      cid = get_channel_id(mb)
+                      if cid and cid in source_dict:
                           updated_blocks.append(source_dict[cid])
                           updated_count += 1
                       else:
-                          # ഒരേ പേരോ ID-യോ ആണെങ്കിലും മറ്റൊരു ലിങ്ക് ആയതിനാൽ പഴയപടി നിലനിർത്തുന്നു
-                          updated_blocks.append(standardize_block(mb))
-                          skipped_other_sources += 1
+                          updated_blocks.append(mb)
                   else:
-                      updated_blocks.append(standardize_block(mb))
+                      # BB Malayalam ഉൾപ്പെടെയുള്ള മറ്റ് എല്ലാ ചാനലുകളും സുരക്ഷിതമായി നിലനിർത്തുന്നു
+                      updated_blocks.append(mb)
 
-              new_playlist = header + "\n\n" + "\n\n".join(updated_blocks) + "\n"
+              new_playlist = header + "\n\n\n" + "\n\n\n".join(updated_blocks) + "\n"
 
               with open(FILE_NAME, "w", encoding="utf-8") as f:
                   f.write(new_playlist)
 
-              print(f"Sync complete!")
-              print(f" - Updated source channels: {updated_count}")
-              print(f" - Retained custom/HLS (.m3u8): {skipped_custom}")
-              print(f" - Retained same ID but different source links: {skipped_other_sources}")
+              print(f"Successfully processed. Channels updated: {updated_count}")
 
           except Exception as e:
               print(f"Sync failed: {e}")
@@ -202,15 +121,13 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          git fetch origin main
-          git reset origin/main
-          
           git add Zoh.m3u
-          if ! git diff --cached --quiet; then
-            git commit -m "Safely sync only matching source streams in Zoh.m3u [skip ci]"
+          if git status --porcelain | grep -q 'Zoh.m3u'; then
+            git commit -m "Auto-update JioTV links in Zoh.m3u [skip ci]"
+            # മറ്റ് ആക്ഷൻ (BB Malayalam) വഴി മാറ്റങ്ങൾ വന്നിട്ടുണ്ടെങ്കിൽ അത് ആദ്യം വലിച്ചെടുത്ത് ലയിപ്പിക്കുന്നു
+            git pull --rebase origin main
             git push origin main
             echo "Successfully committed and pushed updates."
           else
-            echo "No changes found."
+            echo "No changes found in JioTV links."
           fi
