@@ -20,39 +20,48 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: '3.11'
 
       - name: Install dependencies
         run: |
-          pip install requests
+          pip install curl_cffi
 
       - name: Fetch and Process PHP Playlist
         run: |
           python - << 'EOF'
-          import requests
           import gzip
           import zlib
           import sys
+          from curl_cffi import requests
 
           url = "https://premiumplugx.me/vzy/playlist.php"
           
           headers = {
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-              "Accept": "*/*"
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+              "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+              "Accept-Language": "en-US,en;q=0.9",
+              "Referer": "https://premiumplugx.me/",
+              "Sec-Ch-Ua": '"Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"',
+              "Sec-Ch-Ua-Mobile": "?0",
+              "Sec-Ch-Ua-Platform": '"Windows"',
+              "Sec-Fetch-Dest": "document",
+              "Sec-Fetch-Mode": "navigate",
+              "Sec-Fetch-Site": "same-origin"
           }
 
           try:
-              session = requests.Session()
-              # stream=True വെച്ച് റോ ഡാറ്റ എടുക്കുന്നു
+              # impersonate="chrome124" ഉപയോഗിച്ച് Cloudflare/WAF ബൈപാസ് ചെയ്യാൻ സഹായിക്കുന്നു
+              session = requests.Session(impersonate="chrome124")
               response = session.get(url, headers=headers, allow_redirects=True, timeout=30)
               
               if response.status_code != 200:
                   print(f"Failed to fetch. HTTP Status: {response.status_code}")
+                  print(f"Response preview: {response.text[:300]}")
                   sys.exit(1)
 
               raw_data = response.content
 
-              # Gzip വഴി കംപ്രസ് ചെയ്തതാണോ എന്ന് പരിശോധിച്ച് ഡീകോഡ് ചെയ്യുന്നു
+              # Gzip / Zlib വഴി കംപ്രസ് ചെയ്തതാണോ എന്ന് പരിശോധിച്ച് ഡീകോഡ് ചെയ്യുന്നു
               content = ""
               try:
                   content = gzip.decompress(raw_data).decode("utf-8", errors="ignore")
@@ -60,7 +69,6 @@ jobs:
                   try:
                       content = zlib.decompress(raw_data, 16 + zlib.MAX_WBITS).decode("utf-8", errors="ignore")
                   except Exception:
-                      # സാധാരണ പ്ലെയിൻ ടെക്സ്റ്റ് ആണെങ്കിൽ നേരിട്ട് ഡീകോഡ് ചെയ്യുന്നു
                       content = raw_data.decode("utf-8", errors="ignore")
 
               content = content.strip()
@@ -72,7 +80,7 @@ jobs:
                   print(content[:200])
                   sys.exit(1)
 
-              # plex.m3u ലേക്ക് കൃത്യമായ പ്ലേലിസ്റ്റ് സേവ് ചെയ്യുന്നു
+              # plex.m3u ലേക്ക് സേവ് ചെയ്യുന്നു
               with open("plex.m3u", "w", encoding="utf-8") as f:
                   f.write(content)
 
