@@ -6,6 +6,11 @@ on:
     # ഓരോ 30 മിനിറ്റിലും റൺ ചെയ്യാൻ
     - cron: '*/30 * * * *'
 
+# ഒരേ സമയം രണ്ട് പ്രാവശ്യം റൺ ആയി കോൺഫ്ലിക്റ്റ് ഉണ്ടാകാതിരിക്കാൻ
+concurrency:
+  group: sync-zoh-file
+  cancel-in-progress: true
+
 permissions:
   contents: write
 
@@ -93,16 +98,13 @@ jobs:
               updated_count = 0
 
               for mb in my_blocks:
-                  # JioTV ചാനലുകൾ tvg-id പ്രകാരം മാത്രം റീപ്ലേസ് ചെയ്യുന്നു
-                  if "jiotv" in mb.lower():
-                      cid = get_channel_id(mb)
-                      if cid and cid in source_dict:
-                          updated_blocks.append(source_dict[cid])
-                          updated_count += 1
-                      else:
-                          updated_blocks.append(mb)
+                  cid = get_channel_id(mb)
+                  # സോഴ്സ് ലിസ്റ്റിൽ ഈ ചാനൽ ഉണ്ടെങ്കിൽ (tvg-id മാച്ച് ചെയ്താൽ) പുതിയ കീകളും കുക്കികളും വെച്ച് അപ്ഡേറ്റ് ചെയ്യുന്നു
+                  if cid and cid in source_dict:
+                      updated_blocks.append(source_dict[cid])
+                      updated_count += 1
                   else:
-                      # BB Malayalam ഉൾപ്പെടെയുള്ള മറ്റ് എല്ലാ ചാനലുകളും സുരക്ഷിതമായി നിലനിർത്തുന്നു
+                      # BB Malayalam ഉൾപ്പെടെയുള്ള മറ്റ് എല്ലാ ചാനലുകളും പഴയപടി നിലനിർത്തുന്നു
                       updated_blocks.append(mb)
 
               new_playlist = header + "\n\n\n" + "\n\n\n".join(updated_blocks) + "\n"
@@ -121,11 +123,14 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # ഏറ്റവും പുതിയ മാറ്റങ്ങൾ റിമോട്ടിൽ നിന്ന് വലിച്ചെടുക്കുന്നു
+          git fetch origin main
+          git reset origin/main
+          
           git add Zoh.m3u
-          if git status --porcelain | grep -q 'Zoh.m3u'; then
+          if ! git diff --cached --quiet; then
             git commit -m "Auto-update JioTV links in Zoh.m3u [skip ci]"
-            # മറ്റ് ആക്ഷൻ (BB Malayalam) വഴി മാറ്റങ്ങൾ വന്നിട്ടുണ്ടെങ്കിൽ അത് ആദ്യം വലിച്ചെടുത്ത് ലയിപ്പിക്കുന്നു
-            git pull --rebase origin main
             git push origin main
             echo "Successfully committed and pushed updates."
           else
