@@ -1,341 +1,165 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="star_sports_1_select_hd" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg1.hotstarext.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F7226%2F597226-h.jpg" group-title="Sports",STAR SPORTS 1 SELECT HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=starsports1selecthd
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starsports1selecthd
-#EXTINF:-1 tvg-id="star_sports_2_hd" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fi.ibb.co%2Fx8739M8d%2FSS2HD.jpg" group-title="Sports",STAR SPORTS 2 HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=starsports2hd
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starsports2hd
-#EXTINF:-1 tvg-id="star_sports_1_hd" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fi.ibb.co%2FpmVQWFZ%2FSS1HD.jpg" group-title="Sports",STAR SPORTS 1 HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=starsports1hd
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starsports1hd
-#EXTINF:-1 tvg-id="star_sports_1_hindi_hd" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg.media.jio.com%2Ftvpimages%2F5%2F6%2F301982_1749665314605_l_medium.jpg" group-title="Sports",STAR SPORTS 1 Hindi HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=starsports1hindihd
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starsports1hindihd
-#EXTINF:-1 tvg-id="star_sports_2_select_hd" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg1.hotstarext.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F7227%2F597227-h.jpg" group-title="Sports",STAR SPORTS 2 SELECT HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=starsports2selecthd
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starsports2selecthd
-#EXTINF:-1 tvg-id="star_sports_khel_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F270%2F1782998020270-h.jpg" group-title="Sports",Star Sports Khel Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=starsportskheldigital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starsportskheldigital
-#EXTINF:-1 tvg-id="star_sports_1_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F7482%2F1782284567482-h.jpg" group-title="Sports",Star Sports 1 Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=starsports1digital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starsports1digital
-#EXTINF:-1 tvg-id="star_sports_2_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F7957%2F1783000567957-h.jpg" group-title="Sports",Star Sports 2 Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=starsports2digital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starsports2digital
-#EXTINF:-1 tvg-id="star_sports_2_hindi_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F6371%2F1783000736371-h.jpg" group-title="Sports",Star Sports 2 Hindi Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=starsports2hindidigital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starsports2hindidigital
-#EXTINF:-1 tvg-id="star_sports_2_telugu_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F2716%2F1783000912716-h.jpg" group-title="Sports",Star Sports 2 Telugu Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=starsports2telugudigital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starsports2telugudigital
-#EXTINF:-1 tvg-id="star_sports_1_hindi_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F8867%2F1782284658867-h.jpg" group-title="Sports",Star Sports 1 Hindi Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=starsports1hindidigital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starsports1hindidigital
-#EXTINF:-1 tvg-id="star_sports_1_telugu_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F6361%2F1782284846361-h.jpg" group-title="Sports",Star Sports 1 Telugu Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=starsports1telugudigital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starsports1telugudigital
-#EXTINF:-1 tvg-id="star_sports_1_tamil_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F6839%2F1782284756839-h.jpg" group-title="Sports",Star Sports 1 Tamil Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=starsports1tamildigital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starsports1tamildigital
-#EXTINF:-1 tvg-id="star_sports_1_kannada_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F8138%2F1782284928138-h.jpg" group-title="Sports",Star Sports 1 Kannada Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=starsports1kannadadigital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starsports1kannadadigital
-#EXTINF:-1 tvg-id="star_sports_2_tamil_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F6676%2F1783000836676-h.jpg" group-title="Sports",Star Sports 2 Tamil Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=starsports2tamildigital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starsports2tamildigital
-#EXTINF:-1 tvg-id="star_sports_2_kannada_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F4797%2F1783000974797-h.jpg" group-title="Sports",Star Sports 2 Kannada Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=starsports2kannadadigital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starsports2kannadadigital
-#EXTINF:-1 tvg-id="star_sports_3_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F2523%2F1783001062523-h.jpg" group-title="Sports",Star Sports 3 Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=starsports3digital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starsports3digital
-#EXTINF:-1 tvg-id="star_sports_select_1_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F1176%2F1783001141176-h.jpg" group-title="Sports",Star Sports Select 1 Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=starsportsselect1digital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starsportsselect1digital
-#EXTINF:-1 tvg-id="star_sports_select_2_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F7266%2F1783001217266-h.jpg" group-title="Sports",Star Sports Select 2 Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=starsportsselect2digital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starsportsselect2digital
-#EXTINF:-1 tvg-id="espn_1_africa_live" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F1pn9obcz%2Fproduction%2F467001ec48f124382a8e5662dddb0a7b07e72913-1920x1080.jpg" group-title="Sports",ESPN 1 AFRICA LIVE
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=espn1africalive
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=espn1africalive
-#EXTINF:-1 tvg-id="star_suvarna" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Cq_90%2Cw_1920%2Fsources%2Fr1%2Fcms%2Fprod%2F7429%2F567429-h.jpg" group-title="Entertainment",q_90,w_1920/sources/r1/cms/prod/7429/567429-h.jpg" group-title="Entertainment",Star Suvarna
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=starsuvarna
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starsuvarna
-#EXTINF:-1 tvg-id="star_pravah" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Cq_90%2Cw_1920%2Fsources%2Fr1%2Fcms%2Fprod%2F5868%2F595868-h.jpg" group-title="Entertainment",q_90,w_1920/sources/r1/cms/prod/5868/595868-h.jpg" group-title="Entertainment",Star Pravah
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=starpravah
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starpravah
-#EXTINF:-1 tvg-id="asianet_plus" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Cq_90%2Cw_1920%2Fsources%2Fr1%2Fcms%2Fprod%2F7424%2F567424-h.jpg" group-title="Entertainment",q_90,w_1920/sources/r1/cms/prod/7424/567424-h.jpg" group-title="Entertainment",Asianet Plus
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=asianetplus
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=asianetplus
-#EXTINF:-1 tvg-id="star_jalsha" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Cq_90%2Cw_1920%2Fsources%2Fr1%2Fcms%2Fprod%2F7419%2F567419-h.jpg" group-title="Entertainment",q_90,w_1920/sources/r1/cms/prod/7419/567419-h.jpg" group-title="Entertainment",Star Jalsha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=starjalsha
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starjalsha
-#EXTINF:-1 tvg-id="asianet" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Cq_90%2Cw_1920%2Fsources%2Fr1%2Fcms%2Fprod%2F7420%2F567420-h.jpg" group-title="Entertainment",q_90,w_1920/sources/r1/cms/prod/7420/567420-h.jpg" group-title="Entertainment",Asianet
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=asianet
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=asianet
-#EXTINF:-1 tvg-id="starplus" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Cq_90%2Cw_1920%2Fsources%2Fr1%2Fcms%2Fprod%2F7415%2F567415-h.jpg" group-title="Entertainment",q_90,w_1920/sources/r1/cms/prod/7415/567415-h.jpg" group-title="Entertainment",StarPlus
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=starplus
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starplus
-#EXTINF:-1 tvg-id="star_vijay" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Cq_90%2Cw_1920%2Fsources%2Fr1%2Fcms%2Fprod%2F7409%2F567409-h.jpg" group-title="Entertainment",q_90,w_1920/sources/r1/cms/prod/7409/567409-h.jpg" group-title="Entertainment",Star Vijay
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=starvijay
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starvijay
-#EXTINF:-1 tvg-id="star_utsav" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Cq_90%2Cw_1920%2Fsources%2Fr1%2Fcms%2Fprod%2F7407%2F567407-h.jpg" group-title="Entertainment",q_90,w_1920/sources/r1/cms/prod/7407/567407-h.jpg" group-title="Entertainment",Star Utsav
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=starutsav
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starutsav
-#EXTINF:-1 tvg-id="star_maa" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Cq_90%2Cw_1920%2Fsources%2Fr1%2Fcms%2Fprod%2F7418%2F567418-h.jpg" group-title="Entertainment",q_90,w_1920/sources/r1/cms/prod/7418/567418-h.jpg" group-title="Entertainment",Star Maa
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=starmaa
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starmaa
-#EXTINF:-1 tvg-id="star_bharat" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Cq_90%2Cw_1920%2Fsources%2Fr1%2Fcms%2Fprod%2F7406%2F567406-h.jpg" group-title="Entertainment",q_90,w_1920/sources/r1/cms/prod/7406/567406-h.jpg" group-title="Entertainment",Star Bharat
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=starbharat
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starbharat
-#EXTINF:-1 tvg-id="star_suvarna_plus" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Cq_90%2Cw_1920%2Fsources%2Fr1%2Fcms%2Fprod%2F7399%2F567399-h.jpg" group-title="Entertainment",q_90,w_1920/sources/r1/cms/prod/7399/567399-h.jpg" group-title="Entertainment",Star Suvarna Plus
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=starsuvarnaplus
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starsuvarnaplus
-#EXTINF:-1 tvg-id="star_plus_hd" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F658%2F920658-h.jpg" group-title="Entertainment",Star Plus HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=starplushd
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starplushd
-#EXTINF:-1 tvg-id="asianet_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F7408%2F1782289617408-h.jpg" group-title="Entertainment",Asianet Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=asianetdigital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=asianetdigital
-#EXTINF:-1 tvg-id="star_plus_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F2384%2F1782291852384-h.jpg" group-title="Entertainment",Star Plus Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=starplusdigital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starplusdigital
-#EXTINF:-1 tvg-id="star_jalsha_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F4452%2F1782290464452-h.jpg" group-title="Entertainment",Star Jalsha Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=starjalshadigital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starjalshadigital
-#EXTINF:-1 tvg-id="star_maa_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F1759%2F1782290731759-h.jpg" group-title="Entertainment",Star Maa Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=starmaadigital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starmaadigital
-#EXTINF:-1 tvg-id="star_pravah_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F5780%2F1782291675780-h.jpg" group-title="Entertainment",Star Pravah Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=starpravahdigital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starpravahdigital
-#EXTINF:-1 tvg-id="colors_bangla_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F8049%2F1782291598049-h.jpg" group-title="Entertainment",Colors Bangla Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=colorsbangladigital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=colorsbangladigital
-#EXTINF:-1 tvg-id="star_vijay_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F698%2F1782289770698-h.jpg" group-title="Entertainment",Star Vijay Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=starvijaydigital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starvijaydigital
-#EXTINF:-1 tvg-id="star_suvarna_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F6396%2F1782290646396-h.jpg" group-title="Entertainment",Star Suvarna Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=starsuvarnadigital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starsuvarnadigital
-#EXTINF:-1 tvg-id="colors_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F108%2F1782291760108-h.jpg" group-title="Entertainment",Colors Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=colorsdigital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=colorsdigital
-#EXTINF:-1 tvg-id="colors_kannada_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F3440%2F1782291243440-h.jpg" group-title="Entertainment",Colors Kannada Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=colorskannadadigital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=colorskannadadigital
-#EXTINF:-1 tvg-id="vijay_super_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F1929%2F1782285031929-h.jpg" group-title="Entertainment",Vijay Super Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=vijaysuperdigital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=vijaysuperdigital
-#EXTINF:-1 tvg-id="asianet_plus_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F9207%2F1782286239207-h.jpg" group-title="Entertainment",Asianet Plus Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=asianetplusdigital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=asianetplusdigital
-#EXTINF:-1 tvg-id="colors_super_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F6181%2F1782290986181-h.jpg" group-title="Entertainment",Colors Super Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=colorssuperdigital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=colorssuperdigital
-#EXTINF:-1 tvg-id="star_utsav_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F9181%2F1782291429181-h.jpg" group-title="Entertainment",Star Utsav Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=starutsavdigital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starutsavdigital
-#EXTINF:-1 tvg-id="colors_marathi_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F5106%2F1782291335106-h.jpg" group-title="Entertainment",Colors Marathi Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=colorsmarathidigital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=colorsmarathidigital
-#EXTINF:-1 tvg-id="colors_rishtey_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F9097%2F1782290579097-h.jpg" group-title="Entertainment",Colors Rishtey Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=colorsrishteydigital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=colorsrishteydigital
-#EXTINF:-1 tvg-id="star_bharat_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F8704%2F1782288318704-h.jpg" group-title="Entertainment",Star Bharat Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=starbharatdigital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starbharatdigital
-#EXTINF:-1 tvg-id="star_kiran_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F7412%2F1782282697412-h.jpg" group-title="Entertainment",Star Kiran Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=starkirandigital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starkirandigital
-#EXTINF:-1 tvg-id="star_maa_movies" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Cq_90%2Cw_1920%2Fsources%2Fr1%2Fcms%2Fprod%2F7421%2F567421-h.jpg" group-title="Movies",q_90,w_1920/sources/r1/cms/prod/7421/567421-h.jpg" group-title="Movies",Star Maa Movies
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=starmaamovies
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starmaamovies
-#EXTINF:-1 tvg-id="star_gold" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Cq_90%2Cw_1920%2Fsources%2Fr1%2Fcms%2Fprod%2F7403%2F567403-h.jpg" group-title="Movies",q_90,w_1920/sources/r1/cms/prod/7403/567403-h.jpg" group-title="Movies",Star Gold
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=stargold
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=stargold
-#EXTINF:-1 tvg-id="jalsha_movies" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Cq_90%2Cw_1920%2Fsources%2Fr1%2Fcms%2Fprod%2F7404%2F567404-h.jpg" group-title="Movies",q_90,w_1920/sources/r1/cms/prod/7404/567404-h.jpg" group-title="Movies",Jalsha Movies
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=jalshamovies
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=jalshamovies
-#EXTINF:-1 tvg-id="asianet_movies" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Cq_90%2Cw_1920%2Fsources%2Fr1%2Fcms%2Fprod%2F7400%2F567400-h.jpg" group-title="Movies",q_90,w_1920/sources/r1/cms/prod/7400/567400-h.jpg" group-title="Movies",Asianet Movies
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=asianetmovies
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=asianetmovies
-#EXTINF:-1 tvg-id="maa_gold" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Cq_90%2Cw_1920%2Fsources%2Fr1%2Fcms%2Fprod%2F7408%2F567408-h.jpg" group-title="Movies",q_90,w_1920/sources/r1/cms/prod/7408/567408-h.jpg" group-title="Movies",Maa Gold
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=maagold
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=maagold
-#EXTINF:-1 tvg-id="asianet_movies_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F7227%2F1782288617227-h.jpg" group-title="Movies",Asianet Movies Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=asianetmoviesdigital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=asianetmoviesdigital
-#EXTINF:-1 tvg-id="colors_bangla_cinema_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F4599%2F1782289524599-h.jpg" group-title="Movies",Colors Bangla Cinema Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=colorsbanglacinemadigital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=colorsbanglacinemadigital
-#EXTINF:-1 tvg-id="jalsha_movies_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F1445%2F1782291521445-h.jpg" group-title="Movies",Jalsha Movies Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=jalshamoviesdigital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=jalshamoviesdigital
-#EXTINF:-1 tvg-id="maa_movies_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F2722%2F1782288522722-h.jpg" group-title="Movies",Maa Movies Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=maamoviesdigital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=maamoviesdigital
-#EXTINF:-1 tvg-id="star_gold_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F6567%2F1784547656567-h.jpg" group-title="Movies",Star Gold Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=stargolddigital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=stargolddigital
-#EXTINF:-1 tvg-id="colors_cineplex_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F3042%2F1782291173042-h.jpg" group-title="Movies",Colors Cineplex Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=colorscineplexdigital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=colorscineplexdigital
-#EXTINF:-1 tvg-id="colors_kannada_cinema_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F3489%2F1782291093489-h.jpg" group-title="Movies",Colors Kannada Cinema Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=colorskannadacinemadigital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=colorskannadacinemadigital
-#EXTINF:-1 tvg-id="nick_plus_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F470%2F1783938260470-h.jpg" group-title="Kids",Nick Plus Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=nickplusdigital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=nickplusdigital
-#EXTINF:-1 tvg-id="nick_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F6807%2F1784039246807-h.jpg" group-title="Kids",Nick Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=nickdigital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=nickdigital
-#EXTINF:-1 tvg-id="disney_channel_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F1540%2F1785251571540-h.jpg" group-title="Kids",Disney Channel Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=disneychanneldigital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=disneychanneldigital
-#EXTINF:-1 tvg-id="disney_jr_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fplain-apac-prod-public.komododecks.com%2F202609%2F07%2FkDx5CloMCE4tFekQtkOQ%2Fimage.png" group-title="Kids",Disney Jr Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=disneyjrdigital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=disneyjrdigital
-#EXTINF:-1 tvg-id="mtv_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Fsources%2Fr1%2Fcms%2Fprod%2F8633%2F1786020488633-h" group-title="Kids",MTV Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=mtvdigital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=mtvdigital
-#EXTINF:-1 tvg-id="sonic_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F6294%2F1782290926294-h.jpg" group-title="Kids",Sonic Digital
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.top/tivjh/playlist.php?route=license&id=sonicdigital
-https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=sonicdigital
+#EXTINF:-1 tvg-id="9487112" tvg-name="&Pictures HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/75364a7b9f09477b9ee80016a6440b6b/version/0" group-title="Movies",&Pictures HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c8a007f94c5a41098cbd82e2db2938f6:37fc778d4859d52c3f7475d999ce22f1
+https://d2o8pibksxtln6.cloudfront.net/live/media/And_Pictures_HD/dash/And_Pictures_HD.mpd
+#EXTINF:-1 tvg-id="9487113" tvg-name="&Tv HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/6ce923e690114400bcdc43ea7a3b27be/version/0" group-title="Entertainment",&Tv HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=befbbd15c4494d7198c3ab41b963e845:b3d5ac82c1ea09953ac6e602124fce6e
+https://d2o8pibksxtln6.cloudfront.net/live/media/And_Tv_HD/dash/And_Tv_HD.mpd
+#EXTINF:-1 tvg-id="9487075" tvg-name="9X Jalwa" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/bab798478e714be3a5ae861fc04606f0/version/0" group-title="Entertainment",9X Jalwa
+https://d2o8pibksxtln6.cloudfront.net/live/media/9X_Jalwa/hls_fta/9X_Jalwa.m3u8
+#EXTINF:-1 tvg-id="9487069" tvg-name="9X Jhakaas" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/1da89d8c25f0491e8ed1a9c1d0b716fb/version/0" group-title="Entertainment",9X Jhakaas
+https://d2o8pibksxtln6.cloudfront.net/live/media/9X_Jhakaas/hls_fta/9X_Jhakaas.m3u8
+#EXTINF:-1 tvg-id="9487073" tvg-name="9X Tashan" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/2481ada1cd354fe3a5b6abed499a2191/version/0" group-title="Entertainment",9X Tashan
+https://d2o8pibksxtln6.cloudfront.net/live/media/9X_Tashan/hls_fta/9X_Tashan.m3u8
+#EXTINF:-1 tvg-id="9487071" tvg-name="9XM" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/18981b21fabf41f9832523ad441963f8/version/0" group-title="Music",9XM
+https://d2o8pibksxtln6.cloudfront.net/live/media/9XM/hls_fta/9XM.m3u8
+#EXTINF:-1 tvg-id="9624885" tvg-name="Anmol Cinema 2" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/74146d693d6640009a5ed2db2e0c9643/version/0" group-title="Movies",Anmol Cinema 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d310ab20f2304d1ab590b77d5b63f1ea:3789eae5cb864dff9adbf99634a19bd9
+https://d2o8pibksxtln6.cloudfront.net/live/media/Anmol_Cinema_2/dash/Anmol_Cinema_2.mpd
+#EXTINF:-1 tvg-id="9624883" tvg-name="Big Magic" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/a4225f7d32c549638e3c8926a78079e6/version/0" group-title="Music",Big Magic
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=76fae52a954c4a3197eb4d6189dcbba7:bfe863877a531b6f67078295c5d4f13b
+https://d2o8pibksxtln6.cloudfront.net/live/media/Big_Magic/dash/Big_Magic.mpd
+#EXTINF:-1 tvg-id="9487060" tvg-name="DD Bharti" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/9ac9516189654175bffc220b723e928d/version/0" group-title="Entertainment",DD Bharti
+https://d2o8pibksxtln6.cloudfront.net/live/media/DD_Bharti/hls_fta/DD_Bharti.m3u8
+#EXTINF:-1 tvg-id="9487068" tvg-name="DD National" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/b3966954ddc54e4fbe880d4cb1a06e26/version/0" group-title="Entertainment",DD National
+https://d2o8pibksxtln6.cloudfront.net/live/media/DD_National/hls_fta/DD_National.m3u8
+#EXTINF:-1 tvg-id="9487081" tvg-name="ET Now" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/81f431adc0714cff84be95b33d9b1b83/version/0" group-title="Entertainment",ET Now
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=de66ab1359164ba08b621bbf1a074e73:11c8f464e730496b132d0e268f2fb696
+https://d2o8pibksxtln6.cloudfront.net/live/media/ET_Now/dash/ET_Now.mpd
+#EXTINF:-1 tvg-id="9487064" tvg-name="Fakt Marathi" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/a924cd82e1d44b9cad4a6f62daee5126/version/0" group-title="Entertainment",Fakt Marathi
+https://d2o8pibksxtln6.cloudfront.net/live/media/Fakt_Marathi/hls_fta/Fakt_Marathi.m3u8
+#EXTINF:-1 tvg-id="9487063" tvg-name="Music India" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/9bc111a3d6f04e5bad9483462ed48e28/version/0" group-title="Music",Music India
+https://d2o8pibksxtln6.cloudfront.net/live/media/Music_India/hls_fta/Music_India.m3u8
+#EXTINF:-1 tvg-id="9487062" tvg-name="News Nation" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/9c50bb3d0a9341a1a631f1423591afef/version/0" group-title="News",News Nation
+https://d2o8pibksxtln6.cloudfront.net/live/media/News_Nation/hls_fta/News_Nation.m3u8
+#EXTINF:-1 tvg-id="9487053" tvg-name="Sangeet Bangla" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/ebd2edebccb641a58ae57956dd4ccfb8/version/0" group-title="Music",Sangeet Bangla
+https://d2o8pibksxtln6.cloudfront.net/live/media/Sangeet_Bangla/hls_fta/Sangeet_Bangla.m3u8
+#EXTINF:-1 tvg-id="9487059" tvg-name="Sangeet Bhojpuri" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/032d38ed29b54e51a6e0575bd9e0d837/version/0" group-title="Music",Sangeet Bhojpuri
+https://d2o8pibksxtln6.cloudfront.net/live/media/Sangeet_Bhojpuri/hls_fta/Sangeet_Bhojpuri.m3u8
+#EXTINF:-1 tvg-id="9487058" tvg-name="Sansad TV HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/f6ace40e05bd435184b232ca5d67fc62/version/0" group-title="Entertainment",Sansad TV HD
+https://d2o8pibksxtln6.cloudfront.net/live/media/Sansad_TV_HD/hls_fta/Sansad_TV_HD.m3u8
+#EXTINF:-1 tvg-id="9487056" tvg-name="Sansad TV SD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/599cdaeda82a49bda2daf6f649eb2065/version/0" group-title="Entertainment",Sansad TV SD
+https://d2o8pibksxtln6.cloudfront.net/live/media/Sansad_TV_SD/hls_fta/Sansad_TV_SD.m3u8
+#EXTINF:-1 tvg-id="9487067" tvg-name="Times Now" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/ff9991eb1ad44ddca1df937a771c583d/version/0" group-title="News",Times Now
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=44ad675767014440b21481abb1a83d26:f356343a2ec8c680487cb79cbd62aee6
+https://d2o8pibksxtln6.cloudfront.net/live/media/Times_Now/dash/Times_Now.mpd
+#EXTINF:-1 tvg-id="9624886" tvg-name="Unite8 Sports 1 HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/396cbd0f0e8d492db65b304859af478d/version/0" group-title="Sports",Unite8 Sports 1 HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa4fe59e288042c2b7f2aa68ecc0d117:b9d45c3f8542e5c8ee12399ee36d22db
+https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd
+#EXTINF:-1 tvg-id="9624884" tvg-name="Unite8 Sports 2 HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/03fc75c46d9a4b8daff3ef58d77c5bc7/version/0" group-title="Sports",Unite8 Sports 2 HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=080fb06f56e64dd1a449cfdadd9d21ff:235e9be47342d70edff557e4abf24ce4
+https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_2_HD/dash/Unite8_Sports_2_HD.mpd
+#EXTINF:-1 tvg-id="9487082" tvg-name="Wion" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/938610751fea47dbbaa97beae47fdc12/version/0" group-title="News",Wion
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=96b975ba3d7047438625f985fee931b9:85bed1546a75ca2c14abed4607fc326d
+https://d2o8pibksxtln6.cloudfront.net/live/media/Wion/dash/Wion.mpd
+#EXTINF:-1 tvg-id="9487065" tvg-name="Zee 24 GHANTA" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/4250427f57894b2c904cdd96bbd418ac/version/0" group-title="Entertainment",Zee 24 GHANTA
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3803a00d35cf468482e48e7c76dad094:c601c03caf1abf4ebe3ec865f69d1331
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_24_Ghanta/dash/Zee_24_Ghanta.mpd
+#EXTINF:-1 tvg-id="9487052" tvg-name="Zee Action" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/34108078d7874122b00072cb48a6968a/version/0" group-title="Movies",Zee Action
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04e25f6592774c22a8b18962d0ff9868:24ad9b05a05a458dae0224abf819f2de
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Action/dash/Zee_Action.mpd
+#EXTINF:-1 tvg-id="9487051" tvg-name="Zee Anmol" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/fa440859759342b48006f01bf79df2b6/version/0" group-title="Entertainment",Zee Anmol
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab1049ec646f4d72a2ec65cd5fdc64d8:d3c10b88fdd700e9d6d4ba43f2a073a1
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Anmol/dash/Zee_Anmol.mpd
+#EXTINF:-1 tvg-id="9487057" tvg-name="Zee Anmol Cinema" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/b9a50d8fab3541af81681eb6bd385eaf/version/0" group-title="Movies",Zee Anmol Cinema
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8df935b410b48da804ce5d34d2e7ade:855df29b78791c144eb380fe8120fe20
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Anmol_Cinema/dash/Zee_Anmol_Cinema.mpd
+#EXTINF:-1 tvg-id="9504796" tvg-name="Zee Bangla HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/dd74c3cd17ff4baca804bce74b811384/version/0" group-title="Entertainment",Zee Bangla HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4c525b176ca4963ad1378f58015a4b1:30de2a16a91efb294dbc3867b5dbbaee
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Bangla_HD/dash/Zee_Bangla_HD.mpd
+#EXTINF:-1 tvg-id="9624894" tvg-name="Zee Bangla Sonar" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/f508a6918aac461382774c4a34f50c30/version/0" group-title="Entertainment",Zee Bangla Sonar
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=15e323abc67c45909eb2a59ccbcf9829:f6b442dce7a5481556fe475d9be98de8
+https://d2o8pibksxtln6.cloudfront.net/live/media/ZEE_Bangla_Sonar/dash/ZEE_Bangla_Sonar.mpd
+#EXTINF:-1 tvg-id="9487104" tvg-name="Zee Bollywood" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/e1de996d54864c78b8daf60d63974223/version/0" group-title="Movies",Zee Bollywood
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5f7bb67f2e2547d7bf9226510e769848:2c9f911b0163136110a0be5585d88888
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Bollywood/dash/Zee_Bollywood.mpd
+#EXTINF:-1 tvg-id="9487096" tvg-name="Zee Cinema HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/d2316f5734094e8486486d6911fe6560/version/0" group-title="Movies",Zee Cinema HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=61d178acde754dc397d45d726deb4e8d:9f4fc9ed49f6cb1d424d6e38fb35c9ab
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Cinema_HD/dash/Zee_Cinema_HD.mpd
+#EXTINF:-1 tvg-id="9624889" tvg-name="Zee Cinemalu HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/a33211ad359a4cba8b23144e4081ff68/version/0" group-title="Movies",Zee Cinemalu HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=49838edb759140eeb7034e95582595ab:384b17f3c0c2be7eeb815ffa763ec26c
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Cinemalu_HD/dash/Zee_Cinemalu_HD.mpd
+#EXTINF:-1 tvg-id="9624882" tvg-name="Zee Classic" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/97ff8066a4d945d0ad72764a1f58762b/version/0" group-title="Entertainment",Zee Classic
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=795efbf31bb14e4daa832eee675b1c0e:555e86d43274720dba8f09c669972128
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Classic/dash/Zee_Classic.mpd
+#EXTINF:-1 tvg-id="9624893" tvg-name="Zee Kannada HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/37b5fbe79db34171a1873cf889458149/version/0" group-title="Entertainment",Zee Kannada HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c12e1e27fa946b4bfe8557541fc6c2c:c0fc69443a18763ca5b7fa9479f949a3
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Kannada_HD/dash/Zee_Kannada_HD.mpd
+#EXTINF:-1 tvg-id="9624895" tvg-name="Zee Keralam HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/cb2d529482614186a8ba29d47346902b/version/0" group-title="Entertainment",Zee Keralam HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d3e5fbd6024a4f299cc0dbf282e10064:b5d30e367dc355b1b2ce7e1499914874
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Keralam_HD/dash/Zee_Keralam_HD.mpd
+#EXTINF:-1 tvg-id="9504795" tvg-name="Zee Marathi HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/9d03463ae16544f2b87dd2e173b22685/version/0" group-title="Entertainment",Zee Marathi HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1fe478e15b04599a0e2b1c7f1494d4e:9d36f30cb83edeb4fe435f3aa70463ae
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Marathi_HD/dash/Zee_Marathi_HD.mpd
+#EXTINF:-1 tvg-id="9487055" tvg-name="Zee News" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/087a098c826c480796c1e9ac0ade0d82/version/0" group-title="News",Zee News
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_News/hls_fta/Zee_News.m3u8
+#EXTINF:-1 tvg-id="9649339" tvg-name="Zee Power" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/c3166a46bb1945638c6c62bd2aa8bff5/version/0" group-title="Entertainment",Zee Power
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7fc8db33ca2549e393cb9e1ec57c0c98:d9ec13bd765001d6c75dba58ee3af1d5
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Power_SD/dash/Zee_Power_SD.mpd
+#EXTINF:-1 tvg-id="9624890" tvg-name="ZEE PUNJABI" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/600751eb0b714c9992c92d8bfc78e814/version/0" group-title="Entertainment",ZEE PUNJABI
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=78b84de35e954bdbaceb53083f701a0c:57e84360db5bd841a09b84d8dd9b7098
+https://d2o8pibksxtln6.cloudfront.net/live/media/ZEE_PUNJABI/dash/ZEE_PUNJABI.mpd
+#EXTINF:-1 tvg-id="9487093" tvg-name="Zee Sarthak" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/9e787a13afa1447abde693bf57f7f9db/version/0" group-title="Entertainment",Zee Sarthak
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5446e3f92c834e6da0d5147e49766361:c4114555baccd7f0a372ed88882c7408
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Sarthak/dash/Zee_Sarthak.mpd
+#EXTINF:-1 tvg-id="9487089" tvg-name="Zee Talkies HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/8afbf5d35d83410e9ee9597d9645d3be/version/0" group-title="Movies",Zee Talkies HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf90d1aba5c848608e78f4ad6b011c50:5f9c36f7f4a2a185fc39e10dbed3ef40
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Talkies_HD/dash/Zee_Talkies_HD.mpd
+#EXTINF:-1 tvg-id="9624892" tvg-name="Zee Tamil HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/5c9c11bbbda849479e58f8759e1fc4d5/version/0" group-title="Entertainment",Zee Tamil HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=48b5608a55274fdba290e0c50ed53e58:b491d68743c05c316efd3f76164768ad
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Tamil_HD/dash/Zee_Tamil_HD.mpd
+#EXTINF:-1 tvg-id="9624891" tvg-name="Zee Telugu HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/3e8e7c08dedc48ee9ed67fc0bc4ecf76/version/0" group-title="Entertainment",Zee Telugu HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=45675544e768447ea2e95c4b42997636:147fb814995cc1f8c7eb0182daa1083d
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Telugu_HD/dash/Zee_Telugu_HD.mpd
+#EXTINF:-1 tvg-id="9649000" tvg-name="Zee Thirai" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/cef53bf4b0cd4d79913452f6f645c13f/version/0" group-title="Movies",Zee Thirai
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c70d85d155444fe09502f93ddb6bb1e3:3bd4f03affa670cb61f9ad71a2dba4a1
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Thirai_SD/dash/Zee_Thirai_SD.mpd
+#EXTINF:-1 tvg-id="9487083" tvg-name="ZEE TV HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/04bc627420754c2592f21bb6c37d7f41/version/0" group-title="Entertainment",ZEE TV HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=751714445b7140868409b668afd5f05a:b5ee750325db2777288fdf513fd712fa
+https://d2o8pibksxtln6.cloudfront.net/live/media/ZEE_TV_HD/dash/ZEE_TV_HD.mpd
+#EXTINF:-1 tvg-id="9624888" tvg-name="Zee Yuva" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/4c0723e870914be8b9e77207a96227cd/version/0" group-title="Entertainment",Zee Yuva
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f76d7deeb9df431e8e4fc0a1770c30c4:cfeb713e0839088d9fe4fe8b991e92ad
+https://d2o8pibksxtln6.cloudfront.net/live/media/ZEE_YUVA/dash/ZEE_YUVA.mpd
+#EXTINF:-1 tvg-id="9650645" tvg-name="Zee Zest" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/d2cc8c4a35c44b0bb21c05185150f4a0/version/0" group-title="Entertainment",Zee Zest
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d0efb33f7357420087bb026047cbe693:06b5456bc75d01d940031c03569814f6
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Zest_SD/dash/Zee_Zest_SD.mpd
+#EXTINF:-1 tvg-id="9487091" tvg-name="Zing" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/8ec419e798e644fca91ae4e11f182a1c/version/0" group-title="Entertainment",Zing
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b084fbbf3d0343bb87c8f6cbe511603e:852ce285a4f70472a479f0cf61793db5
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zing/dash/Zing.mpd
+#EXTINF:-1 tvg-id="9487084" tvg-name="Zoom" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/f84de3464c0a4609ac222605bd3b3bfe/version/0" group-title="Entertainment",Zoom
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6440849f5e50494cace2762976132eb2:2953e970ad45ba547004ca04b783ef05
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zoom/dash/Zoom.mpd
