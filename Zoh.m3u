@@ -29,7 +29,7 @@ https://login.bheem.tv/bpk-tv/22020/output/index.mpd?
 
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Asianet HD" tvg-logo="https://i.postimg.cc/DfHxNGTx/Asianet-hd.webp" group-title="Malayalam",Asianet HD
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/AsianetHD.m3u8fb566c788412c296318a56a97a2fcfba583991e65467b6756e5276a06101ba9b
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/AsianetHD.m3u8
 
 
 #EXTINF:-1 tvg-id="Surya" tvg-logo="https://sund-images.sunnxt.com/194398/640x360_SuryaTV_194398_45a56617-7aa9-4ced-a1c8-82b80adb83a7.jpg" group-title="Entertainment",Surya
