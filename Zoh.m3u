@@ -24,8 +24,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_HD_MOB/WDVLive/index.mpd?__hdnea_
 
 #EXTINF:-1 tvg-id="22020" tvg-logo="https://i.imgur.com/fjgzW20.png" group-title="Malayalam Entertainment",Mazhavil Manorama HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=445&token=RiYlIZ
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=37b4403a66f2565da33ba3b5704bb178:449f87256b3c1d7c2cdcbe04cbfd5530
 https://login.bheem.tv/bpk-tv/22020/output/index.mpd?
 
@@ -52,7 +50,10 @@ https://yt-live-proxy.npashru.workers.dev/flowers
 http://51.75.127.199:3141/zeekeralamhd/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/KjxvT1FR/Asianet-Middle-East.png" group-title="Entertainment",Asianet Middle East
+#EXTINF:-1 tvg-id="22389" tvg-logo="https://i.imgur.com/du9iZ0s.png" group-title="Malayalam Entertainment",Asianet Middle East
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c0c3d8692a6a574e9a731ff7ed7ca7fe:87eed062e3b13bd639f5cba89b83ea33
+https://login.bheem.tv/bpk-tv/22389/output/index.mpd?
 
 
 #EXTINF:-1 tvg-id="459" group-title="JioTV+ ▶ | Malayalam" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Movies_HD.png",Asianet Movies HD
@@ -82,12 +83,6 @@ https://livestream.sunnxt.com/e24ee14c395945bd8ccb065e1bce8b9b/SuryaMoviesB_IN_i
 #KODIPROP:inputstream.adaptive.license_key=6b67bccef7024f2da29b42e10dc13f89:2e8460c47d3f01693e193dba5963a5e1
 https://livestream.sunnxt.com/e24ee14c395945bd8ccb065e1bce8b9b/SuryaMoviesB_IN_index.mpd
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Amrita_TV.png" group-title="Entertainment",Amrita TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://web.cply.dpdns.org/keys/193251
-#EXTVLCOPT:http-user-agent=JioTV.Plus/2.8.4_2076/CloudPlay(CloudPlay;JioSTB) JioTvPlus-AndroidTv
-https://jiotvpllive.cdn.jio.com/bpk-tv/Surya_Comedy_BTS/WDVLive/index.mpd?__hdnea__=st=1790865606~exp=1790887206~acl=/bpk-tv/Surya_Comedy_BTS/WDVLive/*~hmac=40f1db9e13cbb058e956830d5afef9ccad7e57df73501b28f6dd6f1be1159b3d
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kairali_TV.png" group-title="Entertainment",Kairali TV
