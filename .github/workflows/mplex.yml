@@ -2,9 +2,8 @@ name: Full Sync & Fix M3U Playlist
 
 on:
   schedule:
-    # ഓരോ 30 മിനിറ്റിലും റൺ ചെയ്യും
     - cron: '*/30 * * * *'
-  workflow_dispatch: # മാനുവലായി റൺ ചെയ്യാനുള്ള ഓപ്ഷൻ
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -22,73 +21,71 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
+      - name: Install dependencies & Playwright Browser
         run: |
-          pip install curl_cffi
+          pip install playwright
+          playwright install --with-deps chromium
 
       - name: Fetch and Process PHP Playlist
         run: |
           python - << 'EOF'
-          import gzip
-          import zlib
           import sys
-          from curl_cffi import requests
+          import time
+          from playwright.sync_api import sync_playwright
 
           url = "https://premiumplugx.me/vzy/playlist.php"
-          
-          headers = {
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-              "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-              "Accept-Language": "en-US,en;q=0.9",
-              "Referer": "https://premiumplugx.me/",
-              "Sec-Ch-Ua": '"Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"',
-              "Sec-Ch-Ua-Mobile": "?0",
-              "Sec-Ch-Ua-Platform": '"Windows"',
-              "Sec-Fetch-Dest": "document",
-              "Sec-Fetch-Mode": "navigate",
-              "Sec-Fetch-Site": "same-origin"
-          }
 
-          try:
-              # impersonate="chrome124" ഉപയോഗിച്ച് Cloudflare/WAF ബൈപാസ് ചെയ്യാൻ സഹായിക്കുന്നു
-              session = requests.Session(impersonate="chrome124")
-              response = session.get(url, headers=headers, allow_redirects=True, timeout=30)
+          with sync_playwright() as p:
+              browser = p.chromium.launch(
+                  headless=True,
+                  args=[
+                      "--disable-blink-features=AutomationControlled",
+                      "--no-sandbox"
+                  ]
+              )
+              context = browser.new_context(
+                  user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+                  viewport={"width": 1920, "height": 1080}
+              )
               
-              if response.status_code != 200:
-                  print(f"Failed to fetch. HTTP Status: {response.status_code}")
-                  print(f"Response preview: {response.text[:300]}")
-                  sys.exit(1)
-
-              raw_data = response.content
-
-              # Gzip / Zlib വഴി കംപ്രസ് ചെയ്തതാണോ എന്ന് പരിശോധിച്ച് ഡീകോഡ് ചെയ്യുന്നു
-              content = ""
+              page = context.new_page()
+              print("Connecting to URL and waiting for Cloudflare challenge...")
+              
               try:
-                  content = gzip.decompress(raw_data).decode("utf-8", errors="ignore")
+                  page.goto(url, timeout=60000, wait_until="networkidle")
+              except Exception as e:
+                  print(f"Initial navigation completed or timed out: {e}")
+
+              # Cloudflare challenge പൂർത്തിയാകാൻ പരമാവധി 20 സെക്കൻഡ് വരെ കാത്തിരിക്കുന്നു
+              content = ""
+              for i in range(20):
+                  content = page.content()
+                  if "Just a moment..." not in content and ("#EXTM3U" in content or "#EXTINF" in content):
+                      break
+                  time.sleep(1)
+
+              # പ്ലെയിൻ ടെക്സ്റ്റ് ആയി ലഭിക്കാൻ body ടാഗിന്റെ ടെക്സ്റ്റ് എടുക്കുന്നു
+              try:
+                  text_content = page.inner_text("body")
+                  if "#EXTM3U" in text_content or "#EXTINF" in text_content:
+                      content = text_content
               except Exception:
-                  try:
-                      content = zlib.decompress(raw_data, 16 + zlib.MAX_WBITS).decode("utf-8", errors="ignore")
-                  except Exception:
-                      content = raw_data.decode("utf-8", errors="ignore")
+                  pass
+
+              browser.close()
 
               content = content.strip()
 
-              # പ്ലേലിസ്റ്റ് സാധുവാണോ എന്ന് പരിശോധിക്കുന്നു
               if "#EXTM3U" not in content and "#EXTINF" not in content:
-                  print("Warning: Response does not look like a valid M3U playlist!")
-                  print("First 200 characters of response:")
-                  print(content[:200])
+                  print("Failed to bypass Cloudflare challenge or invalid playlist!")
+                  print("Preview:")
+                  print(content[:300])
                   sys.exit(1)
 
-              # plex.m3u ലേക്ക് സേവ് ചെയ്യുന്നു
               with open("plex.m3u", "w", encoding="utf-8") as f:
                   f.write(content)
 
-              print("Success: Playlist successfully decompressed, verified and saved to plex.m3u!")
-
-          except Exception as e:
-              print(f"Error occurred: {e}")
-              sys.exit(1)
+              print("Success: Playlist downloaded and saved to plex.m3u!")
           EOF
 
       - name: Commit and push changes
@@ -102,6 +99,6 @@ jobs:
             echo "No changes found in playlist. Skipping push."
           else
             echo "Changes detected, pushing new playlist..."
-            git commit -m "Auto-update plex.m3u with verified streams [$(date -u +'%Y-%m-%d %H:%M:%S UTC')]"
+            git commit -m "Auto-update plex.m3u [$(date -u +'%Y-%m-%d %H:%M:%S UTC')]"
             git push
           fi
