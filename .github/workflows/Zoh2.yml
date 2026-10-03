@@ -34,7 +34,7 @@ jobs:
           import os
 
           FILE_NAME = "Zoh2.m3u"
-          SOURCE_URL = "https://raw.githubusercontent.com/Sflex0719/STBPLUS/main/Zio.m3u"
+          SOURCE_URL = "https://premiumplugx.com/VIP/pluglist.php"
           HEADERS = {"User-Agent": "Mozilla/5.0"}
 
           def parse_m3u(content):
