@@ -51,7 +51,7 @@ https://d2o8pibksxtln6.cloudfront.net/live/media/Sansad_TV_SD/hls_fta/Sansad_TV_
 https://d2o8pibksxtln6.cloudfront.net/live/media/Times_Now/dash/Times_Now.mpd
 #EXTINF:-1 tvg-id="9624886" tvg-name="Unite8 Sports 1 HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/396cbd0f0e8d492db65b304859af478d/version/0" group-title="Sports",Unite8 Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa4fe59e288042c2b7f2aa68ecc0d117:b9d45c3f8542e5c8ee12399ee36d22db
+#KODIPROP:inputstream.adaptive.license_key=72bb05b5f0f445f680820a589032f682:e2529b400b64497065bf0fba8c102e6a
 https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd
 #EXTINF:-1 tvg-id="9624884" tvg-name="Unite8 Sports 2 HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/03fc75c46d9a4b8daff3ef58d77c5bc7/version/0" group-title="Sports",Unite8 Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -155,9 +155,9 @@ https://d2o8pibksxtln6.cloudfront.net/live/media/ZEE_YUVA/dash/ZEE_YUVA.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1afa555e6f0b43e3874f485a7ff21020:0d122ae0a8785a4780181952ee8a0af7
 https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Zest_SD/dash/Zee_Zest_SD.mpd
-#EXTINF:-1 tvg-id="9487091" tvg-name="Zing" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/b70462c23c2f492683871b681bb61af6/version/0" group-title="Entertainment",Zing
+#EXTINF:-1 tvg-id="9487091" tvg-name="Zing" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/8ec419e798e644fca91ae4e11f182a1c/version/0" group-title="Entertainment",Zing
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b084fbbf3d0343bb87c8f6cbe511603e:852ce285a4f70472a479f0cf61793db5
+#KODIPROP:inputstream.adaptive.license_key=115d3f12f789490b9d4a376909d71c76:160fe94553a2dd2333315323a6a385d3
 https://d2o8pibksxtln6.cloudfront.net/live/media/Zing/dash/Zing.mpd
 #EXTINF:-1 tvg-id="9487084" tvg-name="Zoom" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/f84de3464c0a4609ac222605bd3b3bfe/version/0" group-title="Entertainment",Zoom
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
