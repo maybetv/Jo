@@ -1,0 +1,180 @@
+name: Safely Update VZY United Sports Exact Match
+
+on:
+  schedule:
+    # ഓരോ 5 മിനിറ്റിലും റൺ ചെയ്യാൻ
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-vzy-sports:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          pip install requests
+
+      - name: Exact Match Update United Sports
+        run: |
+          python - << 'EOF'
+          import os
+          import re
+          import requests
+
+          source_url = "https://premiumplugx.me/vzy/playlist.php"
+          target_file = "Zoh.m3u"
+
+          headers = {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+          }
+
+          # 1. പുതിയ സോഴ്സ് ലിങ്കിൽ നിന്ന് ഡാറ്റ ഡൗൺലോഡ് ചെയ്യുന്നു
+          try:
+              print(f"Fetching updates from: {source_url}")
+              res = requests.get(source_url, headers=headers, timeout=40)
+              res.raise_for_status()
+              source_text = res.text
+          except Exception as e:
+              print(f"Error downloading source: {e}. Zoh.m3u-ൽ മാറ്റമില്ലാതെ നിർത്തുന്നു.")
+              exit(0)
+
+          # 2. സോഴ്സ് കണ്ടന്റിലെ ചാനൽ ബ്ലോക്കുകൾ വേർതിരിക്കുന്നു
+          source_lines = source_text.splitlines()
+          all_blocks = []
+          curr = []
+
+          for line in source_lines:
+              l = line.strip()
+              if not l:
+                  continue
+              if l.startswith("#EXTINF:"):
+                  if curr:
+                      all_blocks.append(curr)
+                  curr = [line]
+              elif curr:
+                  curr.append(line)
+          if curr:
+              all_blocks.append(curr)
+
+          print(f"സോഴ്സിൽ ആകെ {len(all_blocks)} ചാനലുകൾ കണ്ടെത്തി.")
+
+          # 3. United Sports 1, United Sports 2 എന്നിവ മാത്രം കൃത്യമായി കണ്ടെത്തുന്നു
+          us1_block = None
+          us2_block = None
+
+          for block in all_blocks:
+              # ആദ്യ വരിയിലുള്ള പേര് മാത്രം എടുത്ത് പരിശോധിക്കുന്നു
+              header = block[0].upper()
+              
+              # United Sports 1 മാച്ച് കണ്ടെത്തുന്നു
+              if ("UNITED" in header and "SPORTS" in header) and (re.search(r'\b(1|ONE)\b', header)):
+                  if not us1_block:
+                      us1_block = block
+              
+              # United Sports 2 മാച്ച് കണ്ടെത്തുന്നു
+              elif ("UNITED" in header and "SPORTS" in header) and (re.search(r'\b(2|TWO)\b', header)):
+                  if not us2_block:
+                      us2_block = block
+
+          if not us1_block and not us2_block:
+              print("Warning: സോഴ്സിൽ United Sports ചാനലുകൾ കണ്ടെത്താനായില്ല. ഫയലിൽ മാറ്റം വരുത്തുന്നില്ല.")
+              exit(0)
+
+          print(f"കണ്ടെത്തിയ ചാനലുകൾ: United Sports 1: {'ഉണ്ട്' if us1_block else 'ഇല്ല'}, United Sports 2: {'ഉണ്ട്' if us2_block else 'ഇല്ല'}")
+
+          # 4. നിലവിലെ Zoh.m3u ഫയൽ വായിക്കുന്നു
+          if not os.path.exists(target_file):
+              print(f"{target_file} കാണാനില്ല. പുതിയതായി ഉണ്ടാക്കുന്നു.")
+              with open(target_file, "w", encoding="utf-8") as f:
+                  f.write("#EXTM3U\n")
+                  if us1_block:
+                      f.write("\n".join(us1_block) + "\n")
+                  if us2_block:
+                      f.write("\n".join(us2_block) + "\n")
+              exit(0)
+
+          with open(target_file, "r", encoding="utf-8") as f:
+              target_lines = f.read().splitlines()
+
+          # 5. ഫയലിലെ മറ്റ് ലിങ്കുകൾക്ക് ഡാമേജ് വരാതെ ഈ രണ്ട് ചാനലുകൾ മാത്രം കൃത്യമായി അപ്ഡേറ്റ് ചെയ്യുന്നു
+          output_lines = []
+          i = 0
+          us1_replaced = False
+          us2_replaced = False
+
+          while i < len(target_lines):
+              line = target_lines[i]
+              stripped = line.strip()
+
+              if stripped.startswith("#EXTINF:"):
+                  upper_l = stripped.upper()
+                  is_us = ("UNITED" in upper_l and "SPORTS" in upper_l)
+                  is_us1 = is_us and bool(re.search(r'\b(1|ONE)\b', upper_l))
+                  is_us2 = is_us and bool(re.search(r'\b(2|TWO)\b', upper_l))
+
+                  if is_us1:
+                      if us1_block:
+                          print("Zoh.m3u-ലെ പഴയ United Sports 1 മാറ്റി പുതിയത് വെക്കുന്നു...")
+                          output_lines.extend(us1_block)
+                          us1_replaced = True
+                      i += 1
+                      while i < len(target_lines) and not target_lines[i].strip().startswith("#EXTINF:"):
+                          i += 1
+                      continue
+
+                  elif is_us2:
+                      if us2_block:
+                          print("Zoh.m3u-ലെ പഴയ United Sports 2 മാറ്റി പുതിയത് വെക്കുന്നു...")
+                          output_lines.extend(us2_block)
+                          us2_replaced = True
+                      i += 1
+                      while i < len(target_lines) and not target_lines[i].strip().startswith("#EXTINF:"):
+                          i += 1
+                      continue
+
+              output_lines.append(line)
+              i += 1
+
+          # ഫയലിൽ മുൻപ് ഇവ ഇല്ലായിരുന്നു എങ്കിൽ മാത്രം അവസാനം ചേർക്കുന്നു
+          if us1_block and not us1_replaced:
+              print("ഫയലിൽ മുൻപ് United Sports 1 ഉണ്ടായിരുന്നില്ല, അവസാനം ചേർക്കുന്നു.")
+              output_lines.extend(us1_block)
+
+          if us2_block and not us2_replaced:
+              print("ഫയലിൽ മുൻപ് United Sports 2 ഉണ്ടായിരുന്നില്ല, അവസാനം ചേർക്കുന്നു.")
+              output_lines.extend(us2_block)
+
+          # 6. ഫയൽ സേവ് ചെയ്യുന്നു
+          with open(target_file, "w", encoding="utf-8") as f:
+              f.write("\n".join(output_lines) + "\n")
+
+          print(f"{target_file} സുരക്ഷിതമായി അപ്ഡേറ്റ് ചെയ്തു!")
+          EOF
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add Zoh.m3u
+          if git status --porcelain | grep -q 'Zoh.m3u'; then
+            git commit -m "Auto-update VZY United Sports 1 & 2 in Zoh.m3u [skip ci]"
+            git pull --rebase origin main
+            git push origin main
+            echo "Successfully updated and pushed."
+          else
+            echo "No changes detected. Zoh.m3u is up-to-date."
+          fi
