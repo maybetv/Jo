@@ -14,17 +14,13 @@ http://starhub.pro:80/live/12121212/13131313/796437.ts
 https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_index.mpd
 
 
-#EXTINF:-1 tvg-id="443" tvg-name="Asianet HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_HD.png" group-title="Malayalam",Asianet HD
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="443" tvg-name="Asianet HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_HD.png" group-title="Jiotv+ ♨️Malayalam", Asianet HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce59e82f061f57c5a423d3342ae4cb7d:5218a59b8da17a2b2e4b217802f716f0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791126010~exp=1791147610~acl=/*~hmac=cdc3a1adcd9ac622829e1dbb72fb8acc5487d226e220051d9644d120a1f4ede9
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1791126010~exp=1791147610~acl=/*~hmac=cdc3a1adcd9ac622829e1dbb72fb8acc5487d226e220051d9644d120a1f4ede9
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1791126010~exp=1791147610~acl=/*~hmac=cdc3a1adcd9ac622829e1dbb72fb8acc5487d226e220051d9644d120a1f4ede9"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_HD_MOB/WDVLive/index.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+#EXTHTTP:{"cookie":"__hdnea__=st=1791144668~exp=1791166268~acl=/*~hmac=2434384fdb9aa4d0af49bca720d3e07dd62689bd40698f0c92b3934ab70daf07"}
+https://jiostbplus.saregojo99.workers.dev/proxy?url=https%3A%2F%2Fjiotvmblive.cdn.jio.com%2Fbpk-tv%2FAsianet_HD_MOB%2FWDVLive%2Findex.mpd
 
 
 #EXTINF:-1 tvg-id="22020" tvg-logo="https://i.imgur.com/fjgzW20.png" group-title="Malayalam Entertainment",Mazhavil Manorama HD
@@ -61,17 +57,13 @@ http://51.75.127.199:3141/zeekeralamhd/index.m3u8
 https://login.bheem.tv/bpk-tv/22389/output/index.mpd?
 
 
-#EXTINF:-1 tvg-id="459" tvg-name="Asianet Movies HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Movies_HD.png" group-title="Malayalam",Asianet Movies HD
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="459" tvg-name="Asianet Movies HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Movies_HD.png" group-title="Jiotv+ ♨️Malayalam", Asianet Movies HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=24618205971e53fa871bdf9c7b56bffb:751c4311a428fccbd4dda0a74991eb67
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791126010~exp=1791147610~acl=/*~hmac=cdc3a1adcd9ac622829e1dbb72fb8acc5487d226e220051d9644d120a1f4ede9
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1791126010~exp=1791147610~acl=/*~hmac=cdc3a1adcd9ac622829e1dbb72fb8acc5487d226e220051d9644d120a1f4ede9
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1791126010~exp=1791147610~acl=/*~hmac=cdc3a1adcd9ac622829e1dbb72fb8acc5487d226e220051d9644d120a1f4ede9"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_Movies_HD_MOB/WDVLive/index.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+#EXTHTTP:{"cookie":"__hdnea__=st=1791144668~exp=1791166268~acl=/*~hmac=2434384fdb9aa4d0af49bca720d3e07dd62689bd40698f0c92b3934ab70daf07"}
+https://jiostbplus.saregojo99.workers.dev/proxy?url=https%3A%2F%2Fjiotvmblive.cdn.jio.com%2Fbpk-tv%2FAsianet_Movies_HD_MOB%2FWDVLive%2Findex.mpd
 
 
 #EXTINF:-1 tvg-name="Asianet Movies" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7400/567400-h.jpg" group-title="JioHotstar" group-logo="", Asianet Movies
@@ -188,30 +180,22 @@ https://vglivessai.akamaized.net/ptnr-lg/title-News_Malayalam_LGIndia/us/v1/mast
 ==MOVIES===
 
 
-#EXTINF:-1 tvg-id="1104" tvg-name="Star Movies HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="English",Star Movies HD
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="1104" tvg-name="Star Movies HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="Jiotv+ ♨️English", Star Movies HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5fb29e5825b4554090de8d60674e4bd1:4234d56f45d2dc89f80e6d4d30b765be
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791126010~exp=1791147610~acl=/*~hmac=cdc3a1adcd9ac622829e1dbb72fb8acc5487d226e220051d9644d120a1f4ede9
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1791126010~exp=1791147610~acl=/*~hmac=cdc3a1adcd9ac622829e1dbb72fb8acc5487d226e220051d9644d120a1f4ede9
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1791126010~exp=1791147610~acl=/*~hmac=cdc3a1adcd9ac622829e1dbb72fb8acc5487d226e220051d9644d120a1f4ede9"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/StarMoviesHD_MOB/WDVLive/index.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+#EXTHTTP:{"cookie":"__hdnea__=st=1791144668~exp=1791166268~acl=/*~hmac=2434384fdb9aa4d0af49bca720d3e07dd62689bd40698f0c92b3934ab70daf07"}
+https://jiostbplus.saregojo99.workers.dev/proxy?url=https%3A%2F%2Fjiotvmblive.cdn.jio.com%2Fbpk-tv%2FStarMoviesHD_MOB%2FWDVLive%2Findex.mpd
 
 
-#EXTINF:-1 tvg-id="1110" tvg-name="Star Movies Select HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="English",Star Movies Select HD
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="1110" tvg-name="Star Movies Select HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="Jiotv+ ♨️English", Star Movies Select HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee96dad500c4537390df63f0f2c8de60:f6bee36ddb86f9c24def2a4a8df19e8e
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791126010~exp=1791147610~acl=/*~hmac=cdc3a1adcd9ac622829e1dbb72fb8acc5487d226e220051d9644d120a1f4ede9
-#EXTVLCOPT:http-user-agent=Virat
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1791126010~exp=1791147610~acl=/*~hmac=cdc3a1adcd9ac622829e1dbb72fb8acc5487d226e220051d9644d120a1f4ede9
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1791126010~exp=1791147610~acl=/*~hmac=cdc3a1adcd9ac622829e1dbb72fb8acc5487d226e220051d9644d120a1f4ede9"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_MOB/WDVLive/index.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+#EXTHTTP:{"cookie":"__hdnea__=st=1791144668~exp=1791166268~acl=/*~hmac=2434384fdb9aa4d0af49bca720d3e07dd62689bd40698f0c92b3934ab70daf07"}
+https://jiostbplus.saregojo99.workers.dev/proxy?url=https%3A%2F%2Fjiotvmblive.cdn.jio.com%2Fbpk-tv%2FStar_Movies_Select_HD_MOB%2FWDVLive%2Findex.mpd
 
 
 #EXTINF:-1 tvg-id="762" tvg-name="Sony Pix HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyPIX.png" group-title="English",Sony Pix HD
@@ -288,10 +272,14 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=72bb05b5f0f445f680820a589032f682:e2529b400b64497065bf0fba8c102e6a
 https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd
+
+
 #EXTINF:-1 tvg-id="9624886" tvg-name="Unite8 Sports 1 HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/396cbd0f0e8d492db65b304859af478d/version/0" group-title="Sports",Unite8 Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=72bb05b5f0f445f680820a589032f682:e2529b400b64497065bf0fba8c102e6a
 https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd
+
+
 #EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-name="Sony BBC Earth HD" tvg-language="English" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Infotainment" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony BBC Earth HD
 https://sliv.tgaadi.workers.dev/sonybbcearthhd.m3u8
 
