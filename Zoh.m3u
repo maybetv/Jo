@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTM3U
-#EXTM3U x-tvg-url="[https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz]"
-#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz"
+#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"x-tvg-url="https://iptv-org.github.io/epg/guides/in.xml.gz"
 
 
 #EXTINF:-1 tvg-id="" tvg-name="BBS MALAYALAM" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/5711/1789027865711-t" group-title="Bigg Boss",BBS MALAYALAM
