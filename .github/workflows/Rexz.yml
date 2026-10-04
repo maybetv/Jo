@@ -16,42 +16,39 @@ jobs:
       actions: write
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+    - name: Checkout repository
+      uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
 
-      - name: Install dependencies
-        run: |
-          pip install --upgrade pip
-          pip install requests beautifulsoup4
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests beautifulsoup4
 
-      - name: Run script
-        env:
-          PLAYLIST_URL: ${{ secrets.PLAYLIST_URL }}
-        run: |
-          python3 generator.py
+    - name: Run script
+      env:
+        PLAYLIST_URL: ${{ secrets.PLAYLIST_URL }}
+      run: |
+        python3 generator.py
 
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add rexz.m3u
-          if git diff --staged --quiet; then
-            echo "No changes found in rexz.m3u, skipping commit."
-          else
-            git commit -m "Auto-update rexz.m3u [skip ci]"
-            git push
-          fi
+    - name: Delete old workflow runs to save storage
+      uses: Mattraks/delete-workflow-runs@v2
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        repository: ${{ github.repository }}
+        retain_days: 0
+        keep_minimum_runs: 1
 
-      - name: Delete old workflow runs to save storage
-        uses: Mattraks/delete-workflow-runs@v2
-        continue-on-error: true
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          repository: ${{ github.repository }}
-          retain_days: 0
-          keep_minimum_runs: 1
+    - name: Commit and push always
+      run: |
+        git config --global user.name "GitHub Actions Bot"
+        git config --global user.email "actions@github.com"
+        git add .m3u
+        git commit --allow-empty -m ".m3u [skip ci]"
+        git pull --rebase origin main || git pull --rebase origin master || true
+        git push origin HEAD:main || git push origin HEAD:master || true
+        
