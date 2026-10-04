@@ -2,7 +2,7 @@ name: Safely Update VZY United Sports Exact Match
 
 on:
   schedule:
-    # ട്രാഫിക് ഒഴിവാക്കാൻ ഓരോ മണിക്കൂറിലും 23-ാമത്തെ മിനിറ്റിൽ റൺ ആകുന്നു
+    # ട്രാഫിക് കുറഞ്ഞ സമയത്ത് (ഓരോ മണിക്കൂറിലും 23-ാം മിനിറ്റിൽ)
     - cron: '23 * * * *'
   workflow_dispatch:
 
@@ -35,7 +35,7 @@ jobs:
           import re
           import requests
 
-          source_url = "https://premiumplugx.me/vzy/playlist.php"
+          source_url = "https://raw.githubusercontent.com/maybetv/Jo/refs/heads/main/plex.m3u"
           target_file = "Zoh.m3u"
 
           headers = {
@@ -43,13 +43,13 @@ jobs:
           }
 
           try:
-              print(f"Fetching updates from: {source_url}")
+              print(f"Fetching playlist from: {source_url}")
               res = requests.get(source_url, headers=headers, timeout=40)
               res.raise_for_status()
               source_text = res.text
           except Exception as e:
-              print(f"Error downloading source: {e}. Zoh.m3u ഫയലിൽ മാറ്റമില്ലാതെ നിർത്തുന്നു.")
-              exit(0)
+              print(f"Error downloading source: {e}")
+              exit(1)
 
           source_lines = source_text.splitlines()
           all_blocks = []
@@ -68,41 +68,35 @@ jobs:
           if curr:
               all_blocks.append(curr)
 
-          print(f"സോഴ്സിൽ ആകെ {len(all_blocks)} ചാനലുകൾ കണ്ടെത്തി.")
-
-          def identify_channel(block):
-              content = "\n".join(block).upper()
-              
-              if '9624886' in content or ('UNITE8' in content and 'SPORTS 1' in content):
-                  return 1
-              if ('UNITED' in content or 'UNITE8' in content) and 'SPORTS' in content and re.search(r'\b(1|ONE)\b', content):
-                  return 1
-
-              if '9624884' in content or ('UNITE8' in content and 'SPORTS 2' in content):
-                  return 2
-              if ('UNITED' in content or 'UNITE8' in content) and 'SPORTS' in content and re.search(r'\b(2|TWO)\b', content):
-                  return 2
-
-              return None
+          print(f"സോഴ്സിൽ ആകെ കണ്ടെത്തിയ ചാനലുകൾ: {len(all_blocks)}")
 
           us1_block = None
           us2_block = None
 
+          # റഫറൻസ് പ്രകാരമുള്ള tvg-id അല്ലെങ്കിൽ Unite8/United Sports മാച്ച് ചെയ്യുന്നു
           for block in all_blocks:
-              ch_type = identify_channel(block)
-              if ch_type == 1 and not us1_block:
-                  us1_block = block
-              elif ch_type == 2 and not us2_block:
-                  us2_block = block
+              full_block_text = "\n".join(block)
+              header = block[0].upper()
+
+              # Unite8 Sports 1 (tvg-id="9624886")
+              if '9624886' in full_block_text or (('UNITED' in header or 'UNITE8' in header or 'UNITE' in header) and 'SPORTS' in header and re.search(r'\b(1|ONE)\b', header)):
+                  if not us1_block:
+                      us1_block = block
+                      print(f"United Sports 1 കണ്ടെത്തി: {block[0]}")
+
+              # Unite8 Sports 2 (tvg-id="9624884")
+              elif '9624884' in full_block_text or (('UNITED' in header or 'UNITE8' in header or 'UNITE' in header) and 'SPORTS' in header and re.search(r'\b(2|TWO)\b', header)):
+                  if not us2_block:
+                      us2_block = block
+                      print(f"United Sports 2 കണ്ടെത്തി: {block[0]}")
 
           if not us1_block and not us2_block:
-              print("Warning: സോഴ്സിൽ United/Unite8 Sports ചാനലുകൾ കണ്ടെത്താനായില്ല. ഫയലിൽ മാറ്റം വരുത്തുന്നില്ല.")
-              exit(0)
+              print("ERROR: സോഴ്സിൽ United/Unite8 Sports ചാനലുകൾ കണ്ടെത്താനായില്ല!")
+              exit(1)
 
-          print(f"കണ്ടെത്തിയ ചാനലുകൾ: United 1: {'ഉണ്ട്' if us1_block else 'ഇല്ല'}, United 2: {'ഉണ്ട്' if us2_block else 'ഇല്ല'}")
-
+          # നിലവിലെ ഫയൽ പരിശോധിക്കുന്നു
           if not os.path.exists(target_file):
-              print(f"{target_file} നിലവിലില്ല. പുതിയതായി ഉണ്ടാക്കുന്നു.")
+              print(f"{target_file} നിലവിലില്ല, പുതിയ ഫയൽ നിർമ്മിക്കുന്നു.")
               with open(target_file, "w", encoding="utf-8") as f:
                   f.write("#EXTM3U\n")
                   if us1_block:
@@ -119,45 +113,54 @@ jobs:
           us1_replaced = False
           us2_replaced = False
 
+          def match_target(line_str):
+              txt = line_str.upper()
+              is_ch1 = '9624886' in txt or (('UNITED' in txt or 'UNITE8' in txt or 'UNITE' in txt) and 'SPORTS' in txt and re.search(r'\b(1|ONE)\b', txt))
+              is_ch2 = '9624884' in txt or (('UNITED' in txt or 'UNITE8' in txt or 'UNITE' in txt) and 'SPORTS' in txt and re.search(r'\b(2|TWO)\b', txt))
+              return is_ch1, is_ch2
+
+          # Zoh.m3u-ലെ പഴയ ലിങ്കുകൾ മാറ്റി പുതിയ ബ്ലോക്ക് കൃത്യമായി ചേർക്കുന്നു
           while i < len(target_lines):
               line = target_lines[i]
               stripped = line.strip()
 
               if stripped.startswith("#EXTINF:"):
-                  current_block = [line]
-                  j = i + 1
-                  while j < len(target_lines) and not target_lines[j].strip().startswith("#EXTINF:"):
-                      current_block.append(target_lines[j])
-                      j += 1
+                  is_ch1, is_ch2 = match_target(stripped)
 
-                  ch_type = identify_channel(current_block)
-
-                  if ch_type == 1 and us1_block:
-                      print("Zoh.m3u-ലെ പഴയ United Sports 1 മാറ്റി പുതിയത് വെക്കുന്നു...")
+                  if is_ch1 and us1_block:
+                      print("Zoh.m3u-ലെ പഴയ Sports 1 മാറ്റി പുതിയ ബ്ലോക്ക് ചേർക്കുന്നു...")
                       output_lines.extend(us1_block)
                       us1_replaced = True
-                      i = j
+                      i += 1
+                      while i < len(target_lines) and not target_lines[i].strip().startswith("#EXTINF:"):
+                          i += 1
                       continue
-                  elif ch_type == 2 and us2_block:
-                      print("Zoh.m3u-ലെ പഴയ United Sports 2 മാറ്റി പുതിയത് വെക്കുന്നു...")
+
+                  elif is_ch2 and us2_block:
+                      print("Zoh.m3u-ലെ പഴയ Sports 2 മാറ്റി പുതിയ ബ്ലോക്ക് ചേർക്കുന്നു...")
                       output_lines.extend(us2_block)
                       us2_replaced = True
-                      i = j
+                      i += 1
+                      while i < len(target_lines) and not target_lines[i].strip().startswith("#EXTINF:"):
+                          i += 1
                       continue
 
               output_lines.append(line)
               i += 1
 
+          # ടാർഗെറ്റ് ഫയലിൽ മുൻപ് ഇവ ഇല്ലെങ്കിൽ അവസാനം ചേർക്കുന്നു
           if us1_block and not us1_replaced:
+              print("ഫയലിൽ മുൻപ് ഇല്ലാതിരുന്നതിനാൽ Sports 1 ചേർക്കുന്നു.")
               output_lines.extend(us1_block)
 
           if us2_block and not us2_replaced:
+              print("ഫയലിൽ മുൻപ് ഇല്ലാതിരുന്നതിനാൽ Sports 2 ചേർക്കുന്നു.")
               output_lines.extend(us2_block)
 
           with open(target_file, "w", encoding="utf-8") as f:
               f.write("\n".join(output_lines) + "\n")
 
-          print(f"{target_file} സുരക്ഷിതമായി അപ്ഡേറ്റ് ചെയ്തു!")
+          print("Zoh.m3u ഫയൽ വിജയകരമായി അപ്ഡേറ്റ് ചെയ്തു!")
           EOF
 
       - name: Commit and Push Changes
@@ -165,11 +168,11 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add Zoh.m3u
-          if git status --porcelain | grep -q 'Zoh.m3u'; then
+          if git diff --staged --quiet; then
+            echo "ലിങ്കുകളിൽ യാതൊരു മാറ്റവുമില്ല. Zoh.m3u നിലവിൽ അപ്ഡേറ്റഡ് ആണ്."
+          else
             git commit -m "Auto-update VZY United Sports 1 & 2 in Zoh.m3u [skip ci]"
             git pull --rebase origin main
             git push origin main
-            echo "Successfully updated and pushed."
-          else
-            echo "No changes detected. Zoh.m3u is up-to-date."
+            echo "പുതിയ ലിങ്കുകൾ GitHub-ലേക്ക് പുഷ് ചെയ്തു!"
           fi
