@@ -35,7 +35,7 @@ jobs:
           import os
 
           FILE_NAME = "Zoh.m3u"
-          SOURCE_URL = "https://raw.githubusercontent.com/sportlink-10/playlist/refs/heads/main/jtvplus7.m3u"
+          SOURCE_URL = "https://jiostbplus.saregojo99.workers.dev/"
           HEADERS = {"User-Agent": "Mozilla/5.0"}
 
           def parse_m3u(content):
