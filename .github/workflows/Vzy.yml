@@ -2,8 +2,8 @@ name: Safely Update VZY United Sports Exact Match
 
 on:
   schedule:
-    # ഓരോ 5 മിനിറ്റിലും റൺ ചെയ്യാൻ
-    - cron: '*/5 * * * *'
+    # ട്രാഫിക് ഒഴിവാക്കാൻ ഓരോ മണിക്കൂറിലും 23-ാമത്തെ മിനിറ്റിൽ റൺ ആകുന്നു
+    - cron: '23 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -39,20 +39,18 @@ jobs:
           target_file = "Zoh.m3u"
 
           headers = {
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
           }
 
-          # 1. പുതിയ സോഴ്സ് ലിങ്കിൽ നിന്ന് ഡാറ്റ ഡൗൺലോഡ് ചെയ്യുന്നു
           try:
               print(f"Fetching updates from: {source_url}")
               res = requests.get(source_url, headers=headers, timeout=40)
               res.raise_for_status()
               source_text = res.text
           except Exception as e:
-              print(f"Error downloading source: {e}. Zoh.m3u-ൽ മാറ്റമില്ലാതെ നിർത്തുന്നു.")
+              print(f"Error downloading source: {e}. Zoh.m3u ഫയലിൽ മാറ്റമില്ലാതെ നിർത്തുന്നു.")
               exit(0)
 
-          # 2. സോഴ്സ് കണ്ടന്റിലെ ചാനൽ ബ്ലോക്കുകൾ വേർതിരിക്കുന്നു
           source_lines = source_text.splitlines()
           all_blocks = []
           curr = []
@@ -72,33 +70,39 @@ jobs:
 
           print(f"സോഴ്സിൽ ആകെ {len(all_blocks)} ചാനലുകൾ കണ്ടെത്തി.")
 
-          # 3. United Sports 1, United Sports 2 എന്നിവ മാത്രം കൃത്യമായി കണ്ടെത്തുന്നു
+          def identify_channel(block):
+              content = "\n".join(block).upper()
+              
+              if '9624886' in content or ('UNITE8' in content and 'SPORTS 1' in content):
+                  return 1
+              if ('UNITED' in content or 'UNITE8' in content) and 'SPORTS' in content and re.search(r'\b(1|ONE)\b', content):
+                  return 1
+
+              if '9624884' in content or ('UNITE8' in content and 'SPORTS 2' in content):
+                  return 2
+              if ('UNITED' in content or 'UNITE8' in content) and 'SPORTS' in content and re.search(r'\b(2|TWO)\b', content):
+                  return 2
+
+              return None
+
           us1_block = None
           us2_block = None
 
           for block in all_blocks:
-              # ആദ്യ വരിയിലുള്ള പേര് മാത്രം എടുത്ത് പരിശോധിക്കുന്നു
-              header = block[0].upper()
-              
-              # United Sports 1 മാച്ച് കണ്ടെത്തുന്നു
-              if ("UNITED" in header and "SPORTS" in header) and (re.search(r'\b(1|ONE)\b', header)):
-                  if not us1_block:
-                      us1_block = block
-              
-              # United Sports 2 മാച്ച് കണ്ടെത്തുന്നു
-              elif ("UNITED" in header and "SPORTS" in header) and (re.search(r'\b(2|TWO)\b', header)):
-                  if not us2_block:
-                      us2_block = block
+              ch_type = identify_channel(block)
+              if ch_type == 1 and not us1_block:
+                  us1_block = block
+              elif ch_type == 2 and not us2_block:
+                  us2_block = block
 
           if not us1_block and not us2_block:
-              print("Warning: സോഴ്സിൽ United Sports ചാനലുകൾ കണ്ടെത്താനായില്ല. ഫയലിൽ മാറ്റം വരുത്തുന്നില്ല.")
+              print("Warning: സോഴ്സിൽ United/Unite8 Sports ചാനലുകൾ കണ്ടെത്താനായില്ല. ഫയലിൽ മാറ്റം വരുത്തുന്നില്ല.")
               exit(0)
 
-          print(f"കണ്ടെത്തിയ ചാനലുകൾ: United Sports 1: {'ഉണ്ട്' if us1_block else 'ഇല്ല'}, United Sports 2: {'ഉണ്ട്' if us2_block else 'ഇല്ല'}")
+          print(f"കണ്ടെത്തിയ ചാനലുകൾ: United 1: {'ഉണ്ട്' if us1_block else 'ഇല്ല'}, United 2: {'ഉണ്ട്' if us2_block else 'ഇല്ല'}")
 
-          # 4. നിലവിലെ Zoh.m3u ഫയൽ വായിക്കുന്നു
           if not os.path.exists(target_file):
-              print(f"{target_file} കാണാനില്ല. പുതിയതായി ഉണ്ടാക്കുന്നു.")
+              print(f"{target_file} നിലവിലില്ല. പുതിയതായി ഉണ്ടാക്കുന്നു.")
               with open(target_file, "w", encoding="utf-8") as f:
                   f.write("#EXTM3U\n")
                   if us1_block:
@@ -110,7 +114,6 @@ jobs:
           with open(target_file, "r", encoding="utf-8") as f:
               target_lines = f.read().splitlines()
 
-          # 5. ഫയലിലെ മറ്റ് ലിങ്കുകൾക്ക് ഡാമേജ് വരാതെ ഈ രണ്ട് ചാനലുകൾ മാത്രം കൃത്യമായി അപ്ഡേറ്റ് ചെയ്യുന്നു
           output_lines = []
           i = 0
           us1_replaced = False
@@ -121,44 +124,36 @@ jobs:
               stripped = line.strip()
 
               if stripped.startswith("#EXTINF:"):
-                  upper_l = stripped.upper()
-                  is_us = ("UNITED" in upper_l and "SPORTS" in upper_l)
-                  is_us1 = is_us and bool(re.search(r'\b(1|ONE)\b', upper_l))
-                  is_us2 = is_us and bool(re.search(r'\b(2|TWO)\b', upper_l))
+                  current_block = [line]
+                  j = i + 1
+                  while j < len(target_lines) and not target_lines[j].strip().startswith("#EXTINF:"):
+                      current_block.append(target_lines[j])
+                      j += 1
 
-                  if is_us1:
-                      if us1_block:
-                          print("Zoh.m3u-ലെ പഴയ United Sports 1 മാറ്റി പുതിയത് വെക്കുന്നു...")
-                          output_lines.extend(us1_block)
-                          us1_replaced = True
-                      i += 1
-                      while i < len(target_lines) and not target_lines[i].strip().startswith("#EXTINF:"):
-                          i += 1
+                  ch_type = identify_channel(current_block)
+
+                  if ch_type == 1 and us1_block:
+                      print("Zoh.m3u-ലെ പഴയ United Sports 1 മാറ്റി പുതിയത് വെക്കുന്നു...")
+                      output_lines.extend(us1_block)
+                      us1_replaced = True
+                      i = j
                       continue
-
-                  elif is_us2:
-                      if us2_block:
-                          print("Zoh.m3u-ലെ പഴയ United Sports 2 മാറ്റി പുതിയത് വെക്കുന്നു...")
-                          output_lines.extend(us2_block)
-                          us2_replaced = True
-                      i += 1
-                      while i < len(target_lines) and not target_lines[i].strip().startswith("#EXTINF:"):
-                          i += 1
+                  elif ch_type == 2 and us2_block:
+                      print("Zoh.m3u-ലെ പഴയ United Sports 2 മാറ്റി പുതിയത് വെക്കുന്നു...")
+                      output_lines.extend(us2_block)
+                      us2_replaced = True
+                      i = j
                       continue
 
               output_lines.append(line)
               i += 1
 
-          # ഫയലിൽ മുൻപ് ഇവ ഇല്ലായിരുന്നു എങ്കിൽ മാത്രം അവസാനം ചേർക്കുന്നു
           if us1_block and not us1_replaced:
-              print("ഫയലിൽ മുൻപ് United Sports 1 ഉണ്ടായിരുന്നില്ല, അവസാനം ചേർക്കുന്നു.")
               output_lines.extend(us1_block)
 
           if us2_block and not us2_replaced:
-              print("ഫയലിൽ മുൻപ് United Sports 2 ഉണ്ടായിരുന്നില്ല, അവസാനം ചേർക്കുന്നു.")
               output_lines.extend(us2_block)
 
-          # 6. ഫയൽ സേവ് ചെയ്യുന്നു
           with open(target_file, "w", encoding="utf-8") as f:
               f.write("\n".join(output_lines) + "\n")
 
