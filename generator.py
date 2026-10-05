@@ -2,14 +2,13 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import json
 import base64
 import os
-from requests.adapters import HTTPAdapter
 import requests
+from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 from urllib.parse import urljoin
-import threading
 from bs4 import BeautifulSoup
 
-PLAYLIST_URL = os.environ.get("PLAYLIST_URL")
+PLAYLIST_URL = os.environ.get("PLAYLIST_URL", "").strip()
 IP_MANAGER_URL = "https://game.playindia.fun/Jtv/IP.php?id=RiYlIZ"
 
 MAX_CHANNELS = 1000
@@ -18,12 +17,13 @@ MAX_WORKERS = 40
 def clear_old_ips(session):
     print("[*] Checking and clearing old IPs from IP Manager...")
     headers = {
-        "User-Agent": "Denver1769",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
         "Referer": "https://game.playindia.fun/"
     }
     try:
         res = session.get(IP_MANAGER_URL, headers=headers, timeout=10)
         if res.status_code != 200:
+            print(f"[-] IP Manager check skipped: HTTP {res.status_code}")
             return
         soup = BeautifulSoup(res.text, 'html.parser')
         forms = soup.find_all('form')
@@ -34,18 +34,21 @@ def clear_old_ips(session):
             if action_input and ip_input:
                 ip_list.append(ip_input.get('value'))
         if not ip_list:
+            print("[+] No old IPs to delete.")
             return
+
         def delete_single(ip_val):
             data = {'action': 'delete_ip', 'ip': ip_val}
             try:
                 session.post(IP_MANAGER_URL, data=data, headers=headers, timeout=5)
             except Exception:
                 pass
+
         with ThreadPoolExecutor(max_workers=15) as executor:
             executor.map(delete_single, ip_list)
-        print("[+] All old IPs cleared successfully!\n")
+        print(f"[+] Cleared {len(ip_list)} old IP(s) successfully!\n")
     except Exception as e:
-        print(f"[-] Error clearing IPs: {e}")
+        print(f"[-] Error clearing IPs (non-fatal): {e}")
 
 def get_robust_session():
     session = requests.Session()
@@ -157,7 +160,7 @@ def process_single_channel(i, lines, session):
         elif is_sliv:
             user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         else:
-            user_agent = "Denver1769"
+            user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 
         for f in range(i + 1, min(len(lines), i + 4)):
             sub_f = lines[f].strip()
@@ -169,7 +172,7 @@ def process_single_channel(i, lines, session):
             try:
                 if '"' in key_url:
                     key_url = key_url.replace('"', "")
-                key_res = session.get(key_url, headers={"User-Agent": user_agent}, timeout=3)
+                key_res = session.get(key_url, headers={"User-Agent": user_agent}, timeout=4)
                 if key_res.status_code == 200:
                     key_json = key_res.json()
                     key_pairs = []
@@ -282,27 +285,32 @@ def process_single_channel(i, lines, session):
 
 def generate_safe_playlist_1000():
     if not PLAYLIST_URL:
-        raise ValueError("PLAYLIST_URL environment variable is missing or empty!")
+        raise ValueError("PLAYLIST_URL environment variable is missing or empty! Configure it in GitHub Secrets.")
 
     session = get_robust_session()
     clear_old_ips(session)
 
-    print("[*] Fetching playlist from source...")
-    res = session.get(PLAYLIST_URL, headers={"User-Agent": "Denver1769"}, timeout=15)
-    if res.status_code != 200:
-        raise RuntimeError(f"Failed to download playlist. HTTP Status: {res.status_code}")
+    download_headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+        "Accept": "*/*"
+    }
 
-    lines = res.text.splitlines()  
+    print("[*] Fetching playlist from PLAYLIST_URL...")
+    res = session.get(PLAYLIST_URL, headers=download_headers, timeout=20)
+    if res.status_code != 200:
+        raise RuntimeError(f"Failed to download playlist. HTTP Status: {res.status_code}. URL might be invalid or expired.")
+
+    lines = res.text.splitlines()
     all_channels = []
-    for i, line in enumerate(lines):  
-        if line.strip().startswith("#EXTINF"):  
+    for i, line in enumerate(lines):
+        if line.strip().startswith("#EXTINF"):
             all_channels.append((i, line))
 
-    if not all_channels:  
-        raise RuntimeError("No channels found with #EXTINF in downloaded playlist!")
+    if not all_channels:
+        raise RuntimeError("Downloaded file does not contain valid channels (#EXTINF tag missing).")
 
     target_indices = [item[0] for item in all_channels[:MAX_CHANNELS]]
-    print(f"[*] Processing {len(target_indices)} channels cleanly...")  
+    print(f"[*] Processing {len(target_indices)} channels...")
 
     channel_results = {}
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
@@ -317,16 +325,16 @@ def generate_safe_playlist_1000():
                 if res_lines:
                     channel_results[idx] = res_lines
             except Exception as e:
-                print(f"[-] Error processing channel index {idx}: {e}")
+                print(f"[-] Channel index {idx} failed: {e}")
 
     new_lines = ["#EXTM3U"]
     for idx in target_indices:
         if idx in channel_results:
             new_lines.extend(channel_results[idx])
 
-    output_file = "Rexz.m3u"  
-    with open(output_file, "w", encoding="utf-8") as f:  
-        f.write("\n".join(new_lines))  
+    output_file = "Rexz.m3u"
+    with open(output_file, "w", encoding="utf-8") as f:
+        f.write("\n".join(new_lines))
 
     print(f"\n[+] Success! Final playlist saved as '{output_file}'.")
 
