@@ -33,7 +33,7 @@ jobs:
           import time
           from playwright.sync_api import sync_playwright
 
-          url = "https://premiumplugx.me/vzy/playlist.php"
+          url = "https://game.playindia.fun/Jtv/RiYlIZ/Playlist.m3u"
 
           with sync_playwright() as p:
               browser = p.chromium.launch(
