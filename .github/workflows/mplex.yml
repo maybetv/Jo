@@ -23,69 +23,180 @@ jobs:
 
       - name: Install dependencies & Playwright Browser
         run: |
-          pip install playwright
+          pip install playwright requests beautifulsoup4
           playwright install --with-deps chromium
 
-      - name: Fetch and Process PHP Playlist
+      - name: Fetch, Match and Fix Playlist
         run: |
           python - << 'EOF'
           import sys
+          import os
+          import re
           import time
+          import base64
+          import requests
+          from urllib.parse import urljoin
           from playwright.sync_api import sync_playwright
 
-          url = "https://game.playindia.fun/Jtv/RiYlIZ/Playlist.m3u"
+          SOURCE_URL = "https://game.playindia.fun/Jtv/RiYlIZ/Playlist.m3u"
+          TARGET_FILE = "plex.m3u"
 
+          # 1. നിലവിലുള്ള ഫയലിലെ ചാനൽ ഐഡികൾ/പേരുകൾ കണ്ടെത്തുന്നു
+          existing_valid_ids = set()
+          if os.path.exists(TARGET_FILE):
+              with open(TARGET_FILE, "r", encoding="utf-8", errors="ignore") as f:
+                  for line in f:
+                      if line.startswith("#EXTINF"):
+                          tid = re.search(r'tvg-id="([^"]+)"', line)
+                          if tid:
+                              existing_valid_ids.add(tid.group(1).strip().lower())
+                          else:
+                              # പേര് അടിസ്ഥാനമാക്കി
+                              parts = line.strip().split(",")
+                              if len(parts) > 1:
+                                  existing_valid_ids.add(parts[-1].strip().lower())
+
+          print(f"[*] Found {len(existing_valid_ids)} target channels to match.")
+
+          # 2. Playwright വഴി സോഴ്സ് ലിങ്കിൽ നിന്ന് ഡാറ്റ എടുക്കുന്നു
+          raw_playlist = ""
           with sync_playwright() as p:
               browser = p.chromium.launch(
                   headless=True,
-                  args=[
-                      "--disable-blink-features=AutomationControlled",
-                      "--no-sandbox"
-                  ]
+                  args=["--disable-blink-features=AutomationControlled", "--no-sandbox"]
               )
               context = browser.new_context(
                   user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
                   viewport={"width": 1920, "height": 1080}
               )
-              
               page = context.new_page()
-              print("Connecting to URL and waiting for Cloudflare challenge...")
-              
+              print("[*] Accessing source URL...")
               try:
-                  page.goto(url, timeout=60000, wait_until="networkidle")
+                  page.goto(SOURCE_URL, timeout=60000, wait_until="networkidle")
               except Exception as e:
-                  print(f"Initial navigation completed or timed out: {e}")
+                  print(f"Navigation warning: {e}")
 
-              # Cloudflare challenge പൂർത്തിയാകാൻ പരമാവധി 20 സെക്കൻഡ് വരെ കാത്തിരിക്കുന്നു
-              content = ""
-              for i in range(20):
-                  content = page.content()
-                  if "Just a moment..." not in content and ("#EXTM3U" in content or "#EXTINF" in content):
+              for _ in range(25):
+                  page_content = page.content()
+                  if "Just a moment..." not in page_content and ("#EXTM3U" in page_content or "#EXTINF" in page_content):
                       break
                   time.sleep(1)
 
-              # പ്ലെയിൻ ടെക്സ്റ്റ് ആയി ലഭിക്കാൻ body ടാഗിന്റെ ടെക്സ്റ്റ് എടുക്കുന്നു
               try:
                   text_content = page.inner_text("body")
                   if "#EXTM3U" in text_content or "#EXTINF" in text_content:
-                      content = text_content
+                      raw_playlist = text_content
+                  else:
+                      raw_playlist = page.content()
               except Exception:
-                  pass
+                  raw_playlist = page.content()
 
               browser.close()
 
-              content = content.strip()
+          if "#EXTM3U" not in raw_playlist and "#EXTINF" not in raw_playlist:
+              print("[-] Error: Failed to fetch valid playlist content from source.")
+              sys.exit(1)
 
-              if "#EXTM3U" not in content and "#EXTINF" not in content:
-                  print("Failed to bypass Cloudflare challenge or invalid playlist!")
-                  print("Preview:")
-                  print(content[:300])
-                  sys.exit(1)
+          def b64_to_hex(b64_str):
+              padding = 4 - (len(b64_str) % 4)
+              if padding < 4:
+                  b64_str += '=' * padding
+              try:
+                  return base64.urlsafe_b64decode(b64_str).hex()
+              except Exception:
+                  return b64_str
 
-              with open("plex.m3u", "w", encoding="utf-8") as f:
-                  f.write(content)
+          session = requests.Session()
 
-              print("Success: Playlist downloaded and saved to plex.m3u!")
+          # 3. സോഴ്സ് ചാനലുകളെ Parsing ചെയ്യുന്നു
+          lines = raw_playlist.splitlines()
+          processed_channels = []
+          i = 0
+          while i < len(lines):
+              line = lines[i].strip()
+              if line.startswith("#EXTINF"):
+                  extinf = line
+                  channel_id = ""
+                  tid = re.search(r'tvg-id="([^"]+)"', extinf)
+                  ch_name = extinf.split(",")[-1].strip().lower() if "," in extinf else ""
+                  
+                  if tid:
+                      channel_id = tid.group(1).strip().lower()
+                  else:
+                      channel_id = ch_name
+
+                  # നിലവിലുള്ള ഫയലിൽ ഉള്ള ചാനൽ മാത്രമാണോ എന്ന് പരിശോധിക്കുന്നു
+                  if existing_valid_ids and channel_id not in existing_valid_ids and ch_name not in existing_valid_ids:
+                      i += 1
+                      continue
+
+                  # അടുത്ത ലൈനുകളിൽ നിന്നുള്ള പ്രോപ്പർട്ടികൾ കണ്ടെത്തുന്നു
+                  stream_url = ""
+                  key_url = None
+                  headers_map = {}
+                  user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+
+                  j = i + 1
+                  while j < len(lines) and not lines[j].strip().startswith("#EXTINF"):
+                      sub = lines[j].strip()
+                      if sub.startswith("http://") or sub.startswith("https://"):
+                          stream_url = sub
+                      elif "license_key=" in sub:
+                          key_url = sub.split("license_key=")[1].strip()
+                      elif sub.startswith("#EXTVLCOPT:http-user-agent="):
+                          user_agent = sub.split("=")[1].strip()
+                      j += 1
+
+                  if stream_url:
+                      # DRM ClearKey ഫെച്ച് ചെയ്യുന്നു
+                      formatted_key = "null:null"
+                      if key_url:
+                          try:
+                              key_clean = key_url.replace('"', '').strip()
+                              kr = session.get(key_clean, headers={"User-Agent": user_agent}, timeout=4)
+                              if kr.status_code == 200:
+                                  kj = kr.json()
+                                  k_list = kj.get("base64", {}).get("keys", [])
+                                  pairs = []
+                                  for k_obj in k_list:
+                                      kid = k_obj.get("kid", "")
+                                      k = k_obj.get("k", "")
+                                      if kid and k:
+                                          pairs.append(f"{b64_to_hex(kid)}:{b64_to_hex(k)}")
+                                  if pairs:
+                                      formatted_key = ",".join(pairs)
+                          except Exception:
+                              pass
+
+                      # ഓഡിയോ / വീഡിയോ കോഡെക് സപ്പോർട്ടിനും ഹെഡറുകൾക്കുമുള്ള Kodi പ്രോപ്പർട്ടികൾ
+                      ch_block = [extinf]
+                      ch_block.append("#KODIPROP:inputstream=inputstream.adaptive")
+                      manifest_type = "mpd" if ".mpd" in stream_url.lower() else "hls"
+                      ch_block.append(f"#KODIPROP:inputstream.adaptive.manifest_type={manifest_type}")
+                      ch_block.append("#KODIPROP:inputstream.adaptive.license_type=clearkey")
+                      ch_block.append(f"#KODIPROP:inputstream.adaptive.license_key={formatted_key}")
+                      ch_block.append(f"#EXTVLCOPT:http-user-agent={user_agent}")
+                      
+                      # ലൈവ് സ്ട്രീം ടോക്കൺ സപ്പോർട്ട് (Audio/Video drop ഒഴിവാക്കാൻ)
+                      if "jio" in stream_url.lower() or "jtv" in stream_url.lower():
+                          ch_block.append('#EXTHTTP:{"Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/","Connection":"keep-alive"}')
+                      elif "hotstar" in stream_url.lower():
+                          ch_block.append('#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Connection":"keep-alive"}')
+                      elif "sony" in stream_url.lower():
+                          ch_block.append('#EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com/","Connection":"keep-alive"}')
+                          
+                      ch_block.append(stream_url)
+                      processed_channels.append("\n".join(ch_block))
+
+                  i = j - 1
+              i += 1
+
+          final_output = "#EXTM3U\n" + "\n".join(processed_channels)
+
+          with open(TARGET_FILE, "w", encoding="utf-8") as f:
+              f.write(final_output)
+
+          print(f"[+] Successfully matched and updated {len(processed_channels)} channels inside {TARGET_FILE}!")
           EOF
 
       - name: Commit and push changes
@@ -99,6 +210,7 @@ jobs:
             echo "No changes found in playlist. Skipping push."
           else
             echo "Changes detected, pushing new playlist..."
-            git commit -m "Auto-update plex.m3u [$(date -u +'%Y-%m-%d %H:%M:%S UTC')]"
-            git push
+            git commit -m "Auto-update and fix audio/video for plex.m3u [skip ci]"
+            git pull --rebase origin main || git pull --rebase origin master || true
+            git push origin HEAD:main || git push origin HEAD:master || true
           fi
