@@ -34,7 +34,7 @@ jobs:
         PLAYLIST_URL: ${{ secrets.PLAYLIST_URL }}
       run: |
         if [ -z "$PLAYLIST_URL" ]; then
-          echo "::error::PLAYLIST_URL secret is not set in Repository Secrets!"
+          echo "::error::PLAYLIST_URL secret is not defined in GitHub Secrets!"
           exit 1
         fi
         python3 generator.py
@@ -47,21 +47,23 @@ jobs:
         retain_days: 0
         keep_minimum_runs: 1
 
-    - name: Commit and push always
+    - name: Commit and push complete playlist folder
       run: |
-        if [ ! -f "Rexz.m3u" ]; then
-          echo "::error::Rexz.m3u does not exist. Python execution likely failed."
+        if [ ! -f "playlist/Rexz.m3u" ]; then
+          echo "::error::playlist/Rexz.m3u not found! Execution failed."
           exit 1
         fi
 
         git config --global user.name "GitHub Actions Bot"
         git config --global user.email "actions@github.com"
-        git add Rexz.m3u
+        
+        # Add the entire new folder and file
+        git add playlist/Rexz.m3u
 
         if git diff --staged --quiet; then
-          echo "No changes detected in Rexz.m3u"
+          echo "No changes found. Playlist is already up to date."
         else
-          git commit -m "Update Rexz.m3u [skip ci]"
+          git commit -m "Update complete playlist Rexz.m3u [skip ci]"
           git pull --rebase origin main || git pull --rebase origin master || true
           git push origin HEAD:main || git push origin HEAD:master || true
         fi
