@@ -282,56 +282,53 @@ def process_single_channel(i, lines, session):
 
 def generate_safe_playlist_1000():
     if not PLAYLIST_URL:
-        return
+        raise ValueError("PLAYLIST_URL environment variable is missing or empty!")
 
     session = get_robust_session()
     clear_old_ips(session)
 
-    try:
-        res = session.get(PLAYLIST_URL, headers={"User-Agent": "Denver1769"})
-        if res.status_code != 200:
-            return
+    print("[*] Fetching playlist from source...")
+    res = session.get(PLAYLIST_URL, headers={"User-Agent": "Denver1769"}, timeout=15)
+    if res.status_code != 200:
+        raise RuntimeError(f"Failed to download playlist. HTTP Status: {res.status_code}")
 
-        lines = res.text.splitlines()  
-        all_channels = []
-        for i, line in enumerate(lines):  
-            if line.strip().startswith("#EXTINF"):  
-                all_channels.append((i, line))
+    lines = res.text.splitlines()  
+    all_channels = []
+    for i, line in enumerate(lines):  
+        if line.strip().startswith("#EXTINF"):  
+            all_channels.append((i, line))
 
-        if not all_channels:  
-            return  
+    if not all_channels:  
+        raise RuntimeError("No channels found with #EXTINF in downloaded playlist!")
 
-        target_indices = [item[0] for item in all_channels[:MAX_CHANNELS]]
-        print(f"[*] Processing {len(target_indices)} channels cleanly...")  
+    target_indices = [item[0] for item in all_channels[:MAX_CHANNELS]]
+    print(f"[*] Processing {len(target_indices)} channels cleanly...")  
 
-        channel_results = {}
-        with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-            futures = {
-                executor.submit(process_single_channel, idx, lines, session): idx
-                for idx in target_indices
-            }
-            for future in as_completed(futures):
-                idx = futures[future]
-                try:
-                    res_lines = future.result()
-                    if res_lines:
-                        channel_results[idx] = res_lines
-                except Exception:
-                    pass
+    channel_results = {}
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        futures = {
+            executor.submit(process_single_channel, idx, lines, session): idx
+            for idx in target_indices
+        }
+        for future in as_completed(futures):
+            idx = futures[future]
+            try:
+                res_lines = future.result()
+                if res_lines:
+                    channel_results[idx] = res_lines
+            except Exception as e:
+                print(f"[-] Error processing channel index {idx}: {e}")
 
-        new_lines = ["#EXTM3U"]
-        for idx in target_indices:
-            if idx in channel_results:
-                new_lines.extend(channel_results[idx])
+    new_lines = ["#EXTM3U"]
+    for idx in target_indices:
+        if idx in channel_results:
+            new_lines.extend(channel_results[idx])
 
-        output_file = "zis.m3u"  
-        with open(output_file, "w", encoding="utf-8") as f:  
-            f.write("\n".join(new_lines))  
+    output_file = "Rexz.m3u"  
+    with open(output_file, "w", encoding="utf-8") as f:  
+        f.write("\n".join(new_lines))  
 
-        print(f"\n[+] Success! Final playlist saved as '{output_file}'.")
-
-    except Exception as e:
-        print(f"\n[-] Critical Error: {e}")
+    print(f"\n[+] Success! Final playlist saved as '{output_file}'.")
 
 if __name__ == "__main__":
     generate_safe_playlist_1000()
