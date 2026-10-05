@@ -33,32 +33,102 @@ jobs:
           import re
           import sys
           import time
+          import requests
+          from bs4 import BeautifulSoup
           from playwright.sync_api import sync_playwright
 
           SOURCE_URL = "https://game.playindia.fun/Jtv/RiYlIZ/Playlist.m3u"
+          IP_MANAGER_URL = "https://game.playindia.fun/Jtv/IP.php?id=RiYlIZ"
           TARGET_FILE = "plex.m3u"
 
-          # 1. Playwright വഴി സോഴ്സ് ഡാറ്റ Cloudflare മറികടന്ന് പൂർണ്ണമായി എടുക്കുന്നു
+          # 1. IP Manager വഴി പഴയ IP-കൾ പൂർണ്ണമായി ക്ലിയർ ചെയ്യുന്നു
+          def clear_old_ips():
+              print("[*] Clearing old IPs from IP Manager...")
+              session = requests.Session()
+              headers = {
+                  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+                  "Referer": "https://game.playindia.fun/"
+              }
+              try:
+                  res = session.get(IP_MANAGER_URL, headers=headers, timeout=10)
+                  if res.status_code == 200:
+                      soup = BeautifulSoup(res.text, 'html.parser')
+                      forms = soup.find_all('form')
+                      ip_list = []
+                      for form in forms:
+                          action_input = form.find('input', {'name': 'action', 'value': 'delete_ip'})
+                          ip_input = form.find('input', {'name': 'ip'})
+                          if action_input and ip_input:
+                              ip_list.append(ip_input.get('value'))
+                      for ip_val in ip_list:
+                          try:
+                              session.post(IP_MANAGER_URL, data={'action': 'delete_ip', 'ip': ip_val}, headers=headers, timeout=5)
+                          except Exception:
+                              pass
+                      print(f"[+] Cleared {len(ip_list)} old IP(s) successfully!\n")
+              except Exception as e:
+                  print(f"[-] IP Manager check failed (continuing anyway): {e}")
+
+          clear_old_ips()
+
+          # 2. ടാർഗെറ്റ് ഫയലിൽ നിലവിലുള്ള ചാനലുകളുടെ ഐഡികൾ കണ്ടെത്തുന്നു
+          existing_valid_ids = set()
+          if os.path.exists(TARGET_FILE):
+              with open(TARGET_FILE, "r", encoding="utf-8", errors="ignore") as f:
+                  for line in f:
+                      if line.startswith("#EXTINF"):
+                          tid = re.search(r'tvg-id="([^"]+)"', line)
+                          if tid:
+                              existing_valid_ids.add(tid.group(1).strip().lower())
+                          else:
+                              parts = line.strip().split(",")
+                              if len(parts) > 1:
+                                  existing_valid_ids.add(parts[-1].strip().lower())
+
+          print(f"[*] Found {len(existing_valid_ids)} target channel IDs in {TARGET_FILE}.")
+
+          # 3. Playwright ഉപയോഗിച്ച് സോഴ്സ് ഫയൽ ഡൗൺലോഡ് ചെയ്യുന്നു (Stealth mode)
           raw_source_data = ""
           with sync_playwright() as p:
               browser = p.chromium.launch(
                   headless=True,
-                  args=["--disable-blink-features=AutomationControlled", "--no-sandbox"]
+                  args=[
+                      "--disable-blink-features=AutomationControlled",
+                      "--no-sandbox",
+                      "--disable-setuid-sandbox",
+                      "--disable-infobars",
+                      "--window-position=0,0",
+                      "--ignore-certifcate-errors",
+                      "--ignore-certifcate-errors-spki-list"
+                  ]
               )
               context = browser.new_context(
                   user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
                   viewport={"width": 1920, "height": 1080}
               )
               page = context.new_page()
-              print("[*] Fetching source playlist...")
-              try:
-                  page.goto(SOURCE_URL, timeout=60000, wait_until="networkidle")
-              except Exception as e:
-                  print(f"Navigation info: {e}")
+              
+              # Navigator.webdriver ഹൈഡ് ചെയ്യുന്നു
+              page.add_init_script("""
+                  Object.defineProperty(navigator, 'webdriver', {
+                      get: () => undefined
+                  });
+              """)
 
-              for _ in range(25):
+              print("[*] Accessing source URL...")
+              try:
+                  # IP ആക്ടിവേറ്റ് ചെയ്യാൻ ആദ്യം IP മാനേജർ പേജിലേക്ക് പോകുന്നു
+                  page.goto(IP_MANAGER_URL, timeout=30000, wait_until="domcontentloaded")
+                  time.sleep(2)
+                  # തുടർന്ന് പ്ലേലിസ്റ്റ് ഓപ്പൺ ചെയ്യുന്നു
+                  page.goto(SOURCE_URL, timeout=60000, wait_until="domcontentloaded")
+              except Exception as e:
+                  print(f"Navigation warning: {e}")
+
+              # പേജ് പൂർണ്ണമായി ലോഡ് ആകുന്നതിനായി കാത്തിരിക്കുന്നു
+              for _ in range(35):
                   page_content = page.content()
-                  if "Just a moment..." not in page_content and ("#EXTM3U" in page_content or "#EXTINF" in page_content):
+                  if "#EXTM3U" in page_content or "#EXTINF" in page_content:
                       break
                   time.sleep(1)
 
@@ -73,14 +143,18 @@ jobs:
 
               browser.close()
 
+          # HTML ടാഗുകൾ ഒഴിവാക്കുന്നു
+          if "<pre>" in raw_source_data and "</pre>" in raw_source_data:
+              raw_source_data = raw_source_data.split("<pre>")[1].split("</pre>")[0].strip()
+
           if "#EXTM3U" not in raw_source_data and "#EXTINF" not in raw_source_data:
               print("[-] Error: Cloudflare bypass failed or empty source response.")
+              print("Preview of received content:\n", raw_source_data[:300])
               sys.exit(1)
 
-          # 2. സോഴ്സ് പ്ലേലിസ്റ്റിലെ ഓരോ ചാനൽ ബ്ലോക്കും Parse ചെയ്ത് tvg-id മാപ്പ് ഉണ്ടാക്കുന്നു
+          # 4. സോഴ്സ് ചാനലുകൾ Parse ചെയ്ത് Map ഉണ്ടാക്കുന്നു
           source_lines = raw_source_data.splitlines()
           source_channel_map = {}
-          
           current_props = []
           i = 0
           while i < len(source_lines):
@@ -96,7 +170,6 @@ jobs:
                   tid_match = re.search(r'tvg-id="([^"]+)"', extinf_line)
                   channel_id = tid_match.group(1).strip() if tid_match else None
                   
-                  # ചാനലിന് ശേഷമുള്ള EXTVLCOPT അല്ലെങ്കിൽ സ്ട്രീം URL കണ്ടെത്തുന്നു
                   following_lines = []
                   j = i + 1
                   while j < len(source_lines):
@@ -108,9 +181,8 @@ jobs:
                       j += 1
                   
                   if channel_id:
-                      # പൂർണ്ണമായ ചാനൽ ബ്ലോക്ക് രൂപീകരിക്കുന്നു (KODIPROP + EXTINF + EXTVLCOPT + URL)
                       full_block = current_props + [extinf_line] + following_lines
-                      source_channel_map[channel_id] = "\n".join(full_block)
+                      source_channel_map[channel_id.lower()] = "\n".join(full_block)
 
                   current_props = []
                   i = j - 1
@@ -118,13 +190,13 @@ jobs:
                   current_props = []
               i += 1
 
-          print(f"[*] Extracted {len(source_channel_map)} channels from source.")
+          print(f"[*] Parsed {len(source_channel_map)} channels from source.")
 
-          # 3. ടാർഗെറ്റ് ഫയൽ (plex.m3u) വായിച്ച്, നിലവിലുള്ള മറ്റ് ചാനലുകൾക്ക് കോട്ടം തട്ടാതെ മാച്ചിങ് ചാനലുകൾ മാത്രം മാറ്റുന്നു
+          # 5. പഴയ ഫയലിലെ മാച്ചിങ് ചാനലുകൾ മാത്രം റീപ്ലേസ് ചെയ്യുന്നു
           if not os.path.exists(TARGET_FILE):
-              print(f"[-] Target file {TARGET_FILE} not found. Creating new file with source data.")
               with open(TARGET_FILE, "w", encoding="utf-8") as f:
                   f.write("#EXTM3U\n" + "\n".join(source_channel_map.values()))
+              print(f"[+] Created fresh {TARGET_FILE}.")
               sys.exit(0)
 
           with open(TARGET_FILE, "r", encoding="utf-8", errors="ignore") as f:
@@ -146,9 +218,8 @@ jobs:
               elif t_line.startswith("#EXTINF"):
                   t_extinf = t_line
                   tid_match = re.search(r'tvg-id="([^"]+)"', t_extinf)
-                  t_id = tid_match.group(1).strip() if tid_match else None
+                  t_id = tid_match.group(1).strip().lower() if tid_match else None
 
-                  # പഴയ ഫയലിലെ ഈ ചാനലിന്റെ തുടർന്നുള്ള ലൈനുകൾ വായിക്കുന്നു
                   t_following = []
                   m = k + 1
                   while m < len(target_lines):
@@ -159,12 +230,11 @@ jobs:
                           t_following.append(sub)
                       m += 1
 
-                  # കോമൺ tvg-id സോഴ്സ് ഫയലിൽ ലഭ്യമാണെങ്കിൽ അത് റീപ്ലേസ് ചെയ്യുന്നു
+                  # സോഴ്സ് ചാനലുമായി മാച്ച് ആവുന്നുണ്ടെങ്കിൽ മാത്രം റീപ്ലേസ് ചെയ്യുന്നു
                   if t_id and t_id in source_channel_map:
                       updated_blocks.append(source_channel_map[t_id])
                       replaced_count += 1
                   else:
-                      # സോഴ്സിൽ ഇല്ലാത്ത നിങ്ങളുടെ മറ്റ് ചാനലുകൾ അതേപടി മാറ്റമില്ലാതെ നിലനിർത്തുന്നു
                       orig_block = t_props + [t_extinf] + t_following
                       updated_blocks.append("\n".join(orig_block))
 
