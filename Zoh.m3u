@@ -22,6 +22,9 @@ https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_i
 https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1791216052~exp=1791237652~acl=/bpk-tv/Asianet_HD_BTS/WDVLive/*~hmac=c4ba3700b74b7b868004221ef3f64b975783d4a6a7259f8a1a239796c2a15b44
 
 
+
+
+
 #EXTINF:-1 tvg-id="1118" tvg-name="Asianet" tvg-logo="https://img.media.jio.com/tvpimages/23/82/302101_1753203237028_l_medium.jpg" group-title="Entertainment",Asianet
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -31,7 +34,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_BTS/WDVLive/index.mpd?__hdnea__=s
 
 
 
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/AsianetHD.m3u8
+
 
 
 
