@@ -21,7 +21,7 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install dependencies & Playwright Browser
+      - name: Install dependencies & Playwright
         run: |
           pip install playwright requests beautifulsoup4
           playwright install --with-deps chromium
@@ -39,171 +39,119 @@ jobs:
           from bs4 import BeautifulSoup
           from playwright.sync_api import sync_playwright
 
-          # പ്രാഥമിക ലിങ്കുകൾ
-          ENV_PLAYLIST_URL = os.environ.get("PLAYLIST_URL", "").strip()
-          IP_MANAGER_URL = "https://game.playindia.fun/Jtv/IP.php?id=RiYlIZ"
           TARGET_FILE = "plex.m3u"
+          IP_MANAGER_URL = "https://game.playindia.fun/Jtv/IP.php?id=RiYlIZ"
+          SECRET_URL = os.environ.get("PLAYLIST_URL", "").strip()
 
-          # 1. IP മാനേജറിൽ IP രജിസ്റ്റർ ചെയ്യുകയും പഴയവ ക്ലിയർ ചെയ്യുകയും ചെയ്യുന്നു
-          def prepare_ip_manager():
-              print("[*] Accessing IP Manager and clearing stale sessions...")
-              session = requests.Session()
-              headers = {
-                  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-                  "Referer": "https://game.playindia.fun/"
-              }
-              discovered_links = []
-              try:
-                  res = session.get(IP_MANAGER_URL, headers=headers, timeout=15)
-                  if res.status_code == 200:
-                      soup = BeautifulSoup(res.text, 'html.parser')
-                      
-                      # പേജിൽ ലഭ്യമായ .m3u ഡൗൺലോഡ് ലിങ്കുകൾ ഉണ്ടെങ്കിൽ കണ്ടെത്തുന്നു
-                      for a in soup.find_all('a', href=True):
-                          href = a['href']
-                          if ".m3u" in href:
-                              if not href.startswith("http"):
-                                  href = requests.compat.urljoin(IP_MANAGER_URL, href)
-                              discovered_links.append(href)
-
-                      # പഴയ IP-കൾ ഡിലീറ്റ് ചെയ്യുന്നു
-                      forms = soup.find_all('form')
-                      ip_list = []
-                      for form in forms:
-                          action_input = form.find('input', {'name': 'action', 'value': 'delete_ip'})
-                          ip_input = form.find('input', {'name': 'ip'})
-                          if action_input and ip_input:
-                              ip_list.append(ip_input.get('value'))
-                      
-                      for ip_val in ip_list:
+          # 1. IP Manager വഴി ഐപി ആക്റ്റീവ് ആക്കുന്നു
+          session = requests.Session()
+          headers = {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+              "Referer": "https://game.playindia.fun/"
+          }
+          try:
+              res = session.get(IP_MANAGER_URL, headers=headers, timeout=10)
+              if res.status_code == 200:
+                  soup = BeautifulSoup(res.text, 'html.parser')
+                  forms = soup.find_all('form')
+                  for form in forms:
+                      action_input = form.find('input', {'name': 'action', 'value': 'delete_ip'})
+                      ip_input = form.find('input', {'name': 'ip'})
+                      if action_input and ip_input:
                           try:
-                              session.post(IP_MANAGER_URL, data={'action': 'delete_ip', 'ip': ip_val}, headers=headers, timeout=5)
+                              session.post(IP_MANAGER_URL, data={'action': 'delete_ip', 'ip': ip_input.get('value')}, headers=headers, timeout=5)
                           except Exception:
                               pass
-                      print(f"[+] Cleared {len(ip_list)} old IP entries successfully.")
-              except Exception as e:
-                  print(f"[-] IP Manager warning: {e}")
-              
-              return discovered_links
+                  print("[+] IP refreshed via manager.")
+          except Exception as e:
+              print(f"[-] IP Manager check note: {e}")
 
-          discovered_urls = prepare_ip_manager()
-
-          # പ്ലേലിസ്റ്റ് URL ലിസ്റ്റ് നിർണയിക്കുന്നു
-          candidate_urls = []
-          if ENV_PLAYLIST_URL:
-              candidate_urls.append(ENV_PLAYLIST_URL)
-          candidate_urls.extend(discovered_urls)
-          candidate_urls.extend([
-              "https://game.playindia.fun/Jtv/RiYlIZ/all.m3u",
-              "https://game.playindia.fun/Jtv/RiYlIZ/playlist.m3u",
-              "https://game.playindia.fun/Jtv/all.m3u?id=RiYlIZ",
-              "https://game.playindia.fun/Jtv/RiYlIZ/Playlist.m3u"
-          ])
-
-          # 2. Playwright വഴി സാധുവായ പ്ലേലിസ്റ്റ് ഡൗൺലോഡ് ചെയ്യുന്നു
+          # 2. സോഴ്സ് ലിങ്കിൽ നിന്ന് വിവരങ്ങൾ ശേഖരിക്കുന്നു
           raw_source_data = ""
+          candidates = [u for u in [SECRET_URL, "https://game.playindia.fun/Jtv/RiYlIZ/all.m3u"] if u]
+
           with sync_playwright() as p:
               browser = p.chromium.launch(
                   headless=True,
                   args=["--disable-blink-features=AutomationControlled", "--no-sandbox"]
               )
               context = browser.new_context(
-                  user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+                  user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                   viewport={"width": 1920, "height": 1080}
               )
               page = context.new_page()
               page.add_init_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined});")
 
-              # IP സെഷൻ ആക്റ്റീവ് ആക്കാൻ ആദ്യം IP പേജ് വിസിറ്റ് ചെയ്യുന്നു
               try:
-                  page.goto(IP_MANAGER_URL, timeout=30000, wait_until="domcontentloaded")
+                  page.goto(IP_MANAGER_URL, timeout=25000, wait_until="domcontentloaded")
                   time.sleep(2)
               except Exception:
                   pass
 
-              # ലഭ്യമയ ലിങ്കുകൾ ഓരോന്നായി പരീക്ഷിക്കുന്നു (404 ഒഴിവാക്കാൻ)
-              for test_url in list(dict.fromkeys(candidate_urls)):
-                  print(f"[*] Trying source candidate: {test_url}")
+              for url in candidates:
                   try:
-                      resp = page.goto(test_url, timeout=35000, wait_until="domcontentloaded")
+                      resp = page.goto(url, timeout=30000, wait_until="domcontentloaded")
                       if resp and resp.status == 404:
-                          print("    -> 404 Not Found, skipping.")
                           continue
 
                       for _ in range(15):
-                          text = page.inner_text("body")
-                          if "#EXTM3U" in text or "#EXTINF" in text:
-                              raw_source_data = text
-                              break
-                          raw_html = page.content()
-                          if "#EXTM3U" in raw_html or "#EXTINF" in raw_html:
-                              raw_source_data = raw_html
+                          txt = page.inner_text("body")
+                          if "#EXTM3U" in txt or "#EXTINF" in txt:
+                              raw_source_data = txt
                               break
                           time.sleep(1)
 
-                      if "#EXTM3U" in raw_source_data or "#EXTINF" in raw_source_data:
-                          print(f"[+] Successfully loaded playlist from: {test_url}")
+                      if raw_source_data:
                           break
-                  except Exception as e:
-                      print(f"    -> Failed: {e}")
+                  except Exception:
+                      continue
 
               browser.close()
 
-          # HTML ടാഗുകൾ ഉണ്ടെങ്കിൽ ക്ലീൻ ചെയ്യുന്നു
-          if "<pre>" in raw_source_data and "</pre>" in raw_source_data:
-              raw_source_data = raw_source_data.split("<pre>")[1].split("</pre>")[0].strip()
-
-          if "#EXTM3U" not in raw_source_data and "#EXTINF" not in raw_source_data:
-              print("[-] Error: Could not retrieve a valid playlist with channels from any candidate URL.")
-              sys.exit(1)
-
-          # 3. സോഴ്സ് ചാനലുകളെ Parse ചെയ്ത് Map ഉണ്ടാക്കുന്നു
-          source_lines = raw_source_data.splitlines()
+          # 3. സോഴ്സിലെ ചാനലുകളെ മാപ്പ് ചെയ്യുന്നു
           source_channel_map = {}
-          current_props = []
-          i = 0
-          while i < len(source_lines):
-              line = source_lines[i].strip()
-              if not line or line.startswith("#EXTM3U"):
-                  i += 1
-                  continue
+          if raw_source_data and ("#EXTM3U" in raw_source_data or "#EXTINF" in raw_source_data):
+              lines = raw_source_data.splitlines()
+              current_props = []
+              idx = 0
+              while idx < len(lines):
+                  l = lines[idx].strip()
+                  if not l or l.startswith("#EXTM3U"):
+                      idx += 1
+                      continue
 
-              if line.startswith("#KODIPROP:"):
-                  current_props.append(line)
-              elif line.startswith("#EXTINF"):
-                  extinf_line = line
-                  tid_match = re.search(r'tvg-id="([^"]+)"', extinf_line)
-                  channel_id = tid_match.group(1).strip().lower() if tid_match else None
-                  
-                  # തുടർന്ന് വരുന്ന EXTVLCOPT അല്ലെങ്കിൽ URL ലൈനുകൾ എടുക്കുന്നു
-                  following_lines = []
-                  j = i + 1
-                  while j < len(source_lines):
-                      sub = source_lines[j].strip()
-                      if sub.startswith("#EXTINF") or sub.startswith("#KODIPROP:"):
-                          break
-                      if sub:
-                          following_lines.append(sub)
-                      j += 1
-                  
-                  if channel_id:
-                      # കൃത്യമായ ബ്ലോക്ക്: KODIPROP + EXTINF + EXTVLCOPT + URL
-                      full_block = current_props + [extinf_line] + following_lines
-                      source_channel_map[channel_id] = "\n".join(full_block)
+                  if l.startswith("#KODIPROP:"):
+                      current_props.append(l)
+                  elif l.startswith("#EXTINF"):
+                      extinf_line = l
+                      tid = re.search(r'tvg-id="([^"]+)"', extinf_line)
+                      ch_id = tid.group(1).strip().lower() if tid else None
 
-                  current_props = []
-                  i = j - 1
-              else:
-                  current_props = []
-              i += 1
+                      next_lines = []
+                      j = idx + 1
+                      while j < len(lines):
+                          nxt = lines[j].strip()
+                          if nxt.startswith("#EXTINF") or nxt.startswith("#KODIPROP:"):
+                              break
+                          if nxt:
+                              next_lines.append(nxt)
+                          j += 1
 
-          print(f"[*] Extracted {len(source_channel_map)} channels with licenses/tokens from source.")
+                      if ch_id:
+                          block = current_props + [extinf_line] + next_lines
+                          source_channel_map[ch_id] = "\n".join(block)
 
-          # 4. നിലവിലുള്ള ഫയൽ വായിച്ച് മാച്ചിങ് ചാനലുകൾ മാത്രം റീപ്ലേസ് ചെയ്യുന്നു
+                      current_props = []
+                      idx = j - 1
+                  else:
+                      current_props = []
+                  idx += 1
+
+          print(f"[*] Fetched {len(source_channel_map)} channels from source.")
+
+          # 4. ടാർഗെറ്റ് ഫയലിലുള്ള (plex.m3u) ചാനലുകൾ മാത്രം സേഫ് ആയി അപ്ഡേറ്റ് ചെയ്യുന്നു
           if not os.path.exists(TARGET_FILE):
-              print(f"[-] {TARGET_FILE} not found. Creating file with all matched channels.")
-              with open(TARGET_FILE, "w", encoding="utf-8") as f:
-                  f.write("#EXTM3U\n" + "\n".join(source_channel_map.values()) + "\n")
+              print(f"[-] {TARGET_FILE} not found. Skipping rewrite to prevent data loss.")
               sys.exit(0)
 
           with open(TARGET_FILE, "r", encoding="utf-8", errors="ignore") as f:
@@ -215,35 +163,35 @@ jobs:
           replaced_count = 0
 
           while k < len(target_lines):
-              t_line = target_lines[k].strip()
-              if not t_line or t_line.startswith("#EXTM3U"):
+              line = target_lines[k].strip()
+              if not line or line.startswith("#EXTM3U"):
                   k += 1
                   continue
 
-              if t_line.startswith("#KODIPROP:"):
-                  t_props.append(t_line)
-              elif t_line.startswith("#EXTINF"):
-                  t_extinf = t_line
-                  tid_match = re.search(r'tvg-id="([^"]+)"', t_extinf)
-                  t_id = tid_match.group(1).strip().lower() if tid_match else None
+              if line.startswith("#KODIPROP:"):
+                  t_props.append(line)
+              elif line.startswith("#EXTINF"):
+                  t_extinf = line
+                  tid = re.search(r'tvg-id="([^"]+)"', t_extinf)
+                  t_id = tid.group(1).strip().lower() if tid else None
 
-                  t_following = []
+                  t_sub = []
                   m = k + 1
                   while m < len(target_lines):
                       sub = target_lines[m].strip()
                       if sub.startswith("#EXTINF") or sub.startswith("#KODIPROP:"):
                           break
                       if sub:
-                          t_following.append(sub)
+                          t_sub.append(sub)
                       m += 1
 
-                  # സോഴ്സ് ചാനലുമായി tvg-id മാച്ച് ആയാൽ പൂർണ്ണ ബ്ലോക്ക് റീപ്ലേസ് ചെയ്യും
+                  # മാച്ച് ആകുന്ന ചാനൽ മാത്രം അപ്ഡേറ്റ് ചെയ്യുന്നു
                   if t_id and t_id in source_channel_map:
                       updated_blocks.append(source_channel_map[t_id])
                       replaced_count += 1
                   else:
-                      # മാച്ച് ആവാത്ത നിങ്ങളുടെ മറ്റ് ചാനലുകൾ ഒരു മാറ്റവുമില്ലാതെ സംരക്ഷിക്കും
-                      orig_block = t_props + [t_extinf] + t_following
+                      # പഴയ ചാനലുകൾ അതേപടി നിലനിർത്തുന്നു
+                      orig_block = t_props + [t_extinf] + t_sub
                       updated_blocks.append("\n".join(orig_block))
 
                   t_props = []
@@ -257,7 +205,7 @@ jobs:
           with open(TARGET_FILE, "w", encoding="utf-8") as f:
               f.write(final_content)
 
-          print(f"[+] Successfully integrated! Updated {replaced_count} existing channels in {TARGET_FILE}.")
+          print(f"[+] Successfully integrated! Updated {replaced_count} channels in {TARGET_FILE}.")
           EOF
 
       - name: Commit and push changes
@@ -271,7 +219,7 @@ jobs:
             echo "No updates detected. Skipping commit."
           else
             echo "Changes detected, pushing updated playlist..."
-            git commit -m "Auto-update playlist [skip ci]"
+            git commit -m "Auto-update plex.m3u [skip ci]"
             git pull --rebase origin main || git pull --rebase origin master || true
             git push origin HEAD:main || git push origin HEAD:master || true
           fi
