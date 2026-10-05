@@ -22,6 +22,10 @@ https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_i
 https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1791216052~exp=1791237652~acl=/bpk-tv/Asianet_HD_BTS/WDVLive/*~hmac=c4ba3700b74b7b868004221ef3f64b975783d4a6a7259f8a1a239796c2a15b44
 
 
+#EXTINF:-1 tvg-id="22020" tvg-logo="https://i.imgur.com/fjgzW20.png" group-title="Malayalam Entertainment",Mazhavil Manorama HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=37b4403a66f2565da33ba3b5704bb178:449f87256b3c1d7c2cdcbe04cbfd5530
+https://login.bheem.tv/bpk-tv/22020/output/index.mpd?
 
 
 
