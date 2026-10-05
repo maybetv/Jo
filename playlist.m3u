@@ -1,9 +1,9 @@
-#EXTM3U x-tvg-url="https://iptv.mediavisionlive.in/EPG/mvtv.xml",
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz",
 #EXTM3U x-tvg-url="https://fhux.short.gy/epg.xml.gz",
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz",
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz",
 #EXTM3U x-tvg-url=https://github.com/whythishome/epg/raw/refs/heads/master/guides/dishtv.in_en.xml.gz",
+#EXTM3U x-tvg-url="https://iptv.mediavisionlive.in/EPG/mvtv.xml"
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="JALworLD IPTV info" tvg-logo="https://jalworldiptv.vercel.app/image/JALworLD-IPTV-logo.png" group-title="📋 Info",JALworLD IPTV info
 https://jalworldiptv.vercel.app/play//intro-tv/master.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Asianet News" tvg-logo="https://i.postimg.cc/2617yL24/Asianet-News.webp" group-title="Malayalam News",Asianet News
@@ -425,28 +425,25 @@ http://103.155.18.186:8000/play/a0ap/index.m3u8
 http://202.70.146.135:8000/play/a0ap/index.m3u8
 https://streamhub.dhruvpatil681.workers.dev/1448.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sony Sports Ten 1 HD" tvg-logo="https://i.postimg.cc/5tPWwTC6/Sony-Sports-TEN-1-HD.png" group-title="Sports",Sony Sports Ten 1 HD
-https://streamhub.dhruvpatil681.workers.dev/294.m3u8
+https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_ten1_hd.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sony Sports Ten 2 HD" tvg-logo="https://i.postimg.cc/8zD2xNdC/Sony-Sports-TEN-2-HD.png" group-title="Sports",Sony Sports Ten 2 HD
-https://streamhub.dhruvpatil681.workers.dev/297.m3u8
+https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_ten2_hd.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sony Sports Ten 3 Hindi HD" tvg-logo="https://i.postimg.cc/rpZ7d4BL/Sony-Sports-TEN-3-Hindi-HD.png" group-title="Sports",Sony Sports Ten 3 Hindi HD
-http://202.70.146.135:8000/play/a0az/index.m3u8
+https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_ten3_hd.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sony Sports Ten 5 HD" tvg-logo="https://i.postimg.cc/0QL3ns2s/Sony-Sports-TEN-5-HD.png" group-title="Sports",Sony Sports Ten 5 HD
-http://103.155.18.186:8000/play/a0ao/index.m3u8
+https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_ten5_hd.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sony Sports Ten 1" tvg-logo="https://i.postimg.cc/hPR67c53/Sony-Sports-TEN-1.png" group-title="Sports",Sony Sports Ten 1
-https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8
-https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8
+https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_ten1.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sony Sports Ten 2" tvg-logo="https://i.postimg.cc/mkYdS153/Sony-Sports-TEN-2.png" group-title="Sports",Sony Sports Ten 2
-https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
+https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_ten2.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sony Sports Ten 3 Hindi" tvg-logo="https://i.postimg.cc/0NzcBB4y/Sony-Sports-TEN-3-Hindi.png" group-title="Sports",Sony Sports Ten 3 Hindi
-https://rangdhonu-proxy.tasinazad2009.workers.dev/stream/durontotv/playlist.m3u8?expires=1792534811&sig=y4HFbtwS-X9VSpH3DUatLUKEkZnZxw3CdA16Jaq-_uI
+https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_ten3.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sony Sports Ten 4 Tamil" tvg-logo="https://i.postimg.cc/J0Lxt4z8/Sony-Sports-TEN-4-Tamil.png" group-title="Sports",Sony Sports Ten 4 Tamil
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000119187
+https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_ten4.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sony Sports Ten 4 Telugu" tvg-logo="https://i.postimg.cc/MKt5Kw2q/Sony-Sports-TEN-4-Telugu.png" group-title="Sports",Sony Sports Ten 4 Telugu
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000119186
-#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sony Sports Ten 5" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sony-sports-networks-live/channel_logos/Sony%20Sports%20TEN%205.png" group-title="Sports",Sony Sports Ten 5
-http://202.70.146.135:8000/play/a0ao/index.m3u8
+https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_ten5.m3u8
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sony Sports Ten 5" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/18_265.png" group-title="Sports",Sony Sports Ten 5
+https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_ten5.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Unite8 Sports 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Screenshot_2026-06-09_234117.png"  group-title="Sports",Unite8 Sports 1 HD
 https://streamhub.dhruvpatil681.workers.dev/10417.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="SUnite8 Sports 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Screenshot_2026-06-10_002618.png"  group-title="Sports",Unite8 Sports 2 HD
@@ -762,8 +759,7 @@ https://live-manifest.production-public.tubi.io/live/470abd8a-dea0-41a1-98bc-bf7
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Love The Planet" tvg-logo="https://i.postimg.cc/5ttS4m2g/love-planet.png" group-title="Infotainment",Love The Planet
 https://amg01821-lovetv-amg01821c8-rlaxx-gb-10462.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01821-lovetvfast-lovetheplanetusuk-rlaxxgb/playlist.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sony BBC Earth HD" tvg-logo="https://i.postimg.cc/zD6bDBmD/sony_bbc_earth.jpg" group-title="Infotainment",Sony BBC Earth HD
-http://103.155.18.186:8000/play/a067/index.m3u8
-http://103.253.18.58:8000/play/a01g
+https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/bbc_earth.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Travelxp HD" tvg-logo="https://i.postimg.cc/NFSmhTY8/travel_xp.jpg" group-title="Infotainment",Travelxp HD
 http://103.155.18.186:8000/play/a04o/index.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="History TV 18" tvg-logo="https://i.postimg.cc/WzWc2Zbv/history-tv-18.png" group-title="Infotainment",History TV 18
@@ -785,8 +781,7 @@ http://213.91.179.28:8000/play/a0c9
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Star Channel HD" tvg-logo="https://i.postimg.cc/fTwBZjFb/Star-Channel-HD.jpg" group-title="English Movies",Star Channel HD
 http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sony Pix HD" tvg-logo="https://i.postimg.cc/tJRD438f/250px-Sony-Pix-logo-svg.png" group-title="English Movies",Sony Pix HD
-http://103.155.18.186:8000/play/a06p/index.m3u8
-http://103.157.248.140:8000/play/a01r/index.m3u8
+https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_pix_hd.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="FilmBox" tvg-logo="https://i.postimg.cc/90VtFHhK/FILMBOX.png" group-title="English Movies",FilmBox
 http://46.149.191.219:9100/play/a015
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Movies Action" tvg-logo="https://i.imgur.com/NIVhISa.png" group-title="English Movies",Movies Action
@@ -922,15 +917,21 @@ http://103.155.18.186:8000/play/a09v/index.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Star Pravah HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Pravah_HD.png?width=400" group-title="Hindi",Star Pravah HD
 http://103.155.18.186:8000/play/a049/index.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sony TV" tvg-logo="https://i.postimg.cc/ZK9vGtcx/sony-tv-hd.png" group-title="Hindi",Sony TV HD
-http://38.96.178.205/SONYHD/index.m3u8
-#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sony MAX HD" tvg-logo="https://i.postimg.cc/XYzmNZxc/Sony-MAX-HD.png" group-title="Hindi",Sony MAX HD
-http://103.155.18.186:8000/play/a01g/index.m3u8
-#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="SSony Max 1" tvg-logo="https://dtil.tmsimg.com/assets/s179440_ld_h15_aa.png?lock=720x540" group-title="Hindi",Sony Max 1
-#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sony MAX 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyMAX2.png?width=400" group-title="Hindi",Sony MAX 2
-https://yashlivetv.fun/sony.php/max2.m3u8
-#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sony SAB" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png?width=400" group-title="Hindi",Sony SAB
-http://103.155.18.186:8000/play/a025/index.m3u8
-http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6571/index.m3u8
+https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_hd.m3u8
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sony MAX HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyMAX.png" group-title="Hindi",Sony MAX HD
+https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_max_hd.m3u8
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="SSony MAX" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyMAX1.png" group-title="Hindi",Sony MAX
+https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_max.m3u8
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sony MAX 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyMAX2.png" group-title="Hindi",Sony MAX 2
+https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_max2.m3u8
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sony SAB HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Hindi",Sony SAB HD
+https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sab_hd.m3u8
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sony WAH" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Hindi",Sony WAH
+https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_wah.m3u8
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sony PAL" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_pal.png" group-title="Hindi",Sony PAL
+https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_pal.m3u8
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="SONY MARATHI" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Hindi",SONY MARATHI
+https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_marathi.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Z South Flix" tvg-logo="https://i.postimg.cc/dtyMynsC/Z-South-Flix.png" group-title="Hindi",Z South Flix
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Z Cine Classic" tvg-logo="https://i.postimg.cc/bJ77C2LX/Z-Cine-Classic.jpg" group-title="Hindi",Z Cine Classic
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Z Horror Nights" tvg-logo="https://i.postimg.cc/xCD5Byrx/Z-Horror-Nights.jpg" group-title="Hindi",Z Horror Nights
@@ -1172,6 +1173,7 @@ https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Spider Man" tvg-logo="https://i.postimg.cc/MKvTfWPL/Spider-man.png" group-title="Kids",Spider Man
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Kids TV" tvg-logo="https://i.imgur.com/RECmyf2.png" group-title="Kids",Kids TV
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sony yay" tvg-logo="https://i.postimg.cc/wvCFnLq7/sony-yay.png" group-title="Kids",Sony yay
+https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_yay.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Baby Shark TV" tvg-logo="https://i.postimg.cc/W3zRY4Jf/Baby-Shark.webp" group-title="Kids",Baby Shark TV
 https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Fezin TV" tvg-logo="https://i.postimg.cc/05LCB75t/Fezin-TV.png" group-title="Kids",Fezin TV
