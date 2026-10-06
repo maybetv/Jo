@@ -179,7 +179,7 @@ https://nw18live.cdn.jio.com/bpk-tv/News18_Kerala_NW18_MOB/output01/index.m3u8
 
 
 #EXTINF:-1 tvg-id="KairaliNews" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kairali_People_TV.png" group-title="News",Kairali News
-
+https://cdn.pishow.tv/ott/live/1469/master.m3u8
 
 #EXTINF:-1 tvg-id="RealNewsKerala" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Real_News_Kerala.png" group-title="News",Real News Kerala
 https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
