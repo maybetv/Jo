@@ -48,3 +48,127 @@ jobs:
               res.raise_for_status()
               source_text = res.text
           except Exception as e:
+              print(f"Error downloading source: {e}")
+              exit(1)
+
+          def parse_m3u_blocks(content):
+              blocks = []
+              curr = []
+              for line in content.splitlines():
+                  l = line.strip()
+                  if not l:
+                      continue
+                  # #EXTM3U ഹെഡർ ഒഴിവാക്കി ബ്ലോക്കുകൾ മാത്രമായി തിരിക്കുന്നു
+                  if l.startswith("#EXTM3U"):
+                      continue
+                  if l.startswith("#EXTINF:"):
+                      if curr:
+                          blocks.append(curr)
+                      curr = [line]
+                  elif curr:
+                      curr.append(line)
+              if curr:
+                  blocks.append(curr)
+              return blocks
+
+          source_blocks = parse_m3u_blocks(source_text)
+          print(f"സോഴ്സിൽ ആകെ കണ്ടെത്തിയ ചാനലുകൾ: {len(source_blocks)}")
+
+          us1_block = None
+          us2_block = None
+
+          def normalize(text):
+              return re.sub(r'[^A-Z0-9]', '', text.upper())
+
+          # സോഴ്സിൽ നിന്ന് Sports 1, Sports 2 ബ്ലോക്കുകൾ വേർതിരിക്കുന്നു
+          for block in source_blocks:
+              header = block[0]
+              clean_name = normalize(header)
+              full_text = "\n".join(block)
+
+              # Sports 1 (tvg-id 9624886 അല്ലെങ്കിൽ Unite8 Sports 1)
+              if not us1_block:
+                  if '9624886' in header or "UNITE8SPORTS1" in clean_name or ("UNITE8" in clean_name and "1" in clean_name) or "Unite8_Sports_1_HD.mpd" in full_text:
+                      us1_block = block
+                      print(f"✅ സോഴ്സിൽ Sports 1 കണ്ടെത്തി: {block[0]}")
+                      continue
+
+              # Sports 2 (tvg-id 9624884 അല്ലെങ്കിൽ Unite8 Sports 2)
+              if not us2_block:
+                  if '9624884' in header or "UNITE8SPORTS2" in clean_name or ("UNITE8" in clean_name and "2" in clean_name) or "Unite8_Sports_2_HD.mpd" in full_text:
+                      us2_block = block
+                      print(f"✅ സോഴ്സിൽ Sports 2 കണ്ടെത്തി: {block[0]}")
+                      continue
+
+          if not us1_block or not us2_block:
+              print("ERROR: സോഴ്സ് ഫയലിൽ ആവശ്യമായ ചാനലുകൾ കണ്ടെത്താനായില്ല!")
+              exit(1)
+
+          if not os.path.exists(target_file):
+              print(f"{target_file} നിലവിലില്ല, പുതിയ ഫയൽ നിർമ്മിക്കുന്നു.")
+              with open(target_file, "w", encoding="utf-8") as f:
+                  f.write("#EXTM3U\n\n\n")
+                  if us1_block:
+                      f.write("\n".join(us1_block) + "\n\n\n")
+                  if us2_block:
+                      f.write("\n".join(us2_block) + "\n\n\n")
+              exit(0)
+
+          with open(target_file, "r", encoding="utf-8") as f:
+              target_text = f.read()
+
+          target_blocks = parse_m3u_blocks(target_text)
+          updated_blocks = []
+          sports_inserted = False
+
+          def is_corrupted_or_sports(block):
+              txt = "\n".join(block).upper()
+              if '9624886' in txt or '9624884' in txt:
+                  return True
+              if 'UNITE8' in txt or 'UNITED8' in txt:
+                  return True
+              if 'UNITE8_SPORTS' in txt:
+                  return True
+              return False
+
+          for block in target_blocks:
+              if is_corrupted_or_sports(block):
+                  if not sports_inserted:
+                      print("🔄 Zoh.m3u-ൽ Sports 1 ഉം Sports 2 ഉം ചേർക്കുന്നു...")
+                      updated_blocks.append(us1_block)
+                      updated_blocks.append(us2_block)
+                      sports_inserted = True
+              else:
+                  updated_blocks.append(block)
+
+          if not sports_inserted:
+              print("➕ Zoh.m3u-ൽ മുൻപ് ഇല്ലാതിരുന്നതിനാൽ അവസാനം ചേർക്കുന്നു.")
+              updated_blocks.append(us1_block)
+              updated_blocks.append(us2_block)
+
+          # ഓരോ ചാനൽ ബ്ലോക്കും കഴിഞ്ഞ് കൃത്യമായി രണ്ട് ബ്ലാങ്ക് ലൈനുകൾ (3 ന്യൂലൈനുകൾ) നൽകി ഫയൽ സേവ് ചെയ്യുന്നു
+          with open(target_file, "w", encoding="utf-8") as f:
+              f.write("#EXTM3U\n\n\n")
+              for i, b in enumerate(updated_blocks):
+                  f.write("\n".join(b))
+                  if i < len(updated_blocks) - 1:
+                      f.write("\n\n\n")
+                  else:
+                      f.write("\n")
+
+          print("🎉 Zoh.m3u അലൈൻമെന്റ് കൃത്യമാക്കി അപ്ഡേറ്റ് ചെയ്തു!")
+          EOF
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add Zoh.m3u
+          if git diff --staged --quiet; then
+            echo "ലിങ്കുകളിലോ അലൈൻമെന്റിലോ യാതൊരു മാറ്റവുമില്ല."
+          else
+            git commit -m "Format playlist alignment with proper line spacing and update streams [skip ci]"
+            git pull --rebase origin main
+            git push origin main
+            echo "പുതിയ മാറ്റങ്ങൾ GitHub-ലേക്ക് പുഷ് ചെയ്തു!"
+          fi
