@@ -156,12 +156,13 @@ https://bit.ly/3RXj6uT
 https://cdn-6.pishow.tv/live/14/master.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Vyas Channel" tvg-logo="https://www.yupptv.com/seo_img/UGC_GEC_big.jpg" group-title="Education",Vyas Channel
 https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8
-#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="mediavision.tv" tvg-logo="https://i.postimg.cc/RVgTwn07/Media-Vision-TV.png" group-title="Malayalam Local TV",Mediavision TV
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="mediavision-tv" tvg-logo="https://i.postimg.cc/RVgTwn07/Media-Vision-TV.png" group-title="Malayalam Local TV",Mediavision TV
 https://jalworldiptv.vercel.app/stream/proxy.php?url=https://live20.bozztv.com/akamaissh101/ssh101/mvtv/playlist.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Mediavision Movies" tvg-logo="https://i.postimg.cc/mrZbqdsq/MV-MOVIES.png" group-title="Malayalam Local TV",Media vision Movies
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Mediavision Movies" tvg-logo="https://i.postimg.cc/mrZbqdsq/MV-MOVIES.png" group-title="Malayalam Local TV",Movies Classic
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Kerala GTPL TV" tvg-logo="https://i.postimg.cc/kXy2PXkj/Kerala-GTPL-TV.png" group-title="Malayalam Local TV",Kerala GTPL TV
-https://jalworldiptv.vercel.app/stream/proxy.php?url=https://kerala-gtpl.keralive.workers.dev/keralagtpltv/keralagtpltv/index.m3u8
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+https://kerala-gtpl.keralive.workers.dev/keralagtpltv/keralagtpltv/index.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Kerala Today" tvg-logo="https://i.postimg.cc/JnBH9F02/Kerala-Today.png" group-title="Malayalam Local TV",Kerala Today
 https://live.skystream.in/live/krlatoday/index.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Kannur Vision" tvg-logo="https://i.postimg.cc/8zR0fcYN/kannur_vision.png" group-title="Malayalam Local TV",Kannur Vision
@@ -391,13 +392,10 @@ https://cdn-3.pishow.tv/live/441/master.m3u8
 https://colorsportscreen.com/freetv/stream.m3u8?id=ff0c54c1c70b
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Star 4K" tvg-logo="https://i.postimg.cc/KjshxPwj/star-4k.webp" group-title="Sports",Star 4K
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Star Sports 1 HD" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="Sports",Star Sports 1 HD
-http://103.155.18.186:8000/play/a00a/index.m3u8
-http://66.102.126.10:8000/play/a009/index.m3u8, https://streamhub.dhruvpatil681.workers.dev/290.m3u8
+https://streamhub.dhruvpatil681.workers.dev/290.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Star Sports 1 Hindi HD tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="Sports",Star Sports 1 Hindi HD
-http://202.70.146.135:8000/play/a01e/index.m3u8
-#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Star Sports 1 Hindi" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="Sports",Star Sports 1 Hindi
-http://66.102.126.10:8000/play/a00i/index.m3u8
-http://103.253.18.58:8000/play/a03o, 
+https://streamhub.dhruvpatil681.workers.dev/1965.m3u8
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Star Sports 1 Hindi" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="Sports",Star Sports 1 Hindi 
 https://streamhub.dhruvpatil681.workers.dev/1966.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Star Sports 1 Tamil HD" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="Sports",Star Sports 1 Tamil HD
 https://streamhub.dhruvpatil681.workers.dev/4353.m3u8
@@ -406,22 +404,13 @@ https://streamhub.dhruvpatil681.workers.dev/4353.m3u8
 https://streamhub.dhruvpatil681.workers.dev/1446.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Star Sports 2 Hindi HD" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="Sports",Star Sports 2 Hindi HD
 https://streamhub.dhruvpatil681.workers.dev/6166.m3u8
-http://103.155.18.186:8000/play/a04b/index.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Star Sports 2 Tamil" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="Sports",Star Sports 2 Tamil
-http://103.155.18.186:8000/play/a026/index.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Star Sports 3" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="Sports",Star Sports 3
-http://185.80.197.55:80/play/live.php?mac=00:1a:79:7b:3d:32&stream=1104675&extension=ts&play_token=IeAFOemrVq
 https://streamhub.dhruvpatil681.workers.dev/6167.m3u8
-#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Star Sports 3" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="Sports",Star Sports 3
-http://66.102.126.10:8000/play/a00k/index.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Star Sports Khel" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="Sports",Star Sports Khel
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Star Sports Select 1 HD" tvg-logo="https://i.postimg.cc/DfqNzZcw/star-sports-select.png" group-title="Sports",Star Sports Select 1 HD
-http://103.155.18.186:8000/play/a0aq/index.m3u8
 https://streamhub.dhruvpatil681.workers.dev/1444.m3u8
-http://202.70.146.135:8000/play/a0aq/index.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Star Sports Select 2 HD" tvg-logo="https://i.postimg.cc/DfqNzZcw/star-sports-select.png" group-title="Sports",Star Sports Select 2 HD
-http://103.155.18.186:8000/play/a0ap/index.m3u8
-http://202.70.146.135:8000/play/a0ap/index.m3u8
 https://streamhub.dhruvpatil681.workers.dev/1448.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sony Sports Ten 1 HD" tvg-logo="https://i.postimg.cc/5tPWwTC6/Sony-Sports-TEN-1-HD.png" group-title="Sports",Sony Sports Ten 1 HD
 https://jalworldiptv.vercel.app/stream/proxy.php?url=https://jalworldiptv.vercel.app/sony-liv/playlist/sony_ten1_hd.m3u8
@@ -453,12 +442,6 @@ https://cdn.pishow.tv/ott/live/13/master.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="DD Sports" tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540" group-title="Sports",DD Sports 2.0
 https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="NBC Sports" tvg-logo="https://i.postimg.cc/4yNvpRzj/NBC-Sports.png" group-title="Sports",NBC Sports
-https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="MORE THAN SPORTS TV" tvg-logo="https://i.postimg.cc/VNvSLzPH/more-than-sports-tv.png" group-title="Sports",MORE THEN SPORTS TV
-https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
-#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sport Digital 🇩🇪" tvg-logo="https://i.postimg.cc/QtwskrPH/Sport-digital.png" group-title="Sports",Sport Digital 🇩🇪
-https://jmp2.uk/stvp-ATAJ0500433A
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sky Sports Action" tvg-logo="https://i.postimg.cc/qRKfkxmk/Sky-Sports-Action.png" group-title="Sports",Sky Sports Action
 https://streamhub.dhruvpatil681.workers.dev/1961.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sky Sports Arena" tvg-logo="https://i.postimg.cc/k4qN4nsM/Sky-Sports-Arena.png" group-title="Sports",Sky Sports Arena
@@ -481,6 +464,12 @@ https://streamhub.dhruvpatil681.workers.dev/2452.m3u8
 https://streamhub.dhruvpatil681.workers.dev/1969.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sky Sports News" tvg-logo="https://i.postimg.cc/SQX5bdnt/Sky-Sports-News.png" group-title="Sports",Sky Sports News
 https://streamhub.dhruvpatil681.workers.dev/289.m3u8
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="NBC Sports" tvg-logo="https://i.postimg.cc/4yNvpRzj/NBC-Sports.png" group-title="Sports",NBC Sports
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="MORE THAN SPORTS TV" tvg-logo="https://i.postimg.cc/VNvSLzPH/more-than-sports-tv.png" group-title="Sports",MORE THEN SPORTS TV
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sport Digital 🇩🇪" tvg-logo="https://i.postimg.cc/QtwskrPH/Sport-digital.png" group-title="Sports",Sport Digital 🇩🇪
+https://jmp2.uk/stvp-ATAJ0500433A
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sky Sport 1 NZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sky_Sport_1_DE_Logo_2020.svg/960px-Sky_Sport_1_DE_Logo_2020.svg.png" group-title="Sports",Sky Sport 1 NZ
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sky Sport 2 NZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Sky_Sport_2_DE_Logo_2020.svg/960px-Sky_Sport_2_DE_Logo_2020.svg.png" group-title="Sports",Sky Sport 2 NZ
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sky Sport 3 NZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sky_Sport_3_DE_Logo_2020.svg/960px-Sky_Sport_3_DE_Logo_2020.svg.png" group-title="Sports",Sky Sport 3 NZ
@@ -502,7 +491,6 @@ https://streamhub.dhruvpatil681.workers.dev/2217.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="premier sports" tvg-logo="https://i.imgur.com/QNnmCxH.png" group-title="Sports",Premier Sports 2
 https://streamhub.dhruvpatil681.workers.dev/2450.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="myco premier league" tvg-logo="https://i.postimg.cc/yxprtNqs/myco-PL.png" group-title="Sports",Myco premier league
-https://cdn01.medialive.one:2096/mycolive2/index.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="ESPN Premium" tvg-logo="https://i.postimg.cc/TPXLgqKZ/ESPN-Premium.jpg" group-title="Sports",ESPN Premium
 http://181.78.106.127:5000/play/ca027/index.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="FIFA +" tvg-logo="https://i.postimg.cc/8CkXGTpB/FIFA_tv.png" group-title="Sports",FIFA +
@@ -513,11 +501,9 @@ http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Fox Cricket" tvg-logo="https://i.postimg.cc/jqf5fgMJ/fox_501_hd.jpg" group-title="Sports",Fox Cricket
 https://streamhub.dhruvpatil681.workers.dev/1972.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Willow Sports" tvg-logo="https://i.postimg.cc/ZqDZVcwF/willow-cricket.png" group-title="Sports",Willow Sports
-https://streamhub.dhruvpatil681.workers.dev/4501.m3u8
-https://streamhub.dhruvpatil681.workers.dev/4501.m3u8
+https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV720p.m3u8
 https://df3xownvf1f4t.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/willow_tv/playlist.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Willow Cricket 2" tvg-logo="https://i.postimg.cc/V6Cy4crv/WILLOW-2.png" group-title="Sports",Willow Cricket 2
-http://185.80.197.55:80/play/live.php?mac=00:1a:79:7b:3d:32&stream=1104677&extension=ts&play_token=Dula307sgv
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="cricbuzz" tvg-logo="https://i.postimg.cc/fRKhZnRC/ezgif-340bad0a76a88112.png" group-title="Sports",Cricbuzz
 https://streamhub.dhruvpatil681.workers.dev/2028.m3u8
 https://streamhub.dhruvpatil681.workers.dev/2027.m3u8
