@@ -27,7 +27,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_BTS/WDVLive/index.mpd?__hdnea__=s
 https://livestream6.sunnxt.com/30612a1b269d4a18aa14657641c47515/SuryaTVB_IN_index.mpd
 #EXTINF:-1 tvg-id="MazhavilManorama" tvg-logo="https://exchange4media.gumlet.io/news-photo/92907-MazhavilManorama.jpg" group-title="Entertainment",Mazhavil Manorama
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
-#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Flowers TV" tvg-logo="https://i.postimg.cc/dt1RBtp3/Flowers-TV.png" group-title="Malayalam",Flowers
+#EXTINF:-1 group-logo="" tvg-id="Flowers TV" tvg-logo="https://img.media.jio.com/imagespublic/10/49/FlowerTV_1574670355976_tv.jpg" group-title="Malayalam",Flowers
 https://yt-live-proxy.npashru.workers.dev/flowers
 #EXTINF:-1 tvg-id="" tvg-name="Zee Keralam HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00239LE2.png" group-title="Entertainment",Zee Keralam HD
 http://51.75.127.199:3141/zeekeralamhd/index.m3u8
@@ -57,36 +57,36 @@ https://livestream.sunnxt.com/e24ee14c395945bd8ccb065e1bce8b9b/SuryaMoviesB_IN_i
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11563b00a46b43f2a0f80ecf42a4fb77:9bad28ad6f23dbb917c63ee680f66a1f
 https://livestream.sunnxt.com/6505e922bf164423ad122f404747356a/SuryaComedyB_IN_index.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kairali_TV.png" group-title="Entertainment",Kairali TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.media.jio.com/imagespublic/26/35/KairaliTV_1574693221565_tv.jpg" group-title="Entertainment",Kairali TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1382b4f8623151e88c52787ae11f11ab:de71cbb248a62cc2c4a66c8546b49d7d
 https://login.bheem.tv/bpk-tv/22412/output/index.mpd
-#EXTINF:-1 tvg-id="KairaliWe" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kairali_WE_TV.png" group-title="Entertainment",Kairali We
+#EXTINF:-1 tvg-id="KairaliWe" tvg-logo="https://img.media.jio.com/imagespublic/19/32/301221_1649943736132_p_medium.jpg" group-title="Entertainment",Kairali We
 https://mumt01.tangotv.in/O5aw8Zn3WETV/index.m3u8
-#EXTINF:-1 tvg-id="22391" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Amrita%20TV.png" group-title="Malayalam Entertainment",Amrita TV
+#EXTINF:-1 tvg-id="22391" tvg-logo="https://img.media.jio.com/imagespublic/75/60/AmritaTV_1574692050574_tv.jpg" group-title="Malayalam Entertainment",Amrita TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=513e09e96cd355198d22a63f3259452f:8b5c7793bba86d6e885fc08b9ff9e5e0
 https://login.bheem.tv/bpk-tv/22391/output/index.mpd?
 #EXTINF:-1 tvg-id="10582" tvg-chno="070" tvg-name="dd-malayalam" tvg-id="abusaeeidx" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1443058650DD_malayalam_______384x512.webp" group-title="Entertainment", DD MALAYALAM
 https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/index.m3u8
-#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Kaumudy TV" tvg-logo="https://i.postimg.cc/vZ9d4MQS/kaumudy-tv.png" group-title="Entertainment",Kaumudy TV
+#EXTINF:-1 group-logo="" tvg-id="Kaumudy TV" tvg-logo="https://img.media.jio.com/imagespublic/66/66/KaumudyTV_1574670054164_tv.jpg" group-title="Entertainment",Kaumudy TV
 https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/chunks.m3u8
-#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Jeevan TV" tvg-logo="https://i.postimg.cc/bwfBFnhM/Jeevan-TV.png" group-title="Entertainment",Jeevan TV
+#EXTINF:-1 group-logo="" tvg-id="Jeevan TV" tvg-logo="https://img.media.jio.com/imagespublic/67/11/JeevanTV_1574667899965_tv.jpg" group-title="Entertainment",Jeevan TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
 https://yupp-tv.keralive.workers.dev/120723/smil:jeevan.smil/playlist.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Kairali Arabia" tvg-logo="https://i.postimg.cc/J0gQXf1b/kairali-arabia.png" group-title="Malayalam",Kairali Arabia
 https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8
-#EXTINF:-1 tvg-id="SafariTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Safari_TV.png" group-title="Entertainment",Safari TV
+#EXTINF:-1 tvg-id="SafariTV" tvg-logo="https://img.media.jio.com/tvpimages/60/36/301514_1754938539481_l_medium.jpg" group-title="Entertainment",Safari TV
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="KappaTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kappa_TV.png" group-title="Entertainment",Kappa TV
+#EXTINF:-1 tvg-id="KappaTV" tvg-logo="https://img.media.jio.com/imagespublic/9/60/KappaTV_1574668174669_tv.jpg" group-title="Entertainment",Kappa TV
 https://mumt03.tangotv.in/Dsly5z3HKAPPATV/index.m3u8
 NEWS
 #EXTINF:-1 tvg-id="282" tvg-chno="601" tvg-name="AsianetNews" tvg-logo="https://play-lh.googleusercontent.com/rMgagys9KOji0wHPQzdDeS2QFe5lbOPZ0q_PsMl98kGc2putJD5gFUO1Xz_vE9siqdo" group-title="News", Asianet News
 https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8
 #EXTINF:-1 tvg-id="ManoramaNews" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Manorama_News.png" group-title="News",Manorama News
 https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/index.m3u8
-#EXTINF:-1 tvg-id="MathrubhumiNews" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Mathrubhumi_News.png" group-title="News",Mathrubhumi News
+#EXTINF:-1 tvg-id="MathrubhumiNews" tvg-logo="https://img.media.jio.com/imagespublic/77/0/MathrubhumiNews_1574692279576_tv.jpg" group-title="News",Mathrubhumi News
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/playlist.m3u8
 #EXTINF:-1 tvg-id="TwentyFourNews" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TWENTY_FOUR_NEWS.png" group-title="News",Twenty Four News
 https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
