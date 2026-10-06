@@ -2,7 +2,7 @@ name: Safely Update VZY United Sports Exact Match
 
 on:
   schedule:
-    # ട്രാഫിക് കുറഞ്ഞ സമയത്ത് (ഓരോ മണിക്കൂറിലും 23-ാം മിനിറ്റിൽ)
+    # ഓരോ മണിക്കൂറിലും 23-ാം മിനിറ്റിൽ റൺ ആകുന്നു
     - cron: '23 * * * *'
   workflow_dispatch:
 
@@ -51,50 +51,62 @@ jobs:
               print(f"Error downloading source: {e}")
               exit(1)
 
-          source_lines = source_text.splitlines()
-          all_blocks = []
-          curr = []
+          def parse_m3u_blocks(content):
+              blocks = []
+              curr = []
+              for line in content.splitlines():
+                  l = line.strip()
+                  if not l:
+                      continue
+                  if l.startswith("#EXTINF:"):
+                      if curr:
+                          blocks.append(curr)
+                      curr = [line]
+                  elif curr:
+                      curr.append(line)
+              if curr:
+                  blocks.append(curr)
+              return blocks
 
-          for line in source_lines:
-              l = line.strip()
-              if not l:
-                  continue
-              if l.startswith("#EXTINF:"):
-                  if curr:
-                      all_blocks.append(curr)
-                  curr = [line]
-              elif curr:
-                  curr.append(line)
-          if curr:
-              all_blocks.append(curr)
-
-          print(f"സോഴ്സിൽ ആകെ കണ്ടെത്തിയ ചാനലുകൾ: {len(all_blocks)}")
+          source_blocks = parse_m3u_blocks(source_text)
+          print(f"സോഴ്സിൽ ആകെ കണ്ടെത്തിയ ചാനലുകൾ: {len(source_blocks)}")
 
           us1_block = None
           us2_block = None
 
-          # റഫറൻസ് പ്രകാരമുള്ള tvg-id അല്ലെങ്കിൽ Unite8/United Sports മാച്ച് ചെയ്യുന്നു
-          for block in all_blocks:
-              full_block_text = "\n".join(block)
-              header = block[0].upper()
+          def normalize(text):
+              return re.sub(r'[^A-Z0-9]', '', text.upper())
 
-              # Unite8 Sports 1 (tvg-id="9624886")
-              if '9624886' in full_block_text or (('UNITED' in header or 'UNITE8' in header or 'UNITE' in header) and 'SPORTS' in header and re.search(r'\b(1|ONE)\b', header)):
-                  if not us1_block:
-                      us1_block = block
-                      print(f"United Sports 1 കണ്ടെത്തി: {block[0]}")
+          # ലെവൽ 1: കൃത്യമായ പേര് പരിശോധിക്കുന്നു (Unite8 Sports 1 HD & 2 HD)
+          for block in source_blocks:
+              clean_name = normalize(block[0])
+              if not us1_block and "UNITE8SPORTS1HD" in clean_name:
+                  us1_block = block
+                  print(f"✅ Exact Match കണ്ടെത്തി (Sports 1): {block[0]}")
+              elif not us2_block and "UNITE8SPORTS2HD" in clean_name:
+                  us2_block = block
+                  print(f"✅ Exact Match കണ്ടെത്തി (Sports 2): {block[0]}")
 
-              # Unite8 Sports 2 (tvg-id="9624884")
-              elif '9624884' in full_block_text or (('UNITED' in header or 'UNITE8' in header or 'UNITE' in header) and 'SPORTS' in header and re.search(r'\b(2|TWO)\b', header)):
-                  if not us2_block:
-                      us2_block = block
-                      print(f"United Sports 2 കണ്ടെത്തി: {block[0]}")
+          # ലെവൽ 2: മുകളിൽ പറഞ്ഞ രീതിയിൽ കിട്ടിയില്ലെങ്കിൽ മാത്രം 'UNITE8' / 'UNITED8' വെച്ച് നോക്കുന്നു
+          if not us1_block or not us2_block:
+              print("Exact match ലഭിക്കാത്തതിനാൽ Unite8 കീവേഡ് വെച്ച് പരിശോധിക്കുന്നു...")
+              for block in source_blocks:
+                  clean_name = normalize(block[0])
+                  
+                  # UNITE8 അല്ലെങ്കിൽ UNITED8 വരുന്നുണ്ടോ എന്ന് നോക്കുന്നു
+                  if "UNITE8" in clean_name or "UNITED8" in clean_name:
+                      if not us1_block and ("1HD" in clean_name or "1" in clean_name):
+                          us1_block = block
+                          print(f"✅ Unite8 Match വഴി കണ്ടെത്തി (Sports 1): {block[0]}")
+                      elif not us2_block and ("2HD" in clean_name or "2" in clean_name):
+                          us2_block = block
+                          print(f"✅ Unite8 Match വഴി കണ്ടെത്തി (Sports 2): {block[0]}")
 
           if not us1_block and not us2_block:
-              print("ERROR: സോഴ്സിൽ United/Unite8 Sports ചാനലുകൾ കണ്ടെത്താനായില്ല!")
+              print("ERROR: സോഴ്സിൽ പറഞ്ഞ ചാനലുകൾ കണ്ടെത്താനായില്ല!")
               exit(1)
 
-          # നിലവിലെ ഫയൽ പരിശോധിക്കുന്നു
+          # നിലവിലെ Zoh.m3u ഫയൽ ഇല്ലെങ്കിൽ പുതിയത് ഉണ്ടാക്കുന്നു
           if not os.path.exists(target_file):
               print(f"{target_file} നിലവിലില്ല, പുതിയ ഫയൽ നിർമ്മിക്കുന്നു.")
               with open(target_file, "w", encoding="utf-8") as f:
@@ -106,61 +118,50 @@ jobs:
               exit(0)
 
           with open(target_file, "r", encoding="utf-8") as f:
-              target_lines = f.read().splitlines()
+              target_text = f.read()
 
-          output_lines = []
-          i = 0
+          target_blocks = parse_m3u_blocks(target_text)
+          updated_blocks = []
           us1_replaced = False
           us2_replaced = False
 
-          def match_target(line_str):
-              txt = line_str.upper()
-              is_ch1 = '9624886' in txt or (('UNITED' in txt or 'UNITE8' in txt or 'UNITE' in txt) and 'SPORTS' in txt and re.search(r'\b(1|ONE)\b', txt))
-              is_ch2 = '9624884' in txt or (('UNITED' in txt or 'UNITE8' in txt or 'UNITE' in txt) and 'SPORTS' in txt and re.search(r'\b(2|TWO)\b', txt))
+          def match_target(block):
+              clean_name = normalize(block[0])
+              is_ch1 = ("UNITE8SPORTS1" in clean_name) or (("UNITE8" in clean_name or "UNITED8" in clean_name) and "1" in clean_name)
+              is_ch2 = ("UNITE8SPORTS2" in clean_name) or (("UNITE8" in clean_name or "UNITED8" in clean_name) and "2" in clean_name)
               return is_ch1, is_ch2
 
-          # Zoh.m3u-ലെ പഴയ ലിങ്കുകൾ മാറ്റി പുതിയ ബ്ലോക്ക് കൃത്യമായി ചേർക്കുന്നു
-          while i < len(target_lines):
-              line = target_lines[i]
-              stripped = line.strip()
+          # Zoh.m3u-ൽ ഉള്ള മറ്റ് എല്ലാ ചാനലുകളെയും അങ്ങനെ തന്നെ വെച്ച്, ഈ 2 ചാനലുകൾ മാത്രം മാറ്റുന്നു
+          for block in target_blocks:
+              is_ch1, is_ch2 = match_target(block)
+              if is_ch1 and us1_block:
+                  print("🔄 Zoh.m3u-ലെ പഴയ Sports 1 മാറ്റി പുതിയ ബ്ലോക്ക് ചേർക്കുന്നു...")
+                  updated_blocks.append(us1_block)
+                  us1_replaced = True
+              elif is_ch2 and us2_block:
+                  print("🔄 Zoh.m3u-ലെ പഴയ Sports 2 മാറ്റി പുതിയ ബ്ലോക്ക് ചേർക്കുന്നു...")
+                  updated_blocks.append(us2_block)
+                  us2_replaced = True
+              else:
+                  # മറ്റ് എല്ലാ ചാനലുകളും ഒരു മാറ്റവുമില്ലാതെ ലിസ്റ്റിൽ നിലനിർത്തുന്നു
+                  updated_blocks.append(block)
 
-              if stripped.startswith("#EXTINF:"):
-                  is_ch1, is_ch2 = match_target(stripped)
-
-                  if is_ch1 and us1_block:
-                      print("Zoh.m3u-ലെ പഴയ Sports 1 മാറ്റി പുതിയ ബ്ലോക്ക് ചേർക്കുന്നു...")
-                      output_lines.extend(us1_block)
-                      us1_replaced = True
-                      i += 1
-                      while i < len(target_lines) and not target_lines[i].strip().startswith("#EXTINF:"):
-                          i += 1
-                      continue
-
-                  elif is_ch2 and us2_block:
-                      print("Zoh.m3u-ലെ പഴയ Sports 2 മാറ്റി പുതിയ ബ്ലോക്ക് ചേർക്കുന്നു...")
-                      output_lines.extend(us2_block)
-                      us2_replaced = True
-                      i += 1
-                      while i < len(target_lines) and not target_lines[i].strip().startswith("#EXTINF:"):
-                          i += 1
-                      continue
-
-              output_lines.append(line)
-              i += 1
-
-          # ടാർഗെറ്റ് ഫയലിൽ മുൻപ് ഇവ ഇല്ലെങ്കിൽ അവസാനം ചേർക്കുന്നു
+          # Zoh.m3u-ൽ മുൻപ് ഇവ ഇല്ലായിരുന്നു എങ്കിൽ മാത്രം അവസാനം ചേർക്കുന്നു
           if us1_block and not us1_replaced:
-              print("ഫയലിൽ മുൻപ് ഇല്ലാതിരുന്നതിനാൽ Sports 1 ചേർക്കുന്നു.")
-              output_lines.extend(us1_block)
+              print("➕ Zoh.m3u-ൽ മുൻപ് ഇല്ലാതിരുന്നതിനാൽ Sports 1 ചേർക്കുന്നു.")
+              updated_blocks.append(us1_block)
 
           if us2_block and not us2_replaced:
-              print("ഫയലിൽ മുൻപ് ഇല്ലാതിരുന്നതിനാൽ Sports 2 ചേർക്കുന്നു.")
-              output_lines.extend(us2_block)
+              print("➕ Zoh.m3u-ൽ മുൻപ് ഇല്ലാതിരുന്നതിനാൽ Sports 2 ചേർക്കുന്നു.")
+              updated_blocks.append(us2_block)
 
+          # പൂർണ്ണമായും സേഫായി ഫയൽ വീണ്ടും എഴുതുന്നു
           with open(target_file, "w", encoding="utf-8") as f:
-              f.write("\n".join(output_lines) + "\n")
+              f.write("#EXTM3U\n")
+              for b in updated_blocks:
+                  f.write("\n".join(b) + "\n")
 
-          print("Zoh.m3u ഫയൽ വിജയകരമായി അപ്ഡേറ്റ് ചെയ്തു!")
+          print("🎉 Zoh.m3u ഫയൽ സുരക്ഷിതമായി അപ്ഡേറ്റ് ചെയ്തു!")
           EOF
 
       - name: Commit and Push Changes
@@ -171,7 +172,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "ലിങ്കുകളിൽ യാതൊരു മാറ്റവുമില്ല. Zoh.m3u നിലവിൽ അപ്ഡേറ്റഡ് ആണ്."
           else
-            git commit -m "Auto-update VZY United Sports 1 & 2 in Zoh.m3u [skip ci]"
+            git commit -m "Auto-update Unite8 Sports 1 & 2 [skip ci]"
             git pull --rebase origin main
             git push origin main
             echo "പുതിയ ലിങ്കുകൾ GitHub-ലേക്ക് പുഷ് ചെയ്തു!"
