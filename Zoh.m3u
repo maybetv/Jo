@@ -282,10 +282,10 @@ https://sliv.tgaadi.workers.dev/sonybbcearthhd.m3u8
 
 
 #EXTINF:-1 tvg-id="star_sports_1_hd" tvg-logo="https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_medium.jpg" group-title="Sports",STAR SPORTS 1 HD
-
+http://51.75.127.199:3141/starsports1/index.m3u8
 
 #EXTINF:-1 tvg-id="star_sports_2_hd" tvg-logo="https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg" group-title="Sports",STAR SPORTS 2 HD
-
+http://51.75.127.199:3141/starsports2/index.m3u8
 
 #EXTINF:-1 tvg-id="star_sports_3_digital" tvg-logo="https://img.media.jio.com/tvpimages/78/2/302117_1749666092192_l_medium.jpg" group-title="Sports",Star Sports 3
 
