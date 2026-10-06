@@ -160,7 +160,7 @@ https://bit.ly/3RXj6uT
 https://cdn-6.pishow.tv/live/14/master.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Vyas Channel" tvg-logo="https://www.yupptv.com/seo_img/UGC_GEC_big.jpg" group-title="Education",Vyas Channel
 https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8
-#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="mediavision tv" tvg-logo="https://i.postimg.cc/RVgTwn07/Media-Vision-TV.png" group-title="Malayalam Local TV",Mediavision TV
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Mediavision TV" tvg-logo="https://i.postimg.cc/RVgTwn07/Media-Vision-TV.png" group-title="Malayalam Local TV",Mediavision TV
 https://jalworldiptv.vercel.app/stream/proxy.php?url=https://live20.bozztv.com/akamaissh101/ssh101/mvtv/playlist.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Mediavision Movies" tvg-logo="https://i.postimg.cc/mrZbqdsq/MV-MOVIES.png" group-title="Malayalam Local TV",Media vision Movies
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Mediavision Movies" tvg-logo="https://i.postimg.cc/mrZbqdsq/MV-MOVIES.png" group-title="Malayalam Local TV",Movies Classic
