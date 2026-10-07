@@ -76,13 +76,13 @@ https://streamflexsmm.in/Sflex-Jio/302099/manifest.mpd
 #EXTINF:-1 tvg-id="1139" tvg-name="Asianet Plus" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Plus.png" tvg-category="Entertainment" tvg-language="hin" group-title="Jio TV+ | Entertainment" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&s=10" type="dash",Asianet Plus
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1791327430~exp%3D1791349030~acl%3D%2F*~hmac%3Defa93b9af60e1e064e13a2d2fc0da6b6796f5e5312ffebfa49527b03c82fb571
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Premium%20Plugx&Referer=https%3A%2F%2Fwww.jiotv.com%2F&Origin=https%3A%2F%2Fwww.jiotv.com%2F&Cookie=__hdnea__%3Dst%3D1791337858~exp%3D1791359458~acl%3D%2F*~hmac%3D997c0df7641a0208e1ceae09443b4dbdf01b22b8a9a385bed507cee88b5ec87e
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=679f44827ae353b6ae01046247b47a4f:7a401e0b947861c564af4dabf89410fc
 #EXTVLCOPT:http-user-agent=Premium Plugx
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1791327430~exp=1791349030~acl=/*~hmac=efa93b9af60e1e064e13a2d2fc0da6b6796f5e5312ffebfa49527b03c82fb571
-#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1791327430~exp=1791349030~acl=/*~hmac=efa93b9af60e1e064e13a2d2fc0da6b6796f5e5312ffebfa49527b03c82fb571"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1791337858~exp=1791359458~acl=/*~hmac=997c0df7641a0208e1ceae09443b4dbdf01b22b8a9a385bed507cee88b5ec87e
+#EXTHTTP:{"User-Agent":"Premium Plugx","Referer":"https://www.jiotv.com/","Origin":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1791337858~exp=1791359458~acl=/*~hmac=997c0df7641a0208e1ceae09443b4dbdf01b22b8a9a385bed507cee88b5ec87e"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_Plus_MOB/WDVLive/index.mpd
 
 
