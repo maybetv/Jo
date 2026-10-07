@@ -14,9 +14,7 @@ https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_i
 #EXTINF:-1 tvg-id="443" tvg-name="Asianet HD" tvg-logo="https://img.media.jio.com/tvpimages/42/10/301975_1753198997038_l_medium.jpg" group-title="Entertainment",Asianet HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=438370e98be35e618650b4fde6f7bcee:8af903db53e7b69e6e1c9a04711ebd62
-https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1791347445~exp=1791369045~acl=/bpk-tv/Asianet_HD_BTS/WDVLive/*~hmac=7cb4b87c8235e931b3398ce41574f79f29c1f82519cf90d0ef5ed99547d2dd8d
+https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1791349260~exp=1791370860~acl=/bpk-tv/Asianet_HD_BTS/WDVLive/*~hmac=fa0633bd0c815f37a89c4fb5117610030722f6f6419590004bcbd21f2a120eef
 
 
 #EXTINF:-1 tvg-id="22020" tvg-logo="https://img.media.jio.com/tvpimages/97/2/300156_1752854414598_l_medium.jpg" group-title="Malayalam Entertainment",Mazhavil Manorama HD
@@ -28,9 +26,7 @@ https://login.bheem.tv/bpk-tv/22020/output/index.mpd?
 #EXTINF:-1 tvg-id="1118" tvg-name="Asianet" tvg-logo="https://img.media.jio.com/tvpimages/23/82/302101_1753203237028_l_medium.jpg" group-title="Entertainment",Asianet
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6b68a5a175d45f0ba8ed12b3016ea4d8:c7b8ce1a3a24e2f9b4d1249d04155c49
-https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_BTS/WDVLive/index.mpd?__hdnea__=st=1791347446~exp=1791369046~acl=/bpk-tv/Asianet_BTS/WDVLive/*~hmac=a621c8411a30182e92d58674e4a74963395be540fc464b36ebfa7f0d8fe50af0
+https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_BTS/WDVLive/index.mpd?__hdnea__=st=1791349261~exp=1791370861~acl=/bpk-tv/Asianet_BTS/WDVLive/*~hmac=c94d5042444a8d0c22d6190c31541c68f9e34b1b2a95a2ed3957808a9649ceae
 
 
 #EXTINF:-1 tvg-id="Surya" tvg-logo="https://sund-images.sunnxt.com/194398/640x360_SuryaTV_194398_45a56617-7aa9-4ced-a1c8-82b80adb83a7.jpg" group-title="Entertainment",Surya
@@ -60,17 +56,13 @@ https://login.bheem.tv/bpk-tv/22389/output/index.mpd?
 #EXTINF:-1 tvg-id="459" tvg-name="Asianet Movies HD" tvg-logo="https://img.media.jio.com/tvpimages/34/22/301977_1753187221287_l_medium.jpg" group-title="Movies",Asianet Movies HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=318d6d7df2c155b3b15247f320bad160:c06652ae93c16814dad7008e84c7171d
-https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_Movies_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1791347445~exp=1791369045~acl=/bpk-tv/Asianet_Movies_HD_BTS/WDVLive/*~hmac=93bfbe83f1b792a6b78e2d85f63e82362f5199df43d2faf3a77b1c9e96ae451a
+https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_Movies_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1791349260~exp=1791370860~acl=/bpk-tv/Asianet_Movies_HD_BTS/WDVLive/*~hmac=01c1bff74afdbf43bf994adc559a43ef4e2c2123aaa38d9b0fcf40dc0d5f80a8
 
 
 #EXTINF:-1 tvg-id="1153" tvg-name="Asianet Movies" tvg-logo="https://img.media.jio.com/tvpimages/47/31/302099_1753203207304_l_medium.jpg" group-title="Movies",Asianet Movies
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ca83419dfa1b56f794032b271b8f2c84:d592520eea361507a63c94bff799dfb6
-https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_Movies_BTS/WDVLive/index.mpd?__hdnea__=st=1791347446~exp=1791369046~acl=/bpk-tv/Asianet_Movies_BTS/WDVLive/*~hmac=f7b38fb13c0f528228c9a8ad39a75069e92805ad7b2b8b80e770d8dbee060ad1
+https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_Movies_BTS/WDVLive/index.mpd?__hdnea__=st=1791349261~exp=1791370861~acl=/bpk-tv/Asianet_Movies_BTS/WDVLive/*~hmac=75b00ca5dc81d31d6261c0700f3f66931c0c779c047710f48e7394b2e4f20f1f
 
 
 #EXTINF:-1 group-logo="" tvg-id="Asianet Plus" tvg-logo="https://img.media.jio.com/tvpimages/28/28/302109_1753199067845_l_medium.jpg" group-title="Malayalam",Asianet Plus
@@ -187,25 +179,19 @@ https://vglivessai.akamaized.net/ptnr-lg/title-News_Malayalam_LGIndia/us/v1/mast
 #EXTINF:-1 tvg-id="1104" tvg-name="Star Movies HD" tvg-logo="https://img.media.jio.com/tvpimages/57/79/301980_1753202723218_l_medium.jpg" group-title="Movies",Star Movies HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ac6943751e558b181da32727f03dff7:f36e5cd48252bcd0fcda2bfe21f5b365
-https://jiotvpllive.cdn.jio.com/bpk-tv/StarMoviesHD_BTS/WDVLive/index.mpd?__hdnea__=st=1791347445~exp=1791369045~acl=/bpk-tv/StarMoviesHD_BTS/WDVLive/*~hmac=cba80e3eac9985c316564ddd80a7e27a917c7874c2dac7147db13de25829c130
+https://jiotvpllive.cdn.jio.com/bpk-tv/StarMoviesHD_BTS/WDVLive/index.mpd?__hdnea__=st=1791349260~exp=1791370860~acl=/bpk-tv/StarMoviesHD_BTS/WDVLive/*~hmac=279c9a5198f90ae5649789889913d370f8b00dc81b022ba0ce08c0a8359be2c3
 
 
 #EXTINF:-1 tvg-id="1110" tvg-name="Star Movies Select HD" tvg-logo="https://img.media.jio.com/tvpimages/79/1/301984_1753202770200_l_medium.jpg" group-title="Movies",Star Movies Select HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b55393cd147a54debaf2b0f2d82b5d9f:6b168db49241a78c1b423ab9a29409ef
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1791347445~exp=1791369045~acl=/bpk-tv/Star_Movies_Select_HD_BTS/WDVLive/*~hmac=f9ecc5411e196a20430051ba6f8da3fa51b9a79e07d1ffe964dc6e214d994054
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1791349260~exp=1791370860~acl=/bpk-tv/Star_Movies_Select_HD_BTS/WDVLive/*~hmac=a5c878a6bbb0a68f8f6d1c05bd8dae51bf11ce69253978c1f3e71d29dff0ef0c
 
 
 #EXTINF:-1 tvg-id="762" tvg-name="Sony PIX HD" tvg-logo="https://img.media.jio.com/tvpimages/40/55/304243_1787562153071_l_medium.jpg" group-title="Movies",Sony PIX HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00426b6344e351f491f324a94b62cd2f:ae3a59fe9918e7180ed65e2c842f7cc8
-https://jiotvpllive.cdn.jio.com/bpk-tv/SonyPIX_BTS/WDVLive/index.mpd?__hdnea__=st=1791347449~exp=1791369049~acl=/bpk-tv/SonyPIX_BTS/WDVLive/*~hmac=d78274a6cc6a19c295f260a73225b50acf7aa8e3d76c4628d22b2ee97171a74b
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyPIX_BTS/WDVLive/index.mpd?__hdnea__=st=1791349264~exp=1791370864~acl=/bpk-tv/SonyPIX_BTS/WDVLive/*~hmac=2f73a1daf36e971c1d22c7d27469a62036c077d6ae26bd186fc255825475172f
 
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/DishTV_logo_%282025%29.svg" group-title="Movies",Movies Now HD
