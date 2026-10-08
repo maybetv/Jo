@@ -76,7 +76,7 @@ https://streamflexsmm.in/Sflex-Jio/302099/manifest.mpd
 #EXTINF:-1 tvg-id="1139" tvg-name="Asianet Plus" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Plus.png" tvg-category="Entertainment" group-title="Jio TV+ | Entertainment" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&s=10" type="dash",Asianet Plus
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-user-agent=Premium Plugx
-#EXTVLCOPT:http-cookie=__hdnea__=st=1791419427~exp=1791441027~acl=/*~hmac=c05bab9e076aa954ae099b071c4c80f6230e3caad5df1c721a29233ad4b05ee6
+#EXTVLCOPT:http-cookie=__hdnea__=st=1791441791~exp=1791463391~acl=/*~hmac=76542acb395b03242ace4e34f49400d491bb584ad6cfabdb057ff2d5e6885904
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
