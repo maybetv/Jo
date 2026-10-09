@@ -38,6 +38,7 @@ https://livestream6.sunnxt.com/30612a1b269d4a18aa14657641c47515/SuryaTVB_IN_inde
 #EXTINF:-1 tvg-id="MazhavilManorama" tvg-logo="https://exchange4media.gumlet.io/news-photo/92907-MazhavilManorama.jpg" group-title="Entertainment",Mazhavil Manorama
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
 
+
 #EXTINF:-1 tvg-name="Flower TV" tvg-logo="https://img.media.jio.com/imagespublic/10/49/FlowerTV_1574670355976_tv.jpg" group-title="Entertainment", Flower TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -51,7 +52,6 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 https://jiotvpllive.cdn.jio.com/bpk-tv/Flower_TV_BTS/WDVLive/index.mpd?|cookie=__hdnea__=st=1791579913~exp=1791601513~acl=/bpk-tv/Flower_TV_BTS/WDVLive/*~hmac=416bc57a09e68223b9f43030e459725f1bc03c0520ec08fd7608f2b6a1ba9c7f&referer=https://www.jiotv.com/&origin=https://www.jiotv.com&user-agent=@shoebbro
 
 
-
 #EXTINF:-1 tvg-name="Zee Keralam HD" tvg-logo="https://img.media.jio.com/tvpimages/40/42/304104_1768465442420_l_medium.jpg" group-title="Entertainment", Zee Keralam HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -63,7 +63,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Flower_TV_BTS/WDVLive/index.mpd?|cookie=_
 #EXTVLCOPT:http-cookie=__hdnea__=st=1791579920~exp=1791601520~acl=/bpk-tv/ZeeKeralamHD_BTS/WDVLive/*~hmac=1025c52d16cc1e6374dd58a50eedcf4caf0a07f2b5a75ba4edef39e9255c9c98
 #EXTHTTP:{"Origin":"https://www.jiotv.com","Referer":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1791579920~exp=1791601520~acl=/bpk-tv/ZeeKeralamHD_BTS/WDVLive/*~hmac=1025c52d16cc1e6374dd58a50eedcf4caf0a07f2b5a75ba4edef39e9255c9c98"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeKeralamHD_BTS/WDVLive/index.mpd?|cookie=__hdnea__=st=1791579920~exp=1791601520~acl=/bpk-tv/ZeeKeralamHD_BTS/WDVLive/*~hmac=1025c52d16cc1e6374dd58a50eedcf4caf0a07f2b5a75ba4edef39e9255c9c98&referer=https://www.jiotv.com/&origin=https://www.jiotv.com&user-agent=@shoebbro
-
 
 
 #EXTINF:-1 tvg-id="22389" tvg-logo="https://i.imgur.com/du9iZ0s.png" group-title="Malayalam Entertainment",Asianet Middle East
