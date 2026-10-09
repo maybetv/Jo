@@ -25,13 +25,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_HD_BTS/WDVLive/index.mpd?__hdnea_
 https://login.bheem.tv/bpk-tv/22020/output/index.mpd?
 
 
-#EXTINF:-1 tvg-id="1118" tvg-name="Asianet" tvg-logo="https://img.media.jio.com/tvpimages/23/82/302101_1753203237028_l_medium.jpg" group-title="Entertainment",Asianet
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6b68a5a175d45f0ba8ed12b3016ea4d8:c7b8ce1a3a24e2f9b4d1249d04155c49
-https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_BTS/WDVLive/index.mpd?__hdnea__=st=1791550856~exp=1791572456~acl=/bpk-tv/Asianet_BTS/WDVLive/*~hmac=0a13c3cf4fe34763e38b30e5050379ce2022721402e9615370d15cb3bb6377d9
-
+#EXTINF:-1 group-logo="" tvg-id="Asianet" tvg-logo="https://img.media.jio.com/tvpimages/23/82/302101_1753203237028_l_medium.jpg" group-title="Malayalam",Asianet
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/AsianetHD.m3u8
 
 #EXTINF:-1 tvg-id="Surya" tvg-logo="https://sund-images.sunnxt.com/194398/640x360_SuryaTV_194398_45a56617-7aa9-4ced-a1c8-82b80adb83a7.jpg" group-title="Entertainment",Surya
 #KODIPROP:inputstream.adaptive.license_type=clearkey
