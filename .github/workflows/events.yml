@@ -35,7 +35,11 @@ jobs:
 
       - name: Generate Combined Playlist
         run: |
-          python scripts/combine_m3u.py
+          if [ -f "scripts/combine_m3u.py" ]; then
+            python scripts/combine_m3u.py
+          else
+            python combine_m3u.py
+          fi
 
       - name: Commit Changes
         run: |
