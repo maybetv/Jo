@@ -1,10 +1,9 @@
-.name: Update Live Events Playlist
+name: Update Live Events Playlist
 
 on:
   workflow_dispatch:
-
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "*/15 * * * *"
 
 permissions:
   contents: write
@@ -37,22 +36,17 @@ jobs:
         run: |
           python scripts/combine_m3u.py
 
-      - name: Commit Changes
+      - name: Commit and Push Changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add live-events.m3u
+          git add Zoh.m3u
 
           if git diff --cached --quiet; then
-            echo "No changes detected."
+            echo "No changes detected in Zoh.m3u."
             exit 0
           fi
 
-          git commit -m "Update live events playlist"
-
-      - name: Push Changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref_name }}
+          git commit -m "Auto-update live events in Zoh.m3u [skip ci]"
+          git push origin HEAD:${{ github.ref_name }}
