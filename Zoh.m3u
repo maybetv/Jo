@@ -1,6 +1,9 @@
 #EXTM3U
 
 
+#EXTM3U
+x-tvg-url="https://whythishome.github.io/epg/guides/dishtv.in_en.xml.gz"
+
 #EXTINF:-1 tvg-id="" tvg-name="BBS MALAYALAM" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/5711/1789027865711-t" group-title="Bigg Boss",BBS MALAYALAM
 http://starhub.pro:80/live/12121212/13131313/796437.ts
 
@@ -301,11 +304,11 @@ https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=1104
 https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=1110
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=762&token=RiYlIZ
 #EXTINF:-1 tvg-id="762" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyPIX.png" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="English",Sony Pix HD
 #EXTVLCOPT:http-user-agent=Denver1769
 https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=762
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=764&token=RiYlIZ
 
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/DishTV_logo_%282025%29.svg" group-title="Movies",Movies Now HD
