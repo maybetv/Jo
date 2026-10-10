@@ -16,11 +16,11 @@ https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_i
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce59e82f061f57c5a423d3342ae4cb7d:5218a59b8da17a2b2e4b217802f716f0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791621004~exp=1791642604~acl=/*~hmac=19f96a255d5dd6e5cb8f0ec2dbe0dedb6698369d95245cdda8911eca39f1ab54
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791624611~exp=1791646211~acl=/*~hmac=05b96fa9e103251ee50d5bf2a0780ef51bd9c7e1e2c060ed8cca5a2214dc4edb
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1791621004~exp=1791642604~acl=/*~hmac=19f96a255d5dd6e5cb8f0ec2dbe0dedb6698369d95245cdda8911eca39f1ab54
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1791621004~exp=1791642604~acl=/*~hmac=19f96a255d5dd6e5cb8f0ec2dbe0dedb6698369d95245cdda8911eca39f1ab54"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1791624611~exp=1791646211~acl=/*~hmac=05b96fa9e103251ee50d5bf2a0780ef51bd9c7e1e2c060ed8cca5a2214dc4edb
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1791624611~exp=1791646211~acl=/*~hmac=05b96fa9e103251ee50d5bf2a0780ef51bd9c7e1e2c060ed8cca5a2214dc4edb"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_HD_MOB/WDVLive/index.mpd
 
 
@@ -81,11 +81,11 @@ https://login.bheem.tv/bpk-tv/22389/output/index.mpd?
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=24618205971e53fa871bdf9c7b56bffb:751c4311a428fccbd4dda0a74991eb67
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791621004~exp=1791642604~acl=/*~hmac=19f96a255d5dd6e5cb8f0ec2dbe0dedb6698369d95245cdda8911eca39f1ab54
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791624611~exp=1791646211~acl=/*~hmac=05b96fa9e103251ee50d5bf2a0780ef51bd9c7e1e2c060ed8cca5a2214dc4edb
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1791621004~exp=1791642604~acl=/*~hmac=19f96a255d5dd6e5cb8f0ec2dbe0dedb6698369d95245cdda8911eca39f1ab54
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1791621004~exp=1791642604~acl=/*~hmac=19f96a255d5dd6e5cb8f0ec2dbe0dedb6698369d95245cdda8911eca39f1ab54"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1791624611~exp=1791646211~acl=/*~hmac=05b96fa9e103251ee50d5bf2a0780ef51bd9c7e1e2c060ed8cca5a2214dc4edb
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1791624611~exp=1791646211~acl=/*~hmac=05b96fa9e103251ee50d5bf2a0780ef51bd9c7e1e2c060ed8cca5a2214dc4edb"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_Movies_HD_MOB/WDVLive/index.mpd
 
 
@@ -94,11 +94,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_Movies_HD_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=null:null
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791621004~exp=1791642604~acl=/*~hmac=19f96a255d5dd6e5cb8f0ec2dbe0dedb6698369d95245cdda8911eca39f1ab54
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791624611~exp=1791646211~acl=/*~hmac=05b96fa9e103251ee50d5bf2a0780ef51bd9c7e1e2c060ed8cca5a2214dc4edb
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1791621004~exp=1791642604~acl=/*~hmac=19f96a255d5dd6e5cb8f0ec2dbe0dedb6698369d95245cdda8911eca39f1ab54
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1791621004~exp=1791642604~acl=/*~hmac=19f96a255d5dd6e5cb8f0ec2dbe0dedb6698369d95245cdda8911eca39f1ab54"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1791624611~exp=1791646211~acl=/*~hmac=05b96fa9e103251ee50d5bf2a0780ef51bd9c7e1e2c060ed8cca5a2214dc4edb
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1791624611~exp=1791646211~acl=/*~hmac=05b96fa9e103251ee50d5bf2a0780ef51bd9c7e1e2c060ed8cca5a2214dc4edb"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_Movies_MOB/WDVLive/index.mpd
 
 
@@ -218,11 +218,11 @@ https://vglivessai.akamaized.net/ptnr-lg/title-News_Malayalam_LGIndia/us/v1/mast
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5fb29e5825b4554090de8d60674e4bd1:4234d56f45d2dc89f80e6d4d30b765be
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791621004~exp=1791642604~acl=/*~hmac=19f96a255d5dd6e5cb8f0ec2dbe0dedb6698369d95245cdda8911eca39f1ab54
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791624611~exp=1791646211~acl=/*~hmac=05b96fa9e103251ee50d5bf2a0780ef51bd9c7e1e2c060ed8cca5a2214dc4edb
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1791621004~exp=1791642604~acl=/*~hmac=19f96a255d5dd6e5cb8f0ec2dbe0dedb6698369d95245cdda8911eca39f1ab54
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1791621004~exp=1791642604~acl=/*~hmac=19f96a255d5dd6e5cb8f0ec2dbe0dedb6698369d95245cdda8911eca39f1ab54"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1791624611~exp=1791646211~acl=/*~hmac=05b96fa9e103251ee50d5bf2a0780ef51bd9c7e1e2c060ed8cca5a2214dc4edb
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1791624611~exp=1791646211~acl=/*~hmac=05b96fa9e103251ee50d5bf2a0780ef51bd9c7e1e2c060ed8cca5a2214dc4edb"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/StarMoviesHD_MOB/WDVLive/index.mpd
 
 
@@ -231,11 +231,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/StarMoviesHD_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee96dad500c4537390df63f0f2c8de60:f6bee36ddb86f9c24def2a4a8df19e8e
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791621004~exp=1791642604~acl=/*~hmac=19f96a255d5dd6e5cb8f0ec2dbe0dedb6698369d95245cdda8911eca39f1ab54
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791624611~exp=1791646211~acl=/*~hmac=05b96fa9e103251ee50d5bf2a0780ef51bd9c7e1e2c060ed8cca5a2214dc4edb
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1791621004~exp=1791642604~acl=/*~hmac=19f96a255d5dd6e5cb8f0ec2dbe0dedb6698369d95245cdda8911eca39f1ab54
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1791621004~exp=1791642604~acl=/*~hmac=19f96a255d5dd6e5cb8f0ec2dbe0dedb6698369d95245cdda8911eca39f1ab54"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1791624611~exp=1791646211~acl=/*~hmac=05b96fa9e103251ee50d5bf2a0780ef51bd9c7e1e2c060ed8cca5a2214dc4edb
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1791624611~exp=1791646211~acl=/*~hmac=05b96fa9e103251ee50d5bf2a0780ef51bd9c7e1e2c060ed8cca5a2214dc4edb"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_MOB/WDVLive/index.mpd
 
 
@@ -244,11 +244,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_MOB/WDVLive/index.m
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ff1fe6b2519562ca3a28602592cd547:d43132eca3cefc4e29ca8fe548a0638b
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791621004~exp=1791642604~acl=/*~hmac=19f96a255d5dd6e5cb8f0ec2dbe0dedb6698369d95245cdda8911eca39f1ab54
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791624611~exp=1791646211~acl=/*~hmac=05b96fa9e103251ee50d5bf2a0780ef51bd9c7e1e2c060ed8cca5a2214dc4edb
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1791621004~exp=1791642604~acl=/*~hmac=19f96a255d5dd6e5cb8f0ec2dbe0dedb6698369d95245cdda8911eca39f1ab54
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1791621004~exp=1791642604~acl=/*~hmac=19f96a255d5dd6e5cb8f0ec2dbe0dedb6698369d95245cdda8911eca39f1ab54"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1791624611~exp=1791646211~acl=/*~hmac=05b96fa9e103251ee50d5bf2a0780ef51bd9c7e1e2c060ed8cca5a2214dc4edb
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1791624611~exp=1791646211~acl=/*~hmac=05b96fa9e103251ee50d5bf2a0780ef51bd9c7e1e2c060ed8cca5a2214dc4edb"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/SonyPIX_MOB/WDVLive/index.mpd
 
 
