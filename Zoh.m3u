@@ -9,11 +9,10 @@ http://starhub.pro:80/live/12121212/13131313/796437.ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"glnODBEnJaTSyU0VQgdCXw", "kid":"6ug4zNddSh+/9v190cl3gA" } ], "type":"temporary" }
 https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_index.mpd
-
-
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=443&token=RiYlIZ
+
+
 #EXTINF:-1 tvg-id="443" tvg-language="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_HD.png" CATCH-UP-FAILED="null" group-title="Malayalam",Asianet HD
 #EXTVLCOPT:http-user-agent=Denver1769
 https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=443
@@ -37,33 +36,30 @@ https://livestream6.sunnxt.com/30612a1b269d4a18aa14657641c47515/SuryaTVB_IN_inde
 
 #EXTINF:-1 tvg-id="MazhavilManorama" tvg-logo="https://exchange4media.gumlet.io/news-photo/92907-MazhavilManorama.jpg" group-title="Entertainment",Mazhavil Manorama
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
-
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=634&token=RiYlIZ
+
+
 #EXTINF:-1 tvg-id="634" tvg-language="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Flower_TV.png" CATCH-UP-FAILED="null" group-title="Malayalam",Flower TV
 #EXTVLCOPT:http-user-agent=Denver1769
 https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=634
-
-
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1641&token=RiYlIZ
+
+
 #EXTINF:-1 tvg-id="1641" tvg-language="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeKeralamHD.png" CATCH-UP-FAILED="null" group-title="Malayalam",Zee Keralam HD
 #EXTVLCOPT:http-user-agent=Denver1769
 https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=1641
-
-
 
 
 #EXTINF:-1 tvg-id="22389" tvg-logo="https://i.imgur.com/du9iZ0s.png" group-title="Malayalam Entertainment",Asianet Middle East
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c0c3d8692a6a574e9a731ff7ed7ca7fe:87eed062e3b13bd639f5cba89b83ea33
 https://login.bheem.tv/bpk-tv/22389/output/index.mpd?
-
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=459&token=RiYlIZ
+
+
 #EXTINF:-1 tvg-id="459" tvg-language="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_Movies_HD.png" CATCH-UP-FAILED="null" group-title="Malayalam",Asianet Movies HD
 #EXTVLCOPT:http-user-agent=Denver1769
 https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=459
@@ -77,14 +73,13 @@ https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=1153
 
 
 #EXTINF:-1 group-logo="" tvg-id="Asianet Plus" tvg-logo="https://img.media.jio.com/tvpimages/28/28/302109_1753199067845_l_medium.jpg" group-title="Malayalam",Asianet Plus
-
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1139&token=RiYlIZ
+
+
 #EXTINF:-1 tvg-id="1139" tvg-language="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_Plus.png" CATCH-UP-FAILED="null" group-title="Malayalam",Asianet Plus
 #EXTVLCOPT:http-user-agent=Denver1769
 https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=1139
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/DgfjRPnf/Picsart-25-02-10-14-22-46-534.png" group-title="SunNXT",SURYA Movies
@@ -192,19 +187,20 @@ https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb
 #EXTINF:-1 tvg-id="News Malayalam 24x7" tvg-logo="https://i.imgur.com/9Yyzvp9.jpeg" group-title="News",News Malayalam 24x7
 https://vglivessai.akamaized.net/ptnr-lg/title-News_Malayalam_LGIndia/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/23b1b63f-0419-4eb7-8816-d502a77d3f50/index.m3u8
 ==MOVIES===
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1104&token=RiYlIZ
+
+
 #EXTINF:-1 tvg-id="1104" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_HD.png" CATCH-UP-FAILED="null" group-title="English",Star Movies HD
 #EXTVLCOPT:http-user-agent=Denver1769
 https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=1104
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1110&token=RiYlIZ
+
+
 #EXTINF:-1 tvg-id="1110" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" CATCH-UP-FAILED="null" group-title="English",Star Movies Select HD
 #EXTVLCOPT:http-user-agent=Denver1769
 https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=1110
-
 
 
 #EXTINF:-1 tvg-id="762" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyPIX.png" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="English",Sony Pix HD
@@ -385,20 +381,27 @@ https://sliv.tgaadi.workers.dev/sonybbcearthhd.m3u8
 
 
 #EXTINF:-1 tvg-id="star_sports_1_hd" tvg-logo="https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_medium.jpg" group-title="Sports",STAR SPORTS 1 HD
+
+
 #EXTINF:-1 tvg-id="star_sports_2_hd" tvg-logo="https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg" group-title="Sports",STAR SPORTS 2 HD
 
+
 #EXTINF:-1 tvg-id="star_sports_3_digital" tvg-logo="https://img.media.jio.com/tvpimages/78/2/302117_1749666092192_l_medium.jpg" group-title="Sports",Star Sports 3
+
+
 #EXTINF:-1 tvg-id="star_sports_1_tamil_digital" tvg-logo="https://img.media.jio.com/tvpimages/19/19/302122_1749662923298_l_medium.jpg" group-title="Sports",Star Sports 1 Tamil
+
+
 #EXTINF:-1 tvg-id="star_sports_2_tamil_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F6676%2F1783000836676-h.jpg" group-title="Sports",Star Sports 2 Tamil Digital
+
+
 #EXTINF:-1 tvg-id="star_sports_1_select_hd" https://img.media.jio.com/tvpimages/96/65/302113_1749664252703_l_medium.jpg%2Fprod%2F7226%2F597226-h.jpg" group-title="Sports",STAR SPORTS 1 SELECT HD
+
+
 #EXTINF:-1 tvg-id="star_sports_2_select_hd" tvg-logo="https://img.media.jio.com/tvpimages/98/79/302114_1749665414817_l_medium.jpg" group-title="Sports",STAR SPORTS 2 SELECT HD
+
+
 #EXTINF:-1 tvg-id="star_sports_khel_digital" tvg-logo="https://premiumplugx.top/tivjh/playlist.php?route=logo&url=https%3A%2F%2Fimg10.hotstar.com%2Fimage%2Fupload%2Ff_auto%2Fsources%2Fr1%2Fcms%2Fprod%2F270%2F1782998020270-h.jpg" group-title="Sports",Star Sports Khel Digital
-
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-name="Sony Sports Ten 1 HD" tvg-language="English" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Sports Ten 1 HD
@@ -406,7 +409,6 @@ https://sliv.tgaadi.workers.dev/sonybbcearthhd.m3u8
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009276&uid=8004188626&pass=61498d15
-
 
 
 #EXTINF:-1 tvg-id="sony-ten-1" tvg-name="Sony Sports Ten 1" tvg-language="English" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="Sports" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Sports Ten 1
@@ -422,14 +424,17 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009280&uid=8004188626
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009277&uid=8004188626&pass=61498d15
 
+
 #EXTINF:-1 tvg-id="sony-ten-2" tvg-name="Sony Sports Ten 2" tvg-language="English" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="Sports" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Sports Ten 2
 #EXTVLCOPT:http-origin=https://www.sonyliv.com
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009279&uid=8004188626&pass=61498d15
 
+
 #EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-name="Sony Sports Ten 3 HD" tvg-language="Hindi" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi_HD.png" group-title="Sports" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Sports Ten 3 HD
 https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_ten3_hd.m3u8
+
 
 #EXTINF:-1 tvg-id="sony-ten-3" tvg-name="Sony Sports Ten 3" tvg-language="Hindi" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi.png" group-title="Sports" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Sports Ten 3
 #EXTVLCOPT:http-origin=https://www.sonyliv.com
@@ -441,9 +446,9 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009283&uid=8004188626
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sony Sports Ten 4 Tamil" tvg-logo="https://i.postimg.cc/J0Lxt4z8/Sony-Sports-TEN-4-Tamil.png" group-title="Sports",Sony Sports Ten 4 Tamil
 https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_ten4.m3u8
 
+
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-language="English" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Sports Ten 5 HD
 https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_ten5_hd.m3u8
-
 
 
 #EXTINF:-1 tvg-id="sony-ten-5" tvg-name="Sony Sports Ten 5" tvg-language="English" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="Sports" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Sports Ten 5
@@ -453,15 +458,7 @@ https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereb
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009281&uid=8004188626&pass=61498d15
 
 
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="sony-ten-4-hd" tvg-name="Sony Sports Ten 4 HD" tvg-language="Hindi" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_4_Telugu.png" group-title="Sports" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Sports Ten 4 HD
-
 
 
 #EXTINF:-1 tvg-id="Cricbuzz" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/600_144.png" group-title="Sports", Cricbuzz
@@ -674,20 +671,24 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
-
 # --- LIVE EVENTS ---
+
 
 #EXTINF:-1 tvg-id="4249220" tvg-name="India Champions vs South Africa Champions [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249220_53069_IAC_SAC_FC-Web_1790764440585.png" group-title="Fancode",India Champions vs South Africa Champions [English]
 https://in-mc-flive.fancode.com/mumbai/4249220_english_hls_678474ccb382104_1ta-di_h264/720p.m3u8?hdntl=Expires=1791730434~_GO=Generated~acl=/mumbai/4249220_english_hls_678474ccb382104_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ad70de87-6b36-41~Signature=AXZsC1CX7gMdGfD8PXkd36a-BVrp0JXNyaQeEM3na4lttd94qQzYe_BHptrJSx1e_W_9q2C0fDQXKUR7uszq_BspJr0M
 
+
 #EXTINF:-1 tvg-id="4250100" tvg-name="Dubai vs Emirates Blues [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250069_53103_EMB_DUB_FC-WEB.jpg" group-title="Fancode",Dubai vs Emirates Blues [English]
 https://in-mc-flive.fancode.com/mumbai/4250100_english_hls_3440ff959393565_1ta-di_h264/720p.m3u8?hdntl=Expires=1791737256~_GO=Generated~acl=/mumbai/4250100_english_hls_3440ff959393565_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_edbb349a-602f-4b~Signature=AXZsC1CFks4_jK97kM09vRdG8T2DTUeSUCVNf7FdDnjWF7mfKMe_vjMjmuvqD0Sj1ClSEn1BZuz4n_2A8gr-IUqL0iAI
+
 
 #EXTINF:-1 tvg-id="4250126" tvg-name="Semi-Final [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web_1791376059215.png" group-title="Fancode",Semi-Final [English]
 https://in-mc-flive.fancode.com/mumbai/4250126_english_hls_4ad32cab3920278_1ta-di_h264/720p.m3u8?hdntl=Expires=1791732300~_GO=Generated~acl=/mumbai/4250126_english_hls_4ad32cab3920278_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b4bdf5b1-ca35-48~Signature=AXZsC1CUMoQv0ewbsmRYVdsU_0SlSjv24dXlKH1X8d-Q5nHSSm_o1Ez9DFklohvaLl0UZ7TFpOD6DpqIqFJNFe7R36AM
 
+
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Hotstar",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
+
 
 #EXTINF:-1 tvg-id="B0HMDBHZHX" tvg-name="Bassmaster Classic-Bassmaster College Classic Cup" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.05e2706a-e70a-4c11-88e7-64ef15f80852/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Bassmaster Classic-Bassmaster College Classic Cup
 #KODIPROP:inputstream=inputstream.adaptive
@@ -696,12 +697,14 @@ https://ComeInNextMatch.com/4K.m3u8
 #KODIPROP:inputstream.adaptive.license_key=ad6e7091d1d36a16d5475bdb2d900888:8c67e6b1e4bcf1ee1f12167526ef2503
 https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qy6usrjqzw/out/v1/48d0ffdc0c354fc8bf9b565c245d0f07/cenc.mpd
 
+
 #EXTINF:-1 tvg-id="B0HLR4DY9G" tvg-name="Elite: Southwest Regional 2, Qualifying" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d5e64a87-2b88-41e6-bb55-42e203bcdb90/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Elite: Southwest Regional 2, Qualifying
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=08c7d255bdb53b54f38735c2529492f9:7eafb46d7206f2cb19ef0751e3466a5a
 https://a72live-emt-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq3gvzBhpqykVzA2Zha2FtYWkCeChmaWQ6MDFhMTI2MWYtNDljYS03MTQ5LTg2NmEtMWMxOWEyNzY0MTBmGQE4oQWhAngzL3lqdG5kY3lrbHgvb3V0L3YxLzY5MjM1ZWY2NDg2YjQ4ZTBiYmVlYTAyYjIwZmFhYzNlWCC6CE8x247TIIVsuo-uqTcMQIcqiTQhSp9_kw_Gq3w4cA/PDX/f1d5711e7938446f8ba77aa4cace74fe/v1/dash/159325541587/imdb_ottera_amzn1_dv_live_csid_610ccc26-479b-4d79-8c18-5ac0e6ceff38_us-west-2_pdx_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-pdx-prod/enc/yjtndcyklx/out/v1/69235ef6486b48e0bbeea02b20faac3e/e63e9cc0-5146-48fb-a330-ccf1f6aaeac2-cenc.mpd?aws.sessionId=7f70f205-325b-4469-9237-b3d5d68f1501
+
 
 #EXTINF:-1 tvg-id="B0HMJ74228" tvg-name="BKB 60: Newcastle (Prelims)" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cf5f38d4-2692-4244-a80f-75590a90a9cc/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",BKB 60: Newcastle (Prelims)
 #KODIPROP:inputstream=inputstream.adaptive
@@ -710,12 +713,14 @@ https://a72live-emt-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZj
 #KODIPROP:inputstream.adaptive.license_key=1918ddf008413696077e06138983c5f9:2d66e0d80ca9ac6ad8b8c230a97f74b4
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lbgomzfdel/out/v1/99687c04728943498f884d9bf6a0c837/cenc.mpd
 
+
 #EXTINF:-1 tvg-id="B0HLL57GW4" tvg-name="Inter vs. Parma" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bae1cbb3-ad6e-409b-8291-f003777cccfc/4/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video",Inter vs. Parma
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+
 
 #EXTINF:-1 tvg-id="B0HJ2HKTRK" tvg-name="Long Island Sharks vs. Duquesne" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f1710113-0898-4028-88c8-40fafe600741/3/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video",Long Island Sharks vs. Duquesne
 #KODIPROP:inputstream=inputstream.adaptive
@@ -724,12 +729,14 @@ https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdom
 #KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
 https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd
 
+
 #EXTINF:-1 tvg-id="B0HK7F9H1R" tvg-name="Ashland vs Findlay - Football" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.de823dc1-5147-4f18-8181-beae528807fa/44/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Ashland vs Findlay - Football
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc
 https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd
+
 
 #EXTINF:-1 tvg-id="B0HKFX66PQ" tvg-name="First Semifinal" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.84d5b725-01fe-458e-848c-9a5ed6222071/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",First Semifinal
 #KODIPROP:inputstream=inputstream.adaptive
@@ -738,12 +745,14 @@ https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvye
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
 
+
 #EXTINF:-1 tvg-id="B0HLFSZ4WG" tvg-name="PPA Tour Chicago Cup: Semifinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ab2c7cf7-057e-480b-8c1d-2d98cfdec15f/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",PPA Tour Chicago Cup: Semifinals
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
+
 
 #EXTINF:-1 tvg-id="B0H4ZX1SX9" tvg-name="Spain vs. Italy" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.55af9836-fb0c-4f37-8815-4f220da543d0/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Spain vs. Italy
 #KODIPROP:inputstream=inputstream.adaptive
@@ -752,6 +761,7 @@ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1
 #KODIPROP:inputstream.adaptive.license_key=dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b
 https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd
 
+
 #EXTINF:-1 tvg-id="B0HFG2VX8C" tvg-name="India Champions vs. South Africa Champions" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0e213522-03b6-4903-af13-834e9b6caf4a/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",India Champions vs. South Africa Champions
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -759,10 +769,10 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ue
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
+
 #EXTINF:-1 tvg-id="B0HLDB3QRW" tvg-name="Bucharest, Day 1" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8eb61e4e-0e72-40ba-b083-bc5427b8572c/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Bucharest, Day 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
 https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
-
