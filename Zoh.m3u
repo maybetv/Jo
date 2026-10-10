@@ -11,11 +11,12 @@ http://starhub.pro:80/live/12121212/13131313/796437.ts
 https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_index.mpd
 
 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=443&token=RiYlIZ
 #EXTINF:-1 tvg-id="443" tvg-language="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_HD.png" CATCH-UP-FAILED="null" group-title="Malayalam",Asianet HD
 #EXTVLCOPT:http-user-agent=Denver1769
 https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=443
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=445&token=RiYlIZ
 
 
 #EXTINF:-1 tvg-id="22020" tvg-logo="https://img.media.jio.com/tvpimages/97/2/300156_1752854414598_l_medium.jpg" group-title="Malayalam Entertainment",Mazhavil Manorama HD
@@ -38,30 +39,21 @@ https://livestream6.sunnxt.com/30612a1b269d4a18aa14657641c47515/SuryaTVB_IN_inde
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="Flower TV" tvg-logo="https://img.media.jio.com/imagespublic/10/49/FlowerTV_1574670355976_tv.jpg" group-title="Entertainment", Flower TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=89346fccf901533b81c4b12371eb92ac:03bde04e410c6e642efc605fcc166822,6f5b38d337475e6dbb6b7b970bd012a9:71f981ccff01233b41f17e9a0a8f2d26,a41d1825e82c5a10914fd7839facef5b:66a7d5f58e712df1478845faae7e5bd6,784c30244c0757b5904b0d35dfd7fe78:34fc3da89e97aef32782571956929208,7b44aa41aab655699d5a2c4895a74330:8408da00e0954c325ac3194aa4ad1b7e
-#EXTVLCOPT:http-user-agent=@shoebbro
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-extra-headers=Origin: https://www.jiotv.com
-#EXTVLCOPT:http-cookie=__hdnea__=st=1791579913~exp=1791601513~acl=/bpk-tv/Flower_TV_BTS/WDVLive/*~hmac=416bc57a09e68223b9f43030e459725f1bc03c0520ec08fd7608f2b6a1ba9c7f
-#EXTHTTP:{"Origin":"https://www.jiotv.com","Referer":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1791579913~exp=1791601513~acl=/bpk-tv/Flower_TV_BTS/WDVLive/*~hmac=416bc57a09e68223b9f43030e459725f1bc03c0520ec08fd7608f2b6a1ba9c7f"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Flower_TV_BTS/WDVLive/index.mpd?|cookie=__hdnea__=st=1791579913~exp=1791601513~acl=/bpk-tv/Flower_TV_BTS/WDVLive/*~hmac=416bc57a09e68223b9f43030e459725f1bc03c0520ec08fd7608f2b6a1ba9c7f&referer=https://www.jiotv.com/&origin=https://www.jiotv.com&user-agent=@shoebbro
+#KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=634&token=RiYlIZ
+#EXTINF:-1 tvg-id="634" tvg-language="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Flower_TV.png" CATCH-UP-FAILED="null" group-title="Malayalam",Flower TV
+#EXTVLCOPT:http-user-agent=Denver1769
+https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=634
 
 
-#EXTINF:-1 tvg-name="Zee Keralam HD" tvg-logo="https://img.media.jio.com/tvpimages/40/42/304104_1768465442420_l_medium.jpg" group-title="Entertainment", Zee Keralam HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d7ef4c20ac365150b4773544faa07587:f8ff141b8e1cd71159b17f58487cf2e5,3e7dbec6224c5e1fba4ce631a91648c9:8c86df34c90c57c5400dfd161ca02a98,4f5964c9c3ce51f0a8571a1eb34a93d2:9a6b33496edfa58e9e27a95ebc0438e8,843f85752e2954af864cde2858b94b07:5fb0421f5dd5b71a58fc2d98d2d4f8c0,a2c8b5715edd55bc8e36ab716d159140:0ea9f97a39ecdb94d701ddbf56cb6893
-#EXTVLCOPT:http-user-agent=@shoebbro
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-extra-headers=Origin: https://www.jiotv.com
-#EXTVLCOPT:http-cookie=__hdnea__=st=1791579920~exp=1791601520~acl=/bpk-tv/ZeeKeralamHD_BTS/WDVLive/*~hmac=1025c52d16cc1e6374dd58a50eedcf4caf0a07f2b5a75ba4edef39e9255c9c98
-#EXTHTTP:{"Origin":"https://www.jiotv.com","Referer":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1791579920~exp=1791601520~acl=/bpk-tv/ZeeKeralamHD_BTS/WDVLive/*~hmac=1025c52d16cc1e6374dd58a50eedcf4caf0a07f2b5a75ba4edef39e9255c9c98"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeKeralamHD_BTS/WDVLive/index.mpd?|cookie=__hdnea__=st=1791579920~exp=1791601520~acl=/bpk-tv/ZeeKeralamHD_BTS/WDVLive/*~hmac=1025c52d16cc1e6374dd58a50eedcf4caf0a07f2b5a75ba4edef39e9255c9c98&referer=https://www.jiotv.com/&origin=https://www.jiotv.com&user-agent=@shoebbro
+#KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1641&token=RiYlIZ
+#EXTINF:-1 tvg-id="1641" tvg-language="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeKeralamHD.png" CATCH-UP-FAILED="null" group-title="Malayalam",Zee Keralam HD
+#EXTVLCOPT:http-user-agent=Denver1769
+https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=1641
+
+
 
 
 #EXTINF:-1 tvg-id="22389" tvg-logo="https://i.imgur.com/du9iZ0s.png" group-title="Malayalam Entertainment",Asianet Middle East
@@ -70,11 +62,11 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeKeralamHD_BTS/WDVLive/index.mpd?|cooki
 https://login.bheem.tv/bpk-tv/22389/output/index.mpd?
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=459&token=RiYlIZ
 #EXTINF:-1 tvg-id="459" tvg-language="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_Movies_HD.png" CATCH-UP-FAILED="null" group-title="Malayalam",Asianet Movies HD
 #EXTVLCOPT:http-user-agent=Denver1769
 https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=459
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=464&token=RiYlIZ
 
 
 #EXTINF:-1 tvg-id="1153" tvg-language="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_Movies.png" CATCH-UP-FAILED="null" group-title="Malayalam",Asianet Movies
@@ -85,7 +77,14 @@ https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=1153
 
 
 #EXTINF:-1 group-logo="" tvg-id="Asianet Plus" tvg-logo="https://img.media.jio.com/tvpimages/28/28/302109_1753199067845_l_medium.jpg" group-title="Malayalam",Asianet Plus
-http://d4-smart-d4.it.com:80/live/marouane291023/9e1hq6uiv9/277187.ts
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1139&token=RiYlIZ
+#EXTINF:-1 tvg-id="1139" tvg-language="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_Plus.png" CATCH-UP-FAILED="null" group-title="Malayalam",Asianet Plus
+#EXTVLCOPT:http-user-agent=Denver1769
+https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=1139
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/DgfjRPnf/Picsart-25-02-10-14-22-46-534.png" group-title="SunNXT",SURYA Movies
@@ -194,19 +193,18 @@ https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb
 https://vglivessai.akamaized.net/ptnr-lg/title-News_Malayalam_LGIndia/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/23b1b63f-0419-4eb7-8816-d502a77d3f50/index.m3u8
 ==MOVIES===
 
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1104&token=RiYlIZ
 #EXTINF:-1 tvg-id="1104" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_HD.png" CATCH-UP-FAILED="null" group-title="English",Star Movies HD
 #EXTVLCOPT:http-user-agent=Denver1769
 https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=1104
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1110&token=RiYlIZ
-
-
 #EXTINF:-1 tvg-id="1110" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" CATCH-UP-FAILED="null" group-title="English",Star Movies Select HD
 #EXTVLCOPT:http-user-agent=Denver1769
 https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=1110
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1111&token=RiYlIZ
+
 
 
 #EXTINF:-1 tvg-id="762" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyPIX.png" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="English",Sony Pix HD
