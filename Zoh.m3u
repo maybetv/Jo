@@ -396,62 +396,16 @@ https://sliv.tgaadi.workers.dev/sonybbcearthhd.m3u8
 
 
 
-#EXTINF:-1 tvg-id="1540068247" tvg-language="English" tvg-name="Star Sports 1" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7482/1782284567482-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Sports", Star Sports 1 Digital
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068247&token=RiYlIZ|cookie=hdntl=exp=1791720008~acl=%2f*~id=5efd87485574d86cce4fdc97d33e2973~data=hdntl~hmac=581b5d1a16770de336d289c3d8c047e595c4135effa9b22dc441862a08af7250&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068295&token=RiYlIZ&type=jhs
-
-#EXTINF:-1 tvg-id="1540068295" tvg-language="Hindi" tvg-name="Star Sports 1 Hindi" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8867/1782284658867-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Sports", Star Sports 1 Hindi Digital
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068295&token=RiYlIZ|cookie=hdntl=exp=1791720008~acl=%2f*~id=5efd87485574d86cce4fdc97d33e2973~data=hdntl~hmac=581b5d1a16770de336d289c3d8c047e595c4135effa9b22dc441862a08af7250&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068250&token=RiYlIZ&type=jhs
-
-#EXTINF:-1 tvg-id="1540068250" tvg-language="English" tvg-name="Star Sports 2" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7957/1783000567957-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Sports", Star Sports 2 Digital
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068250&token=RiYlIZ|cookie=hdntl=exp=1791720008~acl=%2f*~id=5efd87485574d86cce4fdc97d33e2973~data=hdntl~hmac=581b5d1a16770de336d289c3d8c047e595c4135effa9b22dc441862a08af7250&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068298&token=RiYlIZ&type=jhs
-
-#EXTINF:-1 tvg-id="1540068298" tvg-language="Hindi" tvg-name="Star Sports 2 Hindi" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6371/1783000736371-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Sports", Star Sports 2 Hindi Digital
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068298&token=RiYlIZ|cookie=hdntl=exp=1791720008~acl=%2f*~id=5efd87485574d86cce4fdc97d33e2973~data=hdntl~hmac=581b5d1a16770de336d289c3d8c047e595c4135effa9b22dc441862a08af7250&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068301&token=RiYlIZ&type=jhs
-
-#EXTINF:-1 tvg-id="1540068301" tvg-language="English" tvg-name="Star Sports 3" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2523/1783001062523-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Sports", Star Sports 3 Digital
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068301&token=RiYlIZ|cookie=hdntl=exp=1791720008~acl=%2f*~id=5efd87485574d86cce4fdc97d33e2973~data=hdntl~hmac=581b5d1a16770de336d289c3d8c047e595c4135effa9b22dc441862a08af7250&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068723&token=RiYlIZ&type=jhs
-
-#EXTINF:-1 tvg-id="1540068723" tvg-language="English" tvg-name="Star Sports Select 1" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1176/1783001141176-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Sports", Star Sports Select 1 Digital
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068723&token=RiYlIZ|cookie=hdntl=exp=1791720008~acl=%2f*~id=5efd87485574d86cce4fdc97d33e2973~data=hdntl~hmac=581b5d1a16770de336d289c3d8c047e595c4135effa9b22dc441862a08af7250&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068726&token=RiYlIZ&type=jhs
-
-#EXTINF:-1 tvg-id="1540068726" tvg-language="English" tvg-name="Star Sports Select 2" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7266/1783001217266-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Sports", Star Sports Select 2 Digital
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068726&token=RiYlIZ|cookie=hdntl=exp=1791720008~acl=%2f*~id=5efd87485574d86cce4fdc97d33e2973~data=hdntl~hmac=581b5d1a16770de336d289c3d8c047e595c4135effa9b22dc441862a08af7250&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540073624&token=RiYlIZ&type=jhs
-
-#EXTINF:-1 tvg-id="1540073624" tvg-language="Hindi" tvg-name="Star Sports Khel" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/270/1782998020270-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Sports", Star Sports Khel Digital
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540073624&token=RiYlIZ|cookie=hdntl=exp=1791720008~acl=%2f*~id=5efd87485574d86cce4fdc97d33e2973~data=hdntl~hmac=581b5d1a16770de336d289c3d8c047e595c4135effa9b22dc441862a08af7250&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 
 
 
 
 
+#EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-name="Sony Sports Ten 1 HD" tvg-language="English" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Sports Ten 1 HD
+#EXTVLCOPT:http-origin=https://www.sonyliv.com
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009276&uid=8004188626&pass=61498d15
 
 
 
@@ -462,12 +416,20 @@ https://game.playindia.fun/Jtv/jhs.mpd?id=1540073624&token=RiYlIZ|cookie=hdntl=e
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009280&uid=8004188626&pass=61498d15
 
 
+#EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-name="Sony Sports Ten 2 HD" tvg-language="English" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Sports Ten 2 HD
+#EXTVLCOPT:http-origin=https://www.sonyliv.com
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009277&uid=8004188626&pass=61498d15
+
 #EXTINF:-1 tvg-id="sony-ten-2" tvg-name="Sony Sports Ten 2" tvg-language="English" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="Sports" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Sports Ten 2
 #EXTVLCOPT:http-origin=https://www.sonyliv.com
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009279&uid=8004188626&pass=61498d15
 
+#EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-name="Sony Sports Ten 3 HD" tvg-language="Hindi" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi_HD.png" group-title="Sports" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Sports Ten 3 HD
+https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_ten3_hd.m3u8
 
 #EXTINF:-1 tvg-id="sony-ten-3" tvg-name="Sony Sports Ten 3" tvg-language="Hindi" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi.png" group-title="Sports" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Sports Ten 3
 #EXTVLCOPT:http-origin=https://www.sonyliv.com
@@ -479,51 +441,9 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009283&uid=8004188626
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sony Sports Ten 4 Tamil" tvg-logo="https://i.postimg.cc/J0Lxt4z8/Sony-Sports-TEN-4-Tamil.png" group-title="Sports",Sony Sports Ten 4 Tamil
 https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_ten4.m3u8
 
+#EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-language="English" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Sports Ten 5 HD
+https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_ten5_hd.m3u8
 
-#EXTINF:-1 tvg-id="1540068247" tvg-language="English" tvg-name="Star Sports 1" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7482/1782284567482-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Sports", Star Sports 1 Digital
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068247&token=RiYlIZ|cookie=hdntl=exp=1791720008~acl=%2f*~id=5efd87485574d86cce4fdc97d33e2973~data=hdntl~hmac=581b5d1a16770de336d289c3d8c047e595c4135effa9b22dc441862a08af7250&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068295&token=RiYlIZ&type=jhs
-#EXTINF:-1 tvg-id="1540068295" tvg-language="Hindi" tvg-name="Star Sports 1 Hindi" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/8867/1782284658867-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Sports", Star Sports 1 Hindi Digital
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068295&token=RiYlIZ|cookie=hdntl=exp=1791720008~acl=%2f*~id=5efd87485574d86cce4fdc97d33e2973~data=hdntl~hmac=581b5d1a16770de336d289c3d8c047e595c4135effa9b22dc441862a08af7250&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068250&token=RiYlIZ&type=jhs
-#EXTINF:-1 tvg-id="1540068250" tvg-language="English" tvg-name="Star Sports 2" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7957/1783000567957-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Sports", Star Sports 2 Digital
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068250&token=RiYlIZ|cookie=hdntl=exp=1791720008~acl=%2f*~id=5efd87485574d86cce4fdc97d33e2973~data=hdntl~hmac=581b5d1a16770de336d289c3d8c047e595c4135effa9b22dc441862a08af7250&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068298&token=RiYlIZ&type=jhs
-#EXTINF:-1 tvg-id="1540068298" tvg-language="Hindi" tvg-name="Star Sports 2 Hindi" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/6371/1783000736371-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Sports", Star Sports 2 Hindi Digital
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068298&token=RiYlIZ|cookie=hdntl=exp=1791720008~acl=%2f*~id=5efd87485574d86cce4fdc97d33e2973~data=hdntl~hmac=581b5d1a16770de336d289c3d8c047e595c4135effa9b22dc441862a08af7250&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068301&token=RiYlIZ&type=jhs
-#EXTINF:-1 tvg-id="1540068301" tvg-language="English" tvg-name="Star Sports 3" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2523/1783001062523-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Sports", Star Sports 3 Digital
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068301&token=RiYlIZ|cookie=hdntl=exp=1791720008~acl=%2f*~id=5efd87485574d86cce4fdc97d33e2973~data=hdntl~hmac=581b5d1a16770de336d289c3d8c047e595c4135effa9b22dc441862a08af7250&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068723&token=RiYlIZ&type=jhs
-
-#EXTINF:-1 tvg-id="1540068723" tvg-language="English" tvg-name="Star Sports Select 1" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/1176/1783001141176-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Sports", Star Sports Select 1 Digital
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068723&token=RiYlIZ|cookie=hdntl=exp=1791720008~acl=%2f*~id=5efd87485574d86cce4fdc97d33e2973~data=hdntl~hmac=581b5d1a16770de336d289c3d8c047e595c4135effa9b22dc441862a08af7250&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540068726&token=RiYlIZ&type=jhs
-
-#EXTINF:-1 tvg-id="1540068726" tvg-language="English" tvg-name="Star Sports Select 2" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7266/1783001217266-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Sports", Star Sports Select 2 Digital
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540068726&token=RiYlIZ|cookie=hdntl=exp=1791720008~acl=%2f*~id=5efd87485574d86cce4fdc97d33e2973~data=hdntl~hmac=581b5d1a16770de336d289c3d8c047e595c4135effa9b22dc441862a08af7250&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1540073624&token=RiYlIZ&type=jhs
-
-#EXTINF:-1 tvg-id="1540073624" tvg-language="Hindi" tvg-name="Star Sports Khel" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/270/1782998020270-h" catchup-type="append" catchup-days="14" catchup-source="&start={utc}&end={utcend}" group-title="Jhs Sports", Star Sports Khel Digital
-https://game.playindia.fun/Jtv/jhs.mpd?id=1540073624&token=RiYlIZ|cookie=hdntl=exp=1791720008~acl=%2f*~id=5efd87485574d86cce4fdc97d33e2973~data=hdntl~hmac=581b5d1a16770de336d289c3d8c047e595c4135effa9b22dc441862a08af7250&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 
 
 #EXTINF:-1 tvg-id="sony-ten-5" tvg-name="Sony Sports Ten 5" tvg-language="English" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="Sports" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Sports Ten 5
@@ -533,31 +453,15 @@ https://game.playindia.fun/Jtv/jhs.mpd?id=1540073624&token=RiYlIZ|cookie=hdntl=e
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009281&uid=8004188626&pass=61498d15
 
 
-#EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-name="Sony Sports Ten 1 HD" tvg-language="English" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Sports Ten 1 HD
-#EXTVLCOPT:http-origin=https://www.sonyliv.com
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009276&uid=8004188626&pass=61498d15
 
 
-#EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-name="Sony Sports Ten 2 HD" tvg-language="English" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Sports Ten 2 HD
-#EXTVLCOPT:http-origin=https://www.sonyliv.com
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009277&uid=8004188626&pass=61498d15
 
 
-#EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-name="Sony Sports Ten 3 HD" tvg-language="Hindi" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi_HD.png" group-title="Sports" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Sports Ten 3 HD
+
 
 
 #EXTINF:-1 tvg-id="sony-ten-4-hd" tvg-name="Sony Sports Ten 4 HD" tvg-language="Hindi" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_4_Telugu.png" group-title="Sports" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Sports Ten 4 HD
 
-
-#EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-language="English" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Sports Ten 5 HD
-#EXTVLCOPT:http-origin=https://www.sonyliv.com
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009276&uid=8004188626&pass=61498d15
 
 
 #EXTINF:-1 tvg-id="Cricbuzz" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/600_144.png" group-title="Sports", Cricbuzz
