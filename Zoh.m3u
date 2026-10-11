@@ -195,8 +195,8 @@ https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb
 #EXTINF:-1 tvg-id="News Malayalam 24x7" tvg-logo="https://i.imgur.com/9Yyzvp9.jpeg" group-title="News",News Malayalam 24x7
 https://vglivessai.akamaized.net/ptnr-lg/title-News_Malayalam_LGIndia/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/23b1b63f-0419-4eb7-8816-d502a77d3f50/index.m3u8
 ==MOVIES===
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1104&token=RiYlIZ
+
+
 _____sports_____
 
 
@@ -291,20 +291,24 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009281&uid=8004188626
 
 
 #EXTINF:-1 tvg-id="1104" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_HD.png" CATCH-UP-FAILED="null" group-title="English",Star Movies HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1104&token=RiYlIZ
 #EXTVLCOPT:http-user-agent=Denver1769
 https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=1104
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1110&token=RiYlIZ
+
 
 
 #EXTINF:-1 tvg-id="1110" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" CATCH-UP-FAILED="null" group-title="English",Star Movies Select HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1110&token=RiYlIZ
 #EXTVLCOPT:http-user-agent=Denver1769
 https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=1110
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=762&token=RiYlIZ
+
 
 
 #EXTINF:-1 tvg-id="762" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyPIX.png" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="English",Sony Pix HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=762&token=RiYlIZ
 #EXTVLCOPT:http-user-agent=Denver1769
 https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=762
 
