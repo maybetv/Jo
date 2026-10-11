@@ -678,16 +678,16 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 #EXTINF:-1 tvg-id="4249693" tvg-name="Bangladesh vs Afghanistan [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_6518.jpeg" group-title="Fancode",Bangladesh vs Afghanistan [English]
 https://in-mc-flive.fancode.com/mumbai/4249693_english_hls_aaca093f3b69428_1ta-di_h264/720p.m3u8?hdntl=Expires=1791782324~_GO=Generated~acl=/mumbai/4249693_english_hls_aaca093f3b69428_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_9742ff40-58ef-46~Signature=AXZsC1DHSnbPosGVmp_-mRJFTcz0t63fIa1VFzTMzTqQTVnDjzFz9e1O--i5RncCs6eSq4GzaFAvlcRoayr14L4x6XsC
 
+#EXTINF:-1 tvg-id="4249781" tvg-name="Australia vs South Africa [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Fancode",Australia vs South Africa [English]
+https://in-mc-flive.fancode.com/mumbai/4249781_english_hls_6c802c64b112413_1ta-di_h264/720p.m3u8?hdntl=Expires=1791788378~_GO=Generated~acl=/mumbai/4249781_english_hls_6c802c64b112413_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_2c6c280e-1621-42~Signature=AXZsC1BJNZE9BTzRDavMJW5Fq074jS_ZPXYvspj6coP-tlXaUtejkNtkbYRoXkhcBJrbD4Ylmwjtl7ggOA-P6XQ2DCgK
+
 #EXTINF:-1 tvg-id="4250150" tvg-name="Bangladesh Women vs Australia Women [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-BAN_ODI_fc-web.jpg" group-title="Fancode",Bangladesh Women vs Australia Women [English]
 https://in-mc-flive.fancode.com/mumbai/4250150_english_hls_e1216d6dea39966_1ta-di_h264/720p.m3u8?hdntl=Expires=1791776269~_GO=Generated~acl=/mumbai/4250150_english_hls_e1216d6dea39966_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_18ae40ce-4f44-4d~Signature=AXZsC1Dtp1zKBFz-qC7ZwO9OhHK_1yTdM2nJ_EWdHGXGdCg7rYzlmwCYoLbT6N2BNznNJAvXleElkfE16pcTfoHjmcIP
 
 #EXTINF:-1 tvg-id="4250114" tvg-name="Nepal vs Canada [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250114_53106_CAN_NEP_fc-Web.png" group-title="Fancode",Nepal vs Canada [English]
 https://in-mc-flive.fancode.com/mumbai/4250114_english_hls_59cf06134d58578_1ta-di_h264/720p.m3u8?hdntl=Expires=1791782323~_GO=Generated~acl=/mumbai/4250114_english_hls_59cf06134d58578_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_972b7858-6679-4c~Signature=AXZsC1DB_zKIy4aUZSX_D7xd3ktYcSxGH2yy8X_GJut7yYIxFAAi4uDIsHadDdpMHR2sbby8mSKNS6nEBD_XWJM4quQB
 
-#EXTINF:-1 tvg-id="4249781" tvg-name="Australia vs South Africa [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Fancode",Australia vs South Africa [English]
-https://in-mc-flive.fancode.com/mumbai/4249781_english_hls_6c802c64b112413_1ta-di_h264/720p.m3u8?hdntl=Expires=1791788378~_GO=Generated~acl=/mumbai/4249781_english_hls_6c802c64b112413_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_2c6c280e-1621-42~Signature=AXZsC1BJNZE9BTzRDavMJW5Fq074jS_ZPXYvspj6coP-tlXaUtejkNtkbYRoXkhcBJrbD4Ylmwjtl7ggOA-P6XQ2DCgK
-
-#EXTINF:-1 tvg-id="4249730" tvg-name="Kuwait vs Myanmar [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png" group-title="Fancode",Kuwait vs Myanmar [English]
+#EXTINF:-1 tvg-id="4249730" tvg-name="Myanmar vs Kuwait [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png" group-title="Fancode",Myanmar vs Kuwait [English]
 https://in-mc-flive.fancode.com/mumbai/4249730_english_hls_5f7bebb2f767729_1ta-di_h264/720p.m3u8?hdntl=Expires=1791784142~_GO=Generated~acl=/mumbai/4249730_english_hls_5f7bebb2f767729_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_fb9a4878-8442-4c~Signature=AXZsC1Amyo5awGYWBcLYV3Zsgi6IQc3Km7TPCMUS7saaUd2UCIgtTaafgc6jgaS0uB5TysI2sWcTPXL1sJzxITm876EP
 
 #EXTINF:-1 tvg-id="4249731" tvg-name="Bhutan vs Qatar [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png" group-title="Fancode",Bhutan vs Qatar [English]
@@ -741,17 +741,6 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1791722713~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=d75778e2ca0b47024cfc1ace649b945b7cfd2fc3273d2d1ee50220a1bfe5cf0a/manifest.mpd?vcfilter=728000ce-6037-48c5-b070-27e97cc66414&
-
-#EXTINF:-1 tvg-id="06d8e6e1-10b6-4a63-b314-56e9198c83ba" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/m1kfwjxtwevhqtpy6yrf" tvg-lang="English" group-title="ICC TV",English | Mongolia v Bahrain
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1791726306~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=7eb7e5c477a4b09234585a4c6b725213823fa76ce5fa14758e40fe4116332fd7/manifest.mpd?vcfilter=06d8e6e1-10b6-4a63-b314-56e9198c83ba&
 
 #EXTINF:-1 tvg-id="34045295-e64d-4214-a51c-e005ed502450" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/c5rs4ndirhmmmdxmsrgq" tvg-lang="English" group-title="ICC TV",English | Bhutan v Qatar
 #KODIPROP:inputstream=inputstream.adaptive
