@@ -78,14 +78,6 @@ https://login.bheem.tv/bpk-tv/22389/output/index.mpd?
 https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=459
 
 
-#EXTINF:-1 tvg-id="1153" tvg-language="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_Movies.png" CATCH-UP-FAILED="null" group-title="Malayalam",Asianet Movies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1153&token=RiYlIZ
-#EXTVLCOPT:http-user-agent=Denver1769
-https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=1153
-
-
-
 #EXTINF:-1 group-logo="" tvg-id="Asianet Plus" tvg-logo="https://img.media.jio.com/tvpimages/28/28/302109_1753199067845_l_medium.jpg" group-title="Malayalam",Asianet Plus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1154&token=RiYlIZ
