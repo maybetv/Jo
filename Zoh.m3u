@@ -675,6 +675,9 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 # --- LIVE EVENTS ---
 
+#EXTINF:-1 tvg-id="1090547693_ENG" tvg-name="Open de Espana Presented By Madrid - Day 4 - 11 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649396018310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day4_landscape_thumb.jpg" group-title="SonyLiv",Open de Espana Presented By Madrid - Day 4 - 11 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094589/Golf_DPW1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791758368~acl=/*~id=91392848986206166715392655743158~hmac=7d5dff2f354016e0dbcc1b2b39ed269191073289ae54f679415a6d8d32ecf846
+
 #EXTINF:-1 tvg-id="4249693" tvg-name="Bangladesh vs Afghanistan [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_6518.jpeg" group-title="Fancode",Bangladesh vs Afghanistan [English]
 https://in-mc-flive.fancode.com/mumbai/4249693_english_hls_aaca093f3b69428_1ta-di_h264/720p.m3u8?hdntl=Expires=1791782324~_GO=Generated~acl=/mumbai/4249693_english_hls_aaca093f3b69428_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_9742ff40-58ef-46~Signature=AXZsC1DHSnbPosGVmp_-mRJFTcz0t63fIa1VFzTMzTqQTVnDjzFz9e1O--i5RncCs6eSq4GzaFAvlcRoayr14L4x6XsC
 
