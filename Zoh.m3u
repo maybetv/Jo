@@ -20,10 +20,10 @@ https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=443
 
 # --- ISL SPECIAL EVENTS ---
 #EXTINF:-1 tvg-id="1090547694_MAL" tvg-name="Inter Kashi vs Kerala Blasters FC - 11 Oct 2026 [MAL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791633393598493_Inter_kashi_vs_Kerala_Blasters_landscape_Thum.jpg" group-title="Football",Inter Kashi vs Kerala Blasters FC - 11 Oct 2026 [MAL]
-https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive1110/MAL/std_lrh-800300010.m3u8?hdnea=exp=1791765648~acl=/*~id=19104406881843182165273650842909~hmac=e3f96434a6f07ea88e38cf081e8e712b1ce10640b6bd9617e654d8cb432155a4
+https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive1110/MAL/std_lrh-800300010.m3u8?hdnea=exp=1791766255~acl=/*~id=07552920339881041221858919037746~hmac=155c92f20d948a656f6a9bebba72ea90c708aa0fae98fc6d0a5d9304af5f2c9a
 
 #EXTINF:-1 tvg-id="1090547694_ENG" tvg-name="Inter Kashi vs Kerala Blasters FC - 11 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791633393598493_Inter_kashi_vs_Kerala_Blasters_landscape_Thum.jpg" group-title="Football",Inter Kashi vs Kerala Blasters FC - 11 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791765648~acl=/*~id=19104406881843182165273650842909~hmac=e3f96434a6f07ea88e38cf081e8e712b1ce10640b6bd9617e654d8cb432155a4
+https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791766255~acl=/*~id=07552920339881041221858919037746~hmac=155c92f20d948a656f6a9bebba72ea90c708aa0fae98fc6d0a5d9304af5f2c9a
 
 #EXTINF:-1 tvg-id="1090547694" tvg-name="Inter Kashi vs Kerala Blasters FC [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791633393598493_Inter_kashi_vs_Kerala_Blasters_landscape_Thum.jpg" group-title="Sports",Inter Kashi vs Kerala Blasters FC [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1110/?hdnea=exp=1791759037~acl=/*~id=02847233169168721007469738813838~hmac=5b100ff69cfb8be8d35722b32f95fd2081c544eb22f421329ee2e73ffdee9945
@@ -692,16 +692,19 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090547694_HIN" tvg-name="Inter Kashi vs Kerala Blasters FC - 11 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791633393598493_Inter_kashi_vs_Kerala_Blasters_landscape_Thum.jpg" group-title="Football",Inter Kashi vs Kerala Blasters FC - 11 Oct 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791765648~acl=/*~id=19104406881843182165273650842909~hmac=e3f96434a6f07ea88e38cf081e8e712b1ce10640b6bd9617e654d8cb432155a4
+https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791766255~acl=/*~id=07552920339881041221858919037746~hmac=155c92f20d948a656f6a9bebba72ea90c708aa0fae98fc6d0a5d9304af5f2c9a
 
 #EXTINF:-1 tvg-id="1090547695_ENG" tvg-name="Garvi Gujjus vs Emperia Marathas - 11 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137524645252_VCL_Garvi-Gujjus-vs-Emperia-Marathas_live_landscape_thumb.jpg" group-title="Volleyball",Garvi Gujjus vs Emperia Marathas - 11 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022320/Volleyba1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791765648~acl=/*~id=19104406881843182165273650842909~hmac=e3f96434a6f07ea88e38cf081e8e712b1ce10640b6bd9617e654d8cb432155a4
+https://sonydaimenew.akamaized.net/hls/live/2022320/Volleyba1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791766255~acl=/*~id=07552920339881041221858919037746~hmac=155c92f20d948a656f6a9bebba72ea90c708aa0fae98fc6d0a5d9304af5f2c9a
 
 #EXTINF:-1 tvg-id="1090547695_HIN" tvg-name="Garvi Gujjus vs Emperia Marathas - 11 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137524645252_VCL_Garvi-Gujjus-vs-Emperia-Marathas_live_landscape_thumb.jpg" group-title="Volleyball",Garvi Gujjus vs Emperia Marathas - 11 Oct 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2022317/Volleyba1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791765648~acl=/*~id=19104406881843182165273650842909~hmac=e3f96434a6f07ea88e38cf081e8e712b1ce10640b6bd9617e654d8cb432155a4
+https://sonydaimenew.akamaized.net/hls/live/2022317/Volleyba1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791766255~acl=/*~id=07552920339881041221858919037746~hmac=155c92f20d948a656f6a9bebba72ea90c708aa0fae98fc6d0a5d9304af5f2c9a
 
 #EXTINF:-1 tvg-id="1090547693_ENG" tvg-name="Open de Espana Presented By Madrid - Day 4 - 11 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649396018310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day4_landscape_thumb.jpg" group-title="Golf",Open de Espana Presented By Madrid - Day 4 - 11 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094589/Golf_DPW1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791765648~acl=/*~id=19104406881843182165273650842909~hmac=e3f96434a6f07ea88e38cf081e8e712b1ce10640b6bd9617e654d8cb432155a4
+https://sonydaimenew.akamaized.net/hls/live/2094589/Golf_DPW1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791766255~acl=/*~id=07552920339881041221858919037746~hmac=155c92f20d948a656f6a9bebba72ea90c708aa0fae98fc6d0a5d9304af5f2c9a
+
+#EXTINF:-1 tvg-id="1090547695" tvg-name="Garvi Gujjus vs Emperia Marathas [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137524645252_VCL_Garvi-Gujjus-vs-Emperia-Marathas_live_landscape_thumb.jpg" group-title="Sports",Garvi Gujjus vs Emperia Marathas [ENGLISH]
+https://sonydaimenew.akamaized.net/hls/live/2022320/Volleyba1110/?hdnea=exp=1791766237~acl=/*~id=76106323387378837626134410955870~hmac=7e268941dd7f9a99b4f1927c7056ae51215ad2d119e07ce9c6fe7f2cf1e04626
 
 #EXTINF:-1 tvg-id="1090547693" tvg-name="Open de Espana Presented By Madrid - Day 4 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649396018310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day4_landscape_thumb.jpg" group-title="Sports",Open de Espana Presented By Madrid - Day 4 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2094589/Golf_DPW1110/?hdnea=exp=1791759049~acl=/*~id=98401504105099429630401042091060~hmac=663c0fe443617843cab5f6b76a7a9d8dbd60b749a616b3de0e311ab35d7ef2cb
@@ -723,9 +726,6 @@ https://in-mc-flive.fancode.com/mumbai/4249591_english_hls_a3c536bfd425024_1ta-d
 
 #EXTINF:-1 tvg-id="4248825" tvg-name="World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Tennis",World Feed [English]
 https://in-mc-flive.fancode.com/mumbai/4248825_english_hls_df986c1e9b45887_1ta-di_h264/720p.m3u8?hdntl=Expires=1791805954~_GO=Generated~acl=/mumbai/4248825_english_hls_df986c1e9b45887_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4850f5d7-4b8f-4e~Signature=AXZsC1AxPTfgfvsKbEgWtBpmw4BZ0OvfyocSZspdg9_n2K1697og8sEPTJFh2-SQZlWrpVue0n3O4vPN2hB9KF1M2iEN
-
-#EXTINF:-1 tvg-id="4248827" tvg-name="Grandstand 2 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Tennis",Grandstand 2 [English]
-https://in-mc-flive.fancode.com/mumbai/4248827_english_hls_88dd9d64ae38115_1ta-di_h264/720p.m3u8?hdntl=Expires=1791805956~_GO=Generated~acl=/mumbai/4248827_english_hls_88dd9d64ae38115_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_3c694596-31e0-4c~Signature=AXZsC1BWygusic4fj_06TMUJjPb1MsKvx4R9mwGukHsrZmsQLuzQT8bii7u3-b3YCMHyNh9kSDXc2F1PtiobMC5qssYD
 
 #EXTINF:-1 tvg-id="4248828" tvg-name="Stadium Court [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Tennis",Stadium Court [English]
 https://in-mc-flive.fancode.com/mumbai/4248828_english_hls_7ad249247189786_1ta-di_h264/720p.m3u8?hdntl=Expires=1791782325~_GO=Generated~acl=/mumbai/4248828_english_hls_7ad249247189786_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_831a9013-30a0-4d~Signature=AXZsC1CmJmV8DLYC1Pm9mMpAmiQ6H1uTI5SBaquNNJaDfhYCw2iKtxIu0eSqHSSJK5_anG2n9zMrmmfX2Pen8nLknG4H
