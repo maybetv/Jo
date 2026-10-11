@@ -675,9 +675,6 @@ https://in-mc-flive.fancode.com/mumbai/4249663_english_hls_8e2773aae917341_1ta-d
 #EXTINF:-1 tvg-id="4250150" tvg-name="Bangladesh Women vs Australia Women [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-BAN_ODI_fc-web.jpg" group-title="Fancode",Bangladesh Women vs Australia Women [English]
 https://in-mc-flive.fancode.com/mumbai/4250150_english_hls_e1216d6dea39966_1ta-di_h264/720p.m3u8?hdntl=Expires=1791776269~_GO=Generated~acl=/mumbai/4250150_english_hls_e1216d6dea39966_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_18ae40ce-4f44-4d~Signature=AXZsC1Dtp1zKBFz-qC7ZwO9OhHK_1yTdM2nJ_EWdHGXGdCg7rYzlmwCYoLbT6N2BNznNJAvXleElkfE16pcTfoHjmcIP
 
-#EXTINF:-1 tvg-id="4249745" tvg-name="Saudi Arabia vs Hong Kong, China [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249745_53092_HK_SDA_fc-web.jpg" group-title="Fancode",Saudi Arabia vs Hong Kong, China [English]
-https://in-mc-flive.fancode.com/mumbai/4249745_english_hls_48460d7a6f7842_1ta-di_h264/720p.m3u8?hdntl=Expires=1791767178~_GO=Generated~acl=/mumbai/4249745_english_hls_48460d7a6f7842_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0bdadb9a-c65b-49~Signature=AXZsC1ByubI1n9Zn3kB0F-nNGCh7vYn_aB9_iDiI8y04bIg8lOcoDTNss5nkAns8rpfuH3SArOZEAEz1Df7LZkOImc8J
-
 #EXTINF:-1 tvg-id="4249777" tvg-name="Day 4 - World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web1.png" group-title="Fancode",Day 4 - World Feed [English]
 https://in-mc-flive.fancode.com/mumbai/4249777_english_hls_e541e1791752237_1ta-di_h264/720p.m3u8?hdntl=Expires=1791773244~_GO=Generated~acl=/mumbai/4249777_english_hls_e541e1791752237_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a3f0be2c-5cf3-40~Signature=AXZsC1D-Q7nZgMHQgTHc-a8TLETzPj8Twu_bTMbwy6OGmQTNxOQgbuiQhqX6g4rI_3A3pI2BRV_cTNH5jMOiRO5kvusK
 
@@ -735,13 +732,6 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1791722713~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=d75778e2ca0b47024cfc1ace649b945b7cfd2fc3273d2d1ee50220a1bfe5cf0a/manifest.mpd?vcfilter=728000ce-6037-48c5-b070-27e97cc66414&
 
-#EXTINF:-1 tvg-id="B0HM6H818X" tvg-name="CF América vs. CF Monterrey" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.61a2582b-7433-4215-88b8-0e6e242f1b82/2/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video",CF América vs. CF Monterrey
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
-
 #EXTINF:-1 tvg-id="B0HMBN5HR3" tvg-name="LIVE: Shamrock FC 378: Spangler vs. Holloway" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.22a2a915-74ee-4397-bc8e-33fa19b75c22/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",LIVE: Shamrock FC 378: Spangler vs. Holloway
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -749,7 +739,14 @@ https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdo
 #KODIPROP:inputstream.adaptive.license_key=1918ddf008413696077e06138983c5f9:2d66e0d80ca9ac6ad8b8c230a97f74b4
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/youk5yyomc/out/v1/3b2973990a634a328b2426c187cd49be/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HLLKH2X6" tvg-name="Pertamina Grand Prix of Indonesia" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3704e341-1a98-4509-8f10-8c296fb9199a/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Pertamina Grand Prix of Indonesia
+#EXTINF:-1 tvg-id="B0HM6H818X" tvg-name="CF América vs. CF Monterrey" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.61a2582b-7433-4215-88b8-0e6e242f1b82/2/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video",CF América vs. CF Monterrey
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HLLKH2X6" tvg-name="Pertamina Grand Prix of Indonesia" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3704e341-1a98-4509-8f10-8c296fb9199a/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Pertamina Grand Prix of Indonesia
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -761,7 +758,7 @@ https://live-emt-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HLLBMP83" tvg-name="HLR Heartland of America Showdown at Lakeside Speedway" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d2c53b5e-5c96-430d-84e7-8c67c4b99833/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",HLR Heartland of America Showdown at Lakeside Speedway
 #KODIPROP:inputstream=inputstream.adaptive
