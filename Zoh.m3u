@@ -675,8 +675,23 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 # --- LIVE EVENTS ---
 
+#EXTINF:-1 tvg-id="1090547694_ENG" tvg-name="Inter Kashi vs Kerala Blasters FC - 11 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791633393598493_Inter_kashi_vs_Kerala_Blasters_landscape_Thum.jpg" group-title="SonyLiv",Inter Kashi vs Kerala Blasters FC - 11 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791758974~acl=/*~id=15045445305365984198432984486409~hmac=be55862db2db75e3e4d80bdcfe77c33b6313786b4484c2079e999721a152a3ce
+
+#EXTINF:-1 tvg-id="1090547694_HIN" tvg-name="Inter Kashi vs Kerala Blasters FC - 11 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791633393598493_Inter_kashi_vs_Kerala_Blasters_landscape_Thum.jpg" group-title="SonyLiv",Inter Kashi vs Kerala Blasters FC - 11 Oct 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791758974~acl=/*~id=15045445305365984198432984486409~hmac=be55862db2db75e3e4d80bdcfe77c33b6313786b4484c2079e999721a152a3ce
+
+#EXTINF:-1 tvg-id="1090547694_MAL" tvg-name="Inter Kashi vs Kerala Blasters FC - 11 Oct 2026 [MAL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791633393598493_Inter_kashi_vs_Kerala_Blasters_landscape_Thum.jpg" group-title="SonyLiv",Inter Kashi vs Kerala Blasters FC - 11 Oct 2026 [MAL]
+https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive1110/MAL/std_lrh-800300010.m3u8?hdnea=exp=1791758974~acl=/*~id=15045445305365984198432984486409~hmac=be55862db2db75e3e4d80bdcfe77c33b6313786b4484c2079e999721a152a3ce
+
 #EXTINF:-1 tvg-id="1090547693_ENG" tvg-name="Open de Espana Presented By Madrid - Day 4 - 11 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649396018310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day4_landscape_thumb.jpg" group-title="SonyLiv",Open de Espana Presented By Madrid - Day 4 - 11 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094589/Golf_DPW1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791758368~acl=/*~id=91392848986206166715392655743158~hmac=7d5dff2f354016e0dbcc1b2b39ed269191073289ae54f679415a6d8d32ecf846
+https://sonydaimenew.akamaized.net/hls/live/2094589/Golf_DPW1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791758974~acl=/*~id=15045445305365984198432984486409~hmac=be55862db2db75e3e4d80bdcfe77c33b6313786b4484c2079e999721a152a3ce
+
+#EXTINF:-1 tvg-id="1090547694" tvg-name="Inter Kashi vs Kerala Blasters FC [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791633393598493_Inter_kashi_vs_Kerala_Blasters_landscape_Thum.jpg" group-title="SonyLiv",Inter Kashi vs Kerala Blasters FC [ENGLISH]
+https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1110/?hdnea=exp=1791759037~acl=/*~id=02847233169168721007469738813838~hmac=5b100ff69cfb8be8d35722b32f95fd2081c544eb22f421329ee2e73ffdee9945
+
+#EXTINF:-1 tvg-id="1090547693" tvg-name="Open de Espana Presented By Madrid - Day 4 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649396018310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day4_landscape_thumb.jpg" group-title="SonyLiv",Open de Espana Presented By Madrid - Day 4 [ENGLISH]
+https://sonydaimenew.akamaized.net/hls/live/2094589/Golf_DPW1110/?hdnea=exp=1791759049~acl=/*~id=98401504105099429630401042091060~hmac=663c0fe443617843cab5f6b76a7a9d8dbd60b749a616b3de0e311ab35d7ef2cb
 
 #EXTINF:-1 tvg-id="4249693" tvg-name="Bangladesh vs Afghanistan [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_6518.jpeg" group-title="Fancode",Bangladesh vs Afghanistan [English]
 https://in-mc-flive.fancode.com/mumbai/4249693_english_hls_aaca093f3b69428_1ta-di_h264/720p.m3u8?hdntl=Expires=1791782324~_GO=Generated~acl=/mumbai/4249693_english_hls_aaca093f3b69428_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_9742ff40-58ef-46~Signature=AXZsC1DHSnbPosGVmp_-mRJFTcz0t63fIa1VFzTMzTqQTVnDjzFz9e1O--i5RncCs6eSq4GzaFAvlcRoayr14L4x6XsC
@@ -686,6 +701,12 @@ https://in-mc-flive.fancode.com/mumbai/4249781_english_hls_6c802c64b112413_1ta-d
 
 #EXTINF:-1 tvg-id="4250114" tvg-name="Nepal vs Canada [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250114_53106_CAN_NEP_fc-Web.png" group-title="Fancode",Nepal vs Canada [English]
 https://in-mc-flive.fancode.com/mumbai/4250114_english_hls_59cf06134d58578_1ta-di_h264/720p.m3u8?hdntl=Expires=1791782323~_GO=Generated~acl=/mumbai/4250114_english_hls_59cf06134d58578_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_972b7858-6679-4c~Signature=AXZsC1DB_zKIy4aUZSX_D7xd3ktYcSxGH2yy8X_GJut7yYIxFAAi4uDIsHadDdpMHR2sbby8mSKNS6nEBD_XWJM4quQB
+
+#EXTINF:-1 tvg-id="4249225" tvg-name="Australia Champions vs West Indies Champions [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249225_53069_AAC_WIC_FC-Web_1790764440714.png" group-title="Fancode",Australia Champions vs West Indies Champions [English]
+https://in-mc-flive.fancode.com/mumbai/4249225_english_hls_b9b3ad34e157751_1ta-di_h264/720p.m3u8?hdntl=Expires=1791802303~_GO=Generated~acl=/mumbai/4249225_english_hls_b9b3ad34e157751_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_9791a9d3-bda1-4c~Signature=AXZsC1BKpCtSIsfWAL2oPMxue0tIs1C_WQd9yemdh60IpSScgGs2wt4zyOjVZvtYU89WE6T7baOBGqqek9ELkjkiACgD
+
+#EXTINF:-1 tvg-id="4249591" tvg-name="Southampton F.C. vs Portsmouth F.C. [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249591_52993_SOU_PRM_fc-web.jpg" group-title="Fancode",Southampton F.C. vs Portsmouth F.C. [English]
+https://in-mc-flive.fancode.com/mumbai/4249591_english_hls_a3c536bfd425024_1ta-di_h264/720p.m3u8?hdntl=Expires=1791802304~_GO=Generated~acl=/mumbai/4249591_english_hls_a3c536bfd425024_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c019b684-37cf-47~Signature=AXZsC1AiOLJUV7JL71j4l0cfYWmo76ZZDzl6bU3PjqWILmvYUnmUwhZei_v9sm9Rs9WYqW-6r_2s90PpZ-FE3jYuSR0H
 
 #EXTINF:-1 tvg-id="4248825" tvg-name="World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Fancode",World Feed [English]
 https://in-mc-flive.fancode.com/mumbai/4248825_english_hls_df986c1e9b45887_1ta-di_h264/720p.m3u8?hdntl=Expires=1791776874~_GO=Generated~acl=/mumbai/4248825_english_hls_df986c1e9b45887_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_16bd4749-4b39-4a~Signature=AXZsC1AlAwCxoFmaA9flhfm_Lboix4gjsIvBnPXP_TYqOQ4N7fCqZ3dUEaxBVbgKmdrLJ6pMZqaUZUxxuGv49WJAOdcC
