@@ -711,9 +711,6 @@ https://in-mc-flive.fancode.com/mumbai/4248827_english_hls_88dd9d64ae38115_1ta-d
 #EXTINF:-1 tvg-id="4250106" tvg-name="Day 4 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Aramco-Korean-Championship_FC-Web.jpg" group-title="Fancode",Day 4 [English]
 https://in-mc-flive.fancode.com/mumbai/4250106_english_hls_742adc551b67360_1ta-di_h264/720p.m3u8?hdntl=Expires=1791776877~_GO=Generated~acl=/mumbai/4250106_english_hls_742adc551b67360_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_170d4fb2-8328-4c~Signature=AXZsC1CWHaWgm72sn7W9Hme9UDsBcynixddI5rwGDoWT4edZ4X4S4-hRn15VZuxPeeW4EoLJrgTpHSGdfoSUWE8bcrYI
 
-#EXTINF:-1 tvg-id="4250201" tvg-name="Court 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Fancode",Court 4
-https://in-mc-flive.fancode.com/mumbai/4250201_english_hls_8cf7af7c8030602_1ta-di_h264/720p.m3u8?hdntl=Expires=1791776878~_GO=Generated~acl=/mumbai/4250201_english_hls_8cf7af7c8030602_1ta-di_h264/*~SessionID=122002764__d739d4f1-d71d-4f~Signature=AXZsC1CICzzvHwCbO_shxtelfr0OS4W08VwUniLFG2nZH5k4MsbyenvY3RIvWfHKOzl3jr4nHTrlG__utMp5GZZX--oC
-
 #EXTINF:-1 tvg-id="4248828" tvg-name="Stadium Court [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Fancode",Stadium Court [English]
 https://in-mc-flive.fancode.com/mumbai/4248828_english_hls_7ad249247189786_1ta-di_h264/720p.m3u8?hdntl=Expires=1791782325~_GO=Generated~acl=/mumbai/4248828_english_hls_7ad249247189786_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_831a9013-30a0-4d~Signature=AXZsC1CmJmV8DLYC1Pm9mMpAmiQ6H1uTI5SBaquNNJaDfhYCw2iKtxIu0eSqHSSJK5_anG2n9zMrmmfX2Pen8nLknG4H
 
@@ -785,10 +782,17 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DA
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
 https://live-emt-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBpq3ru5BhpqyvU5A2ZmYXN0bHkCeChmaWQ6MDFhMTI4Y2QtZWExNC03NWY1LWI4NDQtMjJhZjk2OGQwNjljGQE4oQWhAngzL2cweGY2bGV2ZGQvb3V0L3YxLzMwZjNhZDliYTJjMzQwNzM5ZWEyOTQzZjI5ZDQ0YjMyWCBUsmu7uQDTP7ZDnIedNKpIjHSFWL4m42Th5p_BQTmHZg/PDX/709b3c4313a9405ab5e8634864c7cc3b/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/g0xf6levdd/out/v1/30f3ad9ba2c340739ea2943f29d44b32/d579dae6-7c40-484e-99d3-0200aab4f578-cenc.mpd?aws.sessionId=0922a034-0fed-4c10-ad9d-9748405df0a2
 
+#EXTINF:-1 tvg-id="B0HL824JMT" tvg-name="Cricket Highlights-Australia Women vs Bangladesh Women: 2nd ODI" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7965ceac-aeb5-432d-88f2-8fb2b1147ab0/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Cricket Highlights-Australia Women vs Bangladesh Women: 2nd ODI
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+
 #EXTINF:-1 tvg-id="B0HKZN54YJ" tvg-name="Australia vs. Bangladesh" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5a0b35a4-d783-495f-8f19-1f5b571981d5/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video",Australia vs. Bangladesh
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
