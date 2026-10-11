@@ -694,6 +694,9 @@ https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1110/?hdnea=exp=1791
 #EXTINF:-1 tvg-id="1090547695" tvg-name="Garvi Gujjus vs Emperia Marathas [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137524645252_VCL_Garvi-Gujjus-vs-Emperia-Marathas_live_landscape_thumb.jpg" group-title="Sports",Garvi Gujjus vs Emperia Marathas [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2022320/Volleyba1110/?hdnea=exp=1791766237~acl=/*~id=76106323387378837626134410955870~hmac=7e268941dd7f9a99b4f1927c7056ae51215ad2d119e07ce9c6fe7f2cf1e04626
 
+#EXTINF:-1 tvg-id="1090547697" tvg-name="Chero Archers vs Kakatiya Knights [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026053/1791530090679684_APL26_Chero-Archers-vs-Kakatiya-Knights_live-landscape_thumb.jpg" group-title="Sports",Chero Archers vs Kakatiya Knights [ENGLISH]
+https://sonydaimenew.akamaized.net/hls/live/2120302/Archery_1110/?hdnea=exp=1791771633~acl=/*~id=64009528623649768668253581666217~hmac=6aa15bf84447b18cc6c06697e691149299e317cbe1d876e191439b5f8e17c17e
+
 #EXTINF:-1 tvg-id="1090547693" tvg-name="Open de Espana Presented By Madrid - Day 4 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649396018310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day4_landscape_thumb.jpg" group-title="Sports",Open de Espana Presented By Madrid - Day 4 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2094589/Golf_DPW1110/?hdnea=exp=1791759049~acl=/*~id=98401504105099429630401042091060~hmac=663c0fe443617843cab5f6b76a7a9d8dbd60b749a616b3de0e311ab35d7ef2cb
 
@@ -711,12 +714,6 @@ https://in-mc-flive.fancode.com/mumbai/4248825_english_hls_df986c1e9b45887_1ta-d
 
 #EXTINF:-1 tvg-id="4248828" tvg-name="Stadium Court [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Tennis",Stadium Court [English]
 https://in-mc-flive.fancode.com/mumbai/4248828_english_hls_7ad249247189786_1ta-di_h264/720p.m3u8?hdntl=Expires=1791811456~_GO=Generated~acl=/mumbai/4248828_english_hls_7ad249247189786_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_8514b6e5-8f15-4a~Signature=AXZsC1BqDMy6YxPkm9j4dCpCxw-fIcQFunlpyp8l8OxdHD3E9L9izXebe0m6EcRw4WwbStMB6V_E_K9BjUR_5aXJfooJ
-
-#EXTINF:-1 tvg-id="139501" tvg-name="Race [Hindi]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_SINGAPORE_fc-web.jpg" group-title="Formula 1",Race [Hindi]
-https://in-mc-flive.fancode.com/mumbai/139501_hindi_hls_1aa6efae9485663_1ta-di_h264/720p.m3u8?hdntl=Expires=1791712601~_GO=Generated~acl=/mumbai/139501_hindi_hls_1aa6efae9485663_1ta-di_h264/*~SessionID=c2f3cc15ee957a00_fc-app_sportsguruand_3ef280bd-8e2e-4f~Signature=AXZsC1DVuCspS2qymCraeX2sc_lgWxPo6y4a3nvRDUtp_6sb2LEWm1yCeeukZw5_ztm2WrLSwqzWiLZxKIuN8ykZNTEI
-
-#EXTINF:-1 tvg-id="4250200" tvg-name="F1 Kids 2026 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Kids_China_GP_web_1777734590623.jpg" group-title="Motorsports",F1 Kids 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250200_english_hls_998a9378ae60524_1ta-di_h264/720p.m3u8?hdntl=Expires=1791805957~_GO=Generated~acl=/mumbai/4250200_english_hls_998a9378ae60524_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_05b6aeb6-94e1-42~Signature=AXZsC1BImoFEUD_xHTiHwr5ypKHsfml6fuao3rWTJffid7RdAUzs50-22DpsGJnOBbXRW_ETAW-atnGyX7T1UtJwA9QI
 
 #EXTINF:-1 tvg-id="4250141" tvg-name="Race 2 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ADAC-GT-Masters-Baden-Wurttemberg_fc-web.jpg" group-title="Motorsports",Race 2 [English]
 https://in-mc-flive.fancode.com/mumbai/4250141_english_hls_561c78b43868381_1ta-di_h264/720p.m3u8?hdntl=Expires=1791812689~_GO=Generated~acl=/mumbai/4250141_english_hls_561c78b43868381_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7beb005a-9a16-43~Signature=AXZsC1ClCGLChaFDVoBIunBRz3KkRXFaaNKWHUgwO22odn9bq6KwHLFT5yZMdZspUPvp2325imP1ndd7MI69OZ0jfokO
