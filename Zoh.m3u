@@ -19,12 +19,6 @@ https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=443
 
 
 # --- ISL SPECIAL EVENTS ---
-#EXTINF:-1 tvg-id="1090547694_MAL" tvg-name="Inter Kashi vs Kerala Blasters FC - 11 Oct 2026 [MAL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791633393598493_Inter_kashi_vs_Kerala_Blasters_landscape_Thum.jpg" group-title="Football",Inter Kashi vs Kerala Blasters FC - 11 Oct 2026 [MAL]
-https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive1110/MAL/std_lrh-800300010.m3u8?hdnea=exp=1791768683~acl=/*~id=59316748612427210753429862429346~hmac=f999d9f6f6f2a06306ffd4fb8d37f43f11070dabd821b405b834912bd1baec3c
-
-#EXTINF:-1 tvg-id="1090547694_ENG" tvg-name="Inter Kashi vs Kerala Blasters FC - 11 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791633393598493_Inter_kashi_vs_Kerala_Blasters_landscape_Thum.jpg" group-title="Football",Inter Kashi vs Kerala Blasters FC - 11 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791768683~acl=/*~id=59316748612427210753429862429346~hmac=f999d9f6f6f2a06306ffd4fb8d37f43f11070dabd821b405b834912bd1baec3c
-
 #EXTINF:-1 tvg-id="1090547694" tvg-name="Inter Kashi vs Kerala Blasters FC [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791633393598493_Inter_kashi_vs_Kerala_Blasters_landscape_Thum.jpg" group-title="Sports",Inter Kashi vs Kerala Blasters FC [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1110/?hdnea=exp=1791759037~acl=/*~id=02847233169168721007469738813838~hmac=5b100ff69cfb8be8d35722b32f95fd2081c544eb22f421329ee2e73ffdee9945
 # --- END ISL SPECIAL EVENTS ---
@@ -687,26 +681,23 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 # --- LIVE EVENTS ---
 
-#EXTINF:-1 tvg-id="1090547694_HIN" tvg-name="Inter Kashi vs Kerala Blasters FC - 11 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791633393598493_Inter_kashi_vs_Kerala_Blasters_landscape_Thum.jpg" group-title="Football",Inter Kashi vs Kerala Blasters FC - 11 Oct 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791768683~acl=/*~id=59316748612427210753429862429346~hmac=f999d9f6f6f2a06306ffd4fb8d37f43f11070dabd821b405b834912bd1baec3c
-
 #EXTINF:-1 tvg-id="1090547704_ENG" tvg-name="Churchill Brothers FC vs Mumbai City FC  - 11 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791634833928493_Churchill_Brothers_FC-vs_Mumbai_City_FC_landscape_Thum.jpg" group-title="Football",Churchill Brothers FC vs Mumbai City FC  - 11 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791768683~acl=/*~id=59316748612427210753429862429346~hmac=f999d9f6f6f2a06306ffd4fb8d37f43f11070dabd821b405b834912bd1baec3c
+https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769292~acl=/*~id=22678107092798884677360520844833~hmac=5ded02c019174c2f9a3e59d600a0eaceaa7ba496c95b70b96f800c02c413362a
 
 #EXTINF:-1 tvg-id="1090547704_HIN" tvg-name="Churchill Brothers FC vs Mumbai City FC  - 11 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791634833928493_Churchill_Brothers_FC-vs_Mumbai_City_FC_landscape_Thum.jpg" group-title="Football",Churchill Brothers FC vs Mumbai City FC  - 11 Oct 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791768683~acl=/*~id=59316748612427210753429862429346~hmac=f999d9f6f6f2a06306ffd4fb8d37f43f11070dabd821b405b834912bd1baec3c
+https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791769292~acl=/*~id=22678107092798884677360520844833~hmac=5ded02c019174c2f9a3e59d600a0eaceaa7ba496c95b70b96f800c02c413362a
 
 #EXTINF:-1 tvg-id="1090547695_ENG" tvg-name="Garvi Gujjus vs Emperia Marathas - 11 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137524645252_VCL_Garvi-Gujjus-vs-Emperia-Marathas_live_landscape_thumb.jpg" group-title="Volleyball",Garvi Gujjus vs Emperia Marathas - 11 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022320/Volleyba1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791768683~acl=/*~id=59316748612427210753429862429346~hmac=f999d9f6f6f2a06306ffd4fb8d37f43f11070dabd821b405b834912bd1baec3c
+https://sonydaimenew.akamaized.net/hls/live/2022320/Volleyba1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769292~acl=/*~id=22678107092798884677360520844833~hmac=5ded02c019174c2f9a3e59d600a0eaceaa7ba496c95b70b96f800c02c413362a
 
 #EXTINF:-1 tvg-id="1090547695_HIN" tvg-name="Garvi Gujjus vs Emperia Marathas - 11 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137524645252_VCL_Garvi-Gujjus-vs-Emperia-Marathas_live_landscape_thumb.jpg" group-title="Volleyball",Garvi Gujjus vs Emperia Marathas - 11 Oct 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2022317/Volleyba1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791768683~acl=/*~id=59316748612427210753429862429346~hmac=f999d9f6f6f2a06306ffd4fb8d37f43f11070dabd821b405b834912bd1baec3c
+https://sonydaimenew.akamaized.net/hls/live/2022317/Volleyba1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791769292~acl=/*~id=22678107092798884677360520844833~hmac=5ded02c019174c2f9a3e59d600a0eaceaa7ba496c95b70b96f800c02c413362a
 
 #EXTINF:-1 tvg-id="1090547697_ENG" tvg-name="Chero Archers vs Kakatiya Knights - 11 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026053/1791530090679684_APL26_Chero-Archers-vs-Kakatiya-Knights_live-landscape_thumb.jpg" group-title="Archery",Chero Archers vs Kakatiya Knights - 11 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120302/Archery_1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791768683~acl=/*~id=59316748612427210753429862429346~hmac=f999d9f6f6f2a06306ffd4fb8d37f43f11070dabd821b405b834912bd1baec3c
+https://sonydaimenew.akamaized.net/hls/live/2120302/Archery_1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769292~acl=/*~id=22678107092798884677360520844833~hmac=5ded02c019174c2f9a3e59d600a0eaceaa7ba496c95b70b96f800c02c413362a
 
 #EXTINF:-1 tvg-id="1090547693_ENG" tvg-name="Open de Espana Presented By Madrid - Day 4 - 11 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649396018310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day4_landscape_thumb.jpg" group-title="Golf",Open de Espana Presented By Madrid - Day 4 - 11 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094589/Golf_DPW1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791768683~acl=/*~id=59316748612427210753429862429346~hmac=f999d9f6f6f2a06306ffd4fb8d37f43f11070dabd821b405b834912bd1baec3c
+https://sonydaimenew.akamaized.net/hls/live/2094589/Golf_DPW1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769292~acl=/*~id=22678107092798884677360520844833~hmac=5ded02c019174c2f9a3e59d600a0eaceaa7ba496c95b70b96f800c02c413362a
 
 #EXTINF:-1 tvg-id="1090547695" tvg-name="Garvi Gujjus vs Emperia Marathas [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137524645252_VCL_Garvi-Gujjus-vs-Emperia-Marathas_live_landscape_thumb.jpg" group-title="Sports",Garvi Gujjus vs Emperia Marathas [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2022320/Volleyba1110/?hdnea=exp=1791766237~acl=/*~id=76106323387378837626134410955870~hmac=7e268941dd7f9a99b4f1927c7056ae51215ad2d119e07ce9c6fe7f2cf1e04626
@@ -746,28 +737,6 @@ https://in-mc-flive.fancode.com/mumbai/4250138_english_hls_e47535d0f692587_1ta-d
 
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
-
-#EXTINF:-1 tvg-id="01221061-c277-4da3-b0bc-89f30e5a1f25" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ot48k4safek1xzncnpmq" tvg-lang="English" group-title="Cricket",English | Canada v Nepal (2nd Innings) (NEPALI)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1791739811~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=dd1a9c84d3f4709f39cb6dfd3f51dba0d73446912c2cf31f60acdbd0c1a03792/manifest.mpd?vcfilter=01221061-c277-4da3-b0bc-89f30e5a1f25&
-
-#EXTINF:-1 tvg-id="a2015567-7e8f-445a-b3b7-25e523a00b96" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/icjwm6dlux5befxkdetk" tvg-lang="English" group-title="Cricket",English | Canada v Nepal (2nd Innings)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1791739815~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=7cd3a032a2e2469309bd5ba8b2c57c8c5411155cb03f32451b2e49e483330c1d/manifest.mpd?vcfilter=a2015567-7e8f-445a-b3b7-25e523a00b96&
 
 #EXTINF:-1 tvg-id="B0HLS6P8TY" tvg-name="Elite: Southwest Regional 2, Round Robin Match Play" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.448a9de1-c52a-4425-9a84-520e7855d3ca/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Elite: Southwest Regional 2, Round Robin Match Play
 #KODIPROP:inputstream=inputstream.adaptive
