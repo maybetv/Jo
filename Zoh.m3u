@@ -670,26 +670,14 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 # --- LIVE EVENTS ---
 
-#EXTINF:-1 tvg-id="1090547710_ENG" tvg-name="NorthEast United FC vs Mohun Bagan Super Giant  - 12 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791632348927493_NorthEast_United_vs_Mohun_Bagan_landscape_Thum.jpg" group-title="Football",NorthEast United FC vs Mohun Bagan Super Giant  - 12 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791855253~acl=/*~id=08991716345235902943578776303073~hmac=763e6d0332233ef184ad207b0dd6c06ec942cfdd96fdf355621f2106ae6354bb
-
-#EXTINF:-1 tvg-id="1090547710_HIN" tvg-name="NorthEast United FC vs Mohun Bagan Super Giant  - 12 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791632348927493_NorthEast_United_vs_Mohun_Bagan_landscape_Thum.jpg" group-title="Football",NorthEast United FC vs Mohun Bagan Super Giant  - 12 Oct 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791855253~acl=/*~id=08991716345235902943578776303073~hmac=763e6d0332233ef184ad207b0dd6c06ec942cfdd96fdf355621f2106ae6354bb
-
-#EXTINF:-1 tvg-id="1090547710_BEN" tvg-name="NorthEast United FC vs Mohun Bagan Super Giant  - 12 Oct 2026 [BEN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791632348927493_NorthEast_United_vs_Mohun_Bagan_landscape_Thum.jpg" group-title="Football",NorthEast United FC vs Mohun Bagan Super Giant  - 12 Oct 2026 [BEN]
-https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1210/BEN/std_lrh-800300010.m3u8?hdnea=exp=1791855253~acl=/*~id=08991716345235902943578776303073~hmac=763e6d0332233ef184ad207b0dd6c06ec942cfdd96fdf355621f2106ae6354bb
-
-#EXTINF:-1 tvg-id="1090547706_ENG" tvg-name="Chero Archers vs Mighty Marathas - 12 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026132/1791659750238725_APL26_Chero_Archers_vs_Mighty_Marathas_live_landscape_thumb.jpg" group-title="Archery",Chero Archers vs Mighty Marathas - 12 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120307/Archery_1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791855253~acl=/*~id=08991716345235902943578776303073~hmac=763e6d0332233ef184ad207b0dd6c06ec942cfdd96fdf355621f2106ae6354bb
-
 #EXTINF:-1 tvg-id="1090547710" tvg-name="NorthEast United FC vs Mohun Bagan Super Giant  - 12 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791632348927493_NorthEast_United_vs_Mohun_Bagan_landscape_Thum.jpg" group-title="Sports",NorthEast United FC vs Mohun Bagan Super Giant  - 12 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1210/ENG/master.m3u8?hdnea=exp=1791854435~acl=/*~id=00105267898015913402094844035583~hmac=ed8883471881e4c18b6ad0790689d2f262ae714d8eb90d6d25f4d581ecfd983f
 
-#EXTINF:-1 tvg-id="4249693" tvg-name="Bangladesh vs Afghanistan [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_6518.jpeg" group-title="Cricket",Bangladesh vs Afghanistan [English]
-https://in-mc-flive.fancode.com/mumbai/4249693_english_hls_aaca093f3b24718_1ta-di_h264/720p.m3u8?hdntl=Expires=1791897899~_GO=Generated~acl=/mumbai/4249693_english_hls_aaca093f3b24718_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_39775ea4-9736-41~Signature=AZJsJWa7W5B_ArgtqPIqJfNoGEo83QyL51VjQXclcJPEhZciltjglASohN1XBDeRAl9xSUQwPkYplyTFwNrJoetaZqoM
-
 #EXTINF:-1 tvg-id="4249781" tvg-name="Australia vs South Africa [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Cricket",Australia vs South Africa [English]
 https://in-mc-flive.fancode.com/mumbai/4249781_english_hls_6c802c64b124668_1ta-di_h264/720p.m3u8?hdntl=Expires=1791874884~_GO=Generated~acl=/mumbai/4249781_english_hls_6c802c64b124668_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_5f1f1bce-073f-4b~Signature=AXZsC1C32mxyUX4e4G6sRIjxF23GmE7evKkTp7Qc-nXftWtC9l_UdksYDkUbNWqXfkEQW92x4H4dcRmMKqsBkOCS1mgI
+
+#EXTINF:-1 tvg-id="4249693" tvg-name="Bangladesh vs Afghanistan [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_6518.jpeg" group-title="Cricket",Bangladesh vs Afghanistan [English]
+https://in-mc-flive.fancode.com/mumbai/4249693_english_hls_aaca093f3b24718_1ta-di_h264/720p.m3u8?hdntl=Expires=1791897899~_GO=Generated~acl=/mumbai/4249693_english_hls_aaca093f3b24718_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_39775ea4-9736-41~Signature=AZJsJWa7W5B_ArgtqPIqJfNoGEo83QyL51VjQXclcJPEhZciltjglASohN1XBDeRAl9xSUQwPkYplyTFwNrJoetaZqoM
 
 #EXTINF:-1 tvg-id="4248696" tvg-name="Pakhtakor Tashkent vs Al Qadisiyah [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248696_53053_PT_ALQ_FC-WEB.jpg" group-title="Football",Pakhtakor Tashkent vs Al Qadisiyah [English]
 https://in-mc-flive.fancode.com/mumbai/4248696_english_hls_56e68d9c1989272_1ta-di_h264/720p.m3u8?hdntl=Expires=1791898506~_GO=Generated~acl=/mumbai/4248696_english_hls_56e68d9c1989272_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_60f7a092-5917-41~Signature=AZJsJWYylE1Ssdq0-QSIQ0W_yobvDeXcxqZUmAdHom-FERlXsYPxZlJ63qbtcIRQJ013Cl5OY4xPTi0hYgC3V8eizU8G
