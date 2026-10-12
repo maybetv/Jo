@@ -676,9 +676,6 @@ https://in-mc-flive.fancode.com/mumbai/4248697_english_hls_0242a950ea63455_1ta-d
 #EXTINF:-1 tvg-id="4248698" tvg-name="Al Wasl F.C. vs Al-Ahli Saudi FC [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248698_53053_AWS_AAS_FC-WEB_1791739628840.jpg" group-title="Football",Al Wasl F.C. vs Al-Ahli Saudi FC [English]
 https://in-mc-flive.fancode.com/mumbai/4248698_english_hls_a529e7751565199_1ta-di_h264/720p.m3u8?hdntl=Expires=1791906391~_GO=Generated~acl=/mumbai/4248698_english_hls_a529e7751565199_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_3b492512-31bf-42~Signature=AZJsJWajMeDcDl71NlH2hP0cSPVXEOxTFKfdx4HFhkjLwEsm8kNNSN--gN2YXiwHlJewEg9vyR3ZtbTYNxugU8ww5AcA
 
-#EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
-https://ComeInNextMatch.com/4K.m3u8
-
 #EXTINF:-1 tvg-id="B0HLSZ4843" tvg-name="World Championship of Legends 2026 - 17th Match - Pakistan Champions vs South Africa Champions" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fa2e2ab4-efd7-42ef-b5e8-f4c1d8e89c70/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",World Championship of Legends 2026 - 17th Match - Pakistan Champions vs South Africa Champions
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
