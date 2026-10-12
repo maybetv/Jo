@@ -673,11 +673,11 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 #EXTINF:-1 tvg-id="4249693" tvg-name="Bangladesh vs Afghanistan [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_6518.jpeg" group-title="Cricket",Bangladesh vs Afghanistan [English]
 https://in-mc-flive.fancode.com/mumbai/4249693_english_hls_aaca093f3b24718_1ta-di_h264/720p.m3u8?hdntl=Expires=1791868822~_GO=Generated~acl=/mumbai/4249693_english_hls_aaca093f3b24718_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e35e7849-8add-49~Signature=AXZsC1DEEf0NmJqY48YbSDYmHqHjjCJCq_b-jOYf91M696PkfMoxyhUEXRh-OkTAi5a6ar5r4pB9HtJ4KNb2nqf-Y3wC
 
-#EXTINF:-1 tvg-id="4249280" tvg-name="South Australia vs Victoria [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249280_53072_VCT_SAU_FC-Web.jpg" group-title="Cricket",South Australia vs Victoria [English]
-https://in-mc-flive.fancode.com/mumbai/4249280_english_hls_11166fb9aa72267_1ta-di_h264/720p.m3u8?hdntl=Expires=1791859733~_GO=Generated~acl=/mumbai/4249280_english_hls_11166fb9aa72267_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b21b0e61-0c91-49~Signature=AXZsC1B1zV9PTpvZEKXfS_zqGfONzOdxYpOF-7r1hJqmR5fC_SJ888f2BwlZsTFR58ciV3_yv6xUbjdTR4TWJab4qscA
-
 #EXTINF:-1 tvg-id="4249781" tvg-name="Australia vs South Africa [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Cricket",Australia vs South Africa [English]
 https://in-mc-flive.fancode.com/mumbai/4249781_english_hls_6c802c64b124668_1ta-di_h264/720p.m3u8?hdntl=Expires=1791874884~_GO=Generated~acl=/mumbai/4249781_english_hls_6c802c64b124668_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_5f1f1bce-073f-4b~Signature=AXZsC1C32mxyUX4e4G6sRIjxF23GmE7evKkTp7Qc-nXftWtC9l_UdksYDkUbNWqXfkEQW92x4H4dcRmMKqsBkOCS1mgI
+
+#EXTINF:-1 tvg-id="4249280" tvg-name="South Australia vs Victoria [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249280_53072_VCT_SAU_FC-Web.jpg" group-title="Cricket",South Australia vs Victoria [English]
+https://in-mc-flive.fancode.com/mumbai/4249280_english_hls_11166fb9aa72267_1ta-di_h264/720p.m3u8?hdntl=Expires=1791859733~_GO=Generated~acl=/mumbai/4249280_english_hls_11166fb9aa72267_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b21b0e61-0c91-49~Signature=AXZsC1B1zV9PTpvZEKXfS_zqGfONzOdxYpOF-7r1hJqmR5fC_SJ888f2BwlZsTFR58ciV3_yv6xUbjdTR4TWJab4qscA
 
 #EXTINF:-1 tvg-id="4249733" tvg-name="Qatar vs Mongolia [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png" group-title="Cricket",Qatar vs Mongolia [English]
 https://in-mc-flive.fancode.com/mumbai/4249733_english_hls_b9c930057f92111_1ta-di_h264/720p.m3u8?hdntl=Expires=1791870644~_GO=Generated~acl=/mumbai/4249733_english_hls_b9c930057f92111_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f98e1364-d50e-4f~Signature=AXZsC1BZDjc9P7YJ3A_r_IFlUZNBf0hR9IRAUe6j_E3qoXLaWthtkyj3Cx-ShNZQx0mIJo4wzzHdxZrgjroldmvaKIEM
@@ -741,21 +741,21 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DA
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc795082715e39585bb8b9913a2072db:b6a161d647a3e1319649cbae2ee256bf
-https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/61zrupwmyb/out/v1/6cc49c58f415453894718c5813bbcd89/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/61zrupwmyb/out/v1/6cc49c58f415453894718c5813bbcd89/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HKFRWMBH" tvg-name="Australia tour of South Africa 2026 - 1st Test - South Africa vs Australia" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d0f64737-d567-4434-8e64-4a43048ea637/9/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Australia tour of South Africa 2026 - 1st Test - South Africa vs Australia
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=abceab2f1340be6c70c54b7176d30608:9c281b70e5626752d2481f498677b3df
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nud9c5syvx/out/v1/f5d58491aba84f35985919762ad77d6a/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nud9c5syvx/out/v1/f5d58491aba84f35985919762ad77d6a/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HLG67G7Q" tvg-name="Afghanistan vs Bangladesh in UAE 2026 - One-off Test - Afghanistan vs Bangladesh" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.abf514cc-bb21-4f3c-900b-065784936f1b/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Afghanistan vs Bangladesh in UAE 2026 - One-off Test - Afghanistan vs Bangladesh
+#EXTINF:-1 tvg-id="B0HKFRWMBH" tvg-name="Australia tour of South Africa 2026 - 1st Test - South Africa vs Australia" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d0f64737-d567-4434-8e64-4a43048ea637/9/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Australia tour of South Africa 2026 - 1st Test - South Africa vs Australia
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc795082715e39585bb8b9913a2072db:b6a161d647a3e1319649cbae2ee256bf
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/61zrupwmyb/out/v1/6cc49c58f415453894718c5813bbcd89/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=abceab2f1340be6c70c54b7176d30608:9c281b70e5626752d2481f498677b3df
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nud9c5syvx/out/v1/f5d58491aba84f35985919762ad77d6a/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HL7WG52M" tvg-name="Early First Round" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a180ec35-ee50-432b-b5f6-6de0c038fb1c/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Early First Round
 #KODIPROP:inputstream=inputstream.adaptive
