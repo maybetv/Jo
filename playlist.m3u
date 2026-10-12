@@ -2,7 +2,7 @@
 #EXTM3U x-tvg-url="https://fhux.short.gy/epg.xml.gz",
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz",
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz",
-#EXTM3U x-tvg-url="https://iptv.mediavisionlive.in/epg/mvtv.xml",
+#EXTM3U x-tvg-url="https://iptv.mediavisionlive.in/epg/mediavision.xml",
 #EXTM3U x-tvg-url=https://github.com/whythishome/epg/raw/refs/heads/master/guides/dishtv.in_en.xml.gz",
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="JALworLD IPTV info" tvg-logo="https://jalworldiptv.vercel.app/image/JALworLD-IPTV-logo.png" group-title="📋 Info",JALworLD IPTV info
 https://jalworldiptv.vercel.app/play//intro-tv/master.m3u8
