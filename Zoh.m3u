@@ -671,22 +671,22 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090547710_ENG" tvg-name="NorthEast United FC vs Mohun Bagan Super Giant  - 12 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791632348927493_NorthEast_United_vs_Mohun_Bagan_landscape_Thum.jpg" group-title="Football",NorthEast United FC vs Mohun Bagan Super Giant  - 12 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791860113~acl=/*~id=97685732302517495153116909270120~hmac=440fe8dcb1e8963b76fa9400c390baff65d276aac34b6b967529e0c8454a5e93
+https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791860722~acl=/*~id=85171013113994281715210000749964~hmac=76584abc520c73d61fbf12f6f7b3bc5c3748f5b79ddd54b67e7c012258550994
 
 #EXTINF:-1 tvg-id="1090547710_HIN" tvg-name="NorthEast United FC vs Mohun Bagan Super Giant  - 12 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791632348927493_NorthEast_United_vs_Mohun_Bagan_landscape_Thum.jpg" group-title="Football",NorthEast United FC vs Mohun Bagan Super Giant  - 12 Oct 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791860113~acl=/*~id=97685732302517495153116909270120~hmac=440fe8dcb1e8963b76fa9400c390baff65d276aac34b6b967529e0c8454a5e93
+https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791860722~acl=/*~id=85171013113994281715210000749964~hmac=76584abc520c73d61fbf12f6f7b3bc5c3748f5b79ddd54b67e7c012258550994
 
 #EXTINF:-1 tvg-id="1090547710_BEN" tvg-name="NorthEast United FC vs Mohun Bagan Super Giant  - 12 Oct 2026 [BEN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791632348927493_NorthEast_United_vs_Mohun_Bagan_landscape_Thum.jpg" group-title="Football",NorthEast United FC vs Mohun Bagan Super Giant  - 12 Oct 2026 [BEN]
-https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/BEN/std_lrh-800300010.m3u8?hdnea=exp=1791860113~acl=/*~id=97685732302517495153116909270120~hmac=440fe8dcb1e8963b76fa9400c390baff65d276aac34b6b967529e0c8454a5e93
+https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/BEN/std_lrh-800300010.m3u8?hdnea=exp=1791860722~acl=/*~id=85171013113994281715210000749964~hmac=76584abc520c73d61fbf12f6f7b3bc5c3748f5b79ddd54b67e7c012258550994
 
-#EXTINF:-1 tvg-id="1090547705_ENG" tvg-name="Punjab Aerostrikers vs Ayodhya Garjan - 12 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137588402652_VCL_Punjab-Aerostrikers-vs-Ayodhya-Garjan_live_landscape_thumb.jpg" group-title="Volleyball",Punjab Aerostrikers vs Ayodhya Garjan - 12 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2118981/Volleyba1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791860113~acl=/*~id=97685732302517495153116909270120~hmac=440fe8dcb1e8963b76fa9400c390baff65d276aac34b6b967529e0c8454a5e93
+#EXTINF:-1 tvg-id="1090547705_ENG" tvg-name="Tamil Titans vs Hooghly Hitters - 12 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137610904052_VCL_Tamil-Titans-vs-Hoogly-Hitters_live_landscape_thumb.jpg" group-title="Volleyball",Tamil Titans vs Hooghly Hitters - 12 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2118981/Volleyba1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791860722~acl=/*~id=85171013113994281715210000749964~hmac=76584abc520c73d61fbf12f6f7b3bc5c3748f5b79ddd54b67e7c012258550994
 
-#EXTINF:-1 tvg-id="1090547705_HIN" tvg-name="Punjab Aerostrikers vs Ayodhya Garjan - 12 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137588402652_VCL_Punjab-Aerostrikers-vs-Ayodhya-Garjan_live_landscape_thumb.jpg" group-title="Volleyball",Punjab Aerostrikers vs Ayodhya Garjan - 12 Oct 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2118981/Volleyba1210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791860113~acl=/*~id=97685732302517495153116909270120~hmac=440fe8dcb1e8963b76fa9400c390baff65d276aac34b6b967529e0c8454a5e93
+#EXTINF:-1 tvg-id="1090547705_HIN" tvg-name="Tamil Titans vs Hooghly Hitters - 12 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137610904052_VCL_Tamil-Titans-vs-Hoogly-Hitters_live_landscape_thumb.jpg" group-title="Volleyball",Tamil Titans vs Hooghly Hitters - 12 Oct 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2118981/Volleyba1210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791860722~acl=/*~id=85171013113994281715210000749964~hmac=76584abc520c73d61fbf12f6f7b3bc5c3748f5b79ddd54b67e7c012258550994
 
 #EXTINF:-1 tvg-id="1090547706_ENG" tvg-name="Chero Archers vs Mighty Marathas - 12 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026132/1791659750238725_APL26_Chero_Archers_vs_Mighty_Marathas_live_landscape_thumb.jpg" group-title="Archery",Chero Archers vs Mighty Marathas - 12 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2118980/Archery_1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791860113~acl=/*~id=97685732302517495153116909270120~hmac=440fe8dcb1e8963b76fa9400c390baff65d276aac34b6b967529e0c8454a5e93
+https://sonydaimenew.akamaized.net/hls/live/2118980/Archery_1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791860722~acl=/*~id=85171013113994281715210000749964~hmac=76584abc520c73d61fbf12f6f7b3bc5c3748f5b79ddd54b67e7c012258550994
 
 #EXTINF:-1 tvg-id="1090547710" tvg-name="NorthEast United FC vs Mohun Bagan Super Giant  - 12 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791632348927493_NorthEast_United_vs_Mohun_Bagan_landscape_Thum.jpg" group-title="Sports",NorthEast United FC vs Mohun Bagan Super Giant  - 12 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/ENG/master.m3u8?hdnea=exp=1791858308~acl=/*~id=71725754180886958012796219533736~hmac=4bc8a07e6755b1b6658a6cf38e11903208c7d0fc908488ac0a31dfefda23d91a
@@ -698,7 +698,7 @@ https://sonydaimenew.akamaized.net/hls/live/2118981/Volleyba1210/ENG/master.m3u8
 https://sonydaimenew.akamaized.net/hls/live/2118980/Archery_1210/ENG/master.m3u8?hdnea=exp=1791858068~acl=/*~id=76792822849124786388006877813645~hmac=bdb017aee40dde31294c01bfbfd738b60a1c7e6208b86757a0ee4d549e6b637c
 
 #EXTINF:-1 tvg-id="4249781" tvg-name="Australia vs South Africa [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Cricket",Australia vs South Africa [English]
-https://in-mc-flive.fancode.com/mumbai/4249781_english_hls_6c802c64b124668_1ta-di_h264/720p.m3u8?hdntl=Expires=1791874884~_GO=Generated~acl=/mumbai/4249781_english_hls_6c802c64b124668_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_5f1f1bce-073f-4b~Signature=AXZsC1C32mxyUX4e4G6sRIjxF23GmE7evKkTp7Qc-nXftWtC9l_UdksYDkUbNWqXfkEQW92x4H4dcRmMKqsBkOCS1mgI
+https://in-mc-flive.fancode.com/mumbai/4249781_english_hls_6c802c64b124668_1ta-di_h264/720p.m3u8?hdntl=Expires=1791903958~_GO=Generated~acl=/mumbai/4249781_english_hls_6c802c64b124668_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a0cd99a5-37a8-4d~Signature=AZJsJWZEGIQhFzN7rcJf_j7DESQJGF16gakgW1LFO6JSQnLquzc00C1J1eRL8wQbQfdDyl82w3HM-f4sj8EJCTI14isI
 
 #EXTINF:-1 tvg-id="4248696" tvg-name="Pakhtakor Tashkent vs Al Qadisiyah [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248696_53053_PT_ALQ_FC-WEB.jpg" group-title="Football",Pakhtakor Tashkent vs Al Qadisiyah [English]
 https://in-mc-flive.fancode.com/mumbai/4248696_english_hls_56e68d9c1989272_1ta-di_h264/720p.m3u8?hdntl=Expires=1791898506~_GO=Generated~acl=/mumbai/4248696_english_hls_56e68d9c1989272_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_60f7a092-5917-41~Signature=AZJsJWYylE1Ssdq0-QSIQ0W_yobvDeXcxqZUmAdHom-FERlXsYPxZlJ63qbtcIRQJ013Cl5OY4xPTi0hYgC3V8eizU8G
@@ -711,21 +711,21 @@ https://ComeInNextMatch.com/4K.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc795082715e39585bb8b9913a2072db:b6a161d647a3e1319649cbae2ee256bf
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/61zrupwmyb/out/v1/6cc49c58f415453894718c5813bbcd89/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/61zrupwmyb/out/v1/6cc49c58f415453894718c5813bbcd89/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HKFRWMBH" tvg-name="Australia tour of South Africa 2026 - 1st Test - South Africa vs Australia" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d0f64737-d567-4434-8e64-4a43048ea637/9/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Australia tour of South Africa 2026 - 1st Test - South Africa vs Australia
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=abceab2f1340be6c70c54b7176d30608:9c281b70e5626752d2481f498677b3df
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/nud9c5syvx/out/v1/f5d58491aba84f35985919762ad77d6a/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nud9c5syvx/out/v1/f5d58491aba84f35985919762ad77d6a/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HKFRWMBH" tvg-name="Australia tour of South Africa 2026 - 1st Test - South Africa vs Australia" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d0f64737-d567-4434-8e64-4a43048ea637/9/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Australia tour of South Africa 2026 - 1st Test - South Africa vs Australia
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=abceab2f1340be6c70c54b7176d30608:9c281b70e5626752d2481f498677b3df
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nud9c5syvx/out/v1/f5d58491aba84f35985919762ad77d6a/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nud9c5syvx/out/v1/f5d58491aba84f35985919762ad77d6a/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HLG67G7Q" tvg-name="Afghanistan vs Bangladesh in UAE 2026 - One-off Test - Afghanistan vs Bangladesh" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.abf514cc-bb21-4f3c-900b-065784936f1b/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Afghanistan vs Bangladesh in UAE 2026 - One-off Test - Afghanistan vs Bangladesh
 #KODIPROP:inputstream=inputstream.adaptive
@@ -739,5 +739,5 @@ https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/61zrupwmy
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd
 
