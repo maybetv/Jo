@@ -670,11 +670,44 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 # --- LIVE EVENTS ---
 
+#EXTINF:-1 tvg-id="1090547846_ENG" tvg-name="Atletico Madrid vs Man United - 14 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791170963178329_UCL2627_MD2_Atletico_vs_Man_United_landscape_thumb.jpg" group-title="Football",Atletico Madrid vs Man United - 14 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791959455~acl=/*~id=61123676103882373075655882230487~hmac=d4288092f1b966c481ca77e2aad3a8d50db493ee79b8a6558bd03508ac07fc36
+
+#EXTINF:-1 tvg-id="1090547846_HIN" tvg-name="Atletico Madrid vs Man United - 14 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791170963178329_UCL2627_MD2_Atletico_vs_Man_United_landscape_thumb.jpg" group-title="Football",Atletico Madrid vs Man United - 14 Oct 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791959455~acl=/*~id=61123676103882373075655882230487~hmac=d4288092f1b966c481ca77e2aad3a8d50db493ee79b8a6558bd03508ac07fc36
+
+#EXTINF:-1 tvg-id="1090547846_TAM" tvg-name="Atletico Madrid vs Man United - 14 Oct 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791170963178329_UCL2627_MD2_Atletico_vs_Man_United_landscape_thumb.jpg" group-title="Football",Atletico Madrid vs Man United - 14 Oct 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive1310/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791959455~acl=/*~id=61123676103882373075655882230487~hmac=d4288092f1b966c481ca77e2aad3a8d50db493ee79b8a6558bd03508ac07fc36
+
+#EXTINF:-1 tvg-id="1090547846_TEL" tvg-name="Atletico Madrid vs Man United - 14 Oct 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791170963178329_UCL2627_MD2_Atletico_vs_Man_United_landscape_thumb.jpg" group-title="Football",Atletico Madrid vs Man United - 14 Oct 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive1310/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791959455~acl=/*~id=61123676103882373075655882230487~hmac=d4288092f1b966c481ca77e2aad3a8d50db493ee79b8a6558bd03508ac07fc36
+
+#EXTINF:-1 tvg-id="1090547846_KAN" tvg-name="Atletico Madrid vs Man United - 14 Oct 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791170963178329_UCL2627_MD2_Atletico_vs_Man_United_landscape_thumb.jpg" group-title="Football",Atletico Madrid vs Man United - 14 Oct 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive1310/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791959455~acl=/*~id=61123676103882373075655882230487~hmac=d4288092f1b966c481ca77e2aad3a8d50db493ee79b8a6558bd03508ac07fc36
+
+#EXTINF:-1 tvg-id="1090547845_ENG" tvg-name="Arsenal vs Lille - 14 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791170656647329_UCL2627_MD2_Arsenal_vs_Lille_landscape_thumb.jpg" group-title="Football",Arsenal vs Lille - 14 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791959455~acl=/*~id=61123676103882373075655882230487~hmac=d4288092f1b966c481ca77e2aad3a8d50db493ee79b8a6558bd03508ac07fc36
+
+#EXTINF:-1 tvg-id="1090547896_ENG" tvg-name="Galatasaray vs Barcelona - 14 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791172070951329_UCL2627_MD2_Galatasaray_vs_Barcelona_landscape_thumb.jpg" group-title="Football",Galatasaray vs Barcelona - 14 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791959455~acl=/*~id=61123676103882373075655882230487~hmac=d4288092f1b966c481ca77e2aad3a8d50db493ee79b8a6558bd03508ac07fc36
+
+#EXTINF:-1 tvg-id="1090547897_ENG" tvg-name="Viking vs Bayern Munchen - 14 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791173576083329_UCL2627_MD2_Viking_vs_Bayern_landscape_thumb.jpg" group-title="Football",Viking vs Bayern Munchen - 14 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791959455~acl=/*~id=61123676103882373075655882230487~hmac=d4288092f1b966c481ca77e2aad3a8d50db493ee79b8a6558bd03508ac07fc36
+
+#EXTINF:-1 tvg-id="1090547844_ENG" tvg-name="Inter vs Club Brugge - 14 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791170449538329_UCL2627_MD2_Inter_vs_Club_Brugge_landscape_thumb.jpg" group-title="Football",Inter vs Club Brugge - 14 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791959455~acl=/*~id=61123676103882373075655882230487~hmac=d4288092f1b966c481ca77e2aad3a8d50db493ee79b8a6558bd03508ac07fc36
+
+#EXTINF:-1 tvg-id="1090547895_ENG" tvg-name="Villarreal vs Napoli - 14 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791171438383329_UCL2627_MD2_Villarreal_vs_Napoli_landscape_thumb.jpg" group-title="Football",Villarreal vs Napoli - 14 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791959455~acl=/*~id=61123676103882373075655882230487~hmac=d4288092f1b966c481ca77e2aad3a8d50db493ee79b8a6558bd03508ac07fc36
+
+#EXTINF:-1 tvg-id="1090547894_ENG" tvg-name="Leipzig vs PSV - 14 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791171216450329_UCL2627_MD2_Leipzig_vs_PSV_landscape_thumb.jpg" group-title="Football",Leipzig vs PSV - 14 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791959455~acl=/*~id=61123676103882373075655882230487~hmac=d4288092f1b966c481ca77e2aad3a8d50db493ee79b8a6558bd03508ac07fc36
+
 #EXTINF:-1 tvg-id="1090547842_ENG" tvg-name="Lens vs Sporting CP - MD2 - 13 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791169760121329_UCL2627_MD2_Lens_vs_SportingCP_landscape_thumb.jpg" group-title="Football",Lens vs Sporting CP - MD2 - 13 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791958848~acl=/*~id=94706002719869137506816239828834~hmac=85981688b52560a84890f79f515282732951f766d83cc26f62948a3565cb38eb
+https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791959455~acl=/*~id=61123676103882373075655882230487~hmac=d4288092f1b966c481ca77e2aad3a8d50db493ee79b8a6558bd03508ac07fc36
 
 #EXTINF:-1 tvg-id="1090547843_ENG" tvg-name="Sabah vs Slavia Praha - 13 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791170232100329_UCL2627_MD2_Sabah_vs_Slavia_Praha_landscape_thumb.jpg" group-title="Football",Sabah vs Slavia Praha - 13 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791958848~acl=/*~id=94706002719869137506816239828834~hmac=85981688b52560a84890f79f515282732951f766d83cc26f62948a3565cb38eb
+https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791959455~acl=/*~id=61123676103882373075655882230487~hmac=d4288092f1b966c481ca77e2aad3a8d50db493ee79b8a6558bd03508ac07fc36
 
 #EXTINF:-1 tvg-id="1090547842" tvg-name="Lens vs Sporting CP - MD2 - 13 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791169760121329_UCL2627_MD2_Lens_vs_SportingCP_landscape_thumb.jpg" group-title="Sports",Lens vs Sporting CP - MD2 - 13 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791951643~acl=/*~id=48008506554638385024598208552323~hmac=365fe173278ac77b8411a7f0651fbaf8ab5f196ca6594305ed9e6d446db4684a
@@ -711,33 +744,26 @@ https://ComeInNextMatch.com/4K.m3u8
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1791931509~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=b043dffb81968fed0432815cd26462ddc223ae20672575ed917c8c6b994a0401/manifest.mpd?vcfilter=3572bca0-8462-4015-b51f-0af20d1a044d&
 
-#EXTINF:-1 tvg-id="B0HL8XQ54M" tvg-name="Atlanta Open T20 2026 - 1st Match - ICR Falcons vs All Stars Cardinals" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b719baa2-6bec-4a46-8c30-ed697705c000/6/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Atlanta Open T20 2026 - 1st Match - ICR Falcons vs All Stars Cardinals
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8d8c7a199d1d3201edcd77ad23a56636:4ef990a3da8025ede81e8b2dbe158eee
-https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/yoqsehjli4/out/v1/146b94e0275e4876b160c2284c97117b/cenc.mpd
-
 #EXTINF:-1 tvg-id="B0HMP5RSYC" tvg-name="Atlanta Open T20 2026 - 2nd Match - Prime Gladiators vs Atlanta Force" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1aff7eec-1af3-4f98-b32d-1ae28480d28b/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Atlanta Open T20 2026 - 2nd Match - Prime Gladiators vs Atlanta Force
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bcf31af4fb00661a299fdd2769191c3e:27227e5d96926d6b3e6440c3b99d6ab4
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fnawicszul/out/v1/efbf92d134d94e49abb48edc39785952/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fnawicszul/out/v1/efbf92d134d94e49abb48edc39785952/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HMFC2J1S" tvg-name="Atlanta Open T20 2026 - 3rd Mtach - Atlanta Lightning vs Bay Blazers" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cffd1013-2f10-47e4-b5d1-1f382496ba20/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Atlanta Open T20 2026 - 3rd Mtach - Atlanta Lightning vs Bay Blazers
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1e52f136a486820c3bedeea6869903ab:f272649ec1b7f44198a62f01da0e38a3
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bafo2fufrs/out/v1/8c3c8c859fc447e1adae50eca2293775/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/bafo2fufrs/out/v1/8c3c8c859fc447e1adae50eca2293775/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HKRXBRWV" tvg-name="World Championship of Legends 2026 - 15th Match - India Champions vs West Indies Champions" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dc23bbae-312c-498d-a861-9e646bdd67cb/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",World Championship of Legends 2026 - 15th Match - India Champions vs West Indies Champions
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=07d2bdb28f769642674f06186e07dc80:b6f46ea24ca3841dde63374caa5ecef6
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0o0sfxif50/out/v1/96ec63a0253f4f4dbca19d1977080209/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/0o0sfxif50/out/v1/96ec63a0253f4f4dbca19d1977080209/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HMNKW3WQ" tvg-name="Atlanta Open T20 2026 - 4th Match - Atlanta Fire vs Seattle Thunderbolts" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.79595a23-68e4-4b57-afed-d758f30cb2a6/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Atlanta Open T20 2026 - 4th Match - Atlanta Fire vs Seattle Thunderbolts
 #KODIPROP:inputstream=inputstream.adaptive
@@ -746,19 +772,33 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0o0sfxif50/out/v1
 #KODIPROP:inputstream.adaptive.license_key=1a66ae8ce3f5446d110eb2445e1abeac:b79d94ff5201b1c22f4e3db30f663f1b
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jygfejg9fp/out/v1/35c3361012a5422993a811d09b16c842/cenc.mpd
 
+#EXTINF:-1 tvg-id="B0HMC7M36S" tvg-name="Atlanta Open T20 2026 - 5th Match - RR Stars vs St. Louis Americans" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8183e238-3d9f-4554-acb4-a41159b3cb1f/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Atlanta Open T20 2026 - 5th Match - RR Stars vs St. Louis Americans
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=374047b955187df29f4e4a80e0c6fa74:6f52b8541eb0d29141f5ee531128930a
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kgalftflgg/out/v1/97adfa9f5dc7413cb7953353402687b8/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HK43WKWQ" tvg-name="Atlanta Open T20 2026 - 6th Match - Space City Cowboys vs Michigan Cricket Stars" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.414ddf7a-cff0-4ffc-a6f6-25d3b6afa61e/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Atlanta Open T20 2026 - 6th Match - Space City Cowboys vs Michigan Cricket Stars
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42ee24e61938f5395a320a18f927c9f1:6c9418d9d37358cde3f1337e8378862d
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/3wsqxqs72a/out/v1/8bf8ebc09f2c43119fbb907c9216857d/cenc.mpd
+
 #EXTINF:-1 tvg-id="B0HKRXBRWV" tvg-name="World Championship of Legends 2026 - 15th Match - India Champions vs West Indies Champions" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dc23bbae-312c-498d-a861-9e646bdd67cb/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",World Championship of Legends 2026 - 15th Match - India Champions vs West Indies Champions
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=07d2bdb28f769642674f06186e07dc80:b6f46ea24ca3841dde63374caa5ecef6
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uo8lwqdfwk/out/v1/b95d78252fc94504963d13fbe22d6f1d/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uo8lwqdfwk/out/v1/b95d78252fc94504963d13fbe22d6f1d/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HMNKW3WQ" tvg-name="Atlanta Open T20 2026 - 4th Match - Atlanta Fire vs Seattle Thunderbolts" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.79595a23-68e4-4b57-afed-d758f30cb2a6/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Atlanta Open T20 2026 - 4th Match - Atlanta Fire vs Seattle Thunderbolts
+#EXTINF:-1 tvg-id="B0HK43WKWQ" tvg-name="Atlanta Open T20 2026 - 6th Match - Space City Cowboys vs Michigan Cricket Stars" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.414ddf7a-cff0-4ffc-a6f6-25d3b6afa61e/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Atlanta Open T20 2026 - 6th Match - Space City Cowboys vs Michigan Cricket Stars
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a66ae8ce3f5446d110eb2445e1abeac:b79d94ff5201b1c22f4e3db30f663f1b
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/jygfejg9fp/out/v1/35c3361012a5422993a811d09b16c842/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=42ee24e61938f5395a320a18f927c9f1:6c9418d9d37358cde3f1337e8378862d
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/h7qmdaswdf/out/v1/1df74ff84f564705957d5495202239d6/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HC7JQ62Y" tvg-name="Cricket Highlights-WCL 2026: India vs West Indies - 19th Match" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0b448bdb-ec89-40dd-b2d8-f0c089e7248f/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Cricket Highlights-WCL 2026: India vs West Indies - 19th Match
 #KODIPROP:inputstream=inputstream.adaptive
@@ -767,31 +807,31 @@ https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/jygfejg9
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HL8XQ54M" tvg-name="Atlanta Open T20 2026 - 1st Match - ICR Falcons vs All Stars Cardinals" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b719baa2-6bec-4a46-8c30-ed697705c000/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Atlanta Open T20 2026 - 1st Match - ICR Falcons vs All Stars Cardinals
+#EXTINF:-1 tvg-id="B0HMNKW3WQ" tvg-name="Atlanta Open T20 2026 - 4th Match - Atlanta Fire vs Seattle Thunderbolts" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.79595a23-68e4-4b57-afed-d758f30cb2a6/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Atlanta Open T20 2026 - 4th Match - Atlanta Fire vs Seattle Thunderbolts
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8d8c7a199d1d3201edcd77ad23a56636:4ef990a3da8025ede81e8b2dbe158eee
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/yoqsehjli4/out/v1/146b94e0275e4876b160c2284c97117b/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=1a66ae8ce3f5446d110eb2445e1abeac:b79d94ff5201b1c22f4e3db30f663f1b
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/jygfejg9fp/out/v1/35c3361012a5422993a811d09b16c842/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HMFC2J1S" tvg-name="Atlanta Open T20 2026 - 3rd Mtach - Atlanta Lightning vs Bay Blazers" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cffd1013-2f10-47e4-b5d1-1f382496ba20/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Atlanta Open T20 2026 - 3rd Mtach - Atlanta Lightning vs Bay Blazers
+#EXTINF:-1 tvg-id="B0HMC7M36S" tvg-name="Atlanta Open T20 2026 - 5th Match - RR Stars vs St. Louis Americans" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8183e238-3d9f-4554-acb4-a41159b3cb1f/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Atlanta Open T20 2026 - 5th Match - RR Stars vs St. Louis Americans
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1e52f136a486820c3bedeea6869903ab:f272649ec1b7f44198a62f01da0e38a3
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bafo2fufrs/out/v1/8c3c8c859fc447e1adae50eca2293775/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=374047b955187df29f4e4a80e0c6fa74:6f52b8541eb0d29141f5ee531128930a
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kgalftflgg/out/v1/97adfa9f5dc7413cb7953353402687b8/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HMP5RSYC" tvg-name="Atlanta Open T20 2026 - 2nd Match - Prime Gladiators vs Atlanta Force" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1aff7eec-1af3-4f98-b32d-1ae28480d28b/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Atlanta Open T20 2026 - 2nd Match - Prime Gladiators vs Atlanta Force
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bcf31af4fb00661a299fdd2769191c3e:27227e5d96926d6b3e6440c3b99d6ab4
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fnawicszul/out/v1/efbf92d134d94e49abb48edc39785952/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fnawicszul/out/v1/efbf92d134d94e49abb48edc39785952/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HMDB2Z2T" tvg-name="Germany vs. Japan" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.072ebbaf-920a-40ee-9d04-e459c0f506c6/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Germany vs. Japan
+#EXTINF:-1 tvg-id="B0HMFC2J1S" tvg-name="Atlanta Open T20 2026 - 3rd Mtach - Atlanta Lightning vs Bay Blazers" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cffd1013-2f10-47e4-b5d1-1f382496ba20/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Atlanta Open T20 2026 - 3rd Mtach - Atlanta Lightning vs Bay Blazers
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=1e52f136a486820c3bedeea6869903ab:f272649ec1b7f44198a62f01da0e38a3
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bafo2fufrs/out/v1/8c3c8c859fc447e1adae50eca2293775/cenc.mpd
 
