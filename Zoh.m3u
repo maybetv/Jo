@@ -671,16 +671,16 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090547794_ENG" tvg-name="Garvi Gujjus vs Rajasthan Spikers - 13 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026137/1791665185857503_VCL_Garvi_Gujjus_vs_Rajasthan_Spikers_live_landscape_thumb.jpg" group-title="Volleyball",Garvi Gujjus vs Rajasthan Spikers - 13 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791945489~acl=/*~id=52851279509243700875954592067722~hmac=042089c7cdc5ebe79e289e933a13206c348f7721184d9abb4c99e95db9db2373
+https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791946096~acl=/*~id=55918496754359438517292614754174~hmac=dc0b65cb5c79ecbe03aa72818b21e064360df976b462910c1180009a099ab63b
 
 #EXTINF:-1 tvg-id="1090547794_HIN" tvg-name="Garvi Gujjus vs Rajasthan Spikers - 13 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026137/1791665185857503_VCL_Garvi_Gujjus_vs_Rajasthan_Spikers_live_landscape_thumb.jpg" group-title="Volleyball",Garvi Gujjus vs Rajasthan Spikers - 13 Oct 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791945489~acl=/*~id=52851279509243700875954592067722~hmac=042089c7cdc5ebe79e289e933a13206c348f7721184d9abb4c99e95db9db2373
+https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791946096~acl=/*~id=55918496754359438517292614754174~hmac=dc0b65cb5c79ecbe03aa72818b21e064360df976b462910c1180009a099ab63b
 
-#EXTINF:-1 tvg-id="1090547796_ENG" tvg-name="Chero Archers vs Rajputana Royals - 13 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026134/1791662124550703_APL26_Chero_Archers_vs_Rajputana_Royals_live_landscape_thumb.jpg" group-title="Archery",Chero Archers vs Rajputana Royals - 13 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120303/Archery_1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791945489~acl=/*~id=52851279509243700875954592067722~hmac=042089c7cdc5ebe79e289e933a13206c348f7721184d9abb4c99e95db9db2373
+#EXTINF:-1 tvg-id="1090547796_ENG" tvg-name="Prithviraj Yodhas vs Mighty Marathas - 13 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026134/1791662341885703_APL26_Prithviraj_Yodhas_vs_Mighty_Marathas_live_landscape_thumb.jpg" group-title="Archery",Prithviraj Yodhas vs Mighty Marathas - 13 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120303/Archery_1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791946096~acl=/*~id=55918496754359438517292614754174~hmac=dc0b65cb5c79ecbe03aa72818b21e064360df976b462910c1180009a099ab63b
 
 #EXTINF:-1 tvg-id="1090547795_ENG" tvg-name="Villarreal vs Napoli - 13 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025826/179109030000422_UYL26_Villarreal_vs_Napoli_live_landscape_thumb.jpg" group-title="Football",Villarreal vs Napoli - 13 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791945489~acl=/*~id=52851279509243700875954592067722~hmac=042089c7cdc5ebe79e289e933a13206c348f7721184d9abb4c99e95db9db2373
+https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791946096~acl=/*~id=55918496754359438517292614754174~hmac=dc0b65cb5c79ecbe03aa72818b21e064360df976b462910c1180009a099ab63b
 
 #EXTINF:-1 tvg-id="1090547794" tvg-name="Garvi Gujjus vs Rajasthan Spikers - 13 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026137/1791665185857503_VCL_Garvi_Gujjus_vs_Rajasthan_Spikers_live_landscape_thumb.jpg" group-title="Sports",Garvi Gujjus vs Rajasthan Spikers - 13 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791939048~acl=/*~id=01426733967562979593053095689932~hmac=5b79483b49d8573a2f43fb84a27b3168bb30d6c332e9cd968bd42e9b1493cb62
@@ -694,9 +694,6 @@ https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive1310/ENG/std_lrh-800
 #EXTINF:-1 tvg-id="4249236" tvg-name="South Africa Champions vs England Champions [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249236_53069_EDC_SAC_FC-Web_1790764440985.png" group-title="Cricket",South Africa Champions vs England Champions [English]
 https://in-mc-flive.fancode.com/mumbai/4249236_english_hls_1e044ab22520559_1ta-di_h264/720p.m3u8?hdntl=Expires=1791975588~_GO=Generated~acl=/mumbai/4249236_english_hls_1e044ab22520559_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_9247f547-f3d1-48~Signature=AZJsJWZYz0zImKzIij8VX4NWygpn-mpHZbPSR5UGI54FUAIImrTcqmrrKv5XAFEtsl6cQ22kZdrcD5xiykvC7_Z7fX4M
 
-#EXTINF:-1 tvg-id="4248709" tvg-name="Cong An Ha Noi vs Kashima Antlers [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248709_53053_CAH_ANL_fc-web.jpg" group-title="Football",Cong An Ha Noi vs Kashima Antlers [English]
-https://in-mc-flive.fancode.com/mumbai/4248709_english_hls_d11a1696eb64694_1ta-di_h264/720p.m3u8?hdntl=Expires=1791979225~_GO=Generated~acl=/mumbai/4248709_english_hls_d11a1696eb64694_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_aa97c342-e931-40~Signature=AZJsJWalzGAseAEHkCJWMy5IRxOlJTaxu6hmg6W2kImCdanXbxgnh82p7teOb7gRJz5MD3G2ft9-9phCAbvO_jMAlPkG
-
 #EXTINF:-1 tvg-id="4248975" tvg-name="East Bengal FC vs Al Shorta [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248975_53057_EBFC_SHR_fc-web_1789025066366.jpg" group-title="Football",East Bengal FC vs Al Shorta [English]
 https://in-mc-flive.fancode.com/mumbai/4248975_english_hls_f2d04e20b671338_1ta-di_h264/720p.m3u8?hdntl=Expires=1791984690~_GO=Generated~acl=/mumbai/4248975_english_hls_f2d04e20b671338_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e56062c9-cbec-47~Signature=AZJsJWb-e8lbVaPQ3bVNPDegcKPV209spUA3v5EC_XLONiREJiJtYr_QCjajAVWPPqnNE_LBjENT84DJC2xss7CWi3wE
 
@@ -705,6 +702,17 @@ https://in-mc-flive.fancode.com/mumbai/4248836_english_hls_60e959b67554346_1ta-d
 
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
+
+#EXTINF:-1 tvg-id="3572bca0-8462-4015-b51f-0af20d1a044d" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/cr09x5v6hdahpzbepfus" tvg-lang="English" group-title="Cricket",English | Namibia v USA (1st Innings)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1791931509~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=b043dffb81968fed0432815cd26462ddc223ae20672575ed917c8c6b994a0401/manifest.mpd?vcfilter=3572bca0-8462-4015-b51f-0af20d1a044d&
 
 #EXTINF:-1 tvg-id="B0HLG67G7Q" tvg-name="Afghanistan vs Bangladesh in UAE 2026 - One-off Test - Afghanistan vs Bangladesh" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.abf514cc-bb21-4f3c-900b-065784936f1b/9/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Afghanistan vs Bangladesh in UAE 2026 - One-off Test - Afghanistan vs Bangladesh
 #KODIPROP:inputstream=inputstream.adaptive
