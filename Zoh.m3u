@@ -670,9 +670,6 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 # --- LIVE EVENTS ---
 
-#EXTINF:-1 tvg-id="1090547844_ENG" tvg-name="Inter vs Club Brugge - 14 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791170449538329_UCL2627_MD2_Inter_vs_Club_Brugge_landscape_thumb.jpg" group-title="Football",Inter vs Club Brugge - 14 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791968613~acl=/*~id=15947175551830758089274128496721~hmac=c4a79914ddb53f8ba5ee544db01f36654f7a09f261e93c49fdd5c1a2d5c6f282
-
 #EXTINF:-1 tvg-id="1090547846" tvg-name="Atletico Madrid vs Man United - 14 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791170963178329_UCL2627_MD2_Atletico_vs_Man_United_landscape_thumb.jpg" group-title="Sports",Atletico Madrid vs Man United - 14 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791960641~acl=/*~id=28450448947460609437521951931255~hmac=54510b137aea504a41b2de3f42b7a0d81709d1d3c50d603353c1ed043d718895
 
