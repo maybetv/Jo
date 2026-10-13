@@ -671,13 +671,13 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090547794_ENG" tvg-name="Garvi Gujjus vs Rajasthan Spikers - 13 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026137/1791665185857503_VCL_Garvi_Gujjus_vs_Rajasthan_Spikers_live_landscape_thumb.jpg" group-title="Volleyball",Garvi Gujjus vs Rajasthan Spikers - 13 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791940011~acl=/*~id=77745270594497486697371057542114~hmac=987d7c4e8f6bc0c62892094aada63baa574df03aaaf605539c692de05acd07bf
+https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791941225~acl=/*~id=73215428919559096178952104124373~hmac=06514794c8bb4cf496cc8f910a7735df8848a112549ad21a1b603b3ceef80d32
 
 #EXTINF:-1 tvg-id="1090547794_HIN" tvg-name="Garvi Gujjus vs Rajasthan Spikers - 13 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026137/1791665185857503_VCL_Garvi_Gujjus_vs_Rajasthan_Spikers_live_landscape_thumb.jpg" group-title="Volleyball",Garvi Gujjus vs Rajasthan Spikers - 13 Oct 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791940011~acl=/*~id=77745270594497486697371057542114~hmac=987d7c4e8f6bc0c62892094aada63baa574df03aaaf605539c692de05acd07bf
+https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791941225~acl=/*~id=73215428919559096178952104124373~hmac=06514794c8bb4cf496cc8f910a7735df8848a112549ad21a1b603b3ceef80d32
 
 #EXTINF:-1 tvg-id="1090547793_ENG" tvg-name="Leipzig vs Eindhoven - MD 2 - 13 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025825/17910890252552_UYL26_Leipzig_vs_Eindhoven_MD2_live_landscape_thumb.jpg" group-title="Football",Leipzig vs Eindhoven - MD 2 - 13 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791940011~acl=/*~id=77745270594497486697371057542114~hmac=987d7c4e8f6bc0c62892094aada63baa574df03aaaf605539c692de05acd07bf
+https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791941225~acl=/*~id=73215428919559096178952104124373~hmac=06514794c8bb4cf496cc8f910a7735df8848a112549ad21a1b603b3ceef80d32
 
 #EXTINF:-1 tvg-id="1090547794" tvg-name="Garvi Gujjus vs Rajasthan Spikers - 13 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026137/1791665185857503_VCL_Garvi_Gujjus_vs_Rajasthan_Spikers_live_landscape_thumb.jpg" group-title="Sports",Garvi Gujjus vs Rajasthan Spikers - 13 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791939048~acl=/*~id=01426733967562979593053095689932~hmac=5b79483b49d8573a2f43fb84a27b3168bb30d6c332e9cd968bd42e9b1493cb62
@@ -687,9 +687,6 @@ https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1310/ENG/std_lrh-800
 
 #EXTINF:-1 tvg-id="4249693" tvg-name="Bangladesh vs Afghanistan [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_6518.jpeg" group-title="Cricket",Bangladesh vs Afghanistan [English]
 https://in-mc-flive.fancode.com/mumbai/4249693_english_hls_aaca093f3b654_1ta-di_h264/720p.m3u8?hdntl=Expires=1791955590~_GO=Generated~acl=/mumbai/4249693_english_hls_aaca093f3b654_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0b18fc47-2503-40~Signature=AZJsJWYmqKIedlJezwsGWCl9UA58nFyG9wc5p-5KD9U4TcMGAkkiEgauc4p1sHAmqBJKZxPdXJzySM79gt05Db-dGxQA
-
-#EXTINF:-1 tvg-id="4249279" tvg-name="Queensland vs Western Australia [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249279_53072_WAU_QUN_FC-Web.jpg" group-title="Cricket",Queensland vs Western Australia [English]
-https://in-mc-flive.fancode.com/mumbai/4249279_english_hls_5ad86f8e1b89365_1ta-di_h264/720p.m3u8?hdntl=Expires=1791958015~_GO=Generated~acl=/mumbai/4249279_english_hls_5ad86f8e1b89365_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f8b22f2f-bc24-49~Signature=AZJsJWarSV5p8ObvD0Gh7SNcbq0teJZWgAQlDYm3SxPblusb_PtXNEqRUdLDw5HCUtPBdRytqX8rJTMjzbgpunFWYy8P
 
 #EXTINF:-1 tvg-id="4249236" tvg-name="South Africa Champions vs England Champions [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249236_53069_EDC_SAC_FC-Web_1790764440985.png" group-title="Cricket",South Africa Champions vs England Champions [English]
 https://in-mc-flive.fancode.com/mumbai/4249236_english_hls_1e044ab22520559_1ta-di_h264/720p.m3u8?hdntl=Expires=1791975588~_GO=Generated~acl=/mumbai/4249236_english_hls_1e044ab22520559_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_9247f547-f3d1-48~Signature=AZJsJWZYz0zImKzIij8VX4NWygpn-mpHZbPSR5UGI54FUAIImrTcqmrrKv5XAFEtsl6cQ22kZdrcD5xiykvC7_Z7fX4M
