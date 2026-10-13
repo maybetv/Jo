@@ -671,13 +671,10 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090547842_ENG" tvg-name="Lens vs Sporting CP - MD2 - 13 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791169760121329_UCL2627_MD2_Lens_vs_SportingCP_landscape_thumb.jpg" group-title="Football",Lens vs Sporting CP - MD2 - 13 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791954600~acl=/*~id=18903854558143876260355389274488~hmac=c5ae9d9adff5a2ba313d09cfe3c6dd5de623f079ec3285a8b849363720a8f7ba
+https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791955207~acl=/*~id=44412335114055115511165827789961~hmac=9d8ae833c1abaf1bbc3c9ffa62e56f602412367d7eafa6cbd56397f3ebed2222
 
 #EXTINF:-1 tvg-id="1090547843_ENG" tvg-name="Sabah vs Slavia Praha - 13 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791170232100329_UCL2627_MD2_Sabah_vs_Slavia_Praha_landscape_thumb.jpg" group-title="Football",Sabah vs Slavia Praha - 13 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791954600~acl=/*~id=18903854558143876260355389274488~hmac=c5ae9d9adff5a2ba313d09cfe3c6dd5de623f079ec3285a8b849363720a8f7ba
-
-#EXTINF:-1 tvg-id="1090547794" tvg-name="Namma Bengaluru Smashers vs Delhi Dynamites - 13 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026137/1791665683051503_VCL_Bengaluru_Smashers_vs_Delhi_Dynamites_live_landscape_thumb.jpg" group-title="Sports",Namma Bengaluru Smashers vs Delhi Dynamites - 13 Oct 2026 [ENGLISH]
-https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791939048~acl=/*~id=01426733967562979593053095689932~hmac=5b79483b49d8573a2f43fb84a27b3168bb30d6c332e9cd968bd42e9b1493cb62
+https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791955207~acl=/*~id=44412335114055115511165827789961~hmac=9d8ae833c1abaf1bbc3c9ffa62e56f602412367d7eafa6cbd56397f3ebed2222
 
 #EXTINF:-1 tvg-id="1090547842" tvg-name="Lens vs Sporting CP - MD2 - 13 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791169760121329_UCL2627_MD2_Lens_vs_SportingCP_landscape_thumb.jpg" group-title="Sports",Lens vs Sporting CP - MD2 - 13 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791951643~acl=/*~id=48008506554638385024598208552323~hmac=365fe173278ac77b8411a7f0651fbaf8ab5f196ca6594305ed9e6d446db4684a
