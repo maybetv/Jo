@@ -671,13 +671,16 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090547794_ENG" tvg-name="Garvi Gujjus vs Rajasthan Spikers - 13 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026137/1791665185857503_VCL_Garvi_Gujjus_vs_Rajasthan_Spikers_live_landscape_thumb.jpg" group-title="Volleyball",Garvi Gujjus vs Rajasthan Spikers - 13 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791938797~acl=/*~id=89406588564794797284567928292576~hmac=c1c8eb42a8e7fdc4d3101fd90efc11d4538d9fbd4b13cae63ce83c3f0abf3efe
+https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791939404~acl=/*~id=28028086940467373971284189966771~hmac=205d6bf6a858a0c9f611af9561930bfbc9b2d461449cc320d482e477fae7fa86
 
 #EXTINF:-1 tvg-id="1090547794_HIN" tvg-name="Garvi Gujjus vs Rajasthan Spikers - 13 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026137/1791665185857503_VCL_Garvi_Gujjus_vs_Rajasthan_Spikers_live_landscape_thumb.jpg" group-title="Volleyball",Garvi Gujjus vs Rajasthan Spikers - 13 Oct 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791938797~acl=/*~id=89406588564794797284567928292576~hmac=c1c8eb42a8e7fdc4d3101fd90efc11d4538d9fbd4b13cae63ce83c3f0abf3efe
+https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791939404~acl=/*~id=28028086940467373971284189966771~hmac=205d6bf6a858a0c9f611af9561930bfbc9b2d461449cc320d482e477fae7fa86
 
 #EXTINF:-1 tvg-id="1090547793_ENG" tvg-name="Leipzig vs Eindhoven - MD 2 - 13 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025825/17910890252552_UYL26_Leipzig_vs_Eindhoven_MD2_live_landscape_thumb.jpg" group-title="Football",Leipzig vs Eindhoven - MD 2 - 13 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791938797~acl=/*~id=89406588564794797284567928292576~hmac=c1c8eb42a8e7fdc4d3101fd90efc11d4538d9fbd4b13cae63ce83c3f0abf3efe
+https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791939404~acl=/*~id=28028086940467373971284189966771~hmac=205d6bf6a858a0c9f611af9561930bfbc9b2d461449cc320d482e477fae7fa86
+
+#EXTINF:-1 tvg-id="1090547794" tvg-name="Garvi Gujjus vs Rajasthan Spikers - 13 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026137/1791665185857503_VCL_Garvi_Gujjus_vs_Rajasthan_Spikers_live_landscape_thumb.jpg" group-title="Sports",Garvi Gujjus vs Rajasthan Spikers - 13 Oct 2026 [ENGLISH]
+https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791939048~acl=/*~id=01426733967562979593053095689932~hmac=5b79483b49d8573a2f43fb84a27b3168bb30d6c332e9cd968bd42e9b1493cb62
 
 #EXTINF:-1 tvg-id="1090547793" tvg-name="Leipzig vs Eindhoven - MD 2 - 13 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025825/17910890252552_UYL26_Leipzig_vs_Eindhoven_MD2_live_landscape_thumb.jpg" group-title="Sports",Leipzig vs Eindhoven - MD 2 - 13 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791935438~acl=/*~id=00119085913359027116346560149471~hmac=16528902974f64ab0a7e66b92a6f9ff39fa3191113af2e6b18bebc0a339ecc82
@@ -685,17 +688,11 @@ https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1310/ENG/std_lrh-800
 #EXTINF:-1 tvg-id="4249693" tvg-name="Bangladesh vs Afghanistan [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_6518.jpeg" group-title="Cricket",Bangladesh vs Afghanistan [English]
 https://in-mc-flive.fancode.com/mumbai/4249693_english_hls_aaca093f3b654_1ta-di_h264/720p.m3u8?hdntl=Expires=1791955590~_GO=Generated~acl=/mumbai/4249693_english_hls_aaca093f3b654_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0b18fc47-2503-40~Signature=AZJsJWYmqKIedlJezwsGWCl9UA58nFyG9wc5p-5KD9U4TcMGAkkiEgauc4p1sHAmqBJKZxPdXJzySM79gt05Db-dGxQA
 
-#EXTINF:-1 tvg-id="4250115" tvg-name="Nepal vs Oman [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250115_53106_OMA_NEP_fc-Web.png" group-title="Cricket",Nepal vs Oman [English]
-https://in-mc-flive.fancode.com/mumbai/4250115_english_hls_84c423967d43302_1ta-di_h264/720p.m3u8?hdntl=Expires=1791954984~_GO=Generated~acl=/mumbai/4250115_english_hls_84c423967d43302_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_6716175f-4053-4f~Signature=AZJsJWZLbA4wWIduZJ1uQMv6XlH5qdDWlwyNOuh-ABhRyKsNKPg58SPaILdMGyXlWK8HPmMlDQ3V-6NZnRGL419nQKAK
-
 #EXTINF:-1 tvg-id="4249279" tvg-name="Queensland vs Western Australia [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249279_53072_WAU_QUN_FC-Web.jpg" group-title="Cricket",Queensland vs Western Australia [English]
 https://in-mc-flive.fancode.com/mumbai/4249279_english_hls_5ad86f8e1b89365_1ta-di_h264/720p.m3u8?hdntl=Expires=1791958015~_GO=Generated~acl=/mumbai/4249279_english_hls_5ad86f8e1b89365_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f8b22f2f-bc24-49~Signature=AZJsJWarSV5p8ObvD0Gh7SNcbq0teJZWgAQlDYm3SxPblusb_PtXNEqRUdLDw5HCUtPBdRytqX8rJTMjzbgpunFWYy8P
 
 #EXTINF:-1 tvg-id="4249236" tvg-name="South Africa Champions vs England Champions [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249236_53069_EDC_SAC_FC-Web_1790764440985.png" group-title="Cricket",South Africa Champions vs England Champions [English]
 https://in-mc-flive.fancode.com/mumbai/4249236_english_hls_1e044ab22520559_1ta-di_h264/720p.m3u8?hdntl=Expires=1791975588~_GO=Generated~acl=/mumbai/4249236_english_hls_1e044ab22520559_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_9247f547-f3d1-48~Signature=AZJsJWZYz0zImKzIij8VX4NWygpn-mpHZbPSR5UGI54FUAIImrTcqmrrKv5XAFEtsl6cQ22kZdrcD5xiykvC7_Z7fX4M
-
-#EXTINF:-1 tvg-id="4248705" tvg-name="Kyoto Sanga vs Ratchaburi [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248705_53053_KYS_RAT_fc-web.jpg" group-title="Football",Kyoto Sanga vs Ratchaburi [English]
-https://in-mc-flive.fancode.com/mumbai/4248705_english_hls_b83cd7457c59831_1ta-di_h264/720p.m3u8?hdntl=Expires=1791971345~_GO=Generated~acl=/mumbai/4248705_english_hls_b83cd7457c59831_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1f558d88-336e-46~Signature=AZJsJWbRIm1MKhRZ0xhJZndWx7e1QBFI5kiTZrTzW2GZB14NZ_Z72lSHv6L8ie1yhlsmF09jOrUSR63dgXFJAuK9ZlgG
 
 #EXTINF:-1 tvg-id="4248708" tvg-name="Buriram United vs Beijing Guoan [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248708_53053_BU_BEI_fc-web.jpg" group-title="Football",Buriram United vs Beijing Guoan [English]
 https://in-mc-flive.fancode.com/mumbai/4248708_english_hls_019a87d7c041638_1ta-di_h264/720p.m3u8?hdntl=Expires=1791979223~_GO=Generated~acl=/mumbai/4248708_english_hls_019a87d7c041638_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_57e1dd07-c58f-44~Signature=AZJsJWYZ258Rj4KK8huYdvnpK8UyfwyxDluQTVM9rmA5N8TkyN3OcYj4vG_vX0K2370dycBtSZZLhPmNW1Pq01vBTg4I
@@ -708,28 +705,6 @@ https://in-mc-flive.fancode.com/mumbai/4248836_english_hls_60e959b67554346_1ta-d
 
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
-
-#EXTINF:-1 tvg-id="0952a2b9-9f42-417c-a59a-3e88124db76d" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/pzqrfqk7omewl28g4fxt" tvg-lang="English" group-title="Cricket",English | Oman v Nepal (2nd Innings) (NEPALI)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1791918905~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=0d26260fc0720db9694695e57420cc34f65e16334a2bd02ee50e239afcf74a19/manifest.mpd?vcfilter=0952a2b9-9f42-417c-a59a-3e88124db76d&
-
-#EXTINF:-1 tvg-id="477633cb-4e2d-4977-b093-186cc1db4332" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/d8ebcozmungznpi0k509" tvg-lang="English" group-title="Cricket",English | Oman v Nepal (2nd Innings)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1791918907~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=a47133c84726e15839a0fe62ee526468bf81c15e45b4f73f8d2548343c7f631b/manifest.mpd?vcfilter=477633cb-4e2d-4977-b093-186cc1db4332&
 
 #EXTINF:-1 tvg-id="B0HLG67G7Q" tvg-name="Afghanistan vs Bangladesh in UAE 2026 - One-off Test - Afghanistan vs Bangladesh" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.abf514cc-bb21-4f3c-900b-065784936f1b/8/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Afghanistan vs Bangladesh in UAE 2026 - One-off Test - Afghanistan vs Bangladesh
 #KODIPROP:inputstream=inputstream.adaptive
