@@ -670,9 +670,6 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 # --- LIVE EVENTS ---
 
-#EXTINF:-1 tvg-id="4249661" tvg-name="USA vs Namibia [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249661_53086_USA_NAM_fc-web.png" group-title="Cricket",USA vs Namibia [English]
-https://in-mc-flive.fancode.com/mumbai/4249661_english_hls_9bc340b99751112_1ta-di_h264/720p.m3u8?hdntl=Expires=1792018641~_GO=Generated~acl=/mumbai/4249661_english_hls_9bc340b99751112_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_2b1c9d72-f22c-46~Signature=AZJsJWZTV1YAdhEIeqfSVd4ZAsjLenlZbNQBDkeqRorrFMjO-pGEWxZmlReU3velILJZQeXFWGuTETWPpl6bYgYEpHkK
-
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
 
@@ -687,38 +684,10 @@ https://ComeInNextMatch.com/4K.m3u8
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1791931509~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=b043dffb81968fed0432815cd26462ddc223ae20672575ed917c8c6b994a0401/manifest.mpd?vcfilter=3572bca0-8462-4015-b51f-0af20d1a044d&
 
-#EXTINF:-1 tvg-id="B0HMC7M36S" tvg-name="Atlanta Open T20 2026 - 5th Match - RR Stars vs St. Louis Americans" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8183e238-3d9f-4554-acb4-a41159b3cb1f/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Atlanta Open T20 2026 - 5th Match - RR Stars vs St. Louis Americans
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=374047b955187df29f4e4a80e0c6fa74:6f52b8541eb0d29141f5ee531128930a
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kgalftflgg/out/v1/97adfa9f5dc7413cb7953353402687b8/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HK43WKWQ" tvg-name="Atlanta Open T20 2026 - 6th Match - Space City Cowboys vs Michigan Cricket Stars" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.414ddf7a-cff0-4ffc-a6f6-25d3b6afa61e/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Atlanta Open T20 2026 - 6th Match - Space City Cowboys vs Michigan Cricket Stars
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=42ee24e61938f5395a320a18f927c9f1:6c9418d9d37358cde3f1337e8378862d
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3wsqxqs72a/out/v1/8bf8ebc09f2c43119fbb907c9216857d/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HK43WKWQ" tvg-name="Atlanta Open T20 2026 - 6th Match - Space City Cowboys vs Michigan Cricket Stars" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.414ddf7a-cff0-4ffc-a6f6-25d3b6afa61e/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Atlanta Open T20 2026 - 6th Match - Space City Cowboys vs Michigan Cricket Stars
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=42ee24e61938f5395a320a18f927c9f1:6c9418d9d37358cde3f1337e8378862d
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/h7qmdaswdf/out/v1/1df74ff84f564705957d5495202239d6/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HMC7M36S" tvg-name="Atlanta Open T20 2026 - 5th Match - RR Stars vs St. Louis Americans" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8183e238-3d9f-4554-acb4-a41159b3cb1f/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Atlanta Open T20 2026 - 5th Match - RR Stars vs St. Louis Americans
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=374047b955187df29f4e4a80e0c6fa74:6f52b8541eb0d29141f5ee531128930a
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kgalftflgg/out/v1/97adfa9f5dc7413cb7953353402687b8/cenc.mpd
-
 #EXTINF:-1 tvg-id="B0H68MBM2W" tvg-name="Navy vs William & Mary - Men's Soccer" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4d48cd4d-c475-4ef8-83f2-f8ecda87811d/40/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Navy vs William & Mary - Men's Soccer
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zjdnqq95oj/out/v1/fd5d4e3210f24d9e99d13c01dbe21e75/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/zjdnqq95oj/out/v1/fd5d4e3210f24d9e99d13c01dbe21e75/cenc.mpd
 
