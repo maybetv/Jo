@@ -671,10 +671,10 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090547842_ENG" tvg-name="Lens vs Sporting CP - MD2 - 13 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791169760121329_UCL2627_MD2_Lens_vs_SportingCP_landscape_thumb.jpg" group-title="Football",Lens vs Sporting CP - MD2 - 13 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791957635~acl=/*~id=57107345325021550719320342767055~hmac=77d872c7345c878063b8cbe2306173aade15f613f526ddc5488247d244eddd8b
+https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791958242~acl=/*~id=96948954446381050768768695302975~hmac=014fd6fbe7f26020624ab4f66ea49a780a79dd6c657424f5214e094f137ab58b
 
 #EXTINF:-1 tvg-id="1090547843_ENG" tvg-name="Sabah vs Slavia Praha - 13 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791170232100329_UCL2627_MD2_Sabah_vs_Slavia_Praha_landscape_thumb.jpg" group-title="Football",Sabah vs Slavia Praha - 13 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791957635~acl=/*~id=57107345325021550719320342767055~hmac=77d872c7345c878063b8cbe2306173aade15f613f526ddc5488247d244eddd8b
+https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791958242~acl=/*~id=96948954446381050768768695302975~hmac=014fd6fbe7f26020624ab4f66ea49a780a79dd6c657424f5214e094f137ab58b
 
 #EXTINF:-1 tvg-id="1090547842" tvg-name="Lens vs Sporting CP - MD2 - 13 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791169760121329_UCL2627_MD2_Lens_vs_SportingCP_landscape_thumb.jpg" group-title="Sports",Lens vs Sporting CP - MD2 - 13 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791951643~acl=/*~id=48008506554638385024598208552323~hmac=365fe173278ac77b8411a7f0651fbaf8ab5f196ca6594305ed9e6d446db4684a
@@ -693,6 +693,9 @@ https://in-mc-flive.fancode.com/mumbai/4248702_english_hls_b674b87f6a28573_1ta-d
 
 #EXTINF:-1 tvg-id="4248976" tvg-name="Al Seeb Club vs Al Hussein [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248976_53057_ALS_HUS_fc-web_1789025065281.jpg" group-title="Football",Al Seeb Club vs Al Hussein [English]
 https://in-mc-flive.fancode.com/mumbai/4248976_english_hls_e2a31aa5c526417_1ta-di_h264/720p.m3u8?hdntl=Expires=1791992720~_GO=Generated~acl=/mumbai/4248976_english_hls_e2a31aa5c526417_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_961a523c-7f67-41~Signature=AZJsJWZKZz0TXR-C9H3Bimws_Vx1IHResQsE6ICgxvJzaOjomUX-Wv-n8Eyt3bGfrbNRZkY_jG4SEXvPAIKBnWu7ly4F
+
+#EXTINF:-1 tvg-id="4248703" tvg-name="Al-Ittihad vs Shabab Al Ahli [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248703_53053_ITT_SAA_fc-web_1791802338807.jpg" group-title="Football",Al-Ittihad vs Shabab Al Ahli [English]
+https://in-mc-flive.fancode.com/mumbai/4248703_english_hls_e029340d3568844_1ta-di_h264/720p.m3u8?hdntl=Expires=1792001362~_GO=Generated~acl=/mumbai/4248703_english_hls_e029340d3568844_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a026f37c-f692-4a~Signature=AZJsJWYkeGfA65CZQv-Br6cW47T0ar6aPjP24lADpNn0cq3HH1rekiuLsiEIss70cDpywxMdd08A5qkEW14gMQ04yJsF
 
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
