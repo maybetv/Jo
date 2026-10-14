@@ -667,44 +667,35 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
-# --- LIVE EVENTS ---
 
+# --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="4250151" tvg-name="Bangladesh Women vs Australia Women [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-BAN_ODI_fc-web.jpg" group-title="Cricket",Bangladesh Women vs Australia Women [English]
 https://in-mc-flive.fancode.com/mumbai/4250151_english_hls_e8a263ec8846583_1ta-di_h264/720p.m3u8?hdntl=Expires=1792035607~_GO=Generated~acl=/mumbai/4250151_english_hls_e8a263ec8846583_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_6bc0dba9-1b7c-4a~Signature=AZJsJWbwfBqhZLG8kI_xouiOHqc_-G2AsHwDIJLoSgUYD74AvM4jWuGWAT9_pwS0IMCu6eFR4MU3dZ6spRBbLz6Xe9kB
 
-
 #EXTINF:-1 tvg-id="4249738" tvg-name="Thailand vs Bhutan [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png" group-title="Cricket",Thailand vs Bhutan [English]
 https://in-mc-flive.fancode.com/mumbai/4249738_english_hls_3cb191d4eb7577_1ta-di_h264/720p.m3u8?hdntl=Expires=1792043486~_GO=Generated~acl=/mumbai/4249738_english_hls_3cb191d4eb7577_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_36067e63-55e5-43~Signature=AZJsJWZ3O56kxWRyQfYQJbQN7FaNL_RSu-FXsvn7kiQW9tv-W-MrF6y6mHdczRUMdUNLr4sEov7h1GMdTPiyu2P7kvkD
-
 
 #EXTINF:-1 tvg-id="4249752" tvg-name="Hong Kong, China vs Singapore [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249752_53092_HK_SIN_fc-web.jpg" group-title="Cricket",Hong Kong, China vs Singapore [English]
 https://in-mc-flive.fancode.com/mumbai/4249752_english_hls_73791dfc0190300_1ta-di_h264/720p.m3u8?hdntl=Expires=1792043488~_GO=Generated~acl=/mumbai/4249752_english_hls_73791dfc0190300_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a021c2c6-c7a8-41~Signature=AZJsJWZNekZFbJW1jWBR9kE9A4brS60EKpRomLoT5cPLMlWi2EsmTDTgMdh1GMUShe8pcm0yiSiNRL8PpSnvtFDtU1MD
 
-
 #EXTINF:-1 tvg-id="4249753" tvg-name="Saudi Arabia vs Maldives [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249753_53092_MDV_SDA_fc-web.jpg" group-title="Cricket",Saudi Arabia vs Maldives [English]
 https://in-mc-flive.fancode.com/mumbai/4249753_english_hls_f13ce4a08898878_1ta-di_h264/720p.m3u8?hdntl=Expires=1792043489~_GO=Generated~acl=/mumbai/4249753_english_hls_f13ce4a08898878_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_d2c9083e-fbc0-4f~Signature=AZJsJWYZLQBaK2Q3uR05cvT0Zs_W9MxEbMJ3YPU802M-XKiJlJ9Ukwu3uQMIBKlQ3TzXBpoHxDGANrMXAh_pSnOby9sG
-
 
 #EXTINF:-1 tvg-id="4248977" tvg-name="Melbourne Victory vs Seoul [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248977_53057_MLV_SE_fc-web_1789025065995.jpg" group-title="Football",Melbourne Victory vs Seoul [English]
 https://in-mc-flive.fancode.com/mumbai/4248977_english_hls_d8d709694796420_1ta-di_h264/720p.m3u8?hdntl=Expires=1792049550~_GO=Generated~acl=/mumbai/4248977_english_hls_d8d709694796420_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ac07fb25-003c-46~Signature=AZJsJWbP3BmSisNxK73YVaj860wCkfjE-Y53VqCVwjWQ5bDjkVZ-JLCIElEX3bmA5FpvrfuKani2_nwucZqaYJL2aVIA
 
-
 #EXTINF:-1 tvg-id="4248839" tvg-name="World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Tennis",World Feed [English]
 https://in-mc-flive.fancode.com/mumbai/4248839_english_hls_0a9794cf1a15008_1ta-di_h264/720p.m3u8?hdntl=Expires=1792036214~_GO=Generated~acl=/mumbai/4248839_english_hls_0a9794cf1a15008_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_19b79573-c04b-49~Signature=AZJsJWaUokMLmgV9ruYA6B9F2JlVcSzHn4TTVEHMeoTei-U9pyS7gEcO3r9Js5uT-K2-SZ2bqomP2fGHoDu5wj1hPc8F
-
 
 #EXTINF:-1 tvg-id="4248840" tvg-name="Show Court 3 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Tennis",Show Court 3 [English]
 https://in-mc-flive.fancode.com/mumbai/4248840_english_hls_16f8469c3858862_1ta-di_h264/720p.m3u8?hdntl=Expires=1792047119~_GO=Generated~acl=/mumbai/4248840_english_hls_16f8469c3858862_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_22edc2e8-6782-43~Signature=AZJsJWbOqZYRL1LDQ4nIpW8BY7mmP0VarVsibMzCHUwh24mEEg3G0W_Yu-qSv5yXe-EMDIdLObPfKi_1FAluikSSRioK
 
-
 #EXTINF:-1 tvg-id="4250142" tvg-name="Round 32 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png" group-title="Badminton",Round 32 [English]
 https://in-mc-flive.fancode.com/mumbai/4250142_english_hls_155c3ef95d36139_1ta-di_h264/720p.m3u8?hdntl=Expires=1792047120~_GO=Generated~acl=/mumbai/4250142_english_hls_155c3ef95d36139_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_28a06464-2f0e-48~Signature=AZJsJWawiZL8Q1LLQTYydYZikAslw0wtDkLwngY2hg5gIwkADXjWHfyd9tgHSQCkq8Nf__hGm06HLpO40ZdtjQG_RtkJ
 
-
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
-
 
 #EXTINF:-1 tvg-id="a5973c31-6423-4dc6-aeba-ab48329f6b3e" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ftfqcgnyh9xapklxlnnj" tvg-lang="English" group-title="Cricket",English | Saudi Arabia v Maldives
 #KODIPROP:inputstream=inputstream.adaptive
@@ -717,7 +708,6 @@ https://ComeInNextMatch.com/4K.m3u8
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1791985508~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=29bc9c30f994e22e3c523bf501d8ab24a8a943912e499dfbe14b40ea57ff65d4/manifest.mpd?vcfilter=a5973c31-6423-4dc6-aeba-ab48329f6b3e&
 
-
 #EXTINF:-1 tvg-id="431c9ebe-487b-4735-9f3b-1bc40dcaf54f" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/gwwaboxrxbqyt4zdax55" tvg-lang="English" group-title="Cricket",English | Hong Kong, China v Singapore
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -728,7 +718,6 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DA
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1791985511~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=3dcc0eaa10f16afd5de641178dc15b81be9e4472bdaff772af7114e17d079671/manifest.mpd?vcfilter=431c9ebe-487b-4735-9f3b-1bc40dcaf54f&
-
 
 #EXTINF:-1 tvg-id="61a6eb5c-2b49-453e-a1d3-a6a3c2f29ab8" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/eg20bnsnnwza0wa1jrcy" tvg-lang="English" group-title="Cricket",English | Bhutan v Thailand
 #KODIPROP:inputstream=inputstream.adaptive
@@ -741,14 +730,12 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1791985514~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=bfb03f47e477e1a754c45549c52745a271462132cfc96adcabdd152923e132af/manifest.mpd?vcfilter=61a6eb5c-2b49-453e-a1d3-a6a3c2f29ab8&
 
-
 #EXTINF:-1 tvg-id="B0H67BR4HM" tvg-name="Bangladesh Women tour of Australia 2026 - 3rd ODI - Australia Women vs Bangladesh Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2deaa170-a5ef-4927-b11b-ecec3c38094e/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Bangladesh Women tour of Australia 2026 - 3rd ODI - Australia Women vs Bangladesh Women
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9b642c93aae95d414b5cf3b7486da7cd:f349ed601c76da554355e0fcc32f7b9f
 https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ggndcqlkr1/out/v1/dd887eb17ab74b409d1c8493b0f252c3/cenc.mpd
-
 
 #EXTINF:-1 tvg-id="B0HLLL53RK" tvg-name="Australia vs. Bangladesh" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f7eb032a-5300-4339-aba4-a467aa61e559/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Australia vs. Bangladesh
 #KODIPROP:inputstream=inputstream.adaptive
@@ -757,7 +744,6 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ggndcqlk
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
-
 #EXTINF:-1 tvg-id="B0H67BR4HM" tvg-name="Bangladesh Women tour of Australia 2026 - 3rd ODI - Australia Women vs Bangladesh Women" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2deaa170-a5ef-4927-b11b-ecec3c38094e/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Bangladesh Women tour of Australia 2026 - 3rd ODI - Australia Women vs Bangladesh Women
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -765,10 +751,10 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapix
 #KODIPROP:inputstream.adaptive.license_key=9b642c93aae95d414b5cf3b7486da7cd:f349ed601c76da554355e0fcc32f7b9f
 https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ggndcqlkr1/out/v1/dd887eb17ab74b409d1c8493b0f252c3/cenc.mpd
 
-
 #EXTINF:-1 tvg-id="B0HG57JDVC" tvg-name="Wuhan-WTA - Early First Round" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.58e95c68-b0b3-47c5-a1a0-febb2cee0c9b/11/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Wuhan-WTA - Early First Round
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+
