@@ -670,6 +670,9 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 # --- LIVE EVENTS ---
 
+#EXTINF:-1 tvg-id="4250151" tvg-name="Bangladesh Women vs Australia Women [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-BAN_ODI_fc-web.jpg" group-title="Cricket",Bangladesh Women vs Australia Women [English]
+https://in-mc-flive.fancode.com/mumbai/4250151_english_hls_e8a263ec8846583_1ta-di_h264/720p.m3u8?hdntl=Expires=1792035607~_GO=Generated~acl=/mumbai/4250151_english_hls_e8a263ec8846583_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_6bc0dba9-1b7c-4a~Signature=AZJsJWbwfBqhZLG8kI_xouiOHqc_-G2AsHwDIJLoSgUYD74AvM4jWuGWAT9_pwS0IMCu6eFR4MU3dZ6spRBbLz6Xe9kB
+
 #EXTINF:-1 tvg-id="4249737" tvg-name="Bahrain vs Qatar [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png" group-title="Cricket",Bahrain vs Qatar [English]
 https://in-mc-flive.fancode.com/mumbai/4249737_english_hls_2b5f7ff55d88044_1ta-di_h264/720p.m3u8?hdntl=Expires=1792026520~_GO=Generated~acl=/mumbai/4249737_english_hls_2b5f7ff55d88044_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0aead6eb-bff0-41~Signature=AZJsJWZoHFdv8KiaXoreCJ5_ml-GNVly91wSNokb1qAMmzcMHK8_4FmfazikwhWdF_wybquR6dafs6psBfNnZdBdnhgI
 
@@ -681,17 +684,6 @@ https://in-mc-flive.fancode.com/mumbai/4249791_english_hls_3a90f7e65861703_1ta-d
 
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
-
-#EXTINF:-1 tvg-id="f1d98337-fdc9-4269-b739-a250ff2b7de0" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/lddrxpggp10xzbjxgut3" tvg-lang="English" group-title="Cricket",English | Malaysia v China
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1791970209~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=ea192c8999be000768f6804f1f7f85bd777e2123eb96fce446b8e7bdc54b6e8e/manifest.mpd?vcfilter=f1d98337-fdc9-4269-b739-a250ff2b7de0&
 
 #EXTINF:-1 tvg-id="01986741-ad43-4415-a40c-d2c55ba4ad8c" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/gkn7irwlzpgzqrp6ajzc" tvg-lang="English" group-title="Cricket",English | Qatar v Bahrain
 #KODIPROP:inputstream=inputstream.adaptive
