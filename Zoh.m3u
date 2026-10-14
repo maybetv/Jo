@@ -685,17 +685,11 @@ https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1410/ENG/std_lrh-800
 #EXTINF:-1 tvg-id="1090548028" tvg-name="LASK vs Liverpool - 14 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791174240883329_UCL2627_MD2_LASK_vs_Liverpool_landscape_thumb.jpg" group-title="Sports",LASK vs Liverpool - 14 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792038041~acl=/*~id=31838319374396318558546647614712~hmac=90c8ba6f0e5d5c44ce91d3c3e51ae79da612be16e049c3068d82ec76de1c7b68
 
-#EXTINF:-1 tvg-id="1090547987" tvg-name="Hooghly Hitters vs Haryana Hurricanes - 14 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026138/179166659556718_VCL_Hooghly_Hitters_vs_Haryana_Hurricanes_live_landscape_thumb.jpg" group-title="Sports",Hooghly Hitters vs Haryana Hurricanes - 14 Oct 2026 [ENGLISH]
-https://sonydaimenew.akamaized.net/hls/live/2120300/Volleyba1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792025440~acl=/*~id=72904856064578713871307045840459~hmac=cd2a3e0f19f9709db5d40cd063f28e236f2ec6f20b633d55e8fcb57ca8296a56
-
 #EXTINF:-1 tvg-id="1090548027" tvg-name="Feyenoord vs Como - 14 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791173966647329_UCL2627_MD2_Feyenoord_vs_Como_landscape_thumb.jpg" group-title="Sports",Feyenoord vs Como - 14 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792038050~acl=/*~id=49979137453577214539217262172687~hmac=3474a3d08231cb9dca19b09b0927f98beeb08e75acde7055297bc3f7b3f1f3bb
 
 #EXTINF:-1 tvg-id="4249240" tvg-name="South Africa Champions vs Bangladesh Champions [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249240_53069_BGC_SAC_FC-Web_1790764441547.png" group-title="Cricket",South Africa Champions vs Bangladesh Champions [English]
 https://in-mc-flive.fancode.com/mumbai/4249240_english_hls_9014cddb1965998_1ta-di_h264/720p.m3u8?hdntl=Expires=1792076335~_GO=Generated~acl=/mumbai/4249240_english_hls_9014cddb1965998_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_98b4e6c5-f0c8-4a~Signature=AZJsJWZl1lMg2DW20GC6xXcfjcRbwp4ZsQuir5ibO0uyFe20w6v-_p3UnfN4mJo38BP7lv8Gjt1qiSzvhMnHb892z2kO
-
-#EXTINF:-1 tvg-id="4248969" tvg-name="PFC Nasaf vs Al Wahda [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248969_53057_NAS_ALW_fc-web_1789029296959.jpg" group-title="Football",PFC Nasaf vs Al Wahda [English]
-https://in-mc-flive.fancode.com/mumbai/4248969_english_hls_a70466d64787178_1ta-di_h264/720p.m3u8?hdntl=Expires=1792071404~_GO=Generated~acl=/mumbai/4248969_english_hls_a70466d64787178_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0ec04bf3-7553-40~Signature=AZJsJWbCTsUwUEMtONdePikLOol9gnKEVVehChyNSebdPoMjj5hU7C6zOBiqXmZG3jUyStxRoqih5BIn510k8xzYn9IE
 
 #EXTINF:-1 tvg-id="4248970" tvg-name="Kuwait SC vs Al Khaldiya SC [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248970_53057_KSC_ALK_fc-web_1789025065920.jpg" group-title="Football",Kuwait SC vs Al Khaldiya SC [English]
 https://in-mc-flive.fancode.com/mumbai/4248970_english_hls_ff15542d8e80696_1ta-di_h264/720p.m3u8?hdntl=Expires=1792079400~_GO=Generated~acl=/mumbai/4248970_english_hls_ff15542d8e80696_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c10dc243-c046-4f~Signature=AZJsJWa2isCgFj0sNAeVLp84cDXOIilsoqx2D0xNE1oKg6cacbK1U2aAUdqc_ZTLjjIFx-VDG9q9yhv5HgUsNHibxpcJ
