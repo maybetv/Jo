@@ -671,7 +671,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090547981_ENG" tvg-name="Roma vs Real Madrid - MD 2 - 14 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025828/1791091406768672_UYL26_Roma_vs_Real_Madrid_live_landscape_thumb.jpg" group-title="Football",Roma vs Real Madrid - MD 2 - 14 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792022520~acl=/*~id=17299405539074533537957677054347~hmac=176d55009b51b0f3458332704cf47684457c48a083e4bb1065dd9efd5d558256
+https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792023129~acl=/*~id=28915479966058935604113761039639~hmac=907dd8ee024a58f86da8a66baee18be0a62555f09a04cad1c15bd3e5300b19b9
 
 #EXTINF:-1 tvg-id="1090547981" tvg-name="Roma vs Real Madrid - MD 2 - 14 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025828/1791091406768672_UYL26_Roma_vs_Real_Madrid_live_landscape_thumb.jpg" group-title="Sports",Roma vs Real Madrid - MD 2 - 14 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792021840~acl=/*~id=56487956887525358312160359686766~hmac=dafd741da711854fe7b8eaacd1246a3fa782e9593f12e0a3a94149232091a704
@@ -694,7 +694,7 @@ https://in-mc-flive.fancode.com/mumbai/4248839_english_hls_0a9794cf1a15008_1ta-d
 #EXTINF:-1 tvg-id="4248840" tvg-name="Show Court 3 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Tennis",Show Court 3 [English]
 https://in-mc-flive.fancode.com/mumbai/4248840_english_hls_16f8469c3858862_1ta-di_h264/720p.m3u8?hdntl=Expires=1792047119~_GO=Generated~acl=/mumbai/4248840_english_hls_16f8469c3858862_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_22edc2e8-6782-43~Signature=AZJsJWbOqZYRL1LDQ4nIpW8BY7mmP0VarVsibMzCHUwh24mEEg3G0W_Yu-qSv5yXe-EMDIdLObPfKi_1FAluikSSRioK
 
-#EXTINF:-1 tvg-id="4250142" tvg-name="Round 32 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png" group-title="Badminton",Round 32 [English]
+#EXTINF:-1 tvg-id="4250142" tvg-name="Round 32 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web_1791979650321.png" group-title="Badminton",Round 32 [English]
 https://in-mc-flive.fancode.com/mumbai/4250142_english_hls_155c3ef95d36139_1ta-di_h264/720p.m3u8?hdntl=Expires=1792047120~_GO=Generated~acl=/mumbai/4250142_english_hls_155c3ef95d36139_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_28a06464-2f0e-48~Signature=AZJsJWawiZL8Q1LLQTYydYZikAslw0wtDkLwngY2hg5gIwkADXjWHfyd9tgHSQCkq8Nf__hGm06HLpO40ZdtjQG_RtkJ
 
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
