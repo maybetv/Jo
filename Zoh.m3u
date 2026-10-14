@@ -670,10 +670,19 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 # --- LIVE EVENTS ---
 
+#EXTINF:-1 tvg-id="4249736" tvg-name="Mongolia vs Myanmar [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png" group-title="Cricket",Mongolia vs Myanmar [English]
+https://in-mc-flive.fancode.com/mumbai/4249736_english_hls_6992b2475545809_1ta-di_h264/720p.m3u8?hdntl=Expires=1792026517~_GO=Generated~acl=/mumbai/4249736_english_hls_6992b2475545809_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1f6520fe-ee3d-44~Signature=AZJsJWbc3ieYt6EQbJGuU3drfFzQ0Nmvt4b7ysc1KFUa4gcQFYuQ5c-i4bD_yGK6pkB0DZ2eD0C5K4_PLnVEGjK6u1IA
+
+#EXTINF:-1 tvg-id="4249737" tvg-name="Bahrain vs Qatar [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png" group-title="Cricket",Bahrain vs Qatar [English]
+https://in-mc-flive.fancode.com/mumbai/4249737_english_hls_2b5f7ff55d88044_1ta-di_h264/720p.m3u8?hdntl=Expires=1792026520~_GO=Generated~acl=/mumbai/4249737_english_hls_2b5f7ff55d88044_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0aead6eb-bff0-41~Signature=AZJsJWZoHFdv8KiaXoreCJ5_ml-GNVly91wSNokb1qAMmzcMHK8_4FmfazikwhWdF_wybquR6dafs6psBfNnZdBdnhgI
+
+#EXTINF:-1 tvg-id="4249751" tvg-name="China vs Malaysia [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249751_53092_MAS_CHN_fc-web.jpg" group-title="Cricket",China vs Malaysia [English]
+https://in-mc-flive.fancode.com/mumbai/4249751_english_hls_814992141319356_1ta-di_h264/720p.m3u8?hdntl=Expires=1792026521~_GO=Generated~acl=/mumbai/4249751_english_hls_814992141319356_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7f3f405a-d378-41~Signature=AZJsJWaoP7LCTmTuCiOn510ljonPen3f1-vB8lZLBPeGYmGYuOzznToRuJyMg_jWLACA56fQiz-HoKHvk2nJY781MDsK
+
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
 
-#EXTINF:-1 tvg-id="3572bca0-8462-4015-b51f-0af20d1a044d" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/cr09x5v6hdahpzbepfus" tvg-lang="English" group-title="Cricket",English | Namibia v USA (1st Innings)
+#EXTINF:-1 tvg-id="f1d98337-fdc9-4269-b739-a250ff2b7de0" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/lddrxpggp10xzbjxgut3" tvg-lang="English" group-title="Cricket",English | Malaysia v China
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -682,7 +691,29 @@ https://ComeInNextMatch.com/4K.m3u8
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1791931509~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=b043dffb81968fed0432815cd26462ddc223ae20672575ed917c8c6b994a0401/manifest.mpd?vcfilter=3572bca0-8462-4015-b51f-0af20d1a044d&
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1791970209~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=ea192c8999be000768f6804f1f7f85bd777e2123eb96fce446b8e7bdc54b6e8e/manifest.mpd?vcfilter=f1d98337-fdc9-4269-b739-a250ff2b7de0&
+
+#EXTINF:-1 tvg-id="01986741-ad43-4415-a40c-d2c55ba4ad8c" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/gkn7irwlzpgzqrp6ajzc" tvg-lang="English" group-title="Cricket",English | Qatar v Bahrain
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1791970212~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=d0e56c26af97c963a54cc7dc7553b7bea3d9c419b5f508ced981ec5a2674e170/manifest.mpd?vcfilter=01986741-ad43-4415-a40c-d2c55ba4ad8c&
+
+#EXTINF:-1 tvg-id="cbf78b2e-0663-4323-b455-6d19739dcfbc" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/hwmxelx26b4d5nf9pcir" tvg-lang="English" group-title="Cricket",English | Mongolia v Myanmar
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1791970214~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=c290a1f3a436e3e2c20ce37532ea6732a83478876b0d8d428e7267101688aafa/manifest.mpd?vcfilter=cbf78b2e-0663-4323-b455-6d19739dcfbc&
 
 #EXTINF:-1 tvg-id="B0HKT3D3VL" tvg-name="Black Hills State University at Chadron State College" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.05cbb090-f763-4be8-ae06-0123bd175256/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Black Hills State University at Chadron State College
 #KODIPROP:inputstream=inputstream.adaptive
