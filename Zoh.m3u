@@ -671,10 +671,10 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090548028_ENG" tvg-name="LASK vs Liverpool - 14 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791174240883329_UCL2627_MD2_LASK_vs_Liverpool_landscape_thumb.jpg" group-title="Football",LASK vs Liverpool - 14 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792041983~acl=/*~id=14697083015674358518696392359754~hmac=034f090276ffaea780e04526b965c91fa114fce465b4b01f2a10151c572c4172
+https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792042589~acl=/*~id=25415190309641309351618593594898~hmac=9197ebb5e654d1dec21c33b85d9307128129f0df8a0e06796ec4424fb2f30bb6
 
 #EXTINF:-1 tvg-id="1090548027_ENG" tvg-name="Feyenoord vs Como - 14 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791173966647329_UCL2627_MD2_Feyenoord_vs_Como_landscape_thumb.jpg" group-title="Football",Feyenoord vs Como - 14 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792041983~acl=/*~id=14697083015674358518696392359754~hmac=034f090276ffaea780e04526b965c91fa114fce465b4b01f2a10151c572c4172
+https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792042589~acl=/*~id=25415190309641309351618593594898~hmac=9197ebb5e654d1dec21c33b85d9307128129f0df8a0e06796ec4424fb2f30bb6
 
 #EXTINF:-1 tvg-id="1090548028" tvg-name="LASK vs Liverpool - 14 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791174240883329_UCL2627_MD2_LASK_vs_Liverpool_landscape_thumb.jpg" group-title="Sports",LASK vs Liverpool - 14 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792038041~acl=/*~id=31838319374396318558546647614712~hmac=90c8ba6f0e5d5c44ce91d3c3e51ae79da612be16e049c3068d82ec76de1c7b68
@@ -697,9 +697,6 @@ https://in-mc-flive.fancode.com/mumbai/4248972_english_hls_661136aeeb27533_1ta-d
 #EXTINF:-1 tvg-id="4248973" tvg-name="Al-Taawoun FC vs Al Rayyan [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248973_53057_ALTW_RAY_fc-web_1789025065414.jpg" group-title="Football",Al-Taawoun FC vs Al Rayyan [English]
 https://in-mc-flive.fancode.com/mumbai/4248973_english_hls_5970d8c5e973658_1ta-di_h264/720p.m3u8?hdntl=Expires=1792079405~_GO=Generated~acl=/mumbai/4248973_english_hls_5970d8c5e973658_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_41cd56f8-3c7f-49~Signature=AZJsJWZRUhRa73utYueG7IcDkiUQoD7SPZWO8Ahugz5tqNlxDzzJzjmA22sRVh_uAzsHgIHKYxBjgcOFDsjHW9yZykwF
 
-#EXTINF:-1 tvg-id="4250142" tvg-name="Round 32 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web_1791979650321.png" group-title="Badminton",Round 32 [English]
-https://in-mc-flive.fancode.com/mumbai/4250142_english_hls_155c3ef95d36139_1ta-di_h264/720p.m3u8?hdntl=Expires=1792076354~_GO=Generated~acl=/mumbai/4250142_english_hls_155c3ef95d36139_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1aa9c755-b14e-49~Signature=AZJsJWbPqoRcGPwWz0dUgqDe5fnj8AYtLuIiA6JmaLZYTst5s17TpUgEU-GnduDgVbGF96fJhgjq9FHxcQ73aSadqmUB
-
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
 
@@ -708,7 +705,7 @@ https://ComeInNextMatch.com/4K.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a71918fcc2f12066f70b7c39b0e0dcf3:a5e35121d4f6f16694bea15334f14814
-https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/repj13zdmh/out/v1/65b0c672947c48488934234f7a1173a0/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/repj13zdmh/out/v1/65b0c672947c48488934234f7a1173a0/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HLGZXT5D" tvg-name="Atlanta Open T20 2026 - 7th Match - Bay Blazers vs St. Louis Americans" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fd48ca76-f071-4a35-92da-afe3baad9571/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Atlanta Open T20 2026 - 7th Match - Bay Blazers vs St. Louis Americans
 #KODIPROP:inputstream=inputstream.adaptive
@@ -722,14 +719,14 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q2le5ib0wo/out/v1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b878ee6fc2b131b203b319c3b9003e13:e7b5cfbbbe1e28c75156271c08c32b55
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/faiccv4ljc/out/v1/7cd3f5259bf648688780967d78153b46/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/faiccv4ljc/out/v1/7cd3f5259bf648688780967d78153b46/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HLW9WBXF" tvg-name="Atlanta Open T20 2026 - 9th Match - Seattle Thunderbolts vs All Stars Cardinals" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.10b013e0-e33a-40fa-be69-9e3e7654210f/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Atlanta Open T20 2026 - 9th Match - Seattle Thunderbolts vs All Stars Cardinals
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ff8dd2dac0dbb1929b3c9655cc594f8e:bce6a3219c3063981c3c034b88e4f883
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/nwajpntln8/out/v1/daef1abdc25841c2bff84edd57973d6c/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nwajpntln8/out/v1/daef1abdc25841c2bff84edd57973d6c/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HLW7T6D1" tvg-name="World Championship of Legends 2026 - 17th Match - Bangladesh Champions vs South Africa Champions" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9238c000-24c5-4723-927e-f21e892189af/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",World Championship of Legends 2026 - 17th Match - Bangladesh Champions vs South Africa Champions
 #KODIPROP:inputstream=inputstream.adaptive
@@ -737,13 +734,6 @@ https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/nwaj
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=de134773b445a7d9c41e41aa5c345bbf:b0f546e2413a82fdad302ceac53c0493
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/gn7vodveso/out/v1/f63636d3d10f4b0b9d06b55333f30f14/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HKCPFL9G" tvg-name="West Indies tour of India 2026 - 4th T20I - India vs West Indies" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.eb485c36-d154-4681-b87b-81f985a775b5/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",West Indies tour of India 2026 - 4th T20I - India vs West Indies
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a71918fcc2f12066f70b7c39b0e0dcf3:a5e35121d4f6f16694bea15334f14814
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/repj13zdmh/out/v1/65b0c672947c48488934234f7a1173a0/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HG47CJHH" tvg-name="Cricket Highlights-WCL 2026: Bangladesh vs South Africa - 21st Match" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c023cf3a-8922-4e16-bca4-426fa876041f/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Cricket Highlights-WCL 2026: Bangladesh vs South Africa - 21st Match
 #KODIPROP:inputstream=inputstream.adaptive
@@ -764,7 +754,7 @@ https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cwqgdjfpw
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b878ee6fc2b131b203b319c3b9003e13:e7b5cfbbbe1e28c75156271c08c32b55
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mtzmefdsoj/out/v1/d51892d08e494bfdade461aba734b10a/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mtzmefdsoj/out/v1/d51892d08e494bfdade461aba734b10a/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HLW9WBXF" tvg-name="Atlanta Open T20 2026 - 9th Match - Seattle Thunderbolts vs All Stars Cardinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.10b013e0-e33a-40fa-be69-9e3e7654210f/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Atlanta Open T20 2026 - 9th Match - Seattle Thunderbolts vs All Stars Cardinals
 #KODIPROP:inputstream=inputstream.adaptive
@@ -778,5 +768,5 @@ https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/fg7b2vnow
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=596a4aab07fd2cb169508db4a2420f7e:56f74ca762666c16bc4a00734e97f061
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/q2le5ib0wo/out/v1/0b75f2440fc143fb8afc202e5df5d191/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q2le5ib0wo/out/v1/0b75f2440fc143fb8afc202e5df5d191/cenc.mpd
 
