@@ -671,10 +671,10 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090548068_ENG" tvg-name="Rajasthan Spikers vs Punjab Aerostrikers - 15 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026139/1791667345840390_VCL_Rajasthan_Spikers_vs_Punjab_Aerostrikers_live_landscape_thumb.jpg" group-title="Volleyball",Rajasthan Spikers vs Punjab Aerostrikers - 15 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792112390~acl=/*~id=59016850076833120955902664926208~hmac=712fdd68020960c66e23d72554c00d835eb585bfdb7b212ecd1e0567ad77ef38
+https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792112996~acl=/*~id=88453218538308213977218892775632~hmac=881f7590282cdd68366cd7931960f8eb09abed445048a21588014cf620cfbcce
 
 #EXTINF:-1 tvg-id="1090548068_HIN" tvg-name="Rajasthan Spikers vs Punjab Aerostrikers - 15 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026139/1791667345840390_VCL_Rajasthan_Spikers_vs_Punjab_Aerostrikers_live_landscape_thumb.jpg" group-title="Volleyball",Rajasthan Spikers vs Punjab Aerostrikers - 15 Oct 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792112390~acl=/*~id=59016850076833120955902664926208~hmac=712fdd68020960c66e23d72554c00d835eb585bfdb7b212ecd1e0567ad77ef38
+https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792112996~acl=/*~id=88453218538308213977218892775632~hmac=881f7590282cdd68366cd7931960f8eb09abed445048a21588014cf620cfbcce
 
 #EXTINF:-1 tvg-id="1090548068" tvg-name="Rajasthan Spikers vs Punjab Aerostrikers - 15 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026139/1791667345840390_VCL_Rajasthan_Spikers_vs_Punjab_Aerostrikers_live_landscape_thumb.jpg" group-title="Sports",Rajasthan Spikers vs Punjab Aerostrikers - 15 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792111840~acl=/*~id=13431168511448795353573347450341~hmac=8f6774785abf0d11aa8abc9a65576beb9b2bda79209ed21b696c3e403acebb29
@@ -705,17 +705,6 @@ https://in-mc-flive.fancode.com/mumbai/4250144_english_hls_e65dfa782e42875_1ta-d
 
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
-
-#EXTINF:-1 tvg-id="ab73dcec-5278-4df9-94f6-b2fa1cabad90" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/e1ctgxrtcmpwcjvqf1a6" tvg-lang="English" group-title="Cricket",English | Canada v Oman (2nd Innings)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1792085412~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=ddeb9a706c2e03a63c5ec6cda0e7bd8d80b6fbd6075fc7f940676bfd7cd230dc/manifest.mpd?vcfilter=ab73dcec-5278-4df9-94f6-b2fa1cabad90&
 
 #EXTINF:-1 tvg-id="B0H8T61WS1" tvg-name="The Morning Drive" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8bfc2c57-b64b-4fa5-88d8-5b6ccc1d69d4/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",The Morning Drive
 #KODIPROP:inputstream=inputstream.adaptive
