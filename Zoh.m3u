@@ -671,7 +671,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090548063_ENG" tvg-name="DP World India Championship - Day 1 - 15 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026304/1791965765997842_DP-World-India-Championship---Day-1_landscape_thumb.jpg" group-title="Golf",DP World India Championship - Day 1 - 15 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792107540~acl=/*~id=57319441038360309767802639107951~hmac=d12cfb687eca702de5869496939ce19777d3349c472af29ff82666ad20e7df0f
+https://sonydaimenew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792108146~acl=/*~id=94357641731232836078685781574333~hmac=0944311add9a70cad69be78eb73ac8825692dc93de9ec24f281ec4e91a089016
 
 #EXTINF:-1 tvg-id="1090548063" tvg-name="DP World India Championship - Day 1 - 15 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026304/1791965765997842_DP-World-India-Championship---Day-1_landscape_thumb.jpg" group-title="Sports",DP World India Championship - Day 1 - 15 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792086635~acl=/*~id=60174917271784961447368085523773~hmac=64e8a0802b76f86c8bd1baef9508bc2a3d44e5b7122e261beb4c4cab2b3f5cbb
@@ -686,12 +686,9 @@ https://in-mc-flive.fancode.com/mumbai/4248979_english_hls_847624319099492_1ta-d
 https://in-mc-flive.fancode.com/mumbai/4248983_english_hls_46d31728b121391_1ta-di_h264/720p.m3u8?hdntl=Expires=1792144279~_GO=Generated~acl=/mumbai/4248983_english_hls_46d31728b121391_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_67abeec3-b5cf-41~Signature=AZJsJWYPNR2tjHC-7vm_Ppij4_rmT6yy07jk4961MTZAzxGDgg2XQArsi5H1kILvEOhq1cTboZQT_GX7Wf7_POa3Xs0B
 
 #EXTINF:-1 tvg-id="4248841" tvg-name="Stadium Court [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Tennis",Stadium Court [English]
-https://in-mc-flive.fancode.com/mumbai/4248841_english_hls_f8af905cce12487_1ta-di_h264/720p.m3u8?hdntl=Expires=1792122475~_GO=Generated~acl=/mumbai/4248841_english_hls_f8af905cce12487_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_22f5f555-d7c1-4e~Signature=AZJsJWYiDLt3MCuy8YQS03fy3B1qGdAVh1orpM5HTUteUkNVuK_MixZ2taATy8znSQ1WNOHD6kaQDKvsXFBeflRQWJYI
+https://in-mc-flive.fancode.com/mumbai/4248841_english_hls_f8af905cce12487_1ta-di_h264/720p.m3u8?hdntl=Expires=1792151557~_GO=Generated~acl=/mumbai/4248841_english_hls_f8af905cce12487_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_5ce272e4-0f78-4c~Signature=AZJsJWYoxwT5Rn8r9CLwmt0qWGvuz_9PK52tzY7je2eNMZmK5CExfEk2dJJNCWHf6zVQVtBs-ruQOUgPVoPgIf4YBXMG
 
-#EXTINF:-1 tvg-id="4248843" tvg-name="A. Zverev vs A. Minaur [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zverev-vs-Alex-de-Minaur_Web-match-card.png" group-title="Tennis",A. Zverev vs A. Minaur [English]
-https://in-mc-flive.fancode.com/mumbai/4248843_english_hls_7a318fe87b6609_1ta-di_h264/720p.m3u8?hdntl=Expires=1792127925~_GO=Generated~acl=/mumbai/4248843_english_hls_7a318fe87b6609_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_07da7836-7cf6-4f~Signature=AZJsJWaITveONhhnJPsAYcmTImUm1hi0ktjxmXoTtFiV2TO8Kb6dYE0Zs9b8G_QYWu5C5d8znG8budnZOP0JB2-d64gE
-
-#EXTINF:-1 tvg-id="4250143" tvg-name="Round 16 - Court 1 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png" group-title="Badminton",Round 16 - Court 1 [English]
+#EXTINF:-1 tvg-id="4250143" tvg-name="A Lanier vs K Srikanth [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Srikanth_Mini.png" group-title="Badminton",A Lanier vs K Srikanth [English]
 https://in-mc-flive.fancode.com/mumbai/4250143_english_hls_dc83fe001556797_1ta-di_h264/720p.m3u8?hdntl=Expires=1792133374~_GO=Generated~acl=/mumbai/4250143_english_hls_dc83fe001556797_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a7aaf065-3a27-4a~Signature=AZJsJWbqxTxEabezUKjJHVZSGT8JBqpsXYKtGZ3BbnBmu4Fhaw791Bv43-4QPtPk0tSqFhqtmpW2XkWCuC6V9_gDvaUJ
 
 #EXTINF:-1 tvg-id="4250144" tvg-name="Round 16 - Court 2 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png" group-title="Badminton",Round 16 - Court 2 [English]
