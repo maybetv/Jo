@@ -671,10 +671,10 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090548063_ENG" tvg-name="DP World India Championship - Day 1 - 15 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026304/1791965765997842_DP-World-India-Championship---Day-1_landscape_thumb.jpg" group-title="Golf",DP World India Championship - Day 1 - 15 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792097213~acl=/*~id=40404078191582593520557628682310~hmac=7832bb418ccc4d48683c9a103e0b8cc49de2988e10e981f0586a3d6838c4302b
+https://sonydaimenew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792097822~acl=/*~id=06230635065783516884648653846797~hmac=3028e350e38206a6289a83f0962e3541f97ea8f818ad12fe5d290f339bd19795
 
 #EXTINF:-1 tvg-id="1090548210_ENG" tvg-name="SJM Macao Open - Day 1 - 15 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026388/1792037774484149_Asian_TOur_SJM_Macao_Open_Day1_live_landscape_thumb.jpg" group-title="Golf",SJM Macao Open - Day 1 - 15 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120304/Golf_SJM1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792097213~acl=/*~id=40404078191582593520557628682310~hmac=7832bb418ccc4d48683c9a103e0b8cc49de2988e10e981f0586a3d6838c4302b
+https://sonydaimenew.akamaized.net/hls/live/2120304/Golf_SJM1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792097822~acl=/*~id=06230635065783516884648653846797~hmac=3028e350e38206a6289a83f0962e3541f97ea8f818ad12fe5d290f339bd19795
 
 #EXTINF:-1 tvg-id="1090548063" tvg-name="DP World India Championship - Day 1 - 15 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026304/1791965765997842_DP-World-India-Championship---Day-1_landscape_thumb.jpg" group-title="Sports",DP World India Championship - Day 1 - 15 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792086635~acl=/*~id=60174917271784961447368085523773~hmac=64e8a0802b76f86c8bd1baef9508bc2a3d44e5b7122e261beb4c4cab2b3f5cbb
