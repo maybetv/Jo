@@ -671,10 +671,10 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090548063_ENG" tvg-name="DP World India Championship - Day 1 - 15 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026304/1791965765997842_DP-World-India-Championship---Day-1_landscape_thumb.jpg" group-title="Golf",DP World India Championship - Day 1 - 15 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792084461~acl=/*~id=25808262860267199511240303336201~hmac=3ef5436fa605b4d26b787d89d88d79c105b072606ec43f114ad18d61fb617369
+https://sonydaimenew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792085067~acl=/*~id=30806841684270247652758775609941~hmac=dde26bb0826e6c2ea59053a22b2f1705aab4020c1c8e65a82f19adecca8ea91e
 
 #EXTINF:-1 tvg-id="1090548210_ENG" tvg-name="SJM Macao Open - Day 1 - 15 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026388/1792037774484149_Asian_TOur_SJM_Macao_Open_Day1_live_landscape_thumb.jpg" group-title="Golf",SJM Macao Open - Day 1 - 15 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120304/Golf_SJM1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792084461~acl=/*~id=25808262860267199511240303336201~hmac=3ef5436fa605b4d26b787d89d88d79c105b072606ec43f114ad18d61fb617369
+https://sonydaimenew.akamaized.net/hls/live/2120304/Golf_SJM1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792085067~acl=/*~id=30806841684270247652758775609941~hmac=dde26bb0826e6c2ea59053a22b2f1705aab4020c1c8e65a82f19adecca8ea91e
 
 #EXTINF:-1 tvg-id="4250116" tvg-name="Canada vs Oman [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250116_53106_OMA_CAN_fc-Web.png" group-title="Cricket",Canada vs Oman [English]
 https://in-mc-flive.fancode.com/mumbai/4250116_english_hls_e6159d8f3285352_1ta-di_h264/720p.m3u8?hdntl=Expires=1792127924~_GO=Generated~acl=/mumbai/4250116_english_hls_e6159d8f3285352_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e938d32a-57bb-47~Signature=AZJsJWbqoyNo52wPJCV2ZEZg-4UUaIcqu8mE20X7Aib29ucebV19AypE8hdJqckMWzTUnHL8p5rLQJ4H_WG_HpxEnVYO
