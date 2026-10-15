@@ -671,7 +671,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090548063_ENG" tvg-name="DP World India Championship - Day 1 - 15 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026304/1791965765997842_DP-World-India-Championship---Day-1_landscape_thumb.jpg" group-title="Golf",DP World India Championship - Day 1 - 15 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792108146~acl=/*~id=94357641731232836078685781574333~hmac=0944311add9a70cad69be78eb73ac8825692dc93de9ec24f281ec4e91a089016
+https://sonydaimenew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792108751~acl=/*~id=06106179955876787134499988141831~hmac=5b4fe365c2f6caad4a5dea8984d18d02d8b9fe9b612b2561b61a6c875c246362
 
 #EXTINF:-1 tvg-id="1090548063" tvg-name="DP World India Championship - Day 1 - 15 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026304/1791965765997842_DP-World-India-Championship---Day-1_landscape_thumb.jpg" group-title="Sports",DP World India Championship - Day 1 - 15 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792086635~acl=/*~id=60174917271784961447368085523773~hmac=64e8a0802b76f86c8bd1baef9508bc2a3d44e5b7122e261beb4c4cab2b3f5cbb
@@ -685,10 +685,22 @@ https://in-mc-flive.fancode.com/mumbai/4248979_english_hls_847624319099492_1ta-d
 #EXTINF:-1 tvg-id="4248983" tvg-name="Gangwon FC vs Phnom Penh Crown [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248983_53057_GW_PPC_fc-web_1789025066129.jpg" group-title="Football",Gangwon FC vs Phnom Penh Crown [English]
 https://in-mc-flive.fancode.com/mumbai/4248983_english_hls_46d31728b121391_1ta-di_h264/720p.m3u8?hdntl=Expires=1792144279~_GO=Generated~acl=/mumbai/4248983_english_hls_46d31728b121391_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_67abeec3-b5cf-41~Signature=AZJsJWYPNR2tjHC-7vm_Ppij4_rmT6yy07jk4961MTZAzxGDgg2XQArsi5H1kILvEOhq1cTboZQT_GX7Wf7_POa3Xs0B
 
+#EXTINF:-1 tvg-id="4248980" tvg-name="BG Pathum United vs Adelaide United [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248980_53057_PNU_ADL_fc-web_1789025065400.jpg" group-title="Football",BG Pathum United vs Adelaide United [English]
+https://in-mc-flive.fancode.com/mumbai/4248980_english_hls_ad871cefec97148_1ta-di_h264/720p.m3u8?hdntl=Expires=1792152163~_GO=Generated~acl=/mumbai/4248980_english_hls_ad871cefec97148_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7e7cf8da-045b-47~Signature=AZJsJWbtmKvZiVK5fU6VxxAFc6EhYXrPrjSBn9imKnad4p6SImv6mqA85MyP_bgPlsmUw8bU-mX-NvnO_6vY4PFC6CUK
+
+#EXTINF:-1 tvg-id="4248981" tvg-name="Preah Khan Reach Svay Rieng FC vs Shanghai Shenhua [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248981_53057_PRK_SHN_fc-web_1789025066106.jpg" group-title="Football",Preah Khan Reach Svay Rieng FC vs Shanghai Shenhua [English]
+https://in-mc-flive.fancode.com/mumbai/4248981_english_hls_d805dcca0d37200_1ta-di_h264/720p.m3u8?hdntl=Expires=1792152165~_GO=Generated~acl=/mumbai/4248981_english_hls_d805dcca0d37200_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_80a8f895-798e-44~Signature=AZJsJWbjvDIhFDXuRxx3qdy9prOZMP7Ft7PAe4_RYZU1RF3mc4F79EOA2N0sq4fWAWkTGJPbksEpQMeeg_dnNBKRMyIO
+
+#EXTINF:-1 tvg-id="4248982" tvg-name="Tampines Rovers FC vs Machida Zelvia [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248982_53057_TAM_MZ_fc-web_1789025065476.jpg" group-title="Football",Tampines Rovers FC vs Machida Zelvia [English]
+https://in-mc-flive.fancode.com/mumbai/4248982_english_hls_435950093155713_1ta-di_h264/720p.m3u8?hdntl=Expires=1792152166~_GO=Generated~acl=/mumbai/4248982_english_hls_435950093155713_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_9c78b60f-cf62-49~Signature=AZJsJWZCUKITErAG-FJri3TBoxgPzjEWTGpTZvm6kNtlT11Ys3s2rR_bvkfApsTPtgXH8-CayIouTIPUN63ewpaeE9AB
+
+#EXTINF:-1 tvg-id="4248984" tvg-name="Kuching City FC vs Kitchee SC [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248984_53057_KFC_KIT_fc-web_1789025066016.jpg" group-title="Football",Kuching City FC vs Kitchee SC [English]
+https://in-mc-flive.fancode.com/mumbai/4248984_english_hls_cf7deef09a29291_1ta-di_h264/720p.m3u8?hdntl=Expires=1792152167~_GO=Generated~acl=/mumbai/4248984_english_hls_cf7deef09a29291_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ce4f9ffc-e1ab-45~Signature=AZJsJWZkjZtOUepGK50Pf9JZmDeua1wP6733BxmluctbwCB1FnXTGB2RVK4mY_Nd8BORxj1ZOedaUnR8dLnxV--V94kF
+
 #EXTINF:-1 tvg-id="4248841" tvg-name="Stadium Court [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Tennis",Stadium Court [English]
 https://in-mc-flive.fancode.com/mumbai/4248841_english_hls_f8af905cce12487_1ta-di_h264/720p.m3u8?hdntl=Expires=1792151557~_GO=Generated~acl=/mumbai/4248841_english_hls_f8af905cce12487_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_5ce272e4-0f78-4c~Signature=AZJsJWYoxwT5Rn8r9CLwmt0qWGvuz_9PK52tzY7je2eNMZmK5CExfEk2dJJNCWHf6zVQVtBs-ruQOUgPVoPgIf4YBXMG
 
-#EXTINF:-1 tvg-id="4250143" tvg-name="A Lanier vs K Srikanth [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Srikanth_Mini.png" group-title="Badminton",A Lanier vs K Srikanth [English]
+#EXTINF:-1 tvg-id="4250143" tvg-name="Round 16 - Court 1 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png" group-title="Badminton",Round 16 - Court 1 [English]
 https://in-mc-flive.fancode.com/mumbai/4250143_english_hls_dc83fe001556797_1ta-di_h264/720p.m3u8?hdntl=Expires=1792133374~_GO=Generated~acl=/mumbai/4250143_english_hls_dc83fe001556797_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a7aaf065-3a27-4a~Signature=AZJsJWbqxTxEabezUKjJHVZSGT8JBqpsXYKtGZ3BbnBmu4Fhaw791Bv43-4QPtPk0tSqFhqtmpW2XkWCuC6V9_gDvaUJ
 
 #EXTINF:-1 tvg-id="4250144" tvg-name="Round 16 - Court 2 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png" group-title="Badminton",Round 16 - Court 2 [English]
@@ -713,14 +725,14 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HLG8BTVC" tvg-name="The DP World Locker Room Show" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e24b8cb1-ac6f-415a-9309-2c3fa7e8f9c4/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",The DP World Locker Room Show
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9590ea43d0f770c24205e23440d8af8c:b127454380d8fffc3acd12575b2b4adb
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/yoaryfkyeh/out/v1/63e8364f9ad047a7bb1c4a9a8d754f42/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/yoaryfkyeh/out/v1/63e8364f9ad047a7bb1c4a9a8d754f42/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HLXCNMGP" tvg-name="Wuhan-WTA - Third Round" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.06027b59-3078-439c-9bcc-a9740a2f93f2/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Wuhan-WTA - Third Round
 #KODIPROP:inputstream=inputstream.adaptive
