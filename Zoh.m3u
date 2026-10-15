@@ -665,7 +665,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090548315_ENG" tvg-name="Celta vs Juventus- 16 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026166/179128435533336_UEL_MD2_Celta-vs-Juventus_live_landscape_thumb.jpg" group-title="Football",Celta vs Juventus- 16 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2105079/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792137286~acl=/*~id=53012792018128907633220636517152~hmac=bb10ac222acc1ee9e4bc003ff0b017ce54f5a64e23ca4bb5df48627dc3ed5ab2
+https://sonydaimenew.akamaized.net/hls/live/2105079/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792137894~acl=/*~id=06795783906452128998594814618067~hmac=d668901bc72df8aa10b8df1019073591a0e93be90309b728430d882673b42923
 
 #EXTINF:-1 tvg-id="1090548315" tvg-name="Celta vs Juventus- 16 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026166/179128435533336_UEL_MD2_Celta-vs-Juventus_live_landscape_thumb.jpg" group-title="Sports",Celta vs Juventus- 16 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2105079/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792133435~acl=/*~id=12786026835876431190512389195846~hmac=fdc843b4f8b17ad7886e3e73f818bbf674defefd6f182549d0bff855dfcb3309
@@ -688,5 +688,5 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapix
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
 
