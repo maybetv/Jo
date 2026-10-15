@@ -671,10 +671,10 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090548063_ENG" tvg-name="DP World India Championship - Day 1 - 15 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026304/1791965765997842_DP-World-India-Championship---Day-1_landscape_thumb.jpg" group-title="Golf",DP World India Championship - Day 1 - 15 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792099038~acl=/*~id=84273480509351075280749283357545~hmac=b7d98bc66d16222e265358ed345b8be0ad19d84dfce29ba1a53a1857b0e21d60
+https://sonydaimenew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792099646~acl=/*~id=15978086318106599600438890821997~hmac=155012a3a6791c9c849a43a5c4da4ae1cfab9db6c9c1e58ac3e0a466c4d0a3d1
 
 #EXTINF:-1 tvg-id="1090548210_ENG" tvg-name="SJM Macao Open - Day 1 - 15 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026388/1792037774484149_Asian_TOur_SJM_Macao_Open_Day1_live_landscape_thumb.jpg" group-title="Golf",SJM Macao Open - Day 1 - 15 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120304/Golf_SJM1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792099038~acl=/*~id=84273480509351075280749283357545~hmac=b7d98bc66d16222e265358ed345b8be0ad19d84dfce29ba1a53a1857b0e21d60
+https://sonydaimenew.akamaized.net/hls/live/2120304/Golf_SJM1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792099646~acl=/*~id=15978086318106599600438890821997~hmac=155012a3a6791c9c849a43a5c4da4ae1cfab9db6c9c1e58ac3e0a466c4d0a3d1
 
 #EXTINF:-1 tvg-id="1090548063" tvg-name="DP World India Championship - Day 1 - 15 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026304/1791965765997842_DP-World-India-Championship---Day-1_landscape_thumb.jpg" group-title="Sports",DP World India Championship - Day 1 - 15 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792086635~acl=/*~id=60174917271784961447368085523773~hmac=64e8a0802b76f86c8bd1baef9508bc2a3d44e5b7122e261beb4c4cab2b3f5cbb
@@ -703,7 +703,7 @@ https://in-mc-flive.fancode.com/mumbai/4250144_english_hls_e65dfa782e42875_1ta-d
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
 
-#EXTINF:-1 tvg-id="821e0afc-5caa-4d81-ac6c-79877f38e939" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ce4fc0yxbtfz6gtikltq" tvg-lang="English" group-title="Cricket",English | Canada v Oman (1st Innings)
+#EXTINF:-1 tvg-id="ab73dcec-5278-4df9-94f6-b2fa1cabad90" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/e1ctgxrtcmpwcjvqf1a6" tvg-lang="English" group-title="Cricket",English | Canada v Oman (2nd Innings)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -712,7 +712,7 @@ https://ComeInNextMatch.com/4K.m3u8
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1792069213~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=b2bb925d9792d345d9a3825b1f3fd23a719991012b415e741ad747796625de91/manifest.mpd?vcfilter=821e0afc-5caa-4d81-ac6c-79877f38e939&
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1792085412~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=ddeb9a706c2e03a63c5ec6cda0e7bd8d80b6fbd6075fc7f940676bfd7cd230dc/manifest.mpd?vcfilter=ab73dcec-5278-4df9-94f6-b2fa1cabad90&
 
 #EXTINF:-1 tvg-id="B0HL1TTRWF" tvg-name="Wuhan-WTA - Second Round" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e13dc3f0-67db-4d21-b302-c70007747e6d/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Wuhan-WTA - Second Round
 #KODIPROP:inputstream=inputstream.adaptive
