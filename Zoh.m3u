@@ -671,16 +671,19 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090548068_ENG" tvg-name="Rajasthan Spikers vs Punjab Aerostrikers - 15 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026139/1791667345840390_VCL_Rajasthan_Spikers_vs_Punjab_Aerostrikers_live_landscape_thumb.jpg" group-title="Volleyball",Rajasthan Spikers vs Punjab Aerostrikers - 15 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792114817~acl=/*~id=08564470814594692532965118599307~hmac=3cf0fa3e424ddfcf134de84e4df64fdd43127387144ff54d41bd5a671daddea2
+https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792116032~acl=/*~id=24022442084005091530819939351544~hmac=1fcf910142bce9c06c9b5aed80c43ba8d064053ad9332207b85fdfd9fa7cd1e0
 
 #EXTINF:-1 tvg-id="1090548068_HIN" tvg-name="Rajasthan Spikers vs Punjab Aerostrikers - 15 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026139/1791667345840390_VCL_Rajasthan_Spikers_vs_Punjab_Aerostrikers_live_landscape_thumb.jpg" group-title="Volleyball",Rajasthan Spikers vs Punjab Aerostrikers - 15 Oct 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792114817~acl=/*~id=08564470814594692532965118599307~hmac=3cf0fa3e424ddfcf134de84e4df64fdd43127387144ff54d41bd5a671daddea2
+https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792116032~acl=/*~id=24022442084005091530819939351544~hmac=1fcf910142bce9c06c9b5aed80c43ba8d064053ad9332207b85fdfd9fa7cd1e0
 
 #EXTINF:-1 tvg-id="1090548076_ENG" tvg-name="Prithviraj Yodhas vs Chola Chiefs - 15 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026136/1791663767818476_APL26_Prithviraj_Yodhas_vs_Chola_Chiefs_live_landscape_thumb.jpg" group-title="Archery",Prithviraj Yodhas vs Chola Chiefs - 15 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037139/Archery_1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792114817~acl=/*~id=08564470814594692532965118599307~hmac=3cf0fa3e424ddfcf134de84e4df64fdd43127387144ff54d41bd5a671daddea2
+https://sonydaimenew.akamaized.net/hls/live/2037139/Archery_1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792116032~acl=/*~id=24022442084005091530819939351544~hmac=1fcf910142bce9c06c9b5aed80c43ba8d064053ad9332207b85fdfd9fa7cd1e0
 
 #EXTINF:-1 tvg-id="1090548068" tvg-name="Rajasthan Spikers vs Punjab Aerostrikers - 15 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026139/1791667345840390_VCL_Rajasthan_Spikers_vs_Punjab_Aerostrikers_live_landscape_thumb.jpg" group-title="Sports",Rajasthan Spikers vs Punjab Aerostrikers - 15 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792111840~acl=/*~id=13431168511448795353573347450341~hmac=8f6774785abf0d11aa8abc9a65576beb9b2bda79209ed21b696c3e403acebb29
+
+#EXTINF:-1 tvg-id="1090548076" tvg-name="Prithviraj Yodhas vs Chola Chiefs - 15 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026136/1791663767818476_APL26_Prithviraj_Yodhas_vs_Chola_Chiefs_live_landscape_thumb.jpg" group-title="Sports",Prithviraj Yodhas vs Chola Chiefs - 15 Oct 2026 [ENGLISH]
+https://sonydaimenew.akamaized.net/hls/live/2037139/Archery_1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792115436~acl=/*~id=86098971117906592845686181128552~hmac=875acf6f3d8098bd7484de556d0d11970ca00537a4b84e7d5946f909c44013dc
 
 #EXTINF:-1 tvg-id="4248980" tvg-name="BG Pathum United vs Adelaide United [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248980_53057_PNU_ADL_fc-web_1789025065400.jpg" group-title="Football",BG Pathum United vs Adelaide United [English]
 https://in-mc-flive.fancode.com/mumbai/4248980_english_hls_ad871cefec97148_1ta-di_h264/720p.m3u8?hdntl=Expires=1792152163~_GO=Generated~acl=/mumbai/4248980_english_hls_ad871cefec97148_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7e7cf8da-045b-47~Signature=AZJsJWbtmKvZiVK5fU6VxxAFc6EhYXrPrjSBn9imKnad4p6SImv6mqA85MyP_bgPlsmUw8bU-mX-NvnO_6vY4PFC6CUK
