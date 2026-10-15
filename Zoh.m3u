@@ -671,16 +671,13 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090548068_ENG" tvg-name="Rajasthan Spikers vs Punjab Aerostrikers - 15 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026139/1791667345840390_VCL_Rajasthan_Spikers_vs_Punjab_Aerostrikers_live_landscape_thumb.jpg" group-title="Volleyball",Rajasthan Spikers vs Punjab Aerostrikers - 15 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792112996~acl=/*~id=88453218538308213977218892775632~hmac=881f7590282cdd68366cd7931960f8eb09abed445048a21588014cf620cfbcce
+https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792113603~acl=/*~id=48396167542562945896802346273325~hmac=9c6cc58fa1f544ea4156928c01d6353c4c7694d99c9007397e8be7175530208f
 
 #EXTINF:-1 tvg-id="1090548068_HIN" tvg-name="Rajasthan Spikers vs Punjab Aerostrikers - 15 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026139/1791667345840390_VCL_Rajasthan_Spikers_vs_Punjab_Aerostrikers_live_landscape_thumb.jpg" group-title="Volleyball",Rajasthan Spikers vs Punjab Aerostrikers - 15 Oct 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792112996~acl=/*~id=88453218538308213977218892775632~hmac=881f7590282cdd68366cd7931960f8eb09abed445048a21588014cf620cfbcce
+https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792113603~acl=/*~id=48396167542562945896802346273325~hmac=9c6cc58fa1f544ea4156928c01d6353c4c7694d99c9007397e8be7175530208f
 
 #EXTINF:-1 tvg-id="1090548068" tvg-name="Rajasthan Spikers vs Punjab Aerostrikers - 15 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026139/1791667345840390_VCL_Rajasthan_Spikers_vs_Punjab_Aerostrikers_live_landscape_thumb.jpg" group-title="Sports",Rajasthan Spikers vs Punjab Aerostrikers - 15 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792111840~acl=/*~id=13431168511448795353573347450341~hmac=8f6774785abf0d11aa8abc9a65576beb9b2bda79209ed21b696c3e403acebb29
-
-#EXTINF:-1 tvg-id="4250116" tvg-name="Canada vs Oman [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250116_53106_OMA_CAN_fc-Web.png" group-title="Cricket",Canada vs Oman [English]
-https://in-mc-flive.fancode.com/mumbai/4250116_english_hls_e6159d8f3285352_1ta-di_h264/720p.m3u8?hdntl=Expires=1792127924~_GO=Generated~acl=/mumbai/4250116_english_hls_e6159d8f3285352_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e938d32a-57bb-47~Signature=AZJsJWbqoyNo52wPJCV2ZEZg-4UUaIcqu8mE20X7Aib29ucebV19AypE8hdJqckMWzTUnHL8p5rLQJ4H_WG_HpxEnVYO
 
 #EXTINF:-1 tvg-id="4248980" tvg-name="BG Pathum United vs Adelaide United [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248980_53057_PNU_ADL_fc-web_1789025065400.jpg" group-title="Football",BG Pathum United vs Adelaide United [English]
 https://in-mc-flive.fancode.com/mumbai/4248980_english_hls_ad871cefec97148_1ta-di_h264/720p.m3u8?hdntl=Expires=1792152163~_GO=Generated~acl=/mumbai/4248980_english_hls_ad871cefec97148_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7e7cf8da-045b-47~Signature=AZJsJWbtmKvZiVK5fU6VxxAFc6EhYXrPrjSBn9imKnad4p6SImv6mqA85MyP_bgPlsmUw8bU-mX-NvnO_6vY4PFC6CUK
@@ -693,9 +690,6 @@ https://in-mc-flive.fancode.com/mumbai/4248982_english_hls_435950093155713_1ta-d
 
 #EXTINF:-1 tvg-id="4248984" tvg-name="Kuching City FC vs Kitchee SC [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248984_53057_KFC_KIT_fc-web_1789025066016.jpg" group-title="Football",Kuching City FC vs Kitchee SC [English]
 https://in-mc-flive.fancode.com/mumbai/4248984_english_hls_cf7deef09a29291_1ta-di_h264/720p.m3u8?hdntl=Expires=1792152167~_GO=Generated~acl=/mumbai/4248984_english_hls_cf7deef09a29291_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ce4f9ffc-e1ab-45~Signature=AZJsJWZkjZtOUepGK50Pf9JZmDeua1wP6733BxmluctbwCB1FnXTGB2RVK4mY_Nd8BORxj1ZOedaUnR8dLnxV--V94kF
-
-#EXTINF:-1 tvg-id="4248841" tvg-name="Stadium Court [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Tennis",Stadium Court [English]
-https://in-mc-flive.fancode.com/mumbai/4248841_english_hls_f8af905cce12487_1ta-di_h264/720p.m3u8?hdntl=Expires=1792151557~_GO=Generated~acl=/mumbai/4248841_english_hls_f8af905cce12487_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_5ce272e4-0f78-4c~Signature=AZJsJWYoxwT5Rn8r9CLwmt0qWGvuz_9PK52tzY7je2eNMZmK5CExfEk2dJJNCWHf6zVQVtBs-ruQOUgPVoPgIf4YBXMG
 
 #EXTINF:-1 tvg-id="4250143" tvg-name="Round 16 - Court 1 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png" group-title="Badminton",Round 16 - Court 1 [English]
 https://in-mc-flive.fancode.com/mumbai/4250143_english_hls_dc83fe001556797_1ta-di_h264/720p.m3u8?hdntl=Expires=1792133374~_GO=Generated~acl=/mumbai/4250143_english_hls_dc83fe001556797_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a7aaf065-3a27-4a~Signature=AZJsJWbqxTxEabezUKjJHVZSGT8JBqpsXYKtGZ3BbnBmu4Fhaw791Bv43-4QPtPk0tSqFhqtmpW2XkWCuC6V9_gDvaUJ
