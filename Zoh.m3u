@@ -667,41 +667,52 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
-
 # --- LIVE EVENTS ---
+
 
 #EXTINF:-1 tvg-id="1090548063_ENG" tvg-name="DP World India Championship - Day 1 - 15 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026304/1791965765997842_DP-World-India-Championship---Day-1_landscape_thumb.jpg" group-title="Golf",DP World India Championship - Day 1 - 15 Oct 2026 [ENG]
 https://sonydaimenew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792106934~acl=/*~id=75465412295876752978727027743587~hmac=8080c2be2f87af35e09bfc42df7b47029218c18f7a185edc92b10cc0f45b4e70
 
+
 #EXTINF:-1 tvg-id="1090548063" tvg-name="DP World India Championship - Day 1 - 15 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026304/1791965765997842_DP-World-India-Championship---Day-1_landscape_thumb.jpg" group-title="Sports",DP World India Championship - Day 1 - 15 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792086635~acl=/*~id=60174917271784961447368085523773~hmac=64e8a0802b76f86c8bd1baef9508bc2a3d44e5b7122e261beb4c4cab2b3f5cbb
+
 
 #EXTINF:-1 tvg-id="4250116" tvg-name="Canada vs Oman [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250116_53106_OMA_CAN_fc-Web.png" group-title="Cricket",Canada vs Oman [English]
 https://in-mc-flive.fancode.com/mumbai/4250116_english_hls_e6159d8f3285352_1ta-di_h264/720p.m3u8?hdntl=Expires=1792127924~_GO=Generated~acl=/mumbai/4250116_english_hls_e6159d8f3285352_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e938d32a-57bb-47~Signature=AZJsJWbqoyNo52wPJCV2ZEZg-4UUaIcqu8mE20X7Aib29ucebV19AypE8hdJqckMWzTUnHL8p5rLQJ4H_WG_HpxEnVYO
 
+
 #EXTINF:-1 tvg-id="4250101" tvg-name="Australia Governor Generals XI vs New Zealand Women [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Governor-Generals-XI-vs-New-Zealand-W-2026_FC-WEB.jpg" group-title="Cricket",Australia Governor Generals XI vs New Zealand Women [English]
 https://in-mc-flive.fancode.com/mumbai/4250101_english_hls_fea7b7e7fa75358_1ta-di_h264/720p.m3u8?hdntl=Expires=1792137009~_GO=Generated~acl=/mumbai/4250101_english_hls_fea7b7e7fa75358_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_33286fdc-f1cb-46~Signature=AZJsJWatx_czfVVjXaXHxzNjLfkC4xuAbjqkjJTDXo-Gma5qN73PY7S5GFyFfjAdUwkaWpyt4lKYXXPo5sFL5wRJr9QJ
+
 
 #EXTINF:-1 tvg-id="4248979" tvg-name="Tai Po FC vs Lion City Sailors [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248979_53057_WTP_LIO_fc-web_1789025066119.jpg" group-title="Football",Tai Po FC vs Lion City Sailors [English]
 https://in-mc-flive.fancode.com/mumbai/4248979_english_hls_847624319099492_1ta-di_h264/720p.m3u8?hdntl=Expires=1792144278~_GO=Generated~acl=/mumbai/4248979_english_hls_847624319099492_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_de01c150-4602-48~Signature=AZJsJWYWAaSGlD-uOt5dA_38J-UIN62WTGdMDiPSS68xvvLk3_yQ3JdkXXbNLTBFXVagz0Gou2WxYBR8gZAwDLxxjeEL
 
+
 #EXTINF:-1 tvg-id="4248983" tvg-name="Gangwon FC vs Phnom Penh Crown [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248983_53057_GW_PPC_fc-web_1789025066129.jpg" group-title="Football",Gangwon FC vs Phnom Penh Crown [English]
 https://in-mc-flive.fancode.com/mumbai/4248983_english_hls_46d31728b121391_1ta-di_h264/720p.m3u8?hdntl=Expires=1792144279~_GO=Generated~acl=/mumbai/4248983_english_hls_46d31728b121391_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_67abeec3-b5cf-41~Signature=AZJsJWYPNR2tjHC-7vm_Ppij4_rmT6yy07jk4961MTZAzxGDgg2XQArsi5H1kILvEOhq1cTboZQT_GX7Wf7_POa3Xs0B
+
 
 #EXTINF:-1 tvg-id="4248841" tvg-name="Stadium Court [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Tennis",Stadium Court [English]
 https://in-mc-flive.fancode.com/mumbai/4248841_english_hls_f8af905cce12487_1ta-di_h264/720p.m3u8?hdntl=Expires=1792122475~_GO=Generated~acl=/mumbai/4248841_english_hls_f8af905cce12487_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_22f5f555-d7c1-4e~Signature=AZJsJWYiDLt3MCuy8YQS03fy3B1qGdAVh1orpM5HTUteUkNVuK_MixZ2taATy8znSQ1WNOHD6kaQDKvsXFBeflRQWJYI
 
+
 #EXTINF:-1 tvg-id="4248843" tvg-name="A. Zverev vs A. Minaur [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zverev-vs-Alex-de-Minaur_Web-match-card.png" group-title="Tennis",A. Zverev vs A. Minaur [English]
 https://in-mc-flive.fancode.com/mumbai/4248843_english_hls_7a318fe87b6609_1ta-di_h264/720p.m3u8?hdntl=Expires=1792127925~_GO=Generated~acl=/mumbai/4248843_english_hls_7a318fe87b6609_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_07da7836-7cf6-4f~Signature=AZJsJWaITveONhhnJPsAYcmTImUm1hi0ktjxmXoTtFiV2TO8Kb6dYE0Zs9b8G_QYWu5C5d8znG8budnZOP0JB2-d64gE
+
 
 #EXTINF:-1 tvg-id="4250143" tvg-name="Round 16 - Court 1 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png" group-title="Badminton",Round 16 - Court 1 [English]
 https://in-mc-flive.fancode.com/mumbai/4250143_english_hls_dc83fe001556797_1ta-di_h264/720p.m3u8?hdntl=Expires=1792133374~_GO=Generated~acl=/mumbai/4250143_english_hls_dc83fe001556797_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a7aaf065-3a27-4a~Signature=AZJsJWbqxTxEabezUKjJHVZSGT8JBqpsXYKtGZ3BbnBmu4Fhaw791Bv43-4QPtPk0tSqFhqtmpW2XkWCuC6V9_gDvaUJ
 
+
 #EXTINF:-1 tvg-id="4250144" tvg-name="Round 16 - Court 2 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png" group-title="Badminton",Round 16 - Court 2 [English]
 https://in-mc-flive.fancode.com/mumbai/4250144_english_hls_e65dfa782e42875_1ta-di_h264/720p.m3u8?hdntl=Expires=1792133376~_GO=Generated~acl=/mumbai/4250144_english_hls_e65dfa782e42875_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a453dc59-35df-4a~Signature=AZJsJWbqagbLRSoTwJv2JlaIzJI-xVEaRFbDF-4UtYsNwZ-4ifwMYtUHg6YubRNPn-srQkMf8ROXWlZTYjeXdNReYEQO
 
+
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
+
 
 #EXTINF:-1 tvg-id="ab73dcec-5278-4df9-94f6-b2fa1cabad90" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/e1ctgxrtcmpwcjvqf1a6" tvg-lang="English" group-title="Cricket",English | Canada v Oman (2nd Innings)
 #KODIPROP:inputstream=inputstream.adaptive
@@ -714,6 +725,7 @@ https://ComeInNextMatch.com/4K.m3u8
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1792085412~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=ddeb9a706c2e03a63c5ec6cda0e7bd8d80b6fbd6075fc7f940676bfd7cd230dc/manifest.mpd?vcfilter=ab73dcec-5278-4df9-94f6-b2fa1cabad90&
 
+
 #EXTINF:-1 tvg-id="B0H8T61WS1" tvg-name="The Morning Drive" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8bfc2c57-b64b-4fa5-88d8-5b6ccc1d69d4/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",The Morning Drive
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -721,10 +733,10 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #KODIPROP:inputstream.adaptive.license_key=e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd
 
+
 #EXTINF:-1 tvg-id="B0HLXCNMGP" tvg-name="Wuhan-WTA - Third Round" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.06027b59-3078-439c-9bcc-a9740a2f93f2/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Wuhan-WTA - Third Round
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
 https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
-
