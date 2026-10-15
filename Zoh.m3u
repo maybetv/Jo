@@ -671,13 +671,13 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090548068_ENG" tvg-name="Delhi Dynamites vs Tamil Titans - 15 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026139/1791667716145390_VCL_Delhi_Dynamites_vs_Tamil_Titans_live_landscape_thumb.jpg" group-title="Volleyball",Delhi Dynamites vs Tamil Titans - 15 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792120893~acl=/*~id=08875067813828436976214769738243~hmac=895c7bdacd1848992814ad4a4979e376cc8c3bf747db07848e562693548370a1
+https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792121500~acl=/*~id=74561036508700815629807034496719~hmac=a49105fe49acd82d7fe63ef6165831a80eb0b1d5a1c811786a0b5e97d31515b6
 
 #EXTINF:-1 tvg-id="1090548068_HIN" tvg-name="Delhi Dynamites vs Tamil Titans - 15 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026139/1791667716145390_VCL_Delhi_Dynamites_vs_Tamil_Titans_live_landscape_thumb.jpg" group-title="Volleyball",Delhi Dynamites vs Tamil Titans - 15 Oct 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792120893~acl=/*~id=08875067813828436976214769738243~hmac=895c7bdacd1848992814ad4a4979e376cc8c3bf747db07848e562693548370a1
+https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792121500~acl=/*~id=74561036508700815629807034496719~hmac=a49105fe49acd82d7fe63ef6165831a80eb0b1d5a1c811786a0b5e97d31515b6
 
 #EXTINF:-1 tvg-id="1090548076_ENG" tvg-name="Rajputana Royals vs Mighty Marathas - 15 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026136/1791663921276476_APL26_Rajputana_Royals_vs_Mighty_Marathas_live_landscape_thumb.jpg" group-title="Archery",Rajputana Royals vs Mighty Marathas - 15 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037139/Archery_1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792120893~acl=/*~id=08875067813828436976214769738243~hmac=895c7bdacd1848992814ad4a4979e376cc8c3bf747db07848e562693548370a1
+https://sonydaimenew.akamaized.net/hls/live/2037139/Archery_1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792121500~acl=/*~id=74561036508700815629807034496719~hmac=a49105fe49acd82d7fe63ef6165831a80eb0b1d5a1c811786a0b5e97d31515b6
 
 #EXTINF:-1 tvg-id="1090548068" tvg-name="Delhi Dynamites vs Tamil Titans - 15 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026139/1791667716145390_VCL_Delhi_Dynamites_vs_Tamil_Titans_live_landscape_thumb.jpg" group-title="Sports",Delhi Dynamites vs Tamil Titans - 15 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792111840~acl=/*~id=13431168511448795353573347450341~hmac=8f6774785abf0d11aa8abc9a65576beb9b2bda79209ed21b696c3e403acebb29
@@ -706,5 +706,5 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd
 
