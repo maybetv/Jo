@@ -671,13 +671,13 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090548068_ENG" tvg-name="Delhi Dynamites vs Tamil Titans - 15 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026139/1791667716145390_VCL_Delhi_Dynamites_vs_Tamil_Titans_live_landscape_thumb.jpg" group-title="Volleyball",Delhi Dynamites vs Tamil Titans - 15 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792122715~acl=/*~id=00656864128212959488103544003239~hmac=a0f09c5839ee4b51fbeb458964da16c110759b0086f1bfc9708558dda4590cc9
+https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792123322~acl=/*~id=94532350383781920983696433465984~hmac=eb97f230888a2d8ad31537d1acd063af20bd7d2c218efba60220c35b9a8e7727
 
 #EXTINF:-1 tvg-id="1090548068_HIN" tvg-name="Delhi Dynamites vs Tamil Titans - 15 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026139/1791667716145390_VCL_Delhi_Dynamites_vs_Tamil_Titans_live_landscape_thumb.jpg" group-title="Volleyball",Delhi Dynamites vs Tamil Titans - 15 Oct 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792122715~acl=/*~id=00656864128212959488103544003239~hmac=a0f09c5839ee4b51fbeb458964da16c110759b0086f1bfc9708558dda4590cc9
+https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792123322~acl=/*~id=94532350383781920983696433465984~hmac=eb97f230888a2d8ad31537d1acd063af20bd7d2c218efba60220c35b9a8e7727
 
 #EXTINF:-1 tvg-id="1090548076_ENG" tvg-name="Kakatiya Knights vs Chero Archers - 15 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026136/1791664082709476_APL26_Kakatiya_Knights_vs_Chero_Archers_live_landscape_thumb.jpg" group-title="Archery",Kakatiya Knights vs Chero Archers - 15 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037139/Archery_1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792122715~acl=/*~id=00656864128212959488103544003239~hmac=a0f09c5839ee4b51fbeb458964da16c110759b0086f1bfc9708558dda4590cc9
+https://sonydaimenew.akamaized.net/hls/live/2037139/Archery_1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792123322~acl=/*~id=94532350383781920983696433465984~hmac=eb97f230888a2d8ad31537d1acd063af20bd7d2c218efba60220c35b9a8e7727
 
 #EXTINF:-1 tvg-id="1090548068" tvg-name="Delhi Dynamites vs Tamil Titans - 15 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026139/1791667716145390_VCL_Delhi_Dynamites_vs_Tamil_Titans_live_landscape_thumb.jpg" group-title="Sports",Delhi Dynamites vs Tamil Titans - 15 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792111840~acl=/*~id=13431168511448795353573347450341~hmac=8f6774785abf0d11aa8abc9a65576beb9b2bda79209ed21b696c3e403acebb29
@@ -687,9 +687,6 @@ https://sonydaimenew.akamaized.net/hls/live/2037139/Archery_1510/ENG/std_lrh-800
 
 #EXTINF:-1 tvg-id="4250143" tvg-name="Round 16 - Court 1 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png" group-title="Badminton",Round 16 - Court 1 [English]
 https://in-mc-flive.fancode.com/mumbai/4250143_english_hls_dc83fe001556797_1ta-di_h264/720p.m3u8?hdntl=Expires=1792162629~_GO=Generated~acl=/mumbai/4250143_english_hls_dc83fe001556797_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e44105b5-3985-48~Signature=AZJsJWZ3s1k_qr9dwurY-F4UqDTmhOZvPwaM6G8_MhhkPyDcQ1qh5nuMlsAGymiPNifH11OHodG2XXaHQvcHoBkyIuUN
-
-#EXTINF:-1 tvg-id="4250144" tvg-name="Round 16 - Court 2 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png" group-title="Badminton",Round 16 - Court 2 [English]
-https://in-mc-flive.fancode.com/mumbai/4250144_english_hls_e65dfa782e42875_1ta-di_h264/720p.m3u8?hdntl=Expires=1792162631~_GO=Generated~acl=/mumbai/4250144_english_hls_e65dfa782e42875_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_d0bc9d45-09ad-40~Signature=AZJsJWZ8ius1SjWkhhHdvGhw6MWq_oJBmW2dJJOoBAm2oL7zuBf4eQRl15wOlXxrrVXTjd-EoXs6k-9lpQJ3OyaHWwEO
 
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
@@ -706,5 +703,12 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0H94RC4Y4" tvg-name="PPA Tour: Virginia Beach Open-Round of 16" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0ba92d51-7e50-4797-87a2-155f49b4f020/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",PPA Tour: Virginia Beach Open-Round of 16
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
 
