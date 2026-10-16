@@ -664,6 +664,9 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 # --- LIVE EVENTS ---
 
+#EXTINF:-1 tvg-id="1090548552_ENG" tvg-name="DP World India Championship - Day 2 - 16 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792045973804742_DP-World_India-Championship_Day2_landscape_thumb.jpg" group-title="Golf",DP World India Championship - Day 2 - 16 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_DPW1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792192992~acl=/*~id=54805184670252720547191477615098~hmac=66210dc6ecb2aabe8ed7565c3510d373ec929a9d6639ed5835a00bae37b47969
+
 #EXTINF:-1 tvg-id="1090548552" tvg-name="DP World India Championship - Day 2 - 16 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792045973804742_DP-World_India-Championship_Day2_landscape_thumb.jpg" group-title="Sports",DP World India Championship - Day 2 - 16 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_DPW1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792174838~acl=/*~id=75467477874607377832808187373024~hmac=be0435f04d78c6e10841aa18e72466f6d0a79e6dc00596c90f86aa52211ea0d5
 
