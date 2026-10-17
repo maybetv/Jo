@@ -664,8 +664,14 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 # --- LIVE EVENTS ---
 
+#EXTINF:-1 tvg-id="1090548893_ENG" tvg-name="Inter Kashi vs Odisha FC - 17 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026502/1792155325043755_ISL26_KSHI-vs-Odisha-FC_live_landscape_thumb.jpg" group-title="Football",Inter Kashi vs Odisha FC - 17 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792277235~acl=/*~id=99871490485128612036058816828014~hmac=b17e3ec6acc26567d46c914f6208be0dc239e09130c1a0a0f420a8adc03bdad2
+
+#EXTINF:-1 tvg-id="1090548893_HIN" tvg-name="Inter Kashi vs Odisha FC - 17 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026502/1792155325043755_ISL26_KSHI-vs-Odisha-FC_live_landscape_thumb.jpg" group-title="Football",Inter Kashi vs Odisha FC - 17 Oct 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792277235~acl=/*~id=99871490485128612036058816828014~hmac=b17e3ec6acc26567d46c914f6208be0dc239e09130c1a0a0f420a8adc03bdad2
+
 #EXTINF:-1 tvg-id="1090548710_ENG" tvg-name="DP World India Championship - Day 3 - 17 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792046030123742_DP-World_India-Championship_Day3_landscape_thumb.jpg" group-title="Golf",DP World India Championship - Day 3 - 17 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2119931/cricodi1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792276024~acl=/*~id=31542019451764253668677297883798~hmac=3cf2e4e238f6a75a2fdfd7fc59e4359761f202dff7bda6a1abbe42dbcf89167e
+https://sonydaimenew.akamaized.net/hls/live/2119931/cricodi1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792277235~acl=/*~id=99871490485128612036058816828014~hmac=b17e3ec6acc26567d46c914f6208be0dc239e09130c1a0a0f420a8adc03bdad2
 
 #EXTINF:-1 tvg-id="4250117" tvg-name="Canada vs Nepal [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250117_53106_CAN_NEP_fc-Web.png" group-title="Cricket",Canada vs Nepal [English]
 https://in-mc-flive.fancode.com/mumbai/4250117_english_hls_b306da16ed31641_1ta-di_h264/720p.m3u8?hdntl=Expires=1792300631~_GO=Generated~acl=/mumbai/4250117_english_hls_b306da16ed31641_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_52dc7d91-89ce-41~Signature=AZJsJWZiBnG_0hSuU_SM8AnhzZEVtoyUEpov65-1yGcwrZ178WQejc68Uhj7I3EYc-sDtNoK8jIlsSeVOTXdCoQVYjIF
