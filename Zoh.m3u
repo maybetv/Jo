@@ -682,9 +682,6 @@ https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1710/ENG/std_lrh-800
 #EXTINF:-1 tvg-id="1090548711" tvg-name="Haryana Hurricanes vs Emperia Marathas - Super 6 - 17 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792130276555133_VCL26_Haryana-Hurricanes-vs-Emperia-Marathas_live_landscape_thumb.jpg" group-title="Sports",Haryana Hurricanes vs Emperia Marathas - Super 6 - 17 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792284640~acl=/*~id=89800877734711193845804167192544~hmac=a4c9a1fbb27344acd6cc37cef9aaa71016e842582b9cd24677cc65cce347b518
 
-#EXTINF:-1 tvg-id="4250117" tvg-name="Canada vs Nepal [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250117_53106_CAN_NEP_fc-Web.png" group-title="Cricket",Canada vs Nepal [English]
-https://in-mc-flive.fancode.com/mumbai/4250117_english_hls_b306da16ed31641_1ta-di_h264/720p.m3u8?hdntl=Expires=1792300631~_GO=Generated~acl=/mumbai/4250117_english_hls_b306da16ed31641_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_52dc7d91-89ce-41~Signature=AZJsJWZiBnG_0hSuU_SM8AnhzZEVtoyUEpov65-1yGcwrZ178WQejc68Uhj7I3EYc-sDtNoK8jIlsSeVOTXdCoQVYjIF
-
 #EXTINF:-1 tvg-id="4249694" tvg-name="Zimbabwe vs Bangladesh [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249694_53089_BAN_ZIM_FC-WEB_1792056447852.jpg" group-title="Cricket",Zimbabwe vs Bangladesh [English]
 https://in-mc-flive.fancode.com/mumbai/4249694_english_hls_c370ab317921311_1ta-di_h264/720p.m3u8?hdntl=Expires=1792321253~_GO=Generated~acl=/mumbai/4249694_english_hls_c370ab317921311_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_92e3a1f2-70ec-47~Signature=AZJsJWazDda1JN-03PivhceruiMxAc3nX-JZ8PaBnr-UeQiQXFPE6jzdN4oI6SuIvoeJ2gbJOHPVOArkrrho_vBpG_sH
 
@@ -702,9 +699,6 @@ https://in-mc-flive.fancode.com/mumbai/4249193_english_hls_cd9dc0f84b20122_1ta-d
 
 #EXTINF:-1 tvg-id="4250147" tvg-name="Semi-Final [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png" group-title="Badminton",Semi-Final [English]
 https://in-mc-flive.fancode.com/mumbai/4250147_english_hls_a708396dcf6135_1ta-di_h264/720p.m3u8?hdntl=Expires=1792306710~_GO=Generated~acl=/mumbai/4250147_english_hls_a708396dcf6135_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_2b84d469-0416-46~Signature=AZJsJWZdtN9kY8QLlKxhFS3UbCrG2gnWMcFeqvyw08c2lTvUKqZOD1TnaDjVD7OBRDzxvvoraq7hfZlgmY_DtKvEWWcI
-
-#EXTINF:-1 tvg-id="4248850" tvg-name="Jodar vs Medvedev [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Medvedev-vs-Rafael-Jodar_web.png" group-title="Tennis",Jodar vs Medvedev [English]
-https://in-mc-flive.fancode.com/mumbai/4248850_english_hls_afb00f47fc75782_1ta-di_h264/720p.m3u8?hdntl=Expires=1792311560~_GO=Generated~acl=/mumbai/4248850_english_hls_afb00f47fc75782_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_5c50b5c3-0b0e-48~Signature=AZJsJWYZ-Z4jbSVkvKVUOm4inVAVU3z3MRf52EwUqwgbbw8ciZYUCowpzwp4nhzqUmJd8dmN2rLOluxVdsBMHGEB4P8K
 
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
