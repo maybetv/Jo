@@ -671,7 +671,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090548709_ENG" tvg-name="SJM Macao Open - Day 3 - 17 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026392/1792045218534492_Asian_TOur_SJM_Macao_Open_Day3_live_landscape_thumb.jpg" group-title="Golf",SJM Macao Open - Day 3 - 17 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792258440~acl=/*~id=70165764477419443937941797790899~hmac=741832ee2f31b365c7b7eaa20c8c7cd4cf86544295ccb3d705660ff6c5e08c15
+https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792259047~acl=/*~id=44878725025939897026105222329677~hmac=05fbf4ea5be7e7962fd5cc20c096ea87c66f3233b9ec9b50c3269e15de626073
 
 #EXTINF:-1 tvg-id="1090548709" tvg-name="SJM Macao Open - Day 3 - 17 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026392/1792045218534492_Asian_TOur_SJM_Macao_Open_Day3_live_landscape_thumb.jpg" group-title="Sports",SJM Macao Open - Day 3 - 17 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792252235~acl=/*~id=68871586804028336988491382304600~hmac=22c988887a661424286b03706e17ba698f91f84e3e133bc3b74ffa317d203e2d
@@ -690,6 +690,12 @@ https://in-mc-flive.fancode.com/mumbai/4249797_english_hls_7bf58d06b754922_1ta-d
 
 #EXTINF:-1 tvg-id="4249835" tvg-name="Auckland vs Melbourne City [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249835_53101_AFC_MLC_fc-Web_1791982771900.jpg" group-title="Football",Auckland vs Melbourne City [English]
 https://in-mc-flive.fancode.com/mumbai/4249835_english_hls_083505468c45123_1ta-di_h264/720p.m3u8?hdntl=Expires=1792295185~_GO=Generated~acl=/mumbai/4249835_english_hls_083505468c45123_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_8d0576ba-0d46-41~Signature=AZJsJWbgaVJWV9Zj9cPwKREI6cWYSbrq0mjzPDD4fxzuFuZRmqknvvWC6T5lZ2lUPG0IXfzOVMbGWjILeLt9H0yYJocL
+
+#EXTINF:-1 tvg-id="4248851" tvg-name="Stadium Court [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Tennis",Stadium Court [English]
+https://in-mc-flive.fancode.com/mumbai/4248851_english_hls_5494333b5f95783_1ta-di_h264/720p.m3u8?hdntl=Expires=1792302448~_GO=Generated~acl=/mumbai/4248851_english_hls_5494333b5f95783_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ebb87155-4fb6-47~Signature=AZJsJWYs4Y5EOqQwim4F5OubH08gkuHRHkOY0dK582h2LKXNXsb9VuZS6WVNpn8Xw0xXUyEF-gmFBh0f2DsAeFOOGjIL
+
+#EXTINF:-1 tvg-id="4249836" tvg-name="Macarthur vs Perth Glory [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249836_53101_MAC_PG_fc-Web_1791982773863.jpg" group-title="Football",Macarthur vs Perth Glory [English]
+https://in-mc-flive.fancode.com/mumbai/4249836_english_hls_d84203c5e716818_1ta-di_h264/720p.m3u8?hdntl=Expires=1792302449~_GO=Generated~acl=/mumbai/4249836_english_hls_d84203c5e716818_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_fd2e5dec-96c2-4a~Signature=AZJsJWYvH4J_clD66hzBZqlHOI_AhUmeCZLy7X2H3sUOxG5twl7J-Clyy1P-ppp9DfDHU5pmZhIm27x9AUhNyfxskH0G
 
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
