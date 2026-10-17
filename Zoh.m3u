@@ -665,16 +665,16 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090548893_ENG" tvg-name="Inter Kashi vs Odisha FC - 17 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026502/1792155325043755_ISL26_KSHI-vs-Odisha-FC_live_landscape_thumb.jpg" group-title="Football",Inter Kashi vs Odisha FC - 17 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792282092~acl=/*~id=96288220832605792910573567854340~hmac=053d33a1fa0b4003019f81cb9bafd855c30678252a1fea2ff5ba9ecf09d2bb07
+https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792282700~acl=/*~id=43257287105966377838888471374911~hmac=a284a35cfd8385826cec2853079e5f9e3d4185f5a67f62fbc24821d5557bda41
 
 #EXTINF:-1 tvg-id="1090548893_HIN" tvg-name="Inter Kashi vs Odisha FC - 17 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026502/1792155325043755_ISL26_KSHI-vs-Odisha-FC_live_landscape_thumb.jpg" group-title="Football",Inter Kashi vs Odisha FC - 17 Oct 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792282092~acl=/*~id=96288220832605792910573567854340~hmac=053d33a1fa0b4003019f81cb9bafd855c30678252a1fea2ff5ba9ecf09d2bb07
+https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792282700~acl=/*~id=43257287105966377838888471374911~hmac=a284a35cfd8385826cec2853079e5f9e3d4185f5a67f62fbc24821d5557bda41
 
 #EXTINF:-1 tvg-id="1090548710_ENG" tvg-name="DP World India Championship - Day 3 - 17 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792046030123742_DP-World_India-Championship_Day3_landscape_thumb.jpg" group-title="Golf",DP World India Championship - Day 3 - 17 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2119931/cricodi1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792282092~acl=/*~id=96288220832605792910573567854340~hmac=053d33a1fa0b4003019f81cb9bafd855c30678252a1fea2ff5ba9ecf09d2bb07
+https://sonydaimenew.akamaized.net/hls/live/2119931/cricodi1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792282700~acl=/*~id=43257287105966377838888471374911~hmac=a284a35cfd8385826cec2853079e5f9e3d4185f5a67f62fbc24821d5557bda41
 
 #EXTINF:-1 tvg-id="1090548915_ENG" tvg-name="DP World Locker Room - Day 3 - 17 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026488/1792152367474905_DP-World-Locker-Room-D3_landscape_thumb.jpg" group-title="Golf",DP World Locker Room - Day 3 - 17 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_DPW1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792282092~acl=/*~id=96288220832605792910573567854340~hmac=053d33a1fa0b4003019f81cb9bafd855c30678252a1fea2ff5ba9ecf09d2bb07
+https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_DPW1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792282700~acl=/*~id=43257287105966377838888471374911~hmac=a284a35cfd8385826cec2853079e5f9e3d4185f5a67f62fbc24821d5557bda41
 
 #EXTINF:-1 tvg-id="1090548893" tvg-name="Inter Kashi vs Odisha FC - 17 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026502/1792155325043755_ISL26_KSHI-vs-Odisha-FC_live_landscape_thumb.jpg" group-title="Sports",Inter Kashi vs Odisha FC - 17 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792277432~acl=/*~id=37742165424162627611465186393106~hmac=6ae9d5bec76766cbce235a7c3e6f88b42fd65d1f7949fd4b8adf617c90ea0efb
@@ -696,6 +696,9 @@ https://in-mc-flive.fancode.com/mumbai/4250211_english_hls_2090dd13c831581_1ta-d
 
 #EXTINF:-1 tvg-id="4250227" tvg-name="TSV Malmsheim vs ICA Berlin [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250227_53117_TSV_ICAB_fc-web.jpg" group-title="Cricket",TSV Malmsheim vs ICA Berlin [English]
 https://in-mc-flive.fancode.com/mumbai/4250227_english_hls_c19e9aa30628633_1ta-di_h264/720p.m3u8?hdntl=Expires=1792318830~_GO=Generated~acl=/mumbai/4250227_english_hls_c19e9aa30628633_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f5afdbc2-4b88-4a~Signature=AZJsJWZpy9lCr8wHnDR6r8KpCnKSe1iEBUnh4PMV2EgF-SG6lu671w9WLsXVMZ5jURx_U_FFhbuUMBXAJDymRBzLXWYD
+
+#EXTINF:-1 tvg-id="4250228" tvg-name="Darmstadt CC vs Koln CC [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250228_53117_DCC_KCC_fc-web.jpg" group-title="Cricket",Darmstadt CC vs Koln CC [English]
+https://in-mc-flive.fancode.com/mumbai/4250228_english_hls_a8cabfb74758870_1ta-di_h264/720p.m3u8?hdntl=Expires=1792326143~_GO=Generated~acl=/mumbai/4250228_english_hls_a8cabfb74758870_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_739a8f9e-4fe4-45~Signature=AZJsJWYF_xmIcxuVh7K90OcmmlG9MwI_zosjGthNmXE07BbbvXur8bbbVef1twU0JcsD2R0NeTQIshl605wObM28pNMD
 
 #EXTINF:-1 tvg-id="4249595" tvg-name="Watford F.C. vs Charlton Athletic F.C [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249595_52993_WAT_CHL_fc-web.jpg" group-title="Football",Watford F.C. vs Charlton Athletic F.C [English]
 https://in-mc-flive.fancode.com/mumbai/4249595_english_hls_22fe776c662481_1ta-di_h264/720p.m3u8?hdntl=Expires=1792322465~_GO=Generated~acl=/mumbai/4249595_english_hls_22fe776c662481_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_6f406885-dd76-4b~Signature=AZJsJWbloEsrbaFkfG_LHJyo0MwfuACERF36uPW1MonyP3Zig0y0ZrYYrA92QD2YWtvBDNa6ENUkf1rGsn0sb1hsu7ML
