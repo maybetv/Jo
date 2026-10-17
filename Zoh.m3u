@@ -671,7 +671,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090548710_ENG" tvg-name="DP World India Championship - Day 3 - 17 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792046030123742_DP-World_India-Championship_Day3_landscape_thumb.jpg" group-title="Golf",DP World India Championship - Day 3 - 17 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2119931/cricodi1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792268756~acl=/*~id=49688003997690641662970501241652~hmac=f1933793cce4302b91d677464ae991a8fbd7f5b57efeb5cfecaf983acbf2792a
+https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchb442/cricodi1710-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792269361~acl=/*~id=86116891619328597932757686285555~hmac=04b96e699c8ccd1ab1578751a81ea410cf645c19dc6ef2e5656c45bb7928b402
 
 #EXTINF:-1 tvg-id="4250117" tvg-name="Canada vs Nepal [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250117_53106_CAN_NEP_fc-Web.png" group-title="Cricket",Canada vs Nepal [English]
 https://in-mc-flive.fancode.com/mumbai/4250117_english_hls_b306da16ed31641_1ta-di_h264/720p.m3u8?hdntl=Expires=1792300631~_GO=Generated~acl=/mumbai/4250117_english_hls_b306da16ed31641_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_52dc7d91-89ce-41~Signature=AZJsJWZiBnG_0hSuU_SM8AnhzZEVtoyUEpov65-1yGcwrZ178WQejc68Uhj7I3EYc-sDtNoK8jIlsSeVOTXdCoQVYjIF
@@ -685,14 +685,14 @@ https://in-mc-flive.fancode.com/mumbai/4250226_english_hls_65168f40f945063_1ta-d
 #EXTINF:-1 tvg-id="4248851" tvg-name="Stadium Court [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Tennis",Stadium Court [English]
 https://in-mc-flive.fancode.com/mumbai/4248851_english_hls_5494333b5f95783_1ta-di_h264/720p.m3u8?hdntl=Expires=1792302448~_GO=Generated~acl=/mumbai/4248851_english_hls_5494333b5f95783_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ebb87155-4fb6-47~Signature=AZJsJWYs4Y5EOqQwim4F5OubH08gkuHRHkOY0dK582h2LKXNXsb9VuZS6WVNpn8Xw0xXUyEF-gmFBh0f2DsAeFOOGjIL
 
-#EXTINF:-1 tvg-id="4249836" tvg-name="Macarthur vs Perth Glory [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249836_53101_MAC_PG_fc-Web_1792223292402.jpg" group-title="Football",Macarthur vs Perth Glory [English]
-https://in-mc-flive.fancode.com/mumbai/4249836_english_hls_d84203c5e716818_1ta-di_h264/720p.m3u8?hdntl=Expires=1792302449~_GO=Generated~acl=/mumbai/4249836_english_hls_d84203c5e716818_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_fd2e5dec-96c2-4a~Signature=AZJsJWYvH4J_clD66hzBZqlHOI_AhUmeCZLy7X2H3sUOxG5twl7J-Clyy1P-ppp9DfDHU5pmZhIm27x9AUhNyfxskH0G
-
 #EXTINF:-1 tvg-id="4250147" tvg-name="Semi-Final [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png" group-title="Badminton",Semi-Final [English]
 https://in-mc-flive.fancode.com/mumbai/4250147_english_hls_a708396dcf6135_1ta-di_h264/720p.m3u8?hdntl=Expires=1792306710~_GO=Generated~acl=/mumbai/4250147_english_hls_a708396dcf6135_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_2b84d469-0416-46~Signature=AZJsJWZdtN9kY8QLlKxhFS3UbCrG2gnWMcFeqvyw08c2lTvUKqZOD1TnaDjVD7OBRDzxvvoraq7hfZlgmY_DtKvEWWcI
 
 #EXTINF:-1 tvg-id="4248850" tvg-name="Zverev vs Davidovich Fokina [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zverev-vs-Alejandro_Web-match-card.png" group-title="Tennis",Zverev vs Davidovich Fokina [English]
 https://in-mc-flive.fancode.com/mumbai/4248850_english_hls_afb00f47fc75782_1ta-di_h264/720p.m3u8?hdntl=Expires=1792311560~_GO=Generated~acl=/mumbai/4248850_english_hls_afb00f47fc75782_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_5c50b5c3-0b0e-48~Signature=AZJsJWYZ-Z4jbSVkvKVUOm4inVAVU3z3MRf52EwUqwgbbw8ciZYUCowpzwp4nhzqUmJd8dmN2rLOluxVdsBMHGEB4P8K
+
+#EXTINF:-1 tvg-id="4249837" tvg-name="Central Coast Mariners vs Newcastle Jets [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249837_53101_CCM_NJ_fc-Web_1792223292109.jpg" group-title="Football",Central Coast Mariners vs Newcastle Jets [English]
+https://in-mc-flive.fancode.com/mumbai/4249837_english_hls_2ec3b96d3e34507_1ta-di_h264/720p.m3u8?hdntl=Expires=1792312166~_GO=Generated~acl=/mumbai/4249837_english_hls_2ec3b96d3e34507_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b429ded9-86d3-4c~Signature=AZJsJWby1hF0V5zNWarn4UZ5BynLPZFolA8knD6Phcis8EhMROECtfLbsovcfpMpXEY4rIm1Ni5KCZ6ijcGDL9uNI48L
 
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
