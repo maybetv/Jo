@@ -661,40 +661,32 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
+
 # --- LIVE EVENTS ---
 
-
 #EXTINF:-1 tvg-id="1090548710_ENG" tvg-name="DP World India Championship - Day 3 - 17 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792046030123742_DP-World_India-Championship_Day3_landscape_thumb.jpg" group-title="Golf",DP World India Championship - Day 3 - 17 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2119931/cricodi1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792271785~acl=/*~id=34905565060318641070658876181476~hmac=c3acad994d068cbaeb2a5a5158867e5ec86f933cdafe1c56c3a9855b76d611be
-
+https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchb442/cricodi1710-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792272390~acl=/*~id=28435239098436611525722396510245~hmac=5f8d5f2350d129d08374a15c80f68b9e91da58af64dc67741a1c4a1d3d14d0eb
 
 #EXTINF:-1 tvg-id="4250117" tvg-name="Canada vs Nepal [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250117_53106_CAN_NEP_fc-Web.png" group-title="Cricket",Canada vs Nepal [English]
 https://in-mc-flive.fancode.com/mumbai/4250117_english_hls_b306da16ed31641_1ta-di_h264/720p.m3u8?hdntl=Expires=1792300631~_GO=Generated~acl=/mumbai/4250117_english_hls_b306da16ed31641_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_52dc7d91-89ce-41~Signature=AZJsJWZiBnG_0hSuU_SM8AnhzZEVtoyUEpov65-1yGcwrZ178WQejc68Uhj7I3EYc-sDtNoK8jIlsSeVOTXdCoQVYjIF
 
-
 #EXTINF:-1 tvg-id="4250211" tvg-name="Uganda A vs Jersey [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Jersey-tour-of-Uganda-A-2026_Web_1080_x_810.jpg" group-title="Cricket",Uganda A vs Jersey [English]
 https://in-mc-flive.fancode.com/mumbai/4250211_english_hls_2090dd13c831581_1ta-di_h264/720p.m3u8?hdntl=Expires=1792306089~_GO=Generated~acl=/mumbai/4250211_english_hls_2090dd13c831581_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_8e566793-4fcc-45~Signature=AZJsJWaSaQFKUml6W25sVqxGwFWlD9tOoCnJtzSNKO3xMftliu9wZTeiijMjCfT9yF-g5Npgy_AVgtlaNLNE1SdazA4C
-
 
 #EXTINF:-1 tvg-id="4250226" tvg-name="Darmstadt CC vs THCC Rot-Gelb Hamburg [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250226_53117_DCC_THCC_fc-web.jpg" group-title="Cricket",Darmstadt CC vs THCC Rot-Gelb Hamburg [English]
 https://in-mc-flive.fancode.com/mumbai/4250226_english_hls_65168f40f945063_1ta-di_h264/720p.m3u8?hdntl=Expires=1792311559~_GO=Generated~acl=/mumbai/4250226_english_hls_65168f40f945063_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e6a36c71-6b8b-4b~Signature=AZJsJWbipP-ohZGn-JJxFE1xjloh_ykCFMON2k-lf0YWlfTPMMIJsEDxE8dbS7vHsCv_uG4eUlQYk-b3FIgaiZLR3-gC
 
-
 #EXTINF:-1 tvg-id="4250147" tvg-name="Semi-Final [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png" group-title="Badminton",Semi-Final [English]
 https://in-mc-flive.fancode.com/mumbai/4250147_english_hls_a708396dcf6135_1ta-di_h264/720p.m3u8?hdntl=Expires=1792306710~_GO=Generated~acl=/mumbai/4250147_english_hls_a708396dcf6135_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_2b84d469-0416-46~Signature=AZJsJWZdtN9kY8QLlKxhFS3UbCrG2gnWMcFeqvyw08c2lTvUKqZOD1TnaDjVD7OBRDzxvvoraq7hfZlgmY_DtKvEWWcI
-
 
 #EXTINF:-1 tvg-id="4248850" tvg-name="Zverev vs Davidovich Fokina [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zverev-vs-Alejandro_Web-match-card.png" group-title="Tennis",Zverev vs Davidovich Fokina [English]
 https://in-mc-flive.fancode.com/mumbai/4248850_english_hls_afb00f47fc75782_1ta-di_h264/720p.m3u8?hdntl=Expires=1792311560~_GO=Generated~acl=/mumbai/4248850_english_hls_afb00f47fc75782_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_5c50b5c3-0b0e-48~Signature=AZJsJWYZ-Z4jbSVkvKVUOm4inVAVU3z3MRf52EwUqwgbbw8ciZYUCowpzwp4nhzqUmJd8dmN2rLOluxVdsBMHGEB4P8K
 
-
 #EXTINF:-1 tvg-id="4249837" tvg-name="Central Coast Mariners vs Newcastle Jets [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249837_53101_CCM_NJ_fc-Web_1792223292109.jpg" group-title="Football",Central Coast Mariners vs Newcastle Jets [English]
 https://in-mc-flive.fancode.com/mumbai/4249837_english_hls_2ec3b96d3e34507_1ta-di_h264/720p.m3u8?hdntl=Expires=1792312166~_GO=Generated~acl=/mumbai/4249837_english_hls_2ec3b96d3e34507_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b429ded9-86d3-4c~Signature=AZJsJWby1hF0V5zNWarn4UZ5BynLPZFolA8knD6Phcis8EhMROECtfLbsovcfpMpXEY4rIm1Ni5KCZ6ijcGDL9uNI48L
 
-
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
-
 
 #EXTINF:-1 tvg-id="1e07b0eb-f0e7-41fb-ac4c-01a713f6866e" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/z7enr5ur2bm5g92hjfo5" tvg-lang="English" group-title="Cricket",English | Nepal v Canada (2nd Innings) (NEPALI)
 #KODIPROP:inputstream=inputstream.adaptive
@@ -707,7 +699,6 @@ https://ComeInNextMatch.com/4K.m3u8
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1792257310~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=6a0d33cd427582cd0505a63d3fda0caed677b4ceb2a9e4bfaa33c9d7e50cd13f/manifest.mpd?vcfilter=1e07b0eb-f0e7-41fb-ac4c-01a713f6866e&
 
-
 #EXTINF:-1 tvg-id="246546e0-666e-4b11-b4de-3fbe124968e4" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/icjwm6dlux5befxkdetk" tvg-lang="English" group-title="Cricket",English | Nepal v Canada (2nd Innings)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -719,7 +710,6 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1792257312~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=04ab7b9850c8538c381e919c98e8ead45a93942e5da3679da356bc4ba174d03c/manifest.mpd?vcfilter=246546e0-666e-4b11-b4de-3fbe124968e4&
 
-
 #EXTINF:-1 tvg-id="B0HLRXMGR3" tvg-name="Semifinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36d2f22a-d91f-43b2-8223-7de118334798/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Semifinals
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -727,10 +717,10 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DA
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
 https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
 
-
 #EXTINF:-1 tvg-id="B0HLL48LYN" tvg-name="Perth Steel vs. Adelaide Storm" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.912f01e1-a849-4d0f-baa5-7cc58fec614d/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Perth Steel vs. Adelaide Storm
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
 https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
+
