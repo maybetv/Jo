@@ -661,76 +661,56 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
-# --- LIVE EVENTS ---
 
+# --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090548893_ENG" tvg-name="Inter Kashi vs Odisha FC - 17 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026502/1792155325043755_ISL26_KSHI-vs-Odisha-FC_live_landscape_thumb.jpg" group-title="Football",Inter Kashi vs Odisha FC - 17 Oct 2026 [ENG]
 https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792287559~acl=/*~id=48574013013163566548386350407514~hmac=48bf9680defd3bb3c0384e8a3a822fa31aef46260de845ea8315216a1f0bc558
 
-
 #EXTINF:-1 tvg-id="1090548893_HIN" tvg-name="Inter Kashi vs Odisha FC - 17 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026502/1792155325043755_ISL26_KSHI-vs-Odisha-FC_live_landscape_thumb.jpg" group-title="Football",Inter Kashi vs Odisha FC - 17 Oct 2026 [HIN]
 https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792287559~acl=/*~id=48574013013163566548386350407514~hmac=48bf9680defd3bb3c0384e8a3a822fa31aef46260de845ea8315216a1f0bc558
-
 
 #EXTINF:-1 tvg-id="1090548712_ENG" tvg-name="Bengaluru FC vs Chennaiyin FC - 17 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026319/1791973880447868_ISL_17th_Oct_Bengaluru_FC_vs_Chennaiyin_FC_live_landscape_thumb.jpg" group-title="Football",Bengaluru FC vs Chennaiyin FC - 17 Oct 2026 [ENG]
 https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792287559~acl=/*~id=48574013013163566548386350407514~hmac=48bf9680defd3bb3c0384e8a3a822fa31aef46260de845ea8315216a1f0bc558
 
-
 #EXTINF:-1 tvg-id="1090548712_HIN" tvg-name="Bengaluru FC vs Chennaiyin FC - 17 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026319/1791973880447868_ISL_17th_Oct_Bengaluru_FC_vs_Chennaiyin_FC_live_landscape_thumb.jpg" group-title="Football",Bengaluru FC vs Chennaiyin FC - 17 Oct 2026 [HIN]
 https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive1710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792287559~acl=/*~id=48574013013163566548386350407514~hmac=48bf9680defd3bb3c0384e8a3a822fa31aef46260de845ea8315216a1f0bc558
-
 
 #EXTINF:-1 tvg-id="1090548712_TAM" tvg-name="Bengaluru FC vs Chennaiyin FC - 17 Oct 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026319/1791973880447868_ISL_17th_Oct_Bengaluru_FC_vs_Chennaiyin_FC_live_landscape_thumb.jpg" group-title="Football",Bengaluru FC vs Chennaiyin FC - 17 Oct 2026 [TAM]
 https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1710/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792287559~acl=/*~id=48574013013163566548386350407514~hmac=48bf9680defd3bb3c0384e8a3a822fa31aef46260de845ea8315216a1f0bc558
 
-
 #EXTINF:-1 tvg-id="1090548711_ENG" tvg-name="Haryana Hurricanes vs Emperia Marathas - Super 6 - 17 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792130276555133_VCL26_Haryana-Hurricanes-vs-Emperia-Marathas_live_landscape_thumb.jpg" group-title="Volleyball",Haryana Hurricanes vs Emperia Marathas - Super 6 - 17 Oct 2026 [ENG]
 https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792287559~acl=/*~id=48574013013163566548386350407514~hmac=48bf9680defd3bb3c0384e8a3a822fa31aef46260de845ea8315216a1f0bc558
-
 
 #EXTINF:-1 tvg-id="1090548711_HIN" tvg-name="Haryana Hurricanes vs Emperia Marathas - Super 6 - 17 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792130276555133_VCL26_Haryana-Hurricanes-vs-Emperia-Marathas_live_landscape_thumb.jpg" group-title="Volleyball",Haryana Hurricanes vs Emperia Marathas - Super 6 - 17 Oct 2026 [HIN]
 https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792287559~acl=/*~id=48574013013163566548386350407514~hmac=48bf9680defd3bb3c0384e8a3a822fa31aef46260de845ea8315216a1f0bc558
 
-
 #EXTINF:-1 tvg-id="1090548715_ENG" tvg-name="Mighty Marathas vs Kakatiya Knights - 17 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026290/1791959546572578_APL26_Mighty-Marathas-vs-Kakatiya-Knights_live_landscape_thumb.jpg" group-title="Archery",Mighty Marathas vs Kakatiya Knights - 17 Oct 2026 [ENG]
 https://sonydaimenew.akamaized.net/hls/live/2120308/Archery_1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792287559~acl=/*~id=48574013013163566548386350407514~hmac=48bf9680defd3bb3c0384e8a3a822fa31aef46260de845ea8315216a1f0bc558
-
 
 #EXTINF:-1 tvg-id="1090548893" tvg-name="Inter Kashi vs Odisha FC - 17 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026502/1792155325043755_ISL26_KSHI-vs-Odisha-FC_live_landscape_thumb.jpg" group-title="Sports",Inter Kashi vs Odisha FC - 17 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792277432~acl=/*~id=37742165424162627611465186393106~hmac=6ae9d5bec76766cbce235a7c3e6f88b42fd65d1f7949fd4b8adf617c90ea0efb
 
-
 #EXTINF:-1 tvg-id="1090548711" tvg-name="Haryana Hurricanes vs Emperia Marathas - Super 6 - 17 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792130276555133_VCL26_Haryana-Hurricanes-vs-Emperia-Marathas_live_landscape_thumb.jpg" group-title="Sports",Haryana Hurricanes vs Emperia Marathas - Super 6 - 17 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792284640~acl=/*~id=89800877734711193845804167192544~hmac=a4c9a1fbb27344acd6cc37cef9aaa71016e842582b9cd24677cc65cce347b518
-
 
 #EXTINF:-1 tvg-id="4249694" tvg-name="Zimbabwe vs Bangladesh [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249694_53089_BAN_ZIM_FC-WEB_1792056447852.jpg" group-title="Cricket",Zimbabwe vs Bangladesh [English]
 https://in-mc-flive.fancode.com/mumbai/4249694_english_hls_c370ab317921311_1ta-di_h264/720p.m3u8?hdntl=Expires=1792321253~_GO=Generated~acl=/mumbai/4249694_english_hls_c370ab317921311_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_92e3a1f2-70ec-47~Signature=AZJsJWazDda1JN-03PivhceruiMxAc3nX-JZ8PaBnr-UeQiQXFPE6jzdN4oI6SuIvoeJ2gbJOHPVOArkrrho_vBpG_sH
 
-
 #EXTINF:-1 tvg-id="4250211" tvg-name="Uganda A vs Jersey [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Jersey-tour-of-Uganda-A-2026_Web_1080_x_810.jpg" group-title="Cricket",Uganda A vs Jersey [English]
 https://in-mc-flive.fancode.com/mumbai/4250211_english_hls_2090dd13c831581_1ta-di_h264/720p.m3u8?hdntl=Expires=1792306089~_GO=Generated~acl=/mumbai/4250211_english_hls_2090dd13c831581_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_8e566793-4fcc-45~Signature=AZJsJWaSaQFKUml6W25sVqxGwFWlD9tOoCnJtzSNKO3xMftliu9wZTeiijMjCfT9yF-g5Npgy_AVgtlaNLNE1SdazA4C
-
 
 #EXTINF:-1 tvg-id="4250228" tvg-name="Darmstadt CC vs Koln CC [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250228_53117_DCC_KCC_fc-web.jpg" group-title="Cricket",Darmstadt CC vs Koln CC [English]
 https://in-mc-flive.fancode.com/mumbai/4250228_english_hls_a8cabfb74758870_1ta-di_h264/720p.m3u8?hdntl=Expires=1792326143~_GO=Generated~acl=/mumbai/4250228_english_hls_a8cabfb74758870_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_739a8f9e-4fe4-45~Signature=AZJsJWYF_xmIcxuVh7K90OcmmlG9MwI_zosjGthNmXE07BbbvXur8bbbVef1twU0JcsD2R0NeTQIshl605wObM28pNMD
 
-
-#EXTINF:-1 tvg-id="4249595" tvg-name="Watford F.C. vs Charlton Athletic F.C [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249595_52993_WAT_CHL_fc-web.jpg" group-title="Football",Watford F.C. vs Charlton Athletic F.C [English]
-https://in-mc-flive.fancode.com/mumbai/4249595_english_hls_22fe776c662481_1ta-di_h264/720p.m3u8?hdntl=Expires=1792322465~_GO=Generated~acl=/mumbai/4249595_english_hls_22fe776c662481_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_6f406885-dd76-4b~Signature=AZJsJWbloEsrbaFkfG_LHJyo0MwfuACERF36uPW1MonyP3Zig0y0ZrYYrA92QD2YWtvBDNa6ENUkf1rGsn0sb1hsu7ML
-
-
 #EXTINF:-1 tvg-id="4249193" tvg-name="Arsenal Women vs Birmingham City F.C. Women [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249193_53038_ARS-W_BIR-W_fc-web_1791063400607.jpg" group-title="Football",Arsenal Women vs Birmingham City F.C. Women [English]
 https://in-mc-flive.fancode.com/mumbai/4249193_english_hls_cd9dc0f84b20122_1ta-di_h264/720p.m3u8?hdntl=Expires=1792323079~_GO=Generated~acl=/mumbai/4249193_english_hls_cd9dc0f84b20122_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_11b63c94-68f3-43~Signature=AZJsJWZIr60x2fN8ovP3-JMYbVlCUeC4zoRuhzcK2N8UgeKic8fhO1lcheV-z6KKP_VvxrxeUrDYcrNiOhPZTdgBIxwF
-
 
 #EXTINF:-1 tvg-id="4250147" tvg-name="Semi-Final [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png" group-title="Badminton",Semi-Final [English]
 https://in-mc-flive.fancode.com/mumbai/4250147_english_hls_a708396dcf6135_1ta-di_h264/720p.m3u8?hdntl=Expires=1792306710~_GO=Generated~acl=/mumbai/4250147_english_hls_a708396dcf6135_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_2b84d469-0416-46~Signature=AZJsJWZdtN9kY8QLlKxhFS3UbCrG2gnWMcFeqvyw08c2lTvUKqZOD1TnaDjVD7OBRDzxvvoraq7hfZlgmY_DtKvEWWcI
 
-
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
-
 
 #EXTINF:-1 tvg-id="B0HN8KZH6R" tvg-name="ODI Tri-Nation Series in UAE 2026 - 1st Match - Bangladesh vs Zimbabwe" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a80d2dde-3b77-4b77-b00a-23cb3e2d17c8/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",ODI Tri-Nation Series in UAE 2026 - 1st Match - Bangladesh vs Zimbabwe
 #KODIPROP:inputstream=inputstream.adaptive
@@ -739,14 +719,12 @@ https://ComeInNextMatch.com/4K.m3u8
 #KODIPROP:inputstream.adaptive.license_key=d67c0f3e8d176e693e9d452ec4aeca2f:3cae5de28b16ae8152999574ced3b4db
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/iiqppqpksi/out/v1/5aedff78e45a44a08461ab32fa41310a/cenc.mpd
 
-
 #EXTINF:-1 tvg-id="B0HF49JPT3" tvg-name="West Indies tour of India 2026 - 5th T20I - India vs West Indies" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.93411739-3488-40b7-865f-f09383e04841/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",West Indies tour of India 2026 - 5th T20I - India vs West Indies
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c21cda3aab763439e2f05489f9a73827:582de22865b044837d559884992caf4f
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n3icgre8mf/out/v1/af3ffb719dea4937aede63586796d513/cenc.mpd
-
 
 #EXTINF:-1 tvg-id="B0HN8KZH6R" tvg-name="ODI Tri-Nation Series in UAE 2026 - 1st Match - Bangladesh vs Zimbabwe" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a80d2dde-3b77-4b77-b00a-23cb3e2d17c8/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",ODI Tri-Nation Series in UAE 2026 - 1st Match - Bangladesh vs Zimbabwe
 #KODIPROP:inputstream=inputstream.adaptive
@@ -755,14 +733,12 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n3icgre8mf/out/v1
 #KODIPROP:inputstream.adaptive.license_key=d67c0f3e8d176e693e9d452ec4aeca2f:3cae5de28b16ae8152999574ced3b4db
 https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/iiqppqpksi/out/v1/5aedff78e45a44a08461ab32fa41310a/cenc.mpd
 
-
 #EXTINF:-1 tvg-id="B0HF49JPT3" tvg-name="West Indies tour of India 2026 - 5th T20I - India vs West Indies" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.93411739-3488-40b7-865f-f09383e04841/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",West Indies tour of India 2026 - 5th T20I - India vs West Indies
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c21cda3aab763439e2f05489f9a73827:582de22865b044837d559884992caf4f
 https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/n3icgre8mf/out/v1/af3ffb719dea4937aede63586796d513/cenc.mpd
-
 
 #EXTINF:-1 tvg-id="B0HKWHVZR9" tvg-name="ODI Tri-Series UAE 2026 - Bangladesh vs Zimbabwe" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c0c76976-88a4-4927-adac-fa2f7cb9316a/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",ODI Tri-Series UAE 2026 - Bangladesh vs Zimbabwe
 #KODIPROP:inputstream=inputstream.adaptive
@@ -771,7 +747,6 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/n3icgre8
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
-
 #EXTINF:-1 tvg-id="B0HL68V4JW" tvg-name="Powerball Cup, Round 3" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1aa001c9-1bb7-4346-bda8-a479dd2762d2/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Powerball Cup, Round 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -779,10 +754,10 @@ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #KODIPROP:inputstream.adaptive.license_key=dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd
 
-
 #EXTINF:-1 tvg-id="B0HLSPHZLV" tvg-name="Watford vs. Charlton Athletic" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6069d334-3de6-4982-88c5-d01529beb511/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Watford vs. Charlton Athletic
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+
