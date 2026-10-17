@@ -671,7 +671,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090548710_ENG" tvg-name="DP World India Championship - Day 3 - 17 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792046030123742_DP-World_India-Championship_Day3_landscape_thumb.jpg" group-title="Golf",DP World India Championship - Day 3 - 17 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchb442/cricodi1710-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792271178~acl=/*~id=67506858133460235185179033148896~hmac=feba7f01f05e8c067c7a0625c6f5111891044de4ec329856a313d7c0cdda3761
+https://sonydaimenew.akamaized.net/hls/live/2119931/cricodi1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792271785~acl=/*~id=34905565060318641070658876181476~hmac=c3acad994d068cbaeb2a5a5158867e5ec86f933cdafe1c56c3a9855b76d611be
 
 #EXTINF:-1 tvg-id="4250117" tvg-name="Canada vs Nepal [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250117_53106_CAN_NEP_fc-Web.png" group-title="Cricket",Canada vs Nepal [English]
 https://in-mc-flive.fancode.com/mumbai/4250117_english_hls_b306da16ed31641_1ta-di_h264/720p.m3u8?hdntl=Expires=1792300631~_GO=Generated~acl=/mumbai/4250117_english_hls_b306da16ed31641_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_52dc7d91-89ce-41~Signature=AZJsJWZiBnG_0hSuU_SM8AnhzZEVtoyUEpov65-1yGcwrZ178WQejc68Uhj7I3EYc-sDtNoK8jIlsSeVOTXdCoQVYjIF
@@ -694,7 +694,7 @@ https://in-mc-flive.fancode.com/mumbai/4249837_english_hls_2ec3b96d3e34507_1ta-d
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
 
-#EXTINF:-1 tvg-id="e747806c-2d6c-47f9-adf5-40e9f734a8a8" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/zsmtkz6vimoetkzu1zmr" tvg-lang="English" group-title="Cricket",English | Nepal v Canada (1st Innings) (NEPALI)
+#EXTINF:-1 tvg-id="1e07b0eb-f0e7-41fb-ac4c-01a713f6866e" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/z7enr5ur2bm5g92hjfo5" tvg-lang="English" group-title="Cricket",English | Nepal v Canada (2nd Innings) (NEPALI)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -703,9 +703,9 @@ https://ComeInNextMatch.com/4K.m3u8
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1792242007~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=326c543f04bc5d1f63e8119fc1b0a0aea342f1a2b9d805d3e68d02f0a1274a12/manifest.mpd?vcfilter=e747806c-2d6c-47f9-adf5-40e9f734a8a8&
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1792257310~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=6a0d33cd427582cd0505a63d3fda0caed677b4ceb2a9e4bfaa33c9d7e50cd13f/manifest.mpd?vcfilter=1e07b0eb-f0e7-41fb-ac4c-01a713f6866e&
 
-#EXTINF:-1 tvg-id="ad10685a-90e7-4006-bc71-2d7eef2d7b2a" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ejltqwt9waekfqwkfytc" tvg-lang="English" group-title="Cricket",English | Nepal v Canada (1st Innings)
+#EXTINF:-1 tvg-id="246546e0-666e-4b11-b4de-3fbe124968e4" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/icjwm6dlux5befxkdetk" tvg-lang="English" group-title="Cricket",English | Nepal v Canada (2nd Innings)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -714,7 +714,7 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DA
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1792242011~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=ac4c9d8b443780294b7557bdddccaff13a3ddf2e7355eab11e0e405277d3b3e5/manifest.mpd?vcfilter=ad10685a-90e7-4006-bc71-2d7eef2d7b2a&
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1792257312~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=04ab7b9850c8538c381e919c98e8ead45a93942e5da3679da356bc4ba174d03c/manifest.mpd?vcfilter=246546e0-666e-4b11-b4de-3fbe124968e4&
 
 #EXTINF:-1 tvg-id="B0HLRXMGR3" tvg-name="Semifinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.36d2f22a-d91f-43b2-8223-7de118334798/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Semifinals
 #KODIPROP:inputstream=inputstream.adaptive
