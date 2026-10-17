@@ -664,31 +664,19 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 # --- LIVE EVENTS ---
 
-#EXTINF:-1 tvg-id="1090548712_ENG" tvg-name="Bengaluru FC vs Chennaiyin FC - 17 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026319/1791973880447868_ISL_17th_Oct_Bengaluru_FC_vs_Chennaiyin_FC_live_landscape_thumb.jpg" group-title="Football",Bengaluru FC vs Chennaiyin FC - 17 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792295474~acl=/*~id=00675736822042661947044090339602~hmac=e863c3138787d87f1a1c18d0ed78266268ac42085161b35aaf5a230d074fd678
-
-#EXTINF:-1 tvg-id="1090548712_HIN" tvg-name="Bengaluru FC vs Chennaiyin FC - 17 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026319/1791973880447868_ISL_17th_Oct_Bengaluru_FC_vs_Chennaiyin_FC_live_landscape_thumb.jpg" group-title="Football",Bengaluru FC vs Chennaiyin FC - 17 Oct 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive1710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792295474~acl=/*~id=00675736822042661947044090339602~hmac=e863c3138787d87f1a1c18d0ed78266268ac42085161b35aaf5a230d074fd678
-
-#EXTINF:-1 tvg-id="1090548712_TAM" tvg-name="Bengaluru FC vs Chennaiyin FC - 17 Oct 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026319/1791973880447868_ISL_17th_Oct_Bengaluru_FC_vs_Chennaiyin_FC_live_landscape_thumb.jpg" group-title="Football",Bengaluru FC vs Chennaiyin FC - 17 Oct 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1710/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792295474~acl=/*~id=00675736822042661947044090339602~hmac=e863c3138787d87f1a1c18d0ed78266268ac42085161b35aaf5a230d074fd678
-
 #EXTINF:-1 tvg-id="1090548711_ENG" tvg-name="Ayodhya Garjan vs Delhi Dynamites - Super 6 - 17 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792130499544133_VCL26_Ayodhya-Garjan-vs-Delhi-Dynamites_live_landscape_thumb.jpg" group-title="Volleyball",Ayodhya Garjan vs Delhi Dynamites - Super 6 - 17 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792295474~acl=/*~id=00675736822042661947044090339602~hmac=e863c3138787d87f1a1c18d0ed78266268ac42085161b35aaf5a230d074fd678
+https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792297304~acl=/*~id=08525772329153036575172568690361~hmac=a8a7bcd3751c1364ea1bc4f46626d6e52d911d77cfa2bd0f71826113902fa981
 
 #EXTINF:-1 tvg-id="1090548711_HIN" tvg-name="Ayodhya Garjan vs Delhi Dynamites - Super 6 - 17 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792130499544133_VCL26_Ayodhya-Garjan-vs-Delhi-Dynamites_live_landscape_thumb.jpg" group-title="Volleyball",Ayodhya Garjan vs Delhi Dynamites - Super 6 - 17 Oct 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792295474~acl=/*~id=00675736822042661947044090339602~hmac=e863c3138787d87f1a1c18d0ed78266268ac42085161b35aaf5a230d074fd678
+https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792297304~acl=/*~id=08525772329153036575172568690361~hmac=a8a7bcd3751c1364ea1bc4f46626d6e52d911d77cfa2bd0f71826113902fa981
 
-#EXTINF:-1 tvg-id="1090548715_ENG" tvg-name="Prithviraj Yodhas vs Rajputana Royals - 17 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026290/1791959774061578_APL26_Prithviraj-Yodhas-vs-Rajputana-Royals_live_landscape_thumb.jpg" group-title="Archery",Prithviraj Yodhas vs Rajputana Royals - 17 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120308/Archery_1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792295474~acl=/*~id=00675736822042661947044090339602~hmac=e863c3138787d87f1a1c18d0ed78266268ac42085161b35aaf5a230d074fd678
-
-#EXTINF:-1 tvg-id="1090548712" tvg-name="Bengaluru FC vs Chennaiyin FC - 17 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026319/1791973880447868_ISL_17th_Oct_Bengaluru_FC_vs_Chennaiyin_FC_live_landscape_thumb.jpg" group-title="Sports",Bengaluru FC vs Chennaiyin FC - 17 Oct 2026 [ENGLISH]
-https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792288233~acl=/*~id=34805945059129283810304293944113~hmac=0e11eb260a9ab60d2d49d4e6a744d65130046dcfd6ace367641e7460793ff508
+#EXTINF:-1 tvg-id="1090548715_ENG" tvg-name="Prithviraj Yodhas vs Chero Archers - 17 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026290/1791959346936578_APL26_Prithviraj-Yodhas-vs-Chero-Archers_live_landscape_thumb.jpg" group-title="Archery",Prithviraj Yodhas vs Chero Archers - 17 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120308/Archery_1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792297304~acl=/*~id=08525772329153036575172568690361~hmac=a8a7bcd3751c1364ea1bc4f46626d6e52d911d77cfa2bd0f71826113902fa981
 
 #EXTINF:-1 tvg-id="1090548711" tvg-name="Ayodhya Garjan vs Delhi Dynamites - Super 6 - 17 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792130499544133_VCL26_Ayodhya-Garjan-vs-Delhi-Dynamites_live_landscape_thumb.jpg" group-title="Sports",Ayodhya Garjan vs Delhi Dynamites - Super 6 - 17 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792284640~acl=/*~id=89800877734711193845804167192544~hmac=a4c9a1fbb27344acd6cc37cef9aaa71016e842582b9cd24677cc65cce347b518
 
-#EXTINF:-1 tvg-id="1090548715" tvg-name="Prithviraj Yodhas vs Rajputana Royals - 17 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026290/1791959774061578_APL26_Prithviraj-Yodhas-vs-Rajputana-Royals_live_landscape_thumb.jpg" group-title="Sports",Prithviraj Yodhas vs Rajputana Royals - 17 Oct 2026 [ENGLISH]
+#EXTINF:-1 tvg-id="1090548715" tvg-name="Prithviraj Yodhas vs Chero Archers - 17 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026290/1791959346936578_APL26_Prithviraj-Yodhas-vs-Chero-Archers_live_landscape_thumb.jpg" group-title="Sports",Prithviraj Yodhas vs Chero Archers - 17 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2120308/Archery_1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792288246~acl=/*~id=92308608481986517995579315179393~hmac=b518a7376218fae1b49d3b4a5b333dc4677d3bcafc700d86de25c935c0f7039f
 
 #EXTINF:-1 tvg-id="4249694" tvg-name="Zimbabwe vs Bangladesh [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249694_53089_BAN_ZIM_FC-WEB_1792056447852.jpg" group-title="Cricket",Zimbabwe vs Bangladesh [English]
