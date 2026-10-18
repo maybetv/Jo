@@ -671,16 +671,19 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090548740_ENG" tvg-name="DP World India Championship - Day 4 - 18 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792046074732742_DP-World_India-Championship_Day4_landscape_thumb.jpg" group-title="Golf",DP World India Championship - Day 4 - 18 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi_1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792349386~acl=/*~id=32208790961331190286875743484054~hmac=fac418fed9f42ed2592239f7ff36924a04426a263cf6caeda7ad7ae38df08db5
+https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi_1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792349992~acl=/*~id=18823300467314711161111544693061~hmac=b386191ba5011f35087febf61a4c8dbecae92410aab7c774cb5d2ae64049d34e
 
 #EXTINF:-1 tvg-id="1090548739_ENG" tvg-name="SJM Macao Open - Day 4 - 18 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026392/1792045289085492_Asian_TOur_SJM_Macao_Open_Day4_live_landscape_thumb.jpg" group-title="Golf",SJM Macao Open - Day 4 - 18 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792349386~acl=/*~id=32208790961331190286875743484054~hmac=fac418fed9f42ed2592239f7ff36924a04426a263cf6caeda7ad7ae38df08db5
+https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792349992~acl=/*~id=18823300467314711161111544693061~hmac=b386191ba5011f35087febf61a4c8dbecae92410aab7c774cb5d2ae64049d34e
 
 #EXTINF:-1 tvg-id="1090548740" tvg-name="DP World India Championship - Day 4 - 18 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792046074732742_DP-World_India-Championship_Day4_landscape_thumb.jpg" group-title="Sports",DP World India Championship - Day 4 - 18 Oct 2026 [ENGLISH]
 https://livecfdai-par-mp.slivcdn.com/out/v1/cfed49dc0449444bac761f9dd9155916/std_lrh-800300010.m3u8?hdnea=exp=1792344036~acl=/*~id=35126441904256873407329726820446~hmac=6614df1da79190db9dd58e88ff1559e3775929ab045a414b6f7814945b7ad301
 
 #EXTINF:-1 tvg-id="1090548739" tvg-name="SJM Macao Open - Day 4 - 18 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026392/1792045289085492_Asian_TOur_SJM_Macao_Open_Day4_live_landscape_thumb.jpg" group-title="Sports",SJM Macao Open - Day 4 - 18 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792338635~acl=/*~id=63763230067086209932026693515615~hmac=513bb411c76255973917904a9edbadeffc51e52d0ce009d40ae1b84c63f46ba9
+
+#EXTINF:-1 tvg-id="4249782" tvg-name="South Africa vs Australia [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Cricket",South Africa vs Australia [English]
+https://in-mc-flive.fancode.com/mumbai/4249782_english_hls_bf21f9fa2f43134_1ta-di_h264/720p.m3u8?hdntl=Expires=1792393646~_GO=Generated~acl=/mumbai/4249782_english_hls_bf21f9fa2f43134_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_5a72beae-d8dc-47~Signature=AZJsJWbDvXfkzuxXUtK8SM7qzPmsKPpnirHK_uHkyMgz361lIlyiHE_loNCXL6CfVUanPNBPhOdB4eSzQiVYF9-DWJ4K
 
 #EXTINF:-1 tvg-id="4250212" tvg-name="Uganda A vs Jersey [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Jersey-tour-of-Uganda-A-2026_Web_1080_x_810.jpg" group-title="Cricket",Uganda A vs Jersey [English]
 https://in-mc-flive.fancode.com/mumbai/4250212_english_hls_caf8bc89be97545_1ta-di_h264/720p.m3u8?hdntl=Expires=1792392431~_GO=Generated~acl=/mumbai/4250212_english_hls_caf8bc89be97545_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e3424137-bc14-42~Signature=AZJsJWb6aGDeTQYOMVdEFSRV57sDAPD49aq6jf4eat3bMhWBeNhZAxUjfXZ2ck2Be-uSe-26mkmfYG4Om8OnXB3TP00L
