@@ -671,10 +671,10 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090548740_ENG" tvg-name="DP World India Championship - Day 4 - 18 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792046074732742_DP-World_India-Championship_Day4_landscape_thumb.jpg" group-title="Golf",DP World India Championship - Day 4 - 18 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi_1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792351809~acl=/*~id=39481162580324290756861199520403~hmac=e889e32c9a1439d629caf817983f6607ddc4197aca3fc153e410a1e53fa4f200
+https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi_1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792352415~acl=/*~id=72435955628096338166010333310689~hmac=9fad0db1204d312ddaee41f14fd1ebf518ca5fc07cd131dd0be726e444dd1a6f
 
 #EXTINF:-1 tvg-id="1090548739_ENG" tvg-name="SJM Macao Open - Day 4 - 18 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026392/1792045289085492_Asian_TOur_SJM_Macao_Open_Day4_live_landscape_thumb.jpg" group-title="Golf",SJM Macao Open - Day 4 - 18 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792351809~acl=/*~id=39481162580324290756861199520403~hmac=e889e32c9a1439d629caf817983f6607ddc4197aca3fc153e410a1e53fa4f200
+https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792352415~acl=/*~id=72435955628096338166010333310689~hmac=9fad0db1204d312ddaee41f14fd1ebf518ca5fc07cd131dd0be726e444dd1a6f
 
 #EXTINF:-1 tvg-id="1090548740" tvg-name="DP World India Championship - Day 4 - 18 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792046074732742_DP-World_India-Championship_Day4_landscape_thumb.jpg" group-title="Sports",DP World India Championship - Day 4 - 18 Oct 2026 [ENGLISH]
 https://livecfdai-par-mp.slivcdn.com/out/v1/cfed49dc0449444bac761f9dd9155916/std_lrh-800300010.m3u8?hdnea=exp=1792344036~acl=/*~id=35126441904256873407329726820446~hmac=6614df1da79190db9dd58e88ff1559e3775929ab045a414b6f7814945b7ad301
@@ -691,8 +691,8 @@ https://in-mc-flive.fancode.com/mumbai/4250212_english_hls_caf8bc89be97545_1ta-d
 #EXTINF:-1 tvg-id="4250230" tvg-name="Darmstadt CC vs ICA Berlin [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250222_53117_ICAB_DCC_fc-web.jpg" group-title="Cricket",Darmstadt CC vs ICA Berlin [English]
 https://in-mc-flive.fancode.com/mumbai/4250230_english_hls_e1ba38cd8e53180_1ta-di_h264/720p.m3u8?hdntl=Expires=1792392433~_GO=Generated~acl=/mumbai/4250230_english_hls_e1ba38cd8e53180_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f451c2d8-a821-43~Signature=AZJsJWaSEwwMTj0JU8gg9k2Vc1CsTDncg7NHh9X59DicoXlZ_ON6v1cXAg3TLnzyT4Hyyer8rqGQlHR1FRIJYGCQBWUO
 
-#EXTINF:-1 tvg-id="4248855" tvg-name="Double's Final [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Tennis",Double's Final [English]
-https://in-mc-flive.fancode.com/mumbai/4248855_english_hls_71ed00e54749010_1ta-di_h264/720p.m3u8?hdntl=Expires=1792388796~_GO=Generated~acl=/mumbai/4248855_english_hls_71ed00e54749010_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f9674c40-bfe5-4d~Signature=AZJsJWaPCoVzyc8fsDLUX6-PoHxBzJBIveInKrYX5SyfuY3jF7I2ed3OI099-JP_DBzYkRrjR-XFwH36CleIGtpr6YAH
+#EXTINF:-1 tvg-id="4249801" tvg-name="Sydney Sixers Women vs Melbourne Stars Women [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249801_53097_SS-W_MS-W_FC-Web_1791883788158.png" group-title="Cricket",Sydney Sixers Women vs Melbourne Stars Women [English]
+https://in-mc-flive.fancode.com/mumbai/4249801_english_hls_5ad2cef28346232_1ta-di_h264/720p.m3u8?hdntl=Expires=1792396067~_GO=Generated~acl=/mumbai/4249801_english_hls_5ad2cef28346232_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_01e76419-f699-4a~Signature=AZJsJWYGUny4HIIO0DKQT4aBtKMNmzUqYZBAp1FvrM2sMdHh76y4RDPxsNPRwxL6vg1NBpJzxG50Z_v8_ahSXiM7TS4G
 
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
