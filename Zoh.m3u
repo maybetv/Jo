@@ -671,10 +671,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090548740_ENG" tvg-name="DP World India Championship - Day 4 - 18 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792046074732742_DP-World_India-Championship_Day4_landscape_thumb.jpg" group-title="Golf",DP World India Championship - Day 4 - 18 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi_1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792355446~acl=/*~id=80779437115209625694008230562865~hmac=fd8d6a3c05c3a8619c9d59b2863e729b313992c47dcb7e8734a25c77e06cde82
-
-#EXTINF:-1 tvg-id="1090548739_ENG" tvg-name="SJM Macao Open - Day 4 - 18 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026392/1792045289085492_Asian_TOur_SJM_Macao_Open_Day4_live_landscape_thumb.jpg" group-title="Golf",SJM Macao Open - Day 4 - 18 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792355446~acl=/*~id=80779437115209625694008230562865~hmac=fd8d6a3c05c3a8619c9d59b2863e729b313992c47dcb7e8734a25c77e06cde82
+https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792356053~acl=/*~id=86378351928574194548340836887071~hmac=10cdda3f35b28c20e0d4160162aa72770ce46abf9197ea9b547295bbf10a6cb9
 
 #EXTINF:-1 tvg-id="1090548740" tvg-name="DP World India Championship - Day 4 - 18 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792046074732742_DP-World_India-Championship_Day4_landscape_thumb.jpg" group-title="Sports",DP World India Championship - Day 4 - 18 Oct 2026 [ENGLISH]
 https://livecfdai-par-mp.slivcdn.com/out/v1/cfed49dc0449444bac761f9dd9155916/std_lrh-800300010.m3u8?hdnea=exp=1792344036~acl=/*~id=35126441904256873407329726820446~hmac=6614df1da79190db9dd58e88ff1559e3775929ab045a414b6f7814945b7ad301
@@ -696,6 +693,9 @@ https://in-mc-flive.fancode.com/mumbai/4250230_english_hls_e1ba38cd8e53180_1ta-d
 
 #EXTINF:-1 tvg-id="4249801" tvg-name="Sydney Sixers Women vs Melbourne Stars Women [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249801_53097_SS-W_MS-W_FC-Web_1791883788158.png" group-title="Cricket",Sydney Sixers Women vs Melbourne Stars Women [English]
 https://in-mc-flive.fancode.com/mumbai/4249801_english_hls_5ad2cef28346232_1ta-di_h264/720p.m3u8?hdntl=Expires=1792396067~_GO=Generated~acl=/mumbai/4249801_english_hls_5ad2cef28346232_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_01e76419-f699-4a~Signature=AZJsJWYGUny4HIIO0DKQT4aBtKMNmzUqYZBAp1FvrM2sMdHh76y4RDPxsNPRwxL6vg1NBpJzxG50Z_v8_ahSXiM7TS4G
+
+#EXTINF:-1 tvg-id="4250231" tvg-name="THCC Rot-Gelb Hamburg vs Koln CC [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250223_53117_KCC_THCC_fc-web.jpg" group-title="Cricket",THCC Rot-Gelb Hamburg vs Koln CC [English]
+https://in-mc-flive.fancode.com/mumbai/4250231_english_hls_21a636fdad79404_1ta-di_h264/720p.m3u8?hdntl=Expires=1792399703~_GO=Generated~acl=/mumbai/4250231_english_hls_21a636fdad79404_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c884cea0-3b0c-40~Signature=AZJsJWaCZVlgAfxAbZVdWiJwb73FYDLO1vGUFLrICVCxcWanOXZG3u5C2zBp954IFOr0humOxuS_nYs6cUO8qiycTM8F
 
 #EXTINF:-1 tvg-id="4248853" tvg-name="Final: A. Fokina vs R. Jodar [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zverev-vs-Alejandro_Web-match-card_1792307949621.png" group-title="Tennis",Final: A. Fokina vs R. Jodar [English]
 https://in-mc-flive.fancode.com/mumbai/4248853_english_hls_f1cbb2304447378_1ta-di_h264/720p.m3u8?hdntl=Expires=1792397885~_GO=Generated~acl=/mumbai/4248853_english_hls_f1cbb2304447378_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_fe56dde9-09be-4b~Signature=AZJsJWYGc0sqUvnKlgr9Q0M3VJjjegnoz-m0IdC_BN2Z3sLezVC-awjGkD4dLNlvDEoGqjggbadptaYynCgUFsQtiPcA
