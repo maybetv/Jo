@@ -671,10 +671,10 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090548740_ENG" tvg-name="DP World India Championship - Day 4 - 18 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792046074732742_DP-World_India-Championship_Day4_landscape_thumb.jpg" group-title="Golf",DP World India Championship - Day 4 - 18 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792353627~acl=/*~id=54586448493857989945359862660483~hmac=e575b60887d10cc6398ee0b2f684c1ae4f1b5ca85d652068a7efa40047479bd1
+https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi_1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792354233~acl=/*~id=58168014969647318698081250311817~hmac=fcd9ad52807cc80ae9eda7cbe0d23222dee724e43c6c746be3177d68d884b0a3
 
 #EXTINF:-1 tvg-id="1090548739_ENG" tvg-name="SJM Macao Open - Day 4 - 18 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026392/1792045289085492_Asian_TOur_SJM_Macao_Open_Day4_live_landscape_thumb.jpg" group-title="Golf",SJM Macao Open - Day 4 - 18 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792353627~acl=/*~id=54586448493857989945359862660483~hmac=e575b60887d10cc6398ee0b2f684c1ae4f1b5ca85d652068a7efa40047479bd1
+https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792354233~acl=/*~id=58168014969647318698081250311817~hmac=fcd9ad52807cc80ae9eda7cbe0d23222dee724e43c6c746be3177d68d884b0a3
 
 #EXTINF:-1 tvg-id="1090548740" tvg-name="DP World India Championship - Day 4 - 18 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792046074732742_DP-World_India-Championship_Day4_landscape_thumb.jpg" group-title="Sports",DP World India Championship - Day 4 - 18 Oct 2026 [ENGLISH]
 https://livecfdai-par-mp.slivcdn.com/out/v1/cfed49dc0449444bac761f9dd9155916/std_lrh-800300010.m3u8?hdnea=exp=1792344036~acl=/*~id=35126441904256873407329726820446~hmac=6614df1da79190db9dd58e88ff1559e3775929ab045a414b6f7814945b7ad301
