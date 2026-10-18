@@ -667,32 +667,30 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
+
 # --- LIVE EVENTS ---
 
-
 #EXTINF:-1 tvg-id="1090548740_ENG" tvg-name="DP World India Championship - Day 4 - 18 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792046074732742_DP-World_India-Championship_Day4_landscape_thumb.jpg" group-title="Golf",DP World India Championship - Day 4 - 18 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi_1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792345142~acl=/*~id=73005023894593105342107349363059~hmac=d95a2a793c4e8c4330df040394e99f9839e5d70db9da83a2b7f92ef756e317f8
-
+https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi_1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792345748~acl=/*~id=96818669648156662171734885220656~hmac=37016dc30579936572bdc69aa89faa61d5943a5324989294d7235393c95d4c16
 
 #EXTINF:-1 tvg-id="1090548739_ENG" tvg-name="SJM Macao Open - Day 4 - 18 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026392/1792045289085492_Asian_TOur_SJM_Macao_Open_Day4_live_landscape_thumb.jpg" group-title="Golf",SJM Macao Open - Day 4 - 18 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792345142~acl=/*~id=73005023894593105342107349363059~hmac=d95a2a793c4e8c4330df040394e99f9839e5d70db9da83a2b7f92ef756e317f8
-
+https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792345748~acl=/*~id=96818669648156662171734885220656~hmac=37016dc30579936572bdc69aa89faa61d5943a5324989294d7235393c95d4c16
 
 #EXTINF:-1 tvg-id="1090548740" tvg-name="DP World India Championship - Day 4 - 18 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792046074732742_DP-World_India-Championship_Day4_landscape_thumb.jpg" group-title="Sports",DP World India Championship - Day 4 - 18 Oct 2026 [ENGLISH]
 https://livecfdai-par-mp.slivcdn.com/out/v1/cfed49dc0449444bac761f9dd9155916/std_lrh-800300010.m3u8?hdnea=exp=1792344036~acl=/*~id=35126441904256873407329726820446~hmac=6614df1da79190db9dd58e88ff1559e3775929ab045a414b6f7814945b7ad301
 
-
-#EXTINF:-1 tvg-id="1090548739" tvg-name="SJM Macao Open - Day 4 - 18 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055378971141_Asian-Tour_LINK-Hong-Kong-Open_D4_live_landscape_thumb.jpg" group-title="Sports",SJM Macao Open - Day 4 - 18 Oct 2026 [ENGLISH]
+#EXTINF:-1 tvg-id="1090548739" tvg-name="SJM Macao Open - Day 4 - 18 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026392/1792045289085492_Asian_TOur_SJM_Macao_Open_Day4_live_landscape_thumb.jpg" group-title="Sports",SJM Macao Open - Day 4 - 18 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792338635~acl=/*~id=63763230067086209932026693515615~hmac=513bb411c76255973917904a9edbadeffc51e52d0ce009d40ae1b84c63f46ba9
-
 
 #EXTINF:-1 tvg-id="4249799" tvg-name="Adelaide Strikers Women vs Brisbane Heat Women [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249799_53097_BH-W_AS-W_FC-Web_1791883788852.png" group-title="Cricket",Adelaide Strikers Women vs Brisbane Heat Women [English]
 https://in-mc-flive.fancode.com/mumbai/4249799_english_hls_a81c86e68253685_1ta-di_h264/720p.m3u8?hdntl=Expires=1792380305~_GO=Generated~acl=/mumbai/4249799_english_hls_a81c86e68253685_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_61b73373-123d-40~Signature=AZJsJWYFi00gi2LtUWHItr9dACR_JDd7-8VggMxus5oap3AXIx2hGW68zKKbWVab6IpGNmJbJQ1dCj7eF35JfBrBlwwH
 
-
 #EXTINF:-1 tvg-id="4249800" tvg-name="Perth Scorchers Women vs Sydney Thunder Women [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249800_53097_ST-W_PS-W_FC-Web_1791883788884.png" group-title="Cricket",Perth Scorchers Women vs Sydney Thunder Women [English]
 https://in-mc-flive.fancode.com/mumbai/4249800_english_hls_010d0bc66290556_1ta-di_h264/720p.m3u8?hdntl=Expires=1792380306~_GO=Generated~acl=/mumbai/4249800_english_hls_010d0bc66290556_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_6b46a2ef-91b2-41~Signature=AZJsJWbk_Jen28lgOyEc1TiPdmCLDgjt-ucERoeT2qOIYQRklP9J3W_J6bAEfTVC1T8oM4HC-OC7AyeG0yHsHbjd6ooJ
 
+#EXTINF:-1 tvg-id="4248855" tvg-name="Double's Final [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Tennis",Double's Final [English]
+https://in-mc-flive.fancode.com/mumbai/4248855_english_hls_71ed00e54749010_1ta-di_h264/720p.m3u8?hdntl=Expires=1792388796~_GO=Generated~acl=/mumbai/4248855_english_hls_71ed00e54749010_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f9674c40-bfe5-4d~Signature=AZJsJWaPCoVzyc8fsDLUX6-PoHxBzJBIveInKrYX5SyfuY3jF7I2ed3OI099-JP_DBzYkRrjR-XFwH36CleIGtpr6YAH
 
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
+
