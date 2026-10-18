@@ -670,6 +670,9 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 # --- LIVE EVENTS ---
 
+#EXTINF:-1 tvg-id="1090548739_ENG" tvg-name="SJM Macao Open - Day 4 - 18 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055378971141_Asian-Tour_LINK-Hong-Kong-Open_D4_live_landscape_thumb.jpg" group-title="Golf",SJM Macao Open - Day 4 - 18 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792337870~acl=/*~id=46660677560744398986972476877922~hmac=877519bcf6bb38237dfb76e91c1e6eb5fc8908c5101809139b2364d283a9d383
+
 #EXTINF:-1 tvg-id="4249799" tvg-name="Adelaide Strikers Women vs Brisbane Heat Women [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249799_53097_BH-W_AS-W_FC-Web_1791883788852.png" group-title="Cricket",Adelaide Strikers Women vs Brisbane Heat Women [English]
 https://in-mc-flive.fancode.com/mumbai/4249799_english_hls_a81c86e68253685_1ta-di_h264/720p.m3u8?hdntl=Expires=1792380305~_GO=Generated~acl=/mumbai/4249799_english_hls_a81c86e68253685_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_61b73373-123d-40~Signature=AZJsJWYFi00gi2LtUWHItr9dACR_JDd7-8VggMxus5oap3AXIx2hGW68zKKbWVab6IpGNmJbJQ1dCj7eF35JfBrBlwwH
 
