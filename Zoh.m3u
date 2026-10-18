@@ -671,7 +671,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090548739_ENG" tvg-name="SJM Macao Open - Day 4 - 18 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055378971141_Asian-Tour_LINK-Hong-Kong-Open_D4_live_landscape_thumb.jpg" group-title="Golf",SJM Macao Open - Day 4 - 18 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792340293~acl=/*~id=35599053119313952169663470197140~hmac=a2aaca731da93be563655155643eb32a69f254e79eae5acad4e0829b57877e0a
+https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792340899~acl=/*~id=92761244253040045992626709891588~hmac=785357df40a61e9cd992ec5d56fa4f87e02112f2b197af9c0d7c19f839f77c01
 
 #EXTINF:-1 tvg-id="1090548739" tvg-name="SJM Macao Open - Day 4 - 18 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055378971141_Asian-Tour_LINK-Hong-Kong-Open_D4_live_landscape_thumb.jpg" group-title="Sports",SJM Macao Open - Day 4 - 18 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792338635~acl=/*~id=63763230067086209932026693515615~hmac=513bb411c76255973917904a9edbadeffc51e52d0ce009d40ae1b84c63f46ba9
@@ -681,9 +681,6 @@ https://in-mc-flive.fancode.com/mumbai/4249799_english_hls_a81c86e68253685_1ta-d
 
 #EXTINF:-1 tvg-id="4249800" tvg-name="Perth Scorchers Women vs Sydney Thunder Women [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249800_53097_ST-W_PS-W_FC-Web_1791883788884.png" group-title="Cricket",Perth Scorchers Women vs Sydney Thunder Women [English]
 https://in-mc-flive.fancode.com/mumbai/4249800_english_hls_010d0bc66290556_1ta-di_h264/720p.m3u8?hdntl=Expires=1792380306~_GO=Generated~acl=/mumbai/4249800_english_hls_010d0bc66290556_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_6b46a2ef-91b2-41~Signature=AZJsJWbk_Jen28lgOyEc1TiPdmCLDgjt-ucERoeT2qOIYQRklP9J3W_J6bAEfTVC1T8oM4HC-OC7AyeG0yHsHbjd6ooJ
-
-#EXTINF:-1 tvg-id="4249838" tvg-name="Wellington Phoenix vs Melbourne Victory [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249838_53101_WEL_MLV_fc-Web_1792223292037.jpg" group-title="Football",Wellington Phoenix vs Melbourne Victory [English]
-https://in-mc-flive.fancode.com/mumbai/4249838_english_hls_436c80080515677_1ta-di_h264/720p.m3u8?hdntl=Expires=1792374854~_GO=Generated~acl=/mumbai/4249838_english_hls_436c80080515677_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_89174259-d3a0-48~Signature=AZJsJWako3kvEEAEzeLta_nnQRM__Ppt88IdJ_oCEEi02qQYTOA0KwXzKi6xQEo1RqbGy1h_jXwRLd3v2PgQ3SazxREH
 
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
