@@ -20,7 +20,7 @@ https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=443
 
 # --- ISL SPECIAL EVENTS ---
 #EXTINF:-1 tvg-id="1090549112_ENG" tvg-name="Churchill Brothers SC vs East Bengal FC - 18 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026502/1792157806465755_ISL26_Churchill-Brothers-SC-vs-East-Bengal-FC_live_landscape_thumb.jpg" group-title="Football",Churchill Brothers SC vs East Bengal FC - 18 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792369997~acl=/*~id=00145883458377494939408037337001~hmac=61f99ad13f80dc64d9d2d519aebca5598ca2ad3476f17cd9a5bab00000f4cb17
+https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792370605~acl=/*~id=63587495112868157057823418184657~hmac=971240ae90a47d1350b4e6828a3c07cc017ee6e9416d4f88287ff484c616d60f
 
 #EXTINF:-1 tvg-id="1090549112" tvg-name="Churchill Brothers SC vs East Bengal FC - 18 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026502/1792157806465755_ISL26_Churchill-Brothers-SC-vs-East-Bengal-FC_live_landscape_thumb.jpg" group-title="Sports",Churchill Brothers SC vs East Bengal FC - 18 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792363835~acl=/*~id=31030325418032356700331035016574~hmac=3d73c575041b5024ae7a9f946d621caf44fbe733d408fb5c5802ecb389c7c8bc
@@ -680,19 +680,16 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090549112_HIN" tvg-name="Churchill Brothers SC vs East Bengal FC - 18 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026502/1792157806465755_ISL26_Churchill-Brothers-SC-vs-East-Bengal-FC_live_landscape_thumb.jpg" group-title="Football",Churchill Brothers SC vs East Bengal FC - 18 Oct 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792369997~acl=/*~id=00145883458377494939408037337001~hmac=61f99ad13f80dc64d9d2d519aebca5598ca2ad3476f17cd9a5bab00000f4cb17
+https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792370605~acl=/*~id=63587495112868157057823418184657~hmac=971240ae90a47d1350b4e6828a3c07cc017ee6e9416d4f88287ff484c616d60f
 
 #EXTINF:-1 tvg-id="1090549112_BEN" tvg-name="Churchill Brothers SC vs East Bengal FC - 18 Oct 2026 [BEN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026502/1792157806465755_ISL26_Churchill-Brothers-SC-vs-East-Bengal-FC_live_landscape_thumb.jpg" group-title="Football",Churchill Brothers SC vs East Bengal FC - 18 Oct 2026 [BEN]
-https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1810/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792369997~acl=/*~id=00145883458377494939408037337001~hmac=61f99ad13f80dc64d9d2d519aebca5598ca2ad3476f17cd9a5bab00000f4cb17
+https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1810/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792370605~acl=/*~id=63587495112868157057823418184657~hmac=971240ae90a47d1350b4e6828a3c07cc017ee6e9416d4f88287ff484c616d60f
 
 #EXTINF:-1 tvg-id="1090548741_ENG" tvg-name="Emperia Marathas vs Tamil Titans - Super 6 - 18 Oct 2026  [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792130666267133_VCL26_Emperia-Marathas-v-Tamil-Titans_live_landscape_thumb.jpg" group-title="Volleyball",Emperia Marathas vs Tamil Titans - Super 6 - 18 Oct 2026  [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120304/Volleyba1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792369997~acl=/*~id=00145883458377494939408037337001~hmac=61f99ad13f80dc64d9d2d519aebca5598ca2ad3476f17cd9a5bab00000f4cb17
+https://sonydaimenew.akamaized.net/hls/live/2120304/Volleyba1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792370605~acl=/*~id=63587495112868157057823418184657~hmac=971240ae90a47d1350b4e6828a3c07cc017ee6e9416d4f88287ff484c616d60f
 
 #EXTINF:-1 tvg-id="1090548741_HIN" tvg-name="Emperia Marathas vs Tamil Titans - Super 6 - 18 Oct 2026  [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792130666267133_VCL26_Emperia-Marathas-v-Tamil-Titans_live_landscape_thumb.jpg" group-title="Volleyball",Emperia Marathas vs Tamil Titans - Super 6 - 18 Oct 2026  [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792369997~acl=/*~id=00145883458377494939408037337001~hmac=61f99ad13f80dc64d9d2d519aebca5598ca2ad3476f17cd9a5bab00000f4cb17
-
-#EXTINF:-1 tvg-id="1090549111_ENG" tvg-name="DP World Locker Room - Day 4 - 18 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026488/1792152626109905_DP-World-Locker-Room-D4_landscape_thumb.jpg" group-title="Golf",DP World Locker Room - Day 4 - 18 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120301/Golf_DPW1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792369997~acl=/*~id=00145883458377494939408037337001~hmac=61f99ad13f80dc64d9d2d519aebca5598ca2ad3476f17cd9a5bab00000f4cb17
+https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792370605~acl=/*~id=63587495112868157057823418184657~hmac=971240ae90a47d1350b4e6828a3c07cc017ee6e9416d4f88287ff484c616d60f
 
 #EXTINF:-1 tvg-id="1090549111" tvg-name="DP World Locker Room - Day 4 - 18 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026488/1792152626109905_DP-World-Locker-Room-D4_landscape_thumb.jpg" group-title="Sports",DP World Locker Room - Day 4 - 18 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2120301/Golf_DPW1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792365641~acl=/*~id=43943708447028263583653617909992~hmac=298d25c9c9d0c0bf9352f467a46e757927565535501a3af880cc2f5010167860
@@ -723,14 +720,14 @@ https://ComeInNextMatch.com/4K.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=783624418a73874b1bacbd79dda56c44:9c3a8a06ed069e28aa86c5e22dfeae67
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qs5pyspzlo/out/v1/3ef8ed04d65740bab473e63afb981a30/cenc.mpd
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qs5pyspzlo/out/v1/3ef8ed04d65740bab473e63afb981a30/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HMQL4NJS" tvg-name="Pakistan ODI Tri-Series 2026 - 1st Match - Pakistan vs Sri Lanka" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ff2ab606-8760-414e-8ecf-129071962621/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Pakistan ODI Tri-Series 2026 - 1st Match - Pakistan vs Sri Lanka
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=012110afbe9bdf40e7da3cc766ad041e:b2b91f89d2b223b349208e44e5ff49da
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/886jnqvhnx/out/v1/c3fafabc2248406a87537176ca13a389/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/886jnqvhnx/out/v1/c3fafabc2248406a87537176ca13a389/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HM6V5L64" tvg-name="Chelsea vs. Tottenham" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c0d2bb98-6ca8-4a8e-b4a8-abb77cecf5e0/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Chelsea vs. Tottenham
 #KODIPROP:inputstream=inputstream.adaptive
