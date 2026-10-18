@@ -17,16 +17,6 @@ https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_i
 #EXTVLCOPT:http-user-agent=Denver1769
 https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=443
 
-
-# --- ISL SPECIAL EVENTS ---
-#EXTINF:-1 tvg-id="1090548741_ENG" tvg-name="Delhi Dynamites vs Punjab Aerostrikers - Super 6 - 18 Oct 2026  [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792130910420133_VCL26_Delhi-Dynamites-v-Punjab-Aerostrikers_live_landscape_thumb.jpg" group-title="Volleyball",Delhi Dynamites vs Punjab Aerostrikers - Super 6 - 18 Oct 2026  [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120304/Volleyba1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792385184~acl=/*~id=10907361032808773127733544699386~hmac=ae4c3e6e16961438331f0d29fa2a256e52886f3c0c54120e5ba0184a36b4be52
-
-#EXTINF:-1 tvg-id="1090548741" tvg-name="Delhi Dynamites vs Punjab Aerostrikers - Super 6 - 18 Oct 2026  [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792130910420133_VCL26_Delhi-Dynamites-v-Punjab-Aerostrikers_live_landscape_thumb.jpg" group-title="Sports",Delhi Dynamites vs Punjab Aerostrikers - Super 6 - 18 Oct 2026  [ENGLISH]
-https://sonydaimenew.akamaized.net/hls/live/2120304/Volleyba1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792371036~acl=/*~id=59082873898045085632344253057951~hmac=b08bbbb9edc85d3508233d422cbdb1452c1dcecb548b1c4d025de512f5b06f5e
-# --- END ISL SPECIAL EVENTS ---
-
-
 #EXTINF:-1 tvg-id="22020" tvg-logo="https://img.media.jio.com/tvpimages/97/2/300156_1752854414598_l_medium.jpg" group-title="Malayalam Entertainment",Mazhavil Manorama HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=37b4403a66f2565da33ba3b5704bb178:449f87256b3c1d7c2cdcbe04cbfd5530
@@ -679,11 +669,8 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 # --- LIVE EVENTS ---
 
-#EXTINF:-1 tvg-id="1090548741_HIN" tvg-name="Delhi Dynamites vs Punjab Aerostrikers - Super 6 - 18 Oct 2026  [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792130910420133_VCL26_Delhi-Dynamites-v-Punjab-Aerostrikers_live_landscape_thumb.jpg" group-title="Volleyball",Delhi Dynamites vs Punjab Aerostrikers - Super 6 - 18 Oct 2026  [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792385184~acl=/*~id=10907361032808773127733544699386~hmac=ae4c3e6e16961438331f0d29fa2a256e52886f3c0c54120e5ba0184a36b4be52
-
 #EXTINF:-1 tvg-id="1090548750_ENG" tvg-name="Kakatiya Knights vs Mighty Marathas - Final - 18 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026656/1792337143148231_APL26_final_Kakatiya_Knights_vs_Mighty_Marathas_landscape_thumb.jpg" group-title="Archery",Kakatiya Knights vs Mighty Marathas - Final - 18 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022317/ArcheryL1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792385184~acl=/*~id=10907361032808773127733544699386~hmac=ae4c3e6e16961438331f0d29fa2a256e52886f3c0c54120e5ba0184a36b4be52
+https://sonydaimenew.akamaized.net/hls/live/2022317/ArcheryL1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792385790~acl=/*~id=52061484054151822898686311269872~hmac=1fabf2ed07c430bb2103767e8164267c820af873532a337ab6f41caaadaf8d60
 
 #EXTINF:-1 tvg-id="1090548750" tvg-name="Kakatiya Knights vs Mighty Marathas - Final - 18 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026656/1792337143148231_APL26_final_Kakatiya_Knights_vs_Mighty_Marathas_landscape_thumb.jpg" group-title="Sports",Kakatiya Knights vs Mighty Marathas - Final - 18 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2022317/ArcheryL1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792374642~acl=/*~id=14995686125995684999920299278963~hmac=b7a28308e2c3417889e07cbe3bfb807ff648bc07ad7a70958f989cfdab73bf38
