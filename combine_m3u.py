@@ -28,81 +28,89 @@ HEADERS = {
 def get_isl_type(block_lines, provider):
     """
     3-ഘട്ട ഫിൽട്ടറിംഗ്:
-    1. ആദ്യം Sony ഉറപ്പുവരുത്തുന്നു.
-    2. ISL / കേരള ബ്ലാസ്റ്റേഴ്സ് മാച്ചുകൾ മാത്രം കണ്ടെത്തുന്നു.
-    3. മലയാളം, ഇംഗ്ലീഷ് എന്നിങ്ങനെ വേർതിരിക്കുന്നു.
+    1. പ്രൊവൈഡർ SonyLiv ആയിരിക്കണം അല്ലെങ്കിൽ ഡൊമൈൻ/കണ്ടന്റിൽ Sony ഉണ്ടായിരിക്കണം.
+    2. ISL / ഫുട്ബോൾ ഇവന്റ് ടാഗുകൾ (ഉദാ: ISL26, footlive, kerala blasters മുതലായവ) കണ്ടെത്തുന്നു.
+    3. [MAL], /MAL/ അല്ലെങ്കിൽ [ENG], /ENG/ വഴി മലയാളവും ഇംഗ്ലീഷും കൃത്യമായി വേർതിരിക്കുന്നു.
     """
-    full_text = " ".join(block_lines).lower()
+    full_text = " ".join(block_lines)
+    full_lower = full_text.lower()
 
-    # 1. FIRST HINT: പ്രൊവൈഡർ SonyLiv ആയിരിക്കണം അല്ലെങ്കിൽ വരികളിൽ 'sony' ഉണ്ടായിരിക്കണം
-    is_sony = (provider.lower() == "sonyliv") or ("sony" in full_text)
+    # 1. FIRST HINT: Sony ആവണം
+    is_sony = (provider.lower() == "sonyliv") or ("sony" in full_lower)
     if not is_sony:
-        return None  # Sony അല്ലെങ്കിൽ ഇവിടെ വെച്ച് തന്നെ ഒഴിവാക്കും
+        return None
 
-    # 2. SECOND HINT: ISL / കേരള ബ്ലാസ്റ്റേഴ്സ് കീവേഡുകൾ ഉണ്ടോ എന്ന് പരിശോധിക്കുന്നു
+    # 2. SECOND HINT: ISL / ടീം പേരുകൾ / സ്ട്രീം ടാഗുകൾ (ISL26, footlive മുതലായവ)
     match_keywords = (
-        r'\b(isl|indian super league|kerala blasters|blasters|kbfc|kerala|footlive)\b'
+        r'\b(isl|isl\d+|indian super league|footlive|kerala blasters|blasters|kbfc|east bengal|mohun bagan|mumbai city|bengaluru fc|chennaiyin|goa|hyderabad|jamshedpur|northeast united|odisha|punjab|churchill brothers)\b'
         r'|കേരള|ബ്ലാസ്റ്റേഴ്സ്'
     )
-    if not re.search(match_keywords, full_text):
-        return None  # ഇവന്റ് മാച്ച് അല്ലെങ്കിൽ ഒഴിവാക്കും
+    if not re.search(match_keywords, full_lower):
+        return None
 
-    # 3. THIRD HINT: ഭാഷ മലയാളമാണോ ഇംഗ്ലീഷാണോ എന്ന് തിരിക്കുന്നു
-    if re.search(r'(\bmal\b|\[mal\]|_mal|/mal/|malayalam|മലയാളം)', full_text):
+    # 3. THIRD HINT: ലാംഗ്വേജ് കൃത്യമായി ഡിറ്റക്റ്റ് ചെയ്യുന്നു ([MAL], /MAL/ അല്ലെങ്കിൽ [ENG], /ENG/)
+    # മലയാളം മുൻഗണന നൽകുന്നു
+    if re.search(r'(\bmal\b|\[mal\]|_mal|/mal/|malayalam|മലയാളം)', full_lower):
         return 'Malayalam'
-    elif re.search(r'(\beng\b|\[eng\]|_eng|/eng/|english|ഇംഗ്ലീഷ്)', full_text):
+    # ഇംഗ്ലീഷ് ചെക്ക്
+    elif re.search(r'(\beng\b|\[eng\]|_eng|/eng/|english|ഇംഗ്ലീഷ്)', full_lower):
         return 'English'
 
     return None
 
 
 def clean_previous_isl_block(content):
-    """മുൻപ് ചേർത്ത ISL ബ്ലോക്ക് ഫയലിൽ നിന്ന് കൃത്യമായി നീക്കം ചെയ്യുന്നു."""
+    """മുൻപ് ചേർത്ത ISL ബ്ലോക്ക് ഫയലിൽ നിന്ന് പൂർണ്ണമായി നീക്കം ചെയ്യുന്നു."""
     pattern = rf"\n*{re.escape(ISL_START_MARKER)}.*?{re.escape(ISL_END_MARKER)}\n*"
     return re.sub(pattern, "\n\n", content, flags=re.DOTALL)
 
 
 def insert_below_asianet(content, isl_blocks):
     """
-    മാച്ചുകൾ ഉണ്ടെങ്കിൽ മാത്രം ഏഷ്യാനെറ്റിന് താഴെ മലയാളം, ഇംഗ്ലീഷ് ക്രമത്തിൽ ചേർക്കുന്നു.
-    മാച്ചുകൾ ഇല്ലെങ്കിൽ ഫയലിൽ യാതൊരു മാറ്റവും വരുത്തില്ല.
+    Asianet HD (അല്ലെങ്കിൽ Asianet) ചാനൽ സ്ട്രീം അവസാനിക്കുന്ന വരിക്ക് തൊട്ടുതാഴെ
+    മലയാളം ആദ്യം, രണ്ടാമത് ഇംഗ്ലീഷ് എന്ന ക്രമത്തിൽ ഇൻസേർട്ട് ചെയ്യുന്നു.
+    മാച്ചുകൾ ഇല്ലെങ്കിൽ ഫയൽ ബ്ലാങ്ക് ആക്കാതെ ക്ലീനായി നിലനിർത്തുന്നു.
     """
-    has_any_isl = any(len(blocks) > 0 for blocks in isl_blocks.values())
-    if not has_any_isl:
-        return content  # ലിങ്ക് ഇല്ലെങ്കിൽ ബ്ലാങ്ക് ആയി നിലനിർത്തും
+    mal_count = len(isl_blocks.get("Malayalam", []))
+    eng_count = len(isl_blocks.get("English", []))
 
-    # മലയാളം ആദ്യം, രണ്ടാമത് ഇംഗ്ലീഷ്
-    isl_content_list = []
-    for lang in ["Malayalam", "English"]:
-        for block in isl_blocks.get(lang, []):
-            isl_content_list.append("\n".join(block))
+    if mal_count == 0 and eng_count == 0:
+        return content  # പുതിയ മാച്ചുകൾ ഇല്ലെങ്കിൽ മാറ്റം വരുത്തേണ്ടതില്ല
 
-    isl_section = f"{ISL_START_MARKER}\n" + "\n\n".join(isl_content_list) + f"\n{ISL_END_MARKER}"
+    # മലയാളം ആദ്യം, തുടർന്ന് ഇംഗ്ലീഷ്
+    ordered_isl_items = []
+    for block in isl_blocks.get("Malayalam", []):
+        ordered_isl_items.append("\n".join(block))
+    for block in isl_blocks.get("English", []):
+        ordered_isl_items.append("\n".join(block))
+
+    isl_section = f"{ISL_START_MARKER}\n" + "\n\n".join(ordered_isl_items) + f"\n{ISL_END_MARKER}"
 
     lines = content.splitlines(keepends=True)
     insert_idx = -1
     found_asianet = False
 
-    # 1. Asianet HD കണ്ടെത്തുന്നു
+    # 1. ആദ്യം Asianet HD കണ്ടെത്തുന്നു (അതിന്റെ സ്ട്രീം ലിങ്കിന് താഴെ)
     for i, line in enumerate(lines):
-        if line.startswith("#EXTINF") and re.search(r'asianet.*hd', line, re.I):
+        if line.startswith("#EXTINF") and re.search(r'asianet.*hd', line, re.IGNORECASE):
             found_asianet = True
             continue
         if found_asianet and line.strip().startswith(("http://", "https://")):
             insert_idx = i + 1
             break
 
-    # 2. ബാക്കപ്പായി സാധാരണ Asianet
+    # 2. HD ഇല്ലെങ്കിൽ സാധാരണ Asianet കണ്ടെത്തുന്നു
     if insert_idx == -1:
         found_asianet = False
         for i, line in enumerate(lines):
-            if line.startswith("#EXTINF") and re.search(r'asianet', line, re.I):
+            if line.startswith("#EXTINF") and re.search(r'asianet', line, re.IGNORECASE):
                 found_asianet = True
                 continue
             if found_asianet and line.strip().startswith(("http://", "https://")):
                 insert_idx = i + 1
                 break
 
+    # ഏഷ്യാനെറ്റ് കണ്ടെത്തിയാൽ അതിനു തൊട്ടുതാഴെ വെയ്ക്കുന്നു, ഇല്ലെങ്കിൽ അവസാനം വെയ്ക്കുന്നു
     if insert_idx != -1:
         before = "".join(lines[:insert_idx]).rstrip("\r\n")
         after = "".join(lines[insert_idx:]).lstrip("\r\n")
@@ -115,7 +123,7 @@ def main():
     isl_blocks = {"Malayalam": [], "English": []}
     live_blocks = []
 
-    # 1. നിലവിലുള്ള ഫയൽ അതേപടി റീഡ് ചെയ്യുന്നു
+    # 1. നിലവിലുള്ള ഫയൽ വായിക്കുന്നു
     base_content = "#EXTM3U\n\n"
     if os.path.exists(OUTPUT):
         with open(OUTPUT, "r", encoding="utf-8", errors="ignore") as f:
@@ -126,7 +134,7 @@ def main():
         elif content.strip():
             base_content = content.rstrip() + "\n\n"
 
-    # പഴയ ISL ബ്ലോക്ക് ക്ലീൻ ചെയ്യുന്നു
+    # പഴയ ISL സെക്ഷൻ നീക്കം ചെയ്യുന്നു
     base_content = clean_previous_isl_block(base_content)
 
     existing_streams = set()
@@ -135,7 +143,7 @@ def main():
         if line_str.startswith(("http://", "https://")):
             existing_streams.add(line_str)
 
-    # 2. പ്ലേലിസ്റ്റുകൾ പരിശോധിക്കുന്നു
+    # 2. പ്ലേലിസ്റ്റുകൾ ഫെച്ച് ചെയ്ത് പ്രോസസ്സ് ചെയ്യുന്നു
     for provider, url in PLAYLISTS.items():
         print(f"Checking {provider}...")
 
@@ -171,7 +179,7 @@ def main():
                 if stream and stream not in existing_streams:
                     existing_streams.add(stream)
 
-                    # ഫിൽട്ടർ പരിശോധിക്കുന്നു (Sony -> Match -> Language)
+                    # ISL ഫിൽട്ടർ പരിശോധിക്കുന്നു
                     isl_type = get_isl_type(block, provider)
                     if isl_type:
                         isl_blocks[isl_type].append(block)
@@ -183,13 +191,14 @@ def main():
         except Exception as e:
             print(f"Failed to fetch {provider}: {e}")
 
-    # 3. Asianet HD-ക്ക് താഴെ ഇൻസേർട്ട് ചെയ്യുന്നു (മാച്ചുകൾ ഉണ്ടെങ്കിൽ മാത്രം)
+    # 3. Asianet-ന് താഴെ പ്രോപ്പർ ഓർഡറിൽ ചേർക്കുന്നു
     updated_base = insert_below_asianet(base_content, isl_blocks)
 
     # 4. ഫയൽ സേവ് ചെയ്യുന്നു
     with open(OUTPUT, "w", encoding="utf-8") as out:
         out.write(updated_base.rstrip() + "\n\n")
 
+        # മറ്റ് ലൈവ് ഇവന്റുകൾ ഏറ്റവും താഴെ ചേർക്കുന്നു
         if INCLUDE_OTHER_LIVE_EVENTS and live_blocks:
             out.write(f"{MARKER}\n\n")
             out.write("\n\n".join(live_blocks) + "\n\n")
@@ -197,9 +206,9 @@ def main():
     print(f"\nSuccessfully updated {OUTPUT}!")
     total_isl = len(isl_blocks['Malayalam']) + len(isl_blocks['English'])
     if total_isl > 0:
-        print(f"Placed {len(isl_blocks['Malayalam'])} Malayalam and {len(isl_blocks['English'])} English matches below Asianet HD.")
+        print(f"Placed {len(isl_blocks['Malayalam'])} Malayalam and {len(isl_blocks['English'])} English matches below Asianet.")
     else:
-        print("No active Sony ISL matches found. Left clean without modifications.")
+        print("No active Sony ISL matches found. File kept clean.")
 
 
 if __name__ == "__main__":
