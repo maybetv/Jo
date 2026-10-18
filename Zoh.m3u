@@ -671,16 +671,16 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090549112_ENG" tvg-name="Churchill Brothers SC vs East Bengal FC - 18 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026502/1792157806465755_ISL26_Churchill-Brothers-SC-vs-East-Bengal-FC_live_landscape_thumb.jpg" group-title="Football",Churchill Brothers SC vs East Bengal FC - 18 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792366962~acl=/*~id=78683053997096191615762029517301~hmac=4129d2636ea9c3ee65e512a5f94fdf6814e8d98ffd07462ce467aab38ba05871
+https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792367569~acl=/*~id=41895732607851068270151623420738~hmac=b5e6ecc706f2386c284c0c8dd0319550e30b666cbb399e76496e8fa5050a5385
 
 #EXTINF:-1 tvg-id="1090549112_HIN" tvg-name="Churchill Brothers SC vs East Bengal FC - 18 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026502/1792157806465755_ISL26_Churchill-Brothers-SC-vs-East-Bengal-FC_live_landscape_thumb.jpg" group-title="Football",Churchill Brothers SC vs East Bengal FC - 18 Oct 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792366962~acl=/*~id=78683053997096191615762029517301~hmac=4129d2636ea9c3ee65e512a5f94fdf6814e8d98ffd07462ce467aab38ba05871
+https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792367569~acl=/*~id=41895732607851068270151623420738~hmac=b5e6ecc706f2386c284c0c8dd0319550e30b666cbb399e76496e8fa5050a5385
 
 #EXTINF:-1 tvg-id="1090549112_BEN" tvg-name="Churchill Brothers SC vs East Bengal FC - 18 Oct 2026 [BEN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026502/1792157806465755_ISL26_Churchill-Brothers-SC-vs-East-Bengal-FC_live_landscape_thumb.jpg" group-title="Football",Churchill Brothers SC vs East Bengal FC - 18 Oct 2026 [BEN]
-https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1810/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792366962~acl=/*~id=78683053997096191615762029517301~hmac=4129d2636ea9c3ee65e512a5f94fdf6814e8d98ffd07462ce467aab38ba05871
+https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1810/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792367569~acl=/*~id=41895732607851068270151623420738~hmac=b5e6ecc706f2386c284c0c8dd0319550e30b666cbb399e76496e8fa5050a5385
 
 #EXTINF:-1 tvg-id="1090549111_ENG" tvg-name="DP World Locker Room - Day 4 - 18 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026488/1792152626109905_DP-World-Locker-Room-D4_landscape_thumb.jpg" group-title="Golf",DP World Locker Room - Day 4 - 18 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120301/Golf_DPW1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792366962~acl=/*~id=78683053997096191615762029517301~hmac=4129d2636ea9c3ee65e512a5f94fdf6814e8d98ffd07462ce467aab38ba05871
+https://sonydaimenew.akamaized.net/hls/live/2120301/Golf_DPW1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792367569~acl=/*~id=41895732607851068270151623420738~hmac=b5e6ecc706f2386c284c0c8dd0319550e30b666cbb399e76496e8fa5050a5385
 
 #EXTINF:-1 tvg-id="1090549112" tvg-name="Churchill Brothers SC vs East Bengal FC - 18 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026502/1792157806465755_ISL26_Churchill-Brothers-SC-vs-East-Bengal-FC_live_landscape_thumb.jpg" group-title="Sports",Churchill Brothers SC vs East Bengal FC - 18 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792363835~acl=/*~id=31030325418032356700331035016574~hmac=3d73c575041b5024ae7a9f946d621caf44fbe733d408fb5c5802ecb389c7c8bc
@@ -705,9 +705,6 @@ https://in-mc-flive.fancode.com/mumbai/4249196_english_hls_f8c78325e154246_1ta-d
 
 #EXTINF:-1 tvg-id="4249197" tvg-name="Crystal Palace Women vs West Ham United Women [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249197_53038_CP-W_WHU-W_fc-web.jpg" group-title="Football",Crystal Palace Women vs West Ham United Women [English]
 https://in-mc-flive.fancode.com/mumbai/4249197_english_hls_d2d502908f38300_1ta-di_h264/720p.m3u8?hdntl=Expires=1792406976~_GO=Generated~acl=/mumbai/4249197_english_hls_d2d502908f38300_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_2506fd71-efdb-4e~Signature=AZJsJWZd8drPiAdf2QR_MXk7Q4MPc1Eat29DFlp8U_9gufsTfr93sWdOIUUX9HzR6fpgex8781sOLOMF4yhwbXQITc0J
-
-#EXTINF:-1 tvg-id="4248853" tvg-name="Final: A. Fokina vs R. Jodar [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zverev-vs-Alejandro_Web-match-card_1792307949621.png" group-title="Tennis",Final: A. Fokina vs R. Jodar [English]
-https://in-mc-flive.fancode.com/mumbai/4248853_english_hls_f1cbb2304447378_1ta-di_h264/720p.m3u8?hdntl=Expires=1792397885~_GO=Generated~acl=/mumbai/4248853_english_hls_f1cbb2304447378_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_fe56dde9-09be-4b~Signature=AZJsJWYGc0sqUvnKlgr9Q0M3VJjjegnoz-m0IdC_BN2Z3sLezVC-awjGkD4dLNlvDEoGqjggbadptaYynCgUFsQtiPcA
 
 #EXTINF:-1 tvg-id="4250148" tvg-name="Finals [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png" group-title="Badminton",Finals [English]
 https://in-mc-flive.fancode.com/mumbai/4250148_english_hls_17a60093f284463_1ta-di_h264/720p.m3u8?hdntl=Expires=1792403337~_GO=Generated~acl=/mumbai/4250148_english_hls_17a60093f284463_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_8fbb711d-c736-4b~Signature=AZJsJWb1X1fGiKnCeEpmgcPbifEys4cjYDSjpyYeuU7GhJnqXujXEdS2I2eo0Exo_7P5sYSDZ70N1J0vfqGqbrdFE_UK
