@@ -671,16 +671,16 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090549112_ENG" tvg-name="Churchill Brothers SC vs East Bengal FC - 18 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026502/1792157806465755_ISL26_Churchill-Brothers-SC-vs-East-Bengal-FC_live_landscape_thumb.jpg" group-title="Football",Churchill Brothers SC vs East Bengal FC - 18 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792365748~acl=/*~id=45996159584435651905628824276260~hmac=a86d63a9e942cf41bfdc2583cf5ac979ca142f91269da2ac0ba77f4671b148b4
+https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792366354~acl=/*~id=32107522278776185005960551653506~hmac=fad293457940e55ce9afbaa576db97c85edb03a7cc84718da626d47d2efa24b3
 
 #EXTINF:-1 tvg-id="1090549112_HIN" tvg-name="Churchill Brothers SC vs East Bengal FC - 18 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026502/1792157806465755_ISL26_Churchill-Brothers-SC-vs-East-Bengal-FC_live_landscape_thumb.jpg" group-title="Football",Churchill Brothers SC vs East Bengal FC - 18 Oct 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792365748~acl=/*~id=45996159584435651905628824276260~hmac=a86d63a9e942cf41bfdc2583cf5ac979ca142f91269da2ac0ba77f4671b148b4
+https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792366354~acl=/*~id=32107522278776185005960551653506~hmac=fad293457940e55ce9afbaa576db97c85edb03a7cc84718da626d47d2efa24b3
 
 #EXTINF:-1 tvg-id="1090549112_BEN" tvg-name="Churchill Brothers SC vs East Bengal FC - 18 Oct 2026 [BEN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026502/1792157806465755_ISL26_Churchill-Brothers-SC-vs-East-Bengal-FC_live_landscape_thumb.jpg" group-title="Football",Churchill Brothers SC vs East Bengal FC - 18 Oct 2026 [BEN]
-https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1810/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792365748~acl=/*~id=45996159584435651905628824276260~hmac=a86d63a9e942cf41bfdc2583cf5ac979ca142f91269da2ac0ba77f4671b148b4
+https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1810/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792366354~acl=/*~id=32107522278776185005960551653506~hmac=fad293457940e55ce9afbaa576db97c85edb03a7cc84718da626d47d2efa24b3
 
 #EXTINF:-1 tvg-id="1090549111_ENG" tvg-name="DP World Locker Room - Day 4 - 18 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026488/1792152626109905_DP-World-Locker-Room-D4_landscape_thumb.jpg" group-title="Golf",DP World Locker Room - Day 4 - 18 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120301/Golf_DPW1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792365748~acl=/*~id=45996159584435651905628824276260~hmac=a86d63a9e942cf41bfdc2583cf5ac979ca142f91269da2ac0ba77f4671b148b4
+https://sonydaimenew.akamaized.net/hls/live/2120301/Golf_DPW1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792366354~acl=/*~id=32107522278776185005960551653506~hmac=fad293457940e55ce9afbaa576db97c85edb03a7cc84718da626d47d2efa24b3
 
 #EXTINF:-1 tvg-id="1090549112" tvg-name="Churchill Brothers SC vs East Bengal FC - 18 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026502/1792157806465755_ISL26_Churchill-Brothers-SC-vs-East-Bengal-FC_live_landscape_thumb.jpg" group-title="Sports",Churchill Brothers SC vs East Bengal FC - 18 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792363835~acl=/*~id=31030325418032356700331035016574~hmac=3d73c575041b5024ae7a9f946d621caf44fbe733d408fb5c5802ecb389c7c8bc
@@ -696,9 +696,6 @@ https://in-mc-flive.fancode.com/mumbai/4250161_english_hls_a3c45a940c84523_1ta-d
 
 #EXTINF:-1 tvg-id="4250212" tvg-name="Uganda A vs Jersey [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Jersey-tour-of-Uganda-A-2026_Web_1080_x_810.jpg" group-title="Cricket",Uganda A vs Jersey [English]
 https://in-mc-flive.fancode.com/mumbai/4250212_english_hls_caf8bc89be97545_1ta-di_h264/720p.m3u8?hdntl=Expires=1792392431~_GO=Generated~acl=/mumbai/4250212_english_hls_caf8bc89be97545_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e3424137-bc14-42~Signature=AZJsJWb6aGDeTQYOMVdEFSRV57sDAPD49aq6jf4eat3bMhWBeNhZAxUjfXZ2ck2Be-uSe-26mkmfYG4Om8OnXB3TP00L
-
-#EXTINF:-1 tvg-id="4249801" tvg-name="Sydney Sixers Women vs Melbourne Stars Women [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249801_53097_SS-W_MS-W_FC-Web_1791883788158.png" group-title="Cricket",Sydney Sixers Women vs Melbourne Stars Women [English]
-https://in-mc-flive.fancode.com/mumbai/4249801_english_hls_5ad2cef28346232_1ta-di_h264/720p.m3u8?hdntl=Expires=1792396067~_GO=Generated~acl=/mumbai/4249801_english_hls_5ad2cef28346232_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_01e76419-f699-4a~Signature=AZJsJWYGUny4HIIO0DKQT4aBtKMNmzUqYZBAp1FvrM2sMdHh76y4RDPxsNPRwxL6vg1NBpJzxG50Z_v8_ahSXiM7TS4G
 
 #EXTINF:-1 tvg-id="4250232" tvg-name="ICA Berlin vs Koln CC [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250225_53117_KCC_ICAB_fc-web.jpg" group-title="Cricket",ICA Berlin vs Koln CC [English]
 https://in-mc-flive.fancode.com/mumbai/4250232_english_hls_467285ebf827547_1ta-di_h264/720p.m3u8?hdntl=Expires=1792406974~_GO=Generated~acl=/mumbai/4250232_english_hls_467285ebf827547_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_874039ed-174b-44~Signature=AZJsJWZpHdW0QWMvLe4WbTgizdqsn0HmJU4mn_WfWJH4SABko-WE3v6CXIykB27A5gnsEBHRW1d8kmaNT1obRPMQ794H
@@ -723,12 +720,12 @@ https://ComeInNextMatch.com/4K.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=783624418a73874b1bacbd79dda56c44:9c3a8a06ed069e28aa86c5e22dfeae67
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qs5pyspzlo/out/v1/3ef8ed04d65740bab473e63afb981a30/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qs5pyspzlo/out/v1/3ef8ed04d65740bab473e63afb981a30/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HMQL4NJS" tvg-name="Pakistan ODI Tri-Series 2026 - 1st Match - Pakistan vs Sri Lanka" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ff2ab606-8760-414e-8ecf-129071962621/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Pakistan ODI Tri-Series 2026 - 1st Match - Pakistan vs Sri Lanka
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=012110afbe9bdf40e7da3cc766ad041e:b2b91f89d2b223b349208e44e5ff49da
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/886jnqvhnx/out/v1/c3fafabc2248406a87537176ca13a389/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/886jnqvhnx/out/v1/c3fafabc2248406a87537176ca13a389/cenc.mpd
 
