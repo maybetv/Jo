@@ -18,6 +18,15 @@ https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_i
 https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=443
 
 
+# --- ISL SPECIAL EVENTS ---
+#EXTINF:-1 tvg-id="1090549233_ENG" tvg-name="Punjab FC vs Mumbai City FC - 19 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026609/1792269685499510_ISL26_PunjabFC_vs_MumbaiCityFC_live_landscape_thumb.jpg" group-title="Football",Punjab FC vs Mumbai City FC - 19 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive1910/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792461422~acl=/*~id=71076701025865226626204529564732~hmac=d6e1f0da1b380422313bbfc4cd1130a044538dad55d6d31ebaca880de272d0df
+
+#EXTINF:-1 tvg-id="1090549233" tvg-name="Punjab FC vs Mumbai City FC - 19 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026609/1792269685499510_ISL26_PunjabFC_vs_MumbaiCityFC_live_landscape_thumb.jpg" group-title="Sports",Punjab FC vs Mumbai City FC - 19 Oct 2026 [ENGLISH]
+https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive1910/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792459245~acl=/*~id=86555030483627953266138304560369~hmac=a3afe685c0a2b7049727e12fe047948acebe9d2b6a62d078707a2c4027db03c4
+# --- END ISL SPECIAL EVENTS ---
+
+
 #EXTINF:-1 tvg-id="22020" tvg-logo="https://img.media.jio.com/tvpimages/97/2/300156_1752854414598_l_medium.jpg" group-title="Malayalam Entertainment",Mazhavil Manorama HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=37b4403a66f2565da33ba3b5704bb178:449f87256b3c1d7c2cdcbe04cbfd5530
@@ -664,11 +673,14 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 # --- LIVE EVENTS ---
 
+#EXTINF:-1 tvg-id="1090549233_HIN" tvg-name="Punjab FC vs Mumbai City FC - 19 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026609/1792269685499510_ISL26_PunjabFC_vs_MumbaiCityFC_live_landscape_thumb.jpg" group-title="Football",Punjab FC vs Mumbai City FC - 19 Oct 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1910/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792461422~acl=/*~id=71076701025865226626204529564732~hmac=d6e1f0da1b380422313bbfc4cd1130a044538dad55d6d31ebaca880de272d0df
+
 #EXTINF:-1 tvg-id="1090549234_ENG" tvg-name="Ayodhya Garjan vs Delhi Dynamites - Semi Final 1 - 19 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026663/179234677352525_VCL26_SF_Ayodhya_Garjan_vs_Delhi_Dynamites_landscape_thumb.jpg" group-title="Volleyball",Ayodhya Garjan vs Delhi Dynamites - Semi Final 1 - 19 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpche169/cricodi21910-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792458387~acl=/*~id=08529593570614837093582560061352~hmac=17095368586f4e971413452b6926bd465beab0fab4d5ba5250194ea191be45e7
+https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpche169/cricodi21910-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792461422~acl=/*~id=71076701025865226626204529564732~hmac=d6e1f0da1b380422313bbfc4cd1130a044538dad55d6d31ebaca880de272d0df
 
 #EXTINF:-1 tvg-id="1090549234_HIN" tvg-name="Ayodhya Garjan vs Delhi Dynamites - Semi Final 1 - 19 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026663/179234677352525_VCL26_SF_Ayodhya_Garjan_vs_Delhi_Dynamites_landscape_thumb.jpg" group-title="Volleyball",Ayodhya Garjan vs Delhi Dynamites - Semi Final 1 - 19 Oct 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8872/cricodi21910-hin-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792458387~acl=/*~id=08529593570614837093582560061352~hmac=17095368586f4e971413452b6926bd465beab0fab4d5ba5250194ea191be45e7
+https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8872/cricodi21910-hin-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792461422~acl=/*~id=71076701025865226626204529564732~hmac=d6e1f0da1b380422313bbfc4cd1130a044538dad55d6d31ebaca880de272d0df
 
 #EXTINF:-1 tvg-id="4249782" tvg-name="South Africa vs Australia [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Cricket",South Africa vs Australia [English]
 https://in-mc-flive.fancode.com/mumbai/4249782_english_hls_bf21f9fa2f98565_1ta-di_h264/720p.m3u8?hdntl=Expires=1792481022~_GO=Generated~acl=/mumbai/4249782_english_hls_bf21f9fa2f98565_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7dae4728-bc71-41~Signature=AZJsJWbb_vFpUhzs9sEGYdd-sYbH-XI3WlsOIJqZ8jaErudpNCYVWRNqHiXpVwQjKx3zqJynJFDod0Oea6tdHhP7A2MO
