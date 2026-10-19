@@ -19,9 +19,6 @@ https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=443
 
 
 # --- ISL SPECIAL EVENTS ---
-#EXTINF:-1 tvg-id="1090549233_ENG" tvg-name="Punjab FC vs Mumbai City FC - 19 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026609/1792269685499510_ISL26_PunjabFC_vs_MumbaiCityFC_live_landscape_thumb.jpg" group-title="Football",Punjab FC vs Mumbai City FC - 19 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive1910/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792469307~acl=/*~id=08760028003108713240612884409054~hmac=829933aa6c391208ba41c25082878e5518565b4baa998626b7369b2e87bb9774
-
 #EXTINF:-1 tvg-id="1090549233" tvg-name="Punjab FC vs Mumbai City FC - 19 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026609/1792269685499510_ISL26_PunjabFC_vs_MumbaiCityFC_live_landscape_thumb.jpg" group-title="Sports",Punjab FC vs Mumbai City FC - 19 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive1910/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792459245~acl=/*~id=86555030483627953266138304560369~hmac=a3afe685c0a2b7049727e12fe047948acebe9d2b6a62d078707a2c4027db03c4
 # --- END ISL SPECIAL EVENTS ---
@@ -673,20 +670,14 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 # --- LIVE EVENTS ---
 
-#EXTINF:-1 tvg-id="1090549233_HIN" tvg-name="Punjab FC vs Mumbai City FC - 19 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026609/1792269685499510_ISL26_PunjabFC_vs_MumbaiCityFC_live_landscape_thumb.jpg" group-title="Football",Punjab FC vs Mumbai City FC - 19 Oct 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1910/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792469307~acl=/*~id=08760028003108713240612884409054~hmac=829933aa6c391208ba41c25082878e5518565b4baa998626b7369b2e87bb9774
+#EXTINF:-1 tvg-id="4249695" tvg-name="Afghanistan vs Zimbabwe [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249695_53089_AFG_ZIM_FC-Web_1792056447809.jpg" group-title="Cricket",Afghanistan vs Zimbabwe [English]
+https://in-mc-flive.fancode.com/mumbai/4249695_english_hls_940482a4d917399_1ta-di_h264/720p.m3u8?hdntl=Expires=1792493734~_GO=Generated~acl=/mumbai/4249695_english_hls_940482a4d917399_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1b36b053-607b-44~Signature=ASgJGVBzz6S4RsXYkH44orHivvkGWZyWdEgd1o5MscyBWVL9-gMB2WcMB2Advd2bMoHO2riWagBhg5mtN0x7adOcrVcM
 
-#EXTINF:-1 tvg-id="1090549234_ENG" tvg-name="Ayodhya Garjan vs Delhi Dynamites - Semi Final 1 - 19 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026663/179234677352525_VCL26_SF_Ayodhya_Garjan_vs_Delhi_Dynamites_landscape_thumb.jpg" group-title="Volleyball",Ayodhya Garjan vs Delhi Dynamites - Semi Final 1 - 19 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpche169/cricodi21910-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792469307~acl=/*~id=08760028003108713240612884409054~hmac=829933aa6c391208ba41c25082878e5518565b4baa998626b7369b2e87bb9774
-
-#EXTINF:-1 tvg-id="1090549234_HIN" tvg-name="Ayodhya Garjan vs Delhi Dynamites - Semi Final 1 - 19 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026663/179234677352525_VCL26_SF_Ayodhya_Garjan_vs_Delhi_Dynamites_landscape_thumb.jpg" group-title="Volleyball",Ayodhya Garjan vs Delhi Dynamites - Semi Final 1 - 19 Oct 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8872/cricodi21910-hin-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792469307~acl=/*~id=08760028003108713240612884409054~hmac=829933aa6c391208ba41c25082878e5518565b4baa998626b7369b2e87bb9774
+#EXTINF:-1 tvg-id="4250475" tvg-name="Emirates Red vs Abu Dhabi [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250475_53130_EMR_ABD_fc-web_1792412929308.jpg" group-title="Cricket",Emirates Red vs Abu Dhabi [English]
+https://in-mc-flive.fancode.com/mumbai/4250475_english_hls_0d7188283867493_1ta-di_h264/720p.m3u8?hdntl=Expires=1792513110~_GO=Generated~acl=/mumbai/4250475_english_hls_0d7188283867493_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_940e29f7-ca1a-4b~Signature=ASgJGVC6n1AGh9ndTutz0jOMr8VQRGMk6bH7GJ5bzC27IJ5sr8F6VZmuHoaEyjTnhBEpRKjyj9dL_FUFFwqIXW0jWH0E
 
 #EXTINF:-1 tvg-id="4249782" tvg-name="South Africa vs Australia [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Cricket",South Africa vs Australia [English]
 https://in-mc-flive.fancode.com/mumbai/4249782_english_hls_bf21f9fa2f98565_1ta-di_h264/720p.m3u8?hdntl=Expires=1792510081~_GO=Generated~acl=/mumbai/4249782_english_hls_bf21f9fa2f98565_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_990bdd5d-2b27-46~Signature=ASgJGVBSIcLbUruAmwpwEIGlinA_96wqksv0jqeSpv9sgJIdtOsU_QR6BDuqrymHE_ty6Rt-6Tyl5ffSOYtbuA9G238N
-
-#EXTINF:-1 tvg-id="4249695" tvg-name="Afghanistan vs Zimbabwe [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249695_53089_AFG_ZIM_FC-Web_1792056447809.jpg" group-title="Cricket",Afghanistan vs Zimbabwe [English]
-https://in-mc-flive.fancode.com/mumbai/4249695_english_hls_940482a4d917399_1ta-di_h264/720p.m3u8?hdntl=Expires=1792493734~_GO=Generated~acl=/mumbai/4249695_english_hls_940482a4d917399_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1b36b053-607b-44~Signature=ASgJGVBzz6S4RsXYkH44orHivvkGWZyWdEgd1o5MscyBWVL9-gMB2WcMB2Advd2bMoHO2riWagBhg5mtN0x7adOcrVcM
 
 #EXTINF:-1 tvg-id="4250213" tvg-name="Al-Fayha FC vs Al-Ahli Saudi FC [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250213_53025_ALF_AAS_FC-Web.png" group-title="Football",Al-Fayha FC vs Al-Ahli Saudi FC [English]
 https://in-mc-flive.fancode.com/mumbai/4250213_english_hls_ab187b56aa41068_1ta-di_h264/720p.m3u8?hdntl=Expires=1792508264~_GO=Generated~acl=/mumbai/4250213_english_hls_ab187b56aa41068_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_99fa5fdf-e074-4b~Signature=ASgJGVDYiwCq-H6d-bVoEhQh7DBI3FFIZhVmr7q0GVdHXTOqFTb1jhWxy2zf99-F-bPYwCt0HHZOopyUMz3Uw4WlbsgP
