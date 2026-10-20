@@ -665,16 +665,13 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090549194_ENG" tvg-name="PSG vs Barcelona - 20 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025833/1791097802834995_UYL26_PSG_vs_Barcelona_live_landscape_thumb.jpg" group-title="Football",PSG vs Barcelona - 20 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792540743~acl=/*~id=04978022549068605114743549672026~hmac=ba45d48a83b4942fa92ba9888fbf5302c47ed55d93d5ca71d2e38f3ea5f41f14
+https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792541955~acl=/*~id=20876457755222151919123665985740~hmac=50ffb0da372a81ea951b2f5f58420a50ee588b8645d0a1c099da10a0429d8fca
 
 #EXTINF:-1 tvg-id="1090549194" tvg-name="PSG vs Barcelona - 20 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025833/1791097802834995_UYL26_PSG_vs_Barcelona_live_landscape_thumb.jpg" group-title="Sports",PSG vs Barcelona - 20 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792540236~acl=/*~id=24430564820691220641780287558324~hmac=037aad3670b9deff7ce52f7f872c8b68cbdce5dceebd5e83934a118bc80b1038
 
 #EXTINF:-1 tvg-id="4249782" tvg-name="South Africa vs Australia [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Cricket",South Africa vs Australia [English]
 https://in-mc-flive.fancode.com/mumbai/4249782_english_hls_bf21f9fa2f10890_1ta-di_h264/720p.m3u8?hdntl=Expires=1792567154~_GO=Generated~acl=/mumbai/4249782_english_hls_bf21f9fa2f10890_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_99ed45af-39c5-4e~Signature=ASgJGVDjYP99YI0mU5JSrTR10i9kAkNADFBIJkV_E4euvXjSpigjFsTGRmZZkw6JOQKiCw9SL91O-tnGlADp6R5rk1wO
-
-#EXTINF:-1 tvg-id="4249754" tvg-name="Uganda vs Zambia [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249754_53093_UGA_ZAM_FC-Web_1792493253272.png" group-title="Cricket",Uganda vs Zambia [English]
-https://in-mc-flive.fancode.com/mumbai/4249754_english_hls_b4548ca71283450_1ta-di_h264/720p.m3u8?hdntl=Expires=1792570790~_GO=Generated~acl=/mumbai/4249754_english_hls_b4548ca71283450_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0172cff9-b16f-44~Signature=ASgJGVCTw22cjkCBM-odz7MTwDWwTLSITSKtUhmyK6WriRvctTT68gU310ocCOCkZ6YzYwpUvsvPh3nnOTlKtIOA3gAC
 
 #EXTINF:-1 tvg-id="4249608" tvg-name="Day 2 - World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png" group-title="Tennis",Day 2 - World Feed [English]
 https://in-mc-flive.fancode.com/mumbai/4249608_english_hls_a2345ca73095655_1ta-di_h264/720p.m3u8?hdntl=Expires=1792563514~_GO=Generated~acl=/mumbai/4249608_english_hls_a2345ca73095655_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_bf9d79af-590d-4c~Signature=ASgJGVBbzn1rjyL8LkA3Kr1Oih3ShXxhm2c1o8pI7r40xfxfxtdMbjyBuyi5stZs_OURItI1G-BY-ZWNzTQfp5kjHnAH
