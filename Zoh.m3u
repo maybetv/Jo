@@ -648,26 +648,23 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 # --- LIVE EVENTS ---
 
+#EXTINF:-1 tvg-id="1090549200_ENG" tvg-name="Sabah vs Dortmund - 20 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125022899319_UCL2627_MD3_Sabah_vs_Dortmund_landscape_thumb.jpg" group-title="Football",Sabah vs Dortmund - 20 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792555907~acl=/*~id=99636163384475150582478876947547~hmac=0769dc4af867a2954b02771124177eb8779047701cf31450e3e758368cc41c6d
+
+#EXTINF:-1 tvg-id="1090549199_ENG" tvg-name="Fenerbahçe vs Slavia Praha - MD 3 - 20 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179124692857319_UCL2627_MD3_Fenerbahce_vs_Slavia_Praha_landscape_thumb.jpg" group-title="Football",Fenerbahçe vs Slavia Praha - MD 3 - 20 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792555907~acl=/*~id=99636163384475150582478876947547~hmac=0769dc4af867a2954b02771124177eb8779047701cf31450e3e758368cc41c6d
+
 #EXTINF:-1 tvg-id="1090549193" tvg-name="Manchester City vs Athens - MD3 - 20 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025832/1791097181496728_UYL26_Manchester_City_vs_Athens_live_landscape_thumb.jpg" group-title="Sports",Manchester City vs Athens - MD3 - 20 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792547447~acl=/*~id=21851789712037146174019241841181~hmac=d8578b409866096563521c987bbd9e6d47a817877a4ca5e9e0565932393895ec
 
 #EXTINF:-1 tvg-id="4250476" tvg-name="Emirates Blues vs Ajman [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250476_53130_AJM_EMB_fc-web_1792412929325.jpg" group-title="Cricket",Emirates Blues vs Ajman [English]
 https://in-mc-flive.fancode.com/mumbai/4250476_english_hls_550b3930e750705_1ta-di_h264/720p.m3u8?hdntl=Expires=1792585325~_GO=Generated~acl=/mumbai/4250476_english_hls_550b3930e750705_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_5cb17a81-bd68-44~Signature=ASgJGVDFq9IRL0IaqMG7HgdmDiYHmCHQH1RNAbfhUpwFAKZFg3eAkb_m_1pPEOrfvNP4W4ae7ssGLLRm5r0eNZVKy7wD
 
-#EXTINF:-1 tvg-id="4249782" tvg-name="South Africa vs Australia [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Cricket",South Africa vs Australia [English]
-https://in-mc-flive.fancode.com/mumbai/4249782_english_hls_bf21f9fa2f10890_1ta-di_h264/720p.m3u8?hdntl=Expires=1792596232~_GO=Generated~acl=/mumbai/4249782_english_hls_bf21f9fa2f10890_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_2f10d65d-2c35-4b~Signature=ASgJGVAQKuJwl0_Q77kULNGZHi_oNbUsbCB7q9j4ecVjTxmuJVlAO4XoPs4-FHxfe347VjbTZ5mu2Uxf1TQN0Of561cP
-
-#EXTINF:-1 tvg-id="4249755" tvg-name="Lesotho vs Mozambique [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249755_53093_LES_MOZ_FC-Web_1792493252639.png" group-title="Cricket",Lesotho vs Mozambique [English]
-https://in-mc-flive.fancode.com/mumbai/4249755_english_hls_b7141fe3ec9908_1ta-di_h264/720p.m3u8?hdntl=Expires=1792586536~_GO=Generated~acl=/mumbai/4249755_english_hls_b7141fe3ec9908_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_43367707-2d9e-40~Signature=ASgJGVBF_Y_2lOlmH0t94WBTLgLvm6Wm8nmrLv2TfVNlfc2TlS9-u34nIw1ApSiTLL6jXAICSbhObpSWBvCP71mBli8A
-
 #EXTINF:-1 tvg-id="4249756" tvg-name="Nigeria vs Gambia [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249756_53093_NGR_GAM_FC-Web_1792493253295.png" group-title="Cricket",Nigeria vs Gambia [English]
 https://in-mc-flive.fancode.com/mumbai/4249756_english_hls_e0a59c015f99540_1ta-di_h264/720p.m3u8?hdntl=Expires=1792586537~_GO=Generated~acl=/mumbai/4249756_english_hls_e0a59c015f99540_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_d3d20e10-7ded-44~Signature=ASgJGVD4BCxegaxxxovWMVVr4I9w77DQx3zDDNsf0CzRuzD9rb48wZw9s0cYqTDtyvxBTZUZVW7ouE8xZh-bE2XqEFEN
 
 #EXTINF:-1 tvg-id="4250215" tvg-name="Al-Taawoun FC vs Al-Qadsiah FC [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250215_53025_ALTW_ALQ_FC-Web.png" group-title="Football",Al-Taawoun FC vs Al-Qadsiah FC [English]
 https://in-mc-flive.fancode.com/mumbai/4250215_english_hls_fe89f901a011413_1ta-di_h264/720p.m3u8?hdntl=Expires=1792595018~_GO=Generated~acl=/mumbai/4250215_english_hls_fe89f901a011413_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_2cd76ff7-ffb3-44~Signature=ASgJGVAhWOdUPsoqGkHg7RWuLKBJT_pZzTvS_QfCDNar5Y1l3qb3ADYyHNjngNTUkIWFDb9rWBD921c5oQO8W_jNqc0G
-
-#EXTINF:-1 tvg-id="4249608" tvg-name="Day 2 - World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png" group-title="Tennis",Day 2 - World Feed [English]
-https://in-mc-flive.fancode.com/mumbai/4249608_english_hls_a2345ca73095655_1ta-di_h264/720p.m3u8?hdntl=Expires=1792592596~_GO=Generated~acl=/mumbai/4249608_english_hls_a2345ca73095655_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_5279a1ff-ad39-49~Signature=ASgJGVAyhOPC6OPztNeJyvyUmai25UUinDE8pYWv-b32zr6XJYy2ZRf4XA8JAH7w3bLzvL2xNquc71XDEgG8uNH3MFEO
 
 #EXTINF:-1 tvg-id="4249622" tvg-name="Day 2 - World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg" group-title="Tennis",Day 2 - World Feed [English]
 https://in-mc-flive.fancode.com/mumbai/4249622_english_hls_8342648ba261_1ta-di_h264/720p.m3u8?hdntl=Expires=1792574428~_GO=Generated~acl=/mumbai/4249622_english_hls_8342648ba261_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c8f5f7e5-79c6-46~Signature=ASgJGVCoUgftU0-iZRBz1d4i3AazyMuXZDbJkM-IWHQjZK_1ApugYFGNxOYqI2qB_bZf4WuXvxksnjH66N1u4qQSXIYI
@@ -688,17 +685,6 @@ https://ComeInNextMatch.com/4K.m3u8
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1792529106~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=955206e4cc9ed91f499f83cfcf5e246f4033555644914e56bfdb211625ccbd43/manifest.mpd?vcfilter=bbf86e4c-fd34-4af3-8752-770df69460ad&
-
-#EXTINF:-1 tvg-id="9c9148ea-67b8-46bf-997b-fe0a0c82cb66" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/va4apkg20iaufysaazmj" tvg-lang="English" group-title="Cricket",English | Lesotho v Mozambique
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1792529109~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=173d3fba152feae5d087df28a4a338e6792684d510c72c2a677df9608e1a19bc/manifest.mpd?vcfilter=9c9148ea-67b8-46bf-997b-fe0a0c82cb66&
 
 #EXTINF:-1 tvg-id="B0HFWWJWH6" tvg-name="Australia tour of South Africa 2026 - 2nd Test - South Africa vs Australia" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.df9be69a-7bd6-4883-a021-b7e4801a1573/7/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Australia tour of South Africa 2026 - 2nd Test - South Africa vs Australia
 #KODIPROP:inputstream=inputstream.adaptive
