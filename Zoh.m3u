@@ -665,13 +665,16 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090549194_ENG" tvg-name="PSG vs Barcelona - 20 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025833/1791097802834995_UYL26_PSG_vs_Barcelona_live_landscape_thumb.jpg" group-title="Football",PSG vs Barcelona - 20 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792546803~acl=/*~id=48942733886660131817784320139377~hmac=c175952c3441bfe47075009780f7a6e50d49999a451316c0ea98aeebd20b0963
+https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792547411~acl=/*~id=83731822456702171033893398952022~hmac=42323a9ec19032645d70e20ccf2771525c7819711d3181b7b20f34d883c8b076
 
 #EXTINF:-1 tvg-id="1090549193_ENG" tvg-name="Manchester City vs Athens - MD3 - 20 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025832/1791097181496728_UYL26_Manchester_City_vs_Athens_live_landscape_thumb.jpg" group-title="Football",Manchester City vs Athens - MD3 - 20 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792546803~acl=/*~id=48942733886660131817784320139377~hmac=c175952c3441bfe47075009780f7a6e50d49999a451316c0ea98aeebd20b0963
+https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792547411~acl=/*~id=83731822456702171033893398952022~hmac=42323a9ec19032645d70e20ccf2771525c7819711d3181b7b20f34d883c8b076
 
 #EXTINF:-1 tvg-id="1090549194" tvg-name="PSG vs Barcelona - 20 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025833/1791097802834995_UYL26_PSG_vs_Barcelona_live_landscape_thumb.jpg" group-title="Sports",PSG vs Barcelona - 20 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792540236~acl=/*~id=24430564820691220641780287558324~hmac=037aad3670b9deff7ce52f7f872c8b68cbdce5dceebd5e83934a118bc80b1038
+
+#EXTINF:-1 tvg-id="1090549193" tvg-name="Manchester City vs Athens - MD3 - 20 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025832/1791097181496728_UYL26_Manchester_City_vs_Athens_live_landscape_thumb.jpg" group-title="Sports",Manchester City vs Athens - MD3 - 20 Oct 2026 [ENGLISH]
+https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792547447~acl=/*~id=21851789712037146174019241841181~hmac=d8578b409866096563521c987bbd9e6d47a817877a4ca5e9e0565932393895ec
 
 #EXTINF:-1 tvg-id="4249782" tvg-name="South Africa vs Australia [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Cricket",South Africa vs Australia [English]
 https://in-mc-flive.fancode.com/mumbai/4249782_english_hls_bf21f9fa2f10890_1ta-di_h264/720p.m3u8?hdntl=Expires=1792567154~_GO=Generated~acl=/mumbai/4249782_english_hls_bf21f9fa2f10890_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_99ed45af-39c5-4e~Signature=ASgJGVDjYP99YI0mU5JSrTR10i9kAkNADFBIJkV_E4euvXjSpigjFsTGRmZZkw6JOQKiCw9SL91O-tnGlADp6R5rk1wO
