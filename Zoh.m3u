@@ -649,10 +649,10 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090549200_ENG" tvg-name="Sabah vs Dortmund - 20 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125022899319_UCL2627_MD3_Sabah_vs_Dortmund_landscape_thumb.jpg" group-title="Football",Sabah vs Dortmund - 20 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792560763~acl=/*~id=40016115771422586018249895777543~hmac=c37f5d7b1794922d651f2e78d6546ec3e42bd03defd8ee7f5e7c96b605b9c08c
+https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi_2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792561978~acl=/*~id=73992075805796846706427928442085~hmac=eaadc3143f12c1425a4ce7d3c1a13049272c0e6e96d5cae463a3721bdd556417
 
 #EXTINF:-1 tvg-id="1090549199_ENG" tvg-name="Fenerbahçe vs Slavia Praha - MD 3 - 20 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179124692857319_UCL2627_MD3_Fenerbahce_vs_Slavia_Praha_landscape_thumb.jpg" group-title="Football",Fenerbahçe vs Slavia Praha - MD 3 - 20 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792560763~acl=/*~id=40016115771422586018249895777543~hmac=c37f5d7b1794922d651f2e78d6546ec3e42bd03defd8ee7f5e7c96b605b9c08c
+https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792561978~acl=/*~id=73992075805796846706427928442085~hmac=eaadc3143f12c1425a4ce7d3c1a13049272c0e6e96d5cae463a3721bdd556417
 
 #EXTINF:-1 tvg-id="1090549200" tvg-name="Sabah vs Dortmund - 20 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125022899319_UCL2627_MD3_Sabah_vs_Dortmund_landscape_thumb.jpg" group-title="Sports",Sabah vs Dortmund - 20 Oct 2026 [ENGLISH]
 https://liveakdai.slivcdn.com/hls/live/2119931/cricodi_2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792560037~acl=/*~id=86997383092927704888305701476784~hmac=5ee9f596a78657d58a81f0528e0ace9f9b790f5783c8e40333ee1b337da32a7f
@@ -663,17 +663,17 @@ https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive2010/ENG/std_lrh-800
 #EXTINF:-1 tvg-id="4250477" tvg-name="Sharjah vs Emirates Red [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250477_53130_EMR_SHA_fc-web_1792412929341.jpg" group-title="Cricket",Sharjah vs Emirates Red [English]
 https://in-mc-flive.fancode.com/mumbai/4250477_english_hls_1a72e2062b55236_1ta-di_h264/720p.m3u8?hdntl=Expires=1792599869~_GO=Generated~acl=/mumbai/4250477_english_hls_1a72e2062b55236_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_998a522d-1053-41~Signature=ASgJGVBT9vqrI9dZPqBwT1D-QPEOf3-Rzl6duo2N3ubK0J0YQMe2-5KgijWkAVLFxwSFOwHvWGKToYxaau3srHMjYvoB
 
-#EXTINF:-1 tvg-id="4249622" tvg-name="Day 2 - World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg" group-title="Tennis",Day 2 - World Feed [English]
-https://in-mc-flive.fancode.com/mumbai/4249622_english_hls_8342648ba261_1ta-di_h264/720p.m3u8?hdntl=Expires=1792603508~_GO=Generated~acl=/mumbai/4249622_english_hls_8342648ba261_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a11c782b-de95-4d~Signature=ASgJGVBDsd6SytcQAXZRN_G9SF2ONYhDtGaTeqWCOyLt67WWMGrfuJZVuT5KUFmGflwiiiWZb5SwTMuKsYh-H51XLNsF
-
-#EXTINF:-1 tvg-id="4249615" tvg-name="Day 2 - World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg" group-title="Tennis",Day 2 - World Feed [English]
-https://in-mc-flive.fancode.com/mumbai/4249615_english_hls_d47039c54e87886_1ta-di_h264/720p.m3u8?hdntl=Expires=1792583507~_GO=Generated~acl=/mumbai/4249615_english_hls_d47039c54e87886_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_52a95316-1d66-46~Signature=ASgJGVD6EWoD6QsS1xL90eoaro9WJ7v63oefeqqxs6VGTgt1TZslVOtDUOmrNmOH8qHhISQFbuxkCuMDXKXZRhqXJ2gH
-
 #EXTINF:-1 tvg-id="4250216" tvg-name="Al-Ettifaq vs Al-Ittihad [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250216_53025_ETT_ITT_FC-Web.png" group-title="Football",Al-Ettifaq vs Al-Ittihad [English]
 https://in-mc-flive.fancode.com/mumbai/4250216_english_hls_667def4df736640_1ta-di_h264/720p.m3u8?hdntl=Expires=1792604724~_GO=Generated~acl=/mumbai/4250216_english_hls_667def4df736640_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_42882a8f-840b-4d~Signature=ASgJGVD6htyXU1aRRaiEn_NC-97AdaDbzbA9eEEfMOX31BglzLsLiPxPEpEES9wpxLjlLNHg4saJs-_Uqr9OZ-pQ0YQD
 
 #EXTINF:-1 tvg-id="4250217" tvg-name="Al-Nassr FC vs Neom SC [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250217_53025_ANF_NEOM_FC-Web.png" group-title="Football",Al-Nassr FC vs Neom SC [English]
 https://in-mc-flive.fancode.com/mumbai/4250217_english_hls_90a5e6e7cf68957_1ta-di_h264/720p.m3u8?hdntl=Expires=1792604726~_GO=Generated~acl=/mumbai/4250217_english_hls_90a5e6e7cf68957_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_5ee36c93-f2b9-42~Signature=ASgJGVAZjAV2jg82wwTpheNwMY_I6EHNOBnn-CbkEZJOlSIY0LO0sknk_XA9hjfH8pD74aCUSKiOA2UdEEwsNh8UGiUA
+
+#EXTINF:-1 tvg-id="4249622" tvg-name="Day 2 - World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg" group-title="Tennis",Day 2 - World Feed [English]
+https://in-mc-flive.fancode.com/mumbai/4249622_english_hls_8342648ba261_1ta-di_h264/720p.m3u8?hdntl=Expires=1792603508~_GO=Generated~acl=/mumbai/4249622_english_hls_8342648ba261_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a11c782b-de95-4d~Signature=ASgJGVBDsd6SytcQAXZRN_G9SF2ONYhDtGaTeqWCOyLt67WWMGrfuJZVuT5KUFmGflwiiiWZb5SwTMuKsYh-H51XLNsF
+
+#EXTINF:-1 tvg-id="4249615" tvg-name="Day 2 - World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg" group-title="Tennis",Day 2 - World Feed [English]
+https://in-mc-flive.fancode.com/mumbai/4249615_english_hls_d47039c54e87886_1ta-di_h264/720p.m3u8?hdntl=Expires=1792583507~_GO=Generated~acl=/mumbai/4249615_english_hls_d47039c54e87886_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_52a95316-1d66-46~Signature=ASgJGVD6EWoD6QsS1xL90eoaro9WJ7v63oefeqqxs6VGTgt1TZslVOtDUOmrNmOH8qHhISQFbuxkCuMDXKXZRhqXJ2gH
 
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
