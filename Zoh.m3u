@@ -649,16 +649,10 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090549200_ENG" tvg-name="Sabah vs Dortmund - 20 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125022899319_UCL2627_MD3_Sabah_vs_Dortmund_landscape_thumb.jpg" group-title="Football",Sabah vs Dortmund - 20 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792558940~acl=/*~id=18722750058219002455570377995694~hmac=7ba935ac100359c36f30448a7b28c3b6fb349aafebd266473808dee75f7d539e
+https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi_2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792559548~acl=/*~id=05301163602815117270620208193896~hmac=ade47bae12cd8e39812e728915352b644a72d804761c166844da514a1efd97a8
 
 #EXTINF:-1 tvg-id="1090549199_ENG" tvg-name="Fenerbahçe vs Slavia Praha - MD 3 - 20 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179124692857319_UCL2627_MD3_Fenerbahce_vs_Slavia_Praha_landscape_thumb.jpg" group-title="Football",Fenerbahçe vs Slavia Praha - MD 3 - 20 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792558940~acl=/*~id=18722750058219002455570377995694~hmac=7ba935ac100359c36f30448a7b28c3b6fb349aafebd266473808dee75f7d539e
-
-#EXTINF:-1 tvg-id="1090549200" tvg-name="Sabah vs Dortmund - 20 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125022899319_UCL2627_MD3_Sabah_vs_Dortmund_landscape_thumb.jpg" group-title="Sports",Sabah vs Dortmund - 20 Oct 2026 [ENGLISH]
-https://liveakdai.slivcdn.com/hls/live/2119931/cricodi_2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792558238~acl=/*~id=38479542624839911242321075661186~hmac=253b5f1041ff0fbe131c93e9837bfa612b7e8ce9fb0816f122447c4f4ba57c48
-
-#EXTINF:-1 tvg-id="1090549199" tvg-name="Fenerbahçe vs Slavia Praha - MD 3 - 20 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179124692857319_UCL2627_MD3_Fenerbahce_vs_Slavia_Praha_landscape_thumb.jpg" group-title="Sports",Fenerbahçe vs Slavia Praha - MD 3 - 20 Oct 2026 [ENGLISH]
-https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792556450~acl=/*~id=51500422014432988568325545666100~hmac=91b290986f50e9a37bc7a6f0ebb65321bc95fac57dd14926e4115acf9dcadf9a
+https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792559548~acl=/*~id=05301163602815117270620208193896~hmac=ade47bae12cd8e39812e728915352b644a72d804761c166844da514a1efd97a8
 
 #EXTINF:-1 tvg-id="4250477" tvg-name="Sharjah vs Emirates Red [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250477_53130_EMR_SHA_fc-web_1792412929341.jpg" group-title="Cricket",Sharjah vs Emirates Red [English]
 https://in-mc-flive.fancode.com/mumbai/4250477_english_hls_1a72e2062b55236_1ta-di_h264/720p.m3u8?hdntl=Expires=1792599869~_GO=Generated~acl=/mumbai/4250477_english_hls_1a72e2062b55236_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_998a522d-1053-41~Signature=ASgJGVBT9vqrI9dZPqBwT1D-QPEOf3-Rzl6duo2N3ubK0J0YQMe2-5KgijWkAVLFxwSFOwHvWGKToYxaau3srHMjYvoB
