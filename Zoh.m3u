@@ -665,13 +665,13 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090549194_ENG" tvg-name="PSG vs Barcelona - 20 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025833/1791097802834995_UYL26_PSG_vs_Barcelona_live_landscape_thumb.jpg" group-title="Football",PSG vs Barcelona - 20 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792539530~acl=/*~id=55637363482018470575004731549223~hmac=dc7b97f99ad2bab97b9cadff886788f5b7b9d6a634c0231bec0b4a8db8c2f879
+https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792540136~acl=/*~id=91002509711183372773413438963771~hmac=d5277be7027ca8e5410efca822f5a772e5a7d397a92f1d7c9edddb80e01c13e2
+
+#EXTINF:-1 tvg-id="1090549194" tvg-name="PSG vs Barcelona - 20 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025833/1791097802834995_UYL26_PSG_vs_Barcelona_live_landscape_thumb.jpg" group-title="Sports",PSG vs Barcelona - 20 Oct 2026 [ENGLISH]
+https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792540236~acl=/*~id=24430564820691220641780287558324~hmac=037aad3670b9deff7ce52f7f872c8b68cbdce5dceebd5e83934a118bc80b1038
 
 #EXTINF:-1 tvg-id="4249782" tvg-name="South Africa vs Australia [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Cricket",South Africa vs Australia [English]
 https://in-mc-flive.fancode.com/mumbai/4249782_english_hls_bf21f9fa2f10890_1ta-di_h264/720p.m3u8?hdntl=Expires=1792567154~_GO=Generated~acl=/mumbai/4249782_english_hls_bf21f9fa2f10890_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_99ed45af-39c5-4e~Signature=ASgJGVDjYP99YI0mU5JSrTR10i9kAkNADFBIJkV_E4euvXjSpigjFsTGRmZZkw6JOQKiCw9SL91O-tnGlADp6R5rk1wO
-
-#EXTINF:-1 tvg-id="4250162" tvg-name="Australia Women vs New Zealand Women [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australia-vs-New-ZealandT20I-Series-old-match-card.png" group-title="Cricket",Australia Women vs New Zealand Women [English]
-https://in-mc-flive.fancode.com/mumbai/4250162_english_hls_6a0b09f2ee41913_1ta-di_h264/720p.m3u8?hdntl=Expires=1792570182~_GO=Generated~acl=/mumbai/4250162_english_hls_6a0b09f2ee41913_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_3e8d9385-c1e2-43~Signature=ASgJGVA2W5rx-dvWTdIQ9NQmdNv0u_i4yhsMHD9f4aGWFLp30bi6ptCdvlVj5p0JAa2zgUXtJuPHKbTdf5bmJchV5zYP
 
 #EXTINF:-1 tvg-id="4249754" tvg-name="Uganda vs Zambia [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249754_53093_UGA_ZAM_FC-Web_1792493253272.png" group-title="Cricket",Uganda vs Zambia [English]
 https://in-mc-flive.fancode.com/mumbai/4249754_english_hls_b4548ca71283450_1ta-di_h264/720p.m3u8?hdntl=Expires=1792570790~_GO=Generated~acl=/mumbai/4249754_english_hls_b4548ca71283450_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0172cff9-b16f-44~Signature=ASgJGVCTw22cjkCBM-odz7MTwDWwTLSITSKtUhmyK6WriRvctTT68gU310ocCOCkZ6YzYwpUvsvPh3nnOTlKtIOA3gAC
@@ -682,19 +682,11 @@ https://in-mc-flive.fancode.com/mumbai/4249608_english_hls_a2345ca73095655_1ta-d
 #EXTINF:-1 tvg-id="4249622" tvg-name="Day 2 - World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg" group-title="Tennis",Day 2 - World Feed [English]
 https://in-mc-flive.fancode.com/mumbai/4249622_english_hls_8342648ba261_1ta-di_h264/720p.m3u8?hdntl=Expires=1792574428~_GO=Generated~acl=/mumbai/4249622_english_hls_8342648ba261_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c8f5f7e5-79c6-46~Signature=ASgJGVCoUgftU0-iZRBz1d4i3AazyMuXZDbJkM-IWHQjZK_1ApugYFGNxOYqI2qB_bZf4WuXvxksnjH66N1u4qQSXIYI
 
+#EXTINF:-1 tvg-id="4249615" tvg-name="Day 2 - World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg" group-title="Tennis",Day 2 - World Feed [English]
+https://in-mc-flive.fancode.com/mumbai/4249615_english_hls_d47039c54e87886_1ta-di_h264/720p.m3u8?hdntl=Expires=1792583507~_GO=Generated~acl=/mumbai/4249615_english_hls_d47039c54e87886_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_52a95316-1d66-46~Signature=ASgJGVD6EWoD6QsS1xL90eoaro9WJ7v63oefeqqxs6VGTgt1TZslVOtDUOmrNmOH8qHhISQFbuxkCuMDXKXZRhqXJ2gH
+
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
-
-#EXTINF:-1 tvg-id="340030d1-9b2a-4b92-b81e-1681c300c704" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/egxzvrrix72jji3arutw" tvg-lang="English" group-title="Cricket",English | Uganda v Zambia
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1792512909~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=755a4ff33c38434f2fff2b8b9ddcfd450c3257ffd6ffa2b16c8f8dd01a813307/manifest.mpd?vcfilter=340030d1-9b2a-4b92-b81e-1681c300c704&
 
 #EXTINF:-1 tvg-id="B0HFWWJWH6" tvg-name="Australia tour of South Africa 2026 - 2nd Test - South Africa vs Australia" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.df9be69a-7bd6-4883-a021-b7e4801a1573/7/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Australia tour of South Africa 2026 - 2nd Test - South Africa vs Australia
 #KODIPROP:inputstream=inputstream.adaptive
