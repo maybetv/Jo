@@ -40,6 +40,10 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 
 
 #EXTINF:-1 tvg-id="1641" tvg-language="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeKeralamHD.png" CATCH-UP-FAILED="null" group-title="Malayalam",Zee Keralam HD
+#EXTINF:-1 tvg-id="9624895" tvg-name="Zee Keralam HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/cb2d529482614186a8ba29d47346902b/version/0" group-title="Entertainment",Zee Keralam HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4f910bf8f004535945b2c48cf695697:924c9dd96ac2f6ef8368ea86d9407068
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Keralam_HD/dash/Zee_Keralam_HD.mpd
 
 
 
