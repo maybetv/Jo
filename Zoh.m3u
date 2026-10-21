@@ -651,10 +651,10 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090549320_ENG" tvg-name="Delhi Leaders vs Gujarat Royals - 21 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026725/1792417732166732_STCL_Delhi-Leaders-vs-Gujarat-Royals_live_landscape_thumb.jpg" group-title="Cricket",Delhi Leaders vs Gujarat Royals - 21 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi12110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792640203~acl=/*~id=34172999762227727376952717581338~hmac=195c1dde2ddc99ff631120a262be397a9322f2199d7db9e466d6ede095d805f5
+https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi12110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792640811~acl=/*~id=37590207820682385659820317922368~hmac=633a6b1218651e3747a4e37c1e8c491869c6129bdf977aaf2f706f30fc78ea2e
 
 #EXTINF:-1 tvg-id="1090549302_ENG" tvg-name="Inter Milan vs Shakhtar Donetsk - MD3 - 21 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025835/1791100501247105_UYL26_Inter_Milan_vs_Shakhter_Donetsk_live_landscape_thumb.jpg" group-title="Football",Inter Milan vs Shakhtar Donetsk - MD3 - 21 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792640203~acl=/*~id=34172999762227727376952717581338~hmac=195c1dde2ddc99ff631120a262be397a9322f2199d7db9e466d6ede095d805f5
+https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792640811~acl=/*~id=37590207820682385659820317922368~hmac=633a6b1218651e3747a4e37c1e8c491869c6129bdf977aaf2f706f30fc78ea2e
 
 #EXTINF:-1 tvg-id="1090549320" tvg-name="Delhi Leaders vs Gujarat Royals - 21 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026725/1792417732166732_STCL_Delhi-Leaders-vs-Gujarat-Royals_live_landscape_thumb.jpg" group-title="Sports",Delhi Leaders vs Gujarat Royals - 21 Oct 2026 [ENGLISH]
 https://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792615850~acl=/*~id=83172242931311624649830689450973~hmac=d004e8522cfc0f4b21e4166bacb413bb492659098dae9702ed9ba711bac3aecc
