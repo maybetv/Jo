@@ -650,29 +650,29 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 # --- LIVE EVENTS ---
 
+#EXTINF:-1 tvg-id="1090549217_ENG" tvg-name="Como vs Man United - 21 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125207661519_UCL2627_MD3_Como_vs_Man_United_landscape_thumb.jpg" group-title="Football",Como vs Man United - 21 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792642634~acl=/*~id=29314873818673134712274112140237~hmac=fbdc1395a18c7adf86be70d0d7bc6df3f4feb9c9bd78c854fcfb20d5c760f177
+
 #EXTINF:-1 tvg-id="1090549320_ENG" tvg-name="Delhi Leaders vs Gujarat Royals - 21 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026725/1792417732166732_STCL_Delhi-Leaders-vs-Gujarat-Royals_live_landscape_thumb.jpg" group-title="Cricket",Delhi Leaders vs Gujarat Royals - 21 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792642026~acl=/*~id=11273194865145436178469911817695~hmac=aa9b515c1048ab8de4cff26a507dcf1b42a66d1b417e8b79db7004ff879c5c02
+https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792642634~acl=/*~id=29314873818673134712274112140237~hmac=fbdc1395a18c7adf86be70d0d7bc6df3f4feb9c9bd78c854fcfb20d5c760f177
+
+#EXTINF:-1 tvg-id="1090549216_ENG" tvg-name="Lille vs Galatasaray - 21 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125185673619_UCL2627_MD3_Lille_vs_Galatasaray_landscape_thumb.jpg" group-title="Football",Lille vs Galatasaray - 21 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792642634~acl=/*~id=29314873818673134712274112140237~hmac=fbdc1395a18c7adf86be70d0d7bc6df3f4feb9c9bd78c854fcfb20d5c760f177
 
 #EXTINF:-1 tvg-id="1090549320" tvg-name="Delhi Leaders vs Gujarat Royals - 21 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026725/1792417732166732_STCL_Delhi-Leaders-vs-Gujarat-Royals_live_landscape_thumb.jpg" group-title="Sports",Delhi Leaders vs Gujarat Royals - 21 Oct 2026 [ENGLISH]
 https://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792615850~acl=/*~id=83172242931311624649830689450973~hmac=d004e8522cfc0f4b21e4166bacb413bb492659098dae9702ed9ba711bac3aecc
 
-#EXTINF:-1 tvg-id="4249782" tvg-name="South Africa vs Australia [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Cricket",South Africa vs Australia [English]
-https://in-mc-flive.fancode.com/mumbai/4249782_english_hls_bf21f9fa2f28565_1ta-di_h264/720p.m3u8?hdntl=Expires=1792682856~_GO=Generated~acl=/mumbai/4249782_english_hls_bf21f9fa2f28565_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c7d2f7fc-9d97-4e~Signature=ASgJGVBRpBKCgEgM24wGbFzrj9HkLT9Icn8JQa7zNNG-XcTTh4YA5f4D3V8OarMUWn0_Gmwbwf0dbiiiqyal4Y1HgW4D
-
 #EXTINF:-1 tvg-id="4249696" tvg-name="Bangladesh vs Afghanistan [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249696_53089_AFG_BAN_FC-WEB_1792056448070.jpg" group-title="Cricket",Bangladesh vs Afghanistan [English]
 https://in-mc-flive.fancode.com/mumbai/4249696_english_hls_d51b02bd8369074_1ta-di_h264/720p.m3u8?hdntl=Expires=1792666501~_GO=Generated~acl=/mumbai/4249696_english_hls_d51b02bd8369074_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_6d9f77d1-e924-40~Signature=ASgJGVBRCocdFyjq9CbbId_I9nRNVzzakVoOk17rLDmmham6wMU1jBGHs9YPTM--N14yu-4vUzsPzdUlmVjs1k07fxID
 
-#EXTINF:-1 tvg-id="4250478" tvg-name="Dubai vs Emirates Blues [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250478_53130_EMB_DUB_fc-web_1792412930104.jpg" group-title="Cricket",Dubai vs Emirates Blues [English]
-https://in-mc-flive.fancode.com/mumbai/4250478_english_hls_f696d741098031_1ta-di_h264/720p.m3u8?hdntl=Expires=1792671344~_GO=Generated~acl=/mumbai/4250478_english_hls_f696d741098031_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_9b339e73-2fcd-4a~Signature=ASgJGVBtUpVkBUUNU9bcUtjH-bhT5WQ7bmoX6yPGCfCZQ0O-IQB46BS3P1Gk4OfyD6baBpnm3ZnKQc5JK1B7dknfQvcJ
+#EXTINF:-1 tvg-id="4250479" tvg-name="Ajman vs Abu Dhabi [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250479_53130_AJM_ABD_fc-web_1792412930149.jpg" group-title="Cricket",Ajman vs Abu Dhabi [English]
+https://in-mc-flive.fancode.com/mumbai/4250479_english_hls_9167fee39a54643_1ta-di_h264/720p.m3u8?hdntl=Expires=1792685885~_GO=Generated~acl=/mumbai/4250479_english_hls_9167fee39a54643_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c28a161f-7cfe-48~Signature=ASgJGVBqEarcYOUOnmY2tvTEezM6_r7LlRXgrF-Tc9OMAD545QwVuGvXwHp9_Li0WrRslEQQlaVX5uexLVtdOPRjqeUK
 
 #EXTINF:-1 tvg-id="4249759" tvg-name="Zambia vs Nigeria [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249759_53093_ZAM_NGR_FC-Web_1792493252671.png" group-title="Cricket",Zambia vs Nigeria [English]
 https://in-mc-flive.fancode.com/mumbai/4249759_english_hls_f29d7378369507_1ta-di_h264/720p.m3u8?hdntl=Expires=1792672556~_GO=Generated~acl=/mumbai/4249759_english_hls_f29d7378369507_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_04578bec-dd36-43~Signature=ASgJGVAWmA7vFyNS-0tQIDO4nkjBRQPB4xzSf4fJ9a2Wwlco1tOq719oFoETgkhY7FDRNMG2KLi9AdXJ77gUYZiWxNkF
 
-#EXTINF:-1 tvg-id="4249609" tvg-name="Day 3 - World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png" group-title="Tennis",Day 3 - World Feed [English]
-https://in-mc-flive.fancode.com/mumbai/4249609_english_hls_8f2b2f331567116_1ta-di_h264/720p.m3u8?hdntl=Expires=1792679218~_GO=Generated~acl=/mumbai/4249609_english_hls_8f2b2f331567116_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f63488b4-c138-41~Signature=ASgJGVCADU_ZYlWRbVPXQKAIZ9RpNArqSSDPBYxVMEWLEc6oMqda1lpy79pSiYZLJbJRkYKOkbj0qGwZRQLg3XpFPwUA
-
 #EXTINF:-1 tvg-id="4250153" tvg-name="Court 1 - Round 32 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg" group-title="Badminton",Court 1 - Round 32 [English]
-https://in-mc-flive.fancode.com/mumbai/4250153_english_hls_0f4905838a44655_1ta-di_h264/720p.m3u8?hdntl=Expires=1792655594~_GO=Generated~acl=/mumbai/4250153_english_hls_0f4905838a44655_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_49a0a0a0-b0e7-43~Signature=ASgJGVD0xTHPOLmCQvi7g0O3CD66fHmXNJsZe4tqtHnYfwF22tvXtu6xGJzYuBFg07iAHg7O18oF2hwiWspRWpJFp0oA
+https://in-mc-flive.fancode.com/mumbai/4250153_english_hls_0f4905838a44655_1ta-di_h264/720p.m3u8?hdntl=Expires=1792685277~_GO=Generated~acl=/mumbai/4250153_english_hls_0f4905838a44655_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_787d6e21-46d9-41~Signature=ASgJGVBvkiJ9GCbpgld9K0fXCYyqPa4HoVacnX2-QwUsuiIR9uc7whuHCSl72C3iRdGCfauGTD2hVRsgA6pPnlopjgwI
 
 #EXTINF:-1 tvg-id="4249623" tvg-name="Day 3 - World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg" group-title="Tennis",Day 3 - World Feed [English]
 https://in-mc-flive.fancode.com/mumbai/4249623_english_hls_6c8130a2c479550_1ta-di_h264/720p.m3u8?hdntl=Expires=1792661657~_GO=Generated~acl=/mumbai/4249623_english_hls_6c8130a2c479550_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_491bfcb4-3f21-49~Signature=ASgJGVB8dBg7FykjCE2oMS3jX2f1T68ry1jrEzfuDFxjCO18615euZXDwhQ_FRzha-fwGlD890qchJ9uJ4BbhbKhnVUG
