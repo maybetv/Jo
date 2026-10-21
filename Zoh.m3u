@@ -651,22 +651,22 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090549320_ENG" tvg-name="Delhi Leaders vs Gujarat Royals - 21 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026725/1792417732166732_STCL_Delhi-Leaders-vs-Gujarat-Royals_live_landscape_thumb.jpg" group-title="Cricket",Delhi Leaders vs Gujarat Royals - 21 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792638986~acl=/*~id=74949067750547362941165659533088~hmac=8c397c43831cadb95dead7e3cc021c543d90be54d40803aabd09df05dc508a25
+https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792639595~acl=/*~id=06670999469816481270822097444167~hmac=43f6bbe13a9ac81d9fec968eb70a791578fd698f21f52af6596caaa8c01e084e
 
 #EXTINF:-1 tvg-id="1090549331_ENG" tvg-name="Haryana Hurricanes vs Emperia Marathas - Semi Final 2 - 21 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026663/179234691409325_VCL26_SF_Haryana_Hurricanes_vs_Emperia_Marathas_landscape_thumb.jpg" group-title="Volleyball",Haryana Hurricanes vs Emperia Marathas - Semi Final 2 - 21 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8947/cricodi_2110-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792638986~acl=/*~id=74949067750547362941165659533088~hmac=8c397c43831cadb95dead7e3cc021c543d90be54d40803aabd09df05dc508a25
+https://sonydaimenew.akamaized.net/hls/live/2119931/cricodi_2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792639595~acl=/*~id=06670999469816481270822097444167~hmac=43f6bbe13a9ac81d9fec968eb70a791578fd698f21f52af6596caaa8c01e084e
 
 #EXTINF:-1 tvg-id="1090549331_HIN" tvg-name="Haryana Hurricanes vs Emperia Marathas - Semi Final 2 - 21 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026663/179234691409325_VCL26_SF_Haryana_Hurricanes_vs_Emperia_Marathas_landscape_thumb.jpg" group-title="Volleyball",Haryana Hurricanes vs Emperia Marathas - Semi Final 2 - 21 Oct 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch9187/cricodi_2110-hin-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792638986~acl=/*~id=74949067750547362941165659533088~hmac=8c397c43831cadb95dead7e3cc021c543d90be54d40803aabd09df05dc508a25
+https://sonydaimenew.akamaized.net/hls/live/2119921/cricodi_2110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792639595~acl=/*~id=06670999469816481270822097444167~hmac=43f6bbe13a9ac81d9fec968eb70a791578fd698f21f52af6596caaa8c01e084e
 
 #EXTINF:-1 tvg-id="1090549302_ENG" tvg-name="Inter Milan vs Shakhtar Donetsk - MD3 - 21 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025835/1791100501247105_UYL26_Inter_Milan_vs_Shakhter_Donetsk_live_landscape_thumb.jpg" group-title="Football",Inter Milan vs Shakhtar Donetsk - MD3 - 21 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi32110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792638986~acl=/*~id=74949067750547362941165659533088~hmac=8c397c43831cadb95dead7e3cc021c543d90be54d40803aabd09df05dc508a25
+https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi32110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792639595~acl=/*~id=06670999469816481270822097444167~hmac=43f6bbe13a9ac81d9fec968eb70a791578fd698f21f52af6596caaa8c01e084e
 
 #EXTINF:-1 tvg-id="1090549320" tvg-name="Delhi Leaders vs Gujarat Royals - 21 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026725/1792417732166732_STCL_Delhi-Leaders-vs-Gujarat-Royals_live_landscape_thumb.jpg" group-title="Sports",Delhi Leaders vs Gujarat Royals - 21 Oct 2026 [ENGLISH]
 https://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792615850~acl=/*~id=83172242931311624649830689450973~hmac=d004e8522cfc0f4b21e4166bacb413bb492659098dae9702ed9ba711bac3aecc
 
 #EXTINF:-1 tvg-id="4249782" tvg-name="South Africa vs Australia [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Cricket",South Africa vs Australia [English]
-https://in-mc-flive.fancode.com/mumbai/4249782_english_hls_bf21f9fa2f28565_1ta-di_h264/720p.m3u8?hdntl=Expires=1792653774~_GO=Generated~acl=/mumbai/4249782_english_hls_bf21f9fa2f28565_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_5487a23f-78dc-40~Signature=ASgJGVBpQP89zrQWZi3en02FaKtA0DjHIFulpCCaVQCy9OKFml7fYamDseoYiOViKJYPNh_3CqrJZCB913uYjXCfAeUJ
+https://in-mc-flive.fancode.com/mumbai/4249782_english_hls_bf21f9fa2f28565_1ta-di_h264/720p.m3u8?hdntl=Expires=1792682856~_GO=Generated~acl=/mumbai/4249782_english_hls_bf21f9fa2f28565_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c7d2f7fc-9d97-4e~Signature=ASgJGVBRpBKCgEgM24wGbFzrj9HkLT9Icn8JQa7zNNG-XcTTh4YA5f4D3V8OarMUWn0_Gmwbwf0dbiiiqyal4Y1HgW4D
 
 #EXTINF:-1 tvg-id="4249696" tvg-name="Bangladesh vs Afghanistan [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249696_53089_AFG_BAN_FC-WEB_1792056448070.jpg" group-title="Cricket",Bangladesh vs Afghanistan [English]
 https://in-mc-flive.fancode.com/mumbai/4249696_english_hls_d51b02bd8369074_1ta-di_h264/720p.m3u8?hdntl=Expires=1792666501~_GO=Generated~acl=/mumbai/4249696_english_hls_d51b02bd8369074_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_6d9f77d1-e924-40~Signature=ASgJGVBRCocdFyjq9CbbId_I9nRNVzzakVoOk17rLDmmham6wMU1jBGHs9YPTM--N14yu-4vUzsPzdUlmVjs1k07fxID
