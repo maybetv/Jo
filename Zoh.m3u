@@ -655,7 +655,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="4249665" tvg-name="Tasmania vs Victoria [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249665_53087_TAS_VCT_FC-WEB_1791295173197.jpg" group-title="Cricket",Tasmania vs Victoria [English]
-https://in-mc-flive.fancode.com/mumbai/4249665_english_hls_910773056354556_1ta-di_h264/720p.m3u8?hdntl=Expires=1792623497~_GO=Generated~acl=/mumbai/4249665_english_hls_910773056354556_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7957876d-543f-4b~Signature=ASgJGVBAT7kwv9SuDoS7-SSnE0xbwX5jF6F6w5-xFOizo23dTUKVDV00uBgw31sOMojebn3c5Z6HkNyopiC_ETrpPlUO
+https://in-mc-flive.fancode.com/mumbai/4249665_english_hls_910773056354556_1ta-di_h264/720p.m3u8?hdntl=Expires=1792652561~_GO=Generated~acl=/mumbai/4249665_english_hls_910773056354556_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_2094e18f-faa4-48~Signature=ASgJGVDlH6iclvEkoAy4WDYcTlZ2GXmEW9wSQClK70A8veOLE24gHSs6FysBsSzCYmjBZTecL4IbFFDL77iaM5YHCjIK
 
 #EXTINF:-1 tvg-id="4249667" tvg-name="New South Wales vs Western Australia [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249667_53087_WAU_NSW_FC-WEB_1791299730396.jpg" group-title="Cricket",New South Wales vs Western Australia [English]
 https://in-mc-flive.fancode.com/mumbai/4249667_english_hls_27a33faf8098479_1ta-di_h264/720p.m3u8?hdntl=Expires=1792636216~_GO=Generated~acl=/mumbai/4249667_english_hls_27a33faf8098479_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1bc806f7-832f-41~Signature=ASgJGVASFbOM4MAmCMUf2mmpkzLTkGyKlovLqq201hc_WUgIPGV15OvjMgW_x4veTnwAVfCaaBPr0Gfp_n19EufDMA4G
@@ -680,6 +680,13 @@ https://ComeInNextMatch.com/4K.m3u8
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1792592112~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=2f71535069312e388c482819f0dbb75f276f7913898ce43cceb93dce74a5e31d/manifest.mpd?vcfilter=9e1e7bd1-64db-49ee-9978-89b6c9d1bf62&
 
+#EXTINF:-1 tvg-id="B0HFWWJWH6" tvg-name="Australia tour of South Africa 2026 - 2nd Test - South Africa vs Australia" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.df9be69a-7bd6-4883-a021-b7e4801a1573/8/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Australia tour of South Africa 2026 - 2nd Test - South Africa vs Australia
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39d6fd72bc7b22ab03ea3d81cb8c739a:91a9302b488dc76b61b9ab7c4e158aa2
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2aajhzhbtb/out/v1/e17009f75acc4bddb216ccc7eb256e89/cenc.mpd
+
 #EXTINF:-1 tvg-id="B0HLHFM426" tvg-name="Tennis Today Live-Brussels-ATP, Lyon-ATP, Almaty-ATP & Ningbo-WTA Early Rounds" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.456e3685-2a4d-4580-8f48-ad265819da80/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Tennis Today Live-Brussels-ATP, Lyon-ATP, Almaty-ATP & Ningbo-WTA Early Rounds
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -687,10 +694,17 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
 
+#EXTINF:-1 tvg-id="B0HFWWJWH6" tvg-name="Australia tour of South Africa 2026 - 2nd Test - South Africa vs Australia" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.df9be69a-7bd6-4883-a021-b7e4801a1573/8/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Australia tour of South Africa 2026 - 2nd Test - South Africa vs Australia
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39d6fd72bc7b22ab03ea3d81cb8c739a:91a9302b488dc76b61b9ab7c4e158aa2
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2aajhzhbtb/out/v1/e17009f75acc4bddb216ccc7eb256e89/cenc.mpd
+
 #EXTINF:-1 tvg-id="B0HLTHKHY9" tvg-name="World Beach Sprint Finals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3abb1a01-7f5d-424f-bc61-3ab1b1f1e47c/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",World Beach Sprint Finals
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
 
