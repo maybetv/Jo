@@ -651,16 +651,16 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090549320_ENG" tvg-name="Delhi Leaders vs Gujarat Royals - 21 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026725/1792417732166732_STCL_Delhi-Leaders-vs-Gujarat-Royals_live_landscape_thumb.jpg" group-title="Cricket",Delhi Leaders vs Gujarat Royals - 21 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi12110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792634726~acl=/*~id=99466284819616376527256928067810~hmac=fe85109544d888960e603e60cb842589b3e8e1c4d2334fb8852c356ebb018c13
+https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792635335~acl=/*~id=05038695008083841544521958435572~hmac=bec5d5c485d40a9face8f3965ecb3724d8d0735b78f6a9ffb088a402926934f2
 
 #EXTINF:-1 tvg-id="1090549331_ENG" tvg-name="Haryana Hurricanes vs Emperia Marathas - Semi Final 2 - 21 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026663/179234691409325_VCL26_SF_Haryana_Hurricanes_vs_Emperia_Marathas_landscape_thumb.jpg" group-title="Volleyball",Haryana Hurricanes vs Emperia Marathas - Semi Final 2 - 21 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2119931/cricodi_2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792634726~acl=/*~id=99466284819616376527256928067810~hmac=fe85109544d888960e603e60cb842589b3e8e1c4d2334fb8852c356ebb018c13
+https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8947/cricodi_2110-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792635335~acl=/*~id=05038695008083841544521958435572~hmac=bec5d5c485d40a9face8f3965ecb3724d8d0735b78f6a9ffb088a402926934f2
 
 #EXTINF:-1 tvg-id="1090549331_HIN" tvg-name="Haryana Hurricanes vs Emperia Marathas - Semi Final 2 - 21 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026663/179234691409325_VCL26_SF_Haryana_Hurricanes_vs_Emperia_Marathas_landscape_thumb.jpg" group-title="Volleyball",Haryana Hurricanes vs Emperia Marathas - Semi Final 2 - 21 Oct 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2119921/cricodi_2110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792634726~acl=/*~id=99466284819616376527256928067810~hmac=fe85109544d888960e603e60cb842589b3e8e1c4d2334fb8852c356ebb018c13
+https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch9187/cricodi_2110-hin-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792635335~acl=/*~id=05038695008083841544521958435572~hmac=bec5d5c485d40a9face8f3965ecb3724d8d0735b78f6a9ffb088a402926934f2
 
 #EXTINF:-1 tvg-id="1090549302_ENG" tvg-name="Inter Milan vs Shakhtar Donetsk - MD3 - 21 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025835/1791100501247105_UYL26_Inter_Milan_vs_Shakhter_Donetsk_live_landscape_thumb.jpg" group-title="Football",Inter Milan vs Shakhtar Donetsk - MD3 - 21 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi32110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792634726~acl=/*~id=99466284819616376527256928067810~hmac=fe85109544d888960e603e60cb842589b3e8e1c4d2334fb8852c356ebb018c13
+https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi32110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792635335~acl=/*~id=05038695008083841544521958435572~hmac=bec5d5c485d40a9face8f3965ecb3724d8d0735b78f6a9ffb088a402926934f2
 
 #EXTINF:-1 tvg-id="1090549320" tvg-name="Delhi Leaders vs Gujarat Royals - 21 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026725/1792417732166732_STCL_Delhi-Leaders-vs-Gujarat-Royals_live_landscape_thumb.jpg" group-title="Sports",Delhi Leaders vs Gujarat Royals - 21 Oct 2026 [ENGLISH]
 https://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792615850~acl=/*~id=83172242931311624649830689450973~hmac=d004e8522cfc0f4b21e4166bacb413bb492659098dae9702ed9ba711bac3aecc
