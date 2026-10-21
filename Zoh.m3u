@@ -645,28 +645,23 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
-# --- LIVE EVENTS ---
 
+# --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="4249667" tvg-name="New South Wales vs Western Australia [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249667_53087_WAU_NSW_FC-WEB_1791299730396.jpg" group-title="Cricket",New South Wales vs Western Australia [English]
 https://in-mc-flive.fancode.com/mumbai/4249667_english_hls_27a33faf8098479_1ta-di_h264/720p.m3u8?hdntl=Expires=1792636216~_GO=Generated~acl=/mumbai/4249667_english_hls_27a33faf8098479_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1bc806f7-832f-41~Signature=ASgJGVASFbOM4MAmCMUf2mmpkzLTkGyKlovLqq201hc_WUgIPGV15OvjMgW_x4veTnwAVfCaaBPr0Gfp_n19EufDMA4G
 
-
 #EXTINF:-1 tvg-id="4250336" tvg-name="Kenya vs Denmark [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png" group-title="Cricket",Kenya vs Denmark [English]
 https://in-mc-flive.fancode.com/mumbai/4250336_english_hls_3e3f7ed4433143_1ta-di_h264/720p.m3u8?hdntl=Expires=1792650744~_GO=Generated~acl=/mumbai/4250336_english_hls_3e3f7ed4433143_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_338307a6-c49f-4a~Signature=ASgJGVBFqrvnf4AkhAkYgZ8HTaufLA33saxUPgCkTVLGWO5W91E1r5a1RuHDrZAzeguINV97oacQaylSCBT4r1x4LlUO
-
 
 #EXTINF:-1 tvg-id="4249782" tvg-name="South Africa vs Australia [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Cricket",South Africa vs Australia [English]
 https://in-mc-flive.fancode.com/mumbai/4249782_english_hls_bf21f9fa2f28565_1ta-di_h264/720p.m3u8?hdntl=Expires=1792653774~_GO=Generated~acl=/mumbai/4249782_english_hls_bf21f9fa2f28565_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_5487a23f-78dc-40~Signature=ASgJGVBpQP89zrQWZi3en02FaKtA0DjHIFulpCCaVQCy9OKFml7fYamDseoYiOViKJYPNh_3CqrJZCB913uYjXCfAeUJ
 
-
 #EXTINF:-1 tvg-id="4249609" tvg-name="Day 3 - World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png" group-title="Tennis",Day 3 - World Feed [English]
 https://in-mc-flive.fancode.com/mumbai/4249609_english_hls_8f2b2f331567116_1ta-di_h264/720p.m3u8?hdntl=Expires=1792650137~_GO=Generated~acl=/mumbai/4249609_english_hls_8f2b2f331567116_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c8a665fb-d767-45~Signature=ASgJGVDstq5ZXDhRnPaFJ3ECMfRyZ_atffAs_ClP_tr-7NxkBOs5dR7sEN0E9Md5JWINvajV93nAP4svchk1dUhky6EJ
 
-
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
-
 
 #EXTINF:-1 tvg-id="9e1e7bd1-64db-49ee-9978-89b6c9d1bf62" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/erort4dawepsoi17gcfw" tvg-lang="English" group-title="Cricket",English | Kenya v Denmark (1st Innings)
 #KODIPROP:inputstream=inputstream.adaptive
@@ -679,14 +674,12 @@ https://ComeInNextMatch.com/4K.m3u8
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1792592112~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=2f71535069312e388c482819f0dbb75f276f7913898ce43cceb93dce74a5e31d/manifest.mpd?vcfilter=9e1e7bd1-64db-49ee-9978-89b6c9d1bf62&
 
-
 #EXTINF:-1 tvg-id="B0HFWWJWH6" tvg-name="Australia tour of South Africa 2026 - 2nd Test - South Africa vs Australia" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.df9be69a-7bd6-4883-a021-b7e4801a1573/8/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Australia tour of South Africa 2026 - 2nd Test - South Africa vs Australia
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39d6fd72bc7b22ab03ea3d81cb8c739a:91a9302b488dc76b61b9ab7c4e158aa2
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2aajhzhbtb/out/v1/e17009f75acc4bddb216ccc7eb256e89/cenc.mpd
-
 
 #EXTINF:-1 tvg-id="B0HLHFM426" tvg-name="Tennis Today Live-Brussels-ATP, Lyon-ATP, Almaty-ATP & Ningbo-WTA Early Rounds" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.456e3685-2a4d-4580-8f48-ad265819da80/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Tennis Today Live-Brussels-ATP, Lyon-ATP, Almaty-ATP & Ningbo-WTA Early Rounds
 #KODIPROP:inputstream=inputstream.adaptive
@@ -695,7 +688,6 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2aajhzhbtb/out/v1
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
 
-
 #EXTINF:-1 tvg-id="B0HFWWJWH6" tvg-name="Australia tour of South Africa 2026 - 2nd Test - South Africa vs Australia" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.df9be69a-7bd6-4883-a021-b7e4801a1573/8/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Australia tour of South Africa 2026 - 2nd Test - South Africa vs Australia
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -703,10 +695,10 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1
 #KODIPROP:inputstream.adaptive.license_key=39d6fd72bc7b22ab03ea3d81cb8c739a:91a9302b488dc76b61b9ab7c4e158aa2
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2aajhzhbtb/out/v1/e17009f75acc4bddb216ccc7eb256e89/cenc.mpd
 
-
 #EXTINF:-1 tvg-id="B0HLTHKHY9" tvg-name="World Beach Sprint Finals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3abb1a01-7f5d-424f-bc61-3ab1b1f1e47c/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",World Beach Sprint Finals
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
 https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
+
