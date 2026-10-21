@@ -650,11 +650,44 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 # --- LIVE EVENTS ---
 
+#EXTINF:-1 tvg-id="1090549254_ENG" tvg-name="Bayern Munchen vs Arsenal - 22 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125227792719_UCL2627_MD3_Bayern_vs_Arsenal_landscape_thumb.jpg" group-title="Football",Bayern Munchen vs Arsenal - 22 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792650515~acl=/*~id=22258893843452255967440236522592~hmac=1e5ecea53184b92aa7c0c954805e236a7ebac1b22055268642096c2195b9dcff
+
+#EXTINF:-1 tvg-id="1090549254_HIN" tvg-name="Bayern Munchen vs Arsenal - 22 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125227792719_UCL2627_MD3_Bayern_vs_Arsenal_landscape_thumb.jpg" group-title="Football",Bayern Munchen vs Arsenal - 22 Oct 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive2110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792650515~acl=/*~id=22258893843452255967440236522592~hmac=1e5ecea53184b92aa7c0c954805e236a7ebac1b22055268642096c2195b9dcff
+
+#EXTINF:-1 tvg-id="1090549254_TAM" tvg-name="Bayern Munchen vs Arsenal - 22 Oct 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125227792719_UCL2627_MD3_Bayern_vs_Arsenal_landscape_thumb.jpg" group-title="Football",Bayern Munchen vs Arsenal - 22 Oct 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive2110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792650515~acl=/*~id=22258893843452255967440236522592~hmac=1e5ecea53184b92aa7c0c954805e236a7ebac1b22055268642096c2195b9dcff
+
+#EXTINF:-1 tvg-id="1090549254_TEL" tvg-name="Bayern Munchen vs Arsenal - 22 Oct 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125227792719_UCL2627_MD3_Bayern_vs_Arsenal_landscape_thumb.jpg" group-title="Football",Bayern Munchen vs Arsenal - 22 Oct 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive2110/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792650515~acl=/*~id=22258893843452255967440236522592~hmac=1e5ecea53184b92aa7c0c954805e236a7ebac1b22055268642096c2195b9dcff
+
+#EXTINF:-1 tvg-id="1090549254_KAN" tvg-name="Bayern Munchen vs Arsenal - 22 Oct 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125227792719_UCL2627_MD3_Bayern_vs_Arsenal_landscape_thumb.jpg" group-title="Football",Bayern Munchen vs Arsenal - 22 Oct 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive2110/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792650515~acl=/*~id=22258893843452255967440236522592~hmac=1e5ecea53184b92aa7c0c954805e236a7ebac1b22055268642096c2195b9dcff
+
 #EXTINF:-1 tvg-id="1090549217_ENG" tvg-name="Como vs Man United - 21 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125207661519_UCL2627_MD3_Como_vs_Man_United_landscape_thumb.jpg" group-title="Football",Como vs Man United - 21 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792649908~acl=/*~id=83723332980712098536846083844591~hmac=47144733639ff11df2225c1f790ea6dcd314b261163c1c4837c10b12ef863884
+https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792650515~acl=/*~id=22258893843452255967440236522592~hmac=1e5ecea53184b92aa7c0c954805e236a7ebac1b22055268642096c2195b9dcff
+
+#EXTINF:-1 tvg-id="1090549265_ENG" tvg-name="Real Madrid vs Leipzig - 22 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125251138819_UCL2627_MD3_Real_Madrid_vs_Leipzig_landscape_thumb.jpg" group-title="Football",Real Madrid vs Leipzig - 22 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792650515~acl=/*~id=22258893843452255967440236522592~hmac=1e5ecea53184b92aa7c0c954805e236a7ebac1b22055268642096c2195b9dcff
 
 #EXTINF:-1 tvg-id="1090549216_ENG" tvg-name="Lille vs Galatasaray - 21 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125185673619_UCL2627_MD3_Lille_vs_Galatasaray_landscape_thumb.jpg" group-title="Football",Lille vs Galatasaray - 21 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792649908~acl=/*~id=83723332980712098536846083844591~hmac=47144733639ff11df2225c1f790ea6dcd314b261163c1c4837c10b12ef863884
+https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792650515~acl=/*~id=22258893843452255967440236522592~hmac=1e5ecea53184b92aa7c0c954805e236a7ebac1b22055268642096c2195b9dcff
+
+#EXTINF:-1 tvg-id="1090549290_ENG" tvg-name="Inter vs Shakhtar - 22 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125307242519_UCL2627_MD3_Inter_vs_Shakhtar_landscape_thumb.jpg" group-title="Football",Inter vs Shakhtar - 22 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792650515~acl=/*~id=22258893843452255967440236522592~hmac=1e5ecea53184b92aa7c0c954805e236a7ebac1b22055268642096c2195b9dcff
+
+#EXTINF:-1 tvg-id="1090549295_ENG" tvg-name="Club Brugge vs Lens - 22 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125373739619_UCL2627_MD3_Club_Brugge_vs_Lens_landscape_thumb.jpg" group-title="Football",Club Brugge vs Lens - 22 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792650515~acl=/*~id=22258893843452255967440236522592~hmac=1e5ecea53184b92aa7c0c954805e236a7ebac1b22055268642096c2195b9dcff
+
+#EXTINF:-1 tvg-id="1090549291_ENG" tvg-name="Aston Villa vs Viking - 22 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125354964819_UCL2627_MD3_Aston_Villa_vs_Viking_landscape_thumb.jpg" group-title="Football",Aston Villa vs Viking - 22 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792650515~acl=/*~id=22258893843452255967440236522592~hmac=1e5ecea53184b92aa7c0c954805e236a7ebac1b22055268642096c2195b9dcff
+
+#EXTINF:-1 tvg-id="1090549296_ENG" tvg-name="Real Betis vs Feyenoord - 22 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125395357019_UCL2627_MD3_Real_Betis_vs_Feyenoord_landscape_thumb.jpg" group-title="Football",Real Betis vs Feyenoord - 22 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792650515~acl=/*~id=22258893843452255967440236522592~hmac=1e5ecea53184b92aa7c0c954805e236a7ebac1b22055268642096c2195b9dcff
+
+#EXTINF:-1 tvg-id="1090549289_ENG" tvg-name="Sporting CP vs LASK - 22 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125330596919_UCL2627_MD3_SportingCP_vs_LASK_landscape_thumb.jpg" group-title="Football",Sporting CP vs LASK - 22 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792650515~acl=/*~id=22258893843452255967440236522592~hmac=1e5ecea53184b92aa7c0c954805e236a7ebac1b22055268642096c2195b9dcff
 
 #EXTINF:-1 tvg-id="1090549217" tvg-name="Como vs Man United - 21 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125207661519_UCL2627_MD3_Como_vs_Man_United_landscape_thumb.jpg" group-title="Sports",Como vs Man United - 21 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792642858~acl=/*~id=35791217578557925080544863775487~hmac=9f393eb3472c81706dd3b9121a33a38e8c6303fc8b17aef6cee4cfe5afd6743e
@@ -667,9 +700,6 @@ https://in-mc-flive.fancode.com/mumbai/4249696_english_hls_d51b02bd8369074_1ta-d
 
 #EXTINF:-1 tvg-id="4250479" tvg-name="Ajman vs Abu Dhabi [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250479_53130_AJM_ABD_fc-web_1792412930149.jpg" group-title="Cricket",Ajman vs Abu Dhabi [English]
 https://in-mc-flive.fancode.com/mumbai/4250479_english_hls_9167fee39a54643_1ta-di_h264/720p.m3u8?hdntl=Expires=1792685885~_GO=Generated~acl=/mumbai/4250479_english_hls_9167fee39a54643_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c28a161f-7cfe-48~Signature=ASgJGVBqEarcYOUOnmY2tvTEezM6_r7LlRXgrF-Tc9OMAD545QwVuGvXwHp9_Li0WrRslEQQlaVX5uexLVtdOPRjqeUK
-
-#EXTINF:-1 tvg-id="4250153" tvg-name="Court 1 - Round 32 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg" group-title="Badminton",Court 1 - Round 32 [English]
-https://in-mc-flive.fancode.com/mumbai/4250153_english_hls_0f4905838a44655_1ta-di_h264/720p.m3u8?hdntl=Expires=1792685277~_GO=Generated~acl=/mumbai/4250153_english_hls_0f4905838a44655_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_787d6e21-46d9-41~Signature=ASgJGVBvkiJ9GCbpgld9K0fXCYyqPa4HoVacnX2-QwUsuiIR9uc7whuHCSl72C3iRdGCfauGTD2hVRsgA6pPnlopjgwI
 
 #EXTINF:-1 tvg-id="4249623" tvg-name="Day 3 - World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg" group-title="Tennis",Day 3 - World Feed [English]
 https://in-mc-flive.fancode.com/mumbai/4249623_english_hls_6c8130a2c479550_1ta-di_h264/720p.m3u8?hdntl=Expires=1792690738~_GO=Generated~acl=/mumbai/4249623_english_hls_6c8130a2c479550_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_44de436b-ee22-48~Signature=ASgJGVBb_KxAHKxk00csiA_D7eGUmK-UKJobNxW1nj4tus5k5NBX5hT8S62ZTT7VJRIHtyoLnaEIcBQdyPoHFaQfsskP
@@ -685,7 +715,7 @@ https://ComeInNextMatch.com/4K.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a016bbf898c1522758c13ec19c280d2a:f7a70af49c51630e54a3ec6dfe2de582
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/diuuiw6d8r/out/v1/2fef8423273a48a6856a08453717c337/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/diuuiw6d8r/out/v1/2fef8423273a48a6856a08453717c337/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HKYCYQF4" tvg-name="Lille vs. Galatasaray" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8c351318-9565-454c-be34-e3effd1deebb/9/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",Lille vs. Galatasaray
 #KODIPROP:inputstream=inputstream.adaptive
@@ -706,12 +736,12 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a016bbf898c1522758c13ec19c280d2a:f7a70af49c51630e54a3ec6dfe2de582
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/diuuiw6d8r/out/v1/2fef8423273a48a6856a08453717c337/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/diuuiw6d8r/out/v1/2fef8423273a48a6856a08453717c337/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HKYV99DB" tvg-name="Tennis Today Live-Brussels-ATP, Lyon-ATP & Almaty-ATP Early Rounds" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b773c295-8f7c-4cf9-bb9a-c31a6c58f658/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Tennis Today Live-Brussels-ATP, Lyon-ATP & Almaty-ATP Early Rounds
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
 
