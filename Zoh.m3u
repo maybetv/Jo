@@ -650,30 +650,6 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 # --- LIVE EVENTS ---
 
-#EXTINF:-1 tvg-id="1090549254" tvg-name="Bayern Munchen vs Arsenal - 22 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125227792719_UCL2627_MD3_Bayern_vs_Arsenal_landscape_thumb.jpg" group-title="Sports",Bayern Munchen vs Arsenal - 22 Oct 2026 [ENGLISH]
-https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792651847~acl=/*~id=00441257607441023742582022693810~hmac=9e7888a15196d50d3d41904f03152e383ca4f748386b18cbe946d460d1ac00bb
-
-#EXTINF:-1 tvg-id="1090549265" tvg-name="Real Madrid vs Leipzig - 22 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125251138819_UCL2627_MD3_Real_Madrid_vs_Leipzig_landscape_thumb.jpg" group-title="Sports",Real Madrid vs Leipzig - 22 Oct 2026 [ENGLISH]
-https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792651859~acl=/*~id=10576828430471254599850057095428~hmac=50f4f9c83f309af678db3527b276c306c96de44b9c41b5f36fa258338f8df225
-
-#EXTINF:-1 tvg-id="1090549290" tvg-name="Inter vs Shakhtar - 22 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125307242519_UCL2627_MD3_Inter_vs_Shakhtar_landscape_thumb.jpg" group-title="Sports",Inter vs Shakhtar - 22 Oct 2026 [ENGLISH]
-https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792651878~acl=/*~id=71122818332954602669962750220807~hmac=b4beb48feab690055b096520c3b7098266b7cf699ff107af07215ec9f5d89a84
-
-#EXTINF:-1 tvg-id="1090549295" tvg-name="Club Brugge vs Lens - 22 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125373739619_UCL2627_MD3_Club_Brugge_vs_Lens_landscape_thumb.jpg" group-title="Sports",Club Brugge vs Lens - 22 Oct 2026 [ENGLISH]
-https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792651847~acl=/*~id=00441257607441023742582022693810~hmac=9e7888a15196d50d3d41904f03152e383ca4f748386b18cbe946d460d1ac00bb
-
-#EXTINF:-1 tvg-id="1090549291" tvg-name="Aston Villa vs Viking - 22 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125354964819_UCL2627_MD3_Aston_Villa_vs_Viking_landscape_thumb.jpg" group-title="Sports",Aston Villa vs Viking - 22 Oct 2026 [ENGLISH]
-https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792651908~acl=/*~id=82008543787362389701004005431340~hmac=cd85d49fc17bee8a7923b3dae0df29427f7cb96b9175657cd3a156d678b41c61
-
-#EXTINF:-1 tvg-id="1090549296" tvg-name="Real Betis vs Feyenoord - 22 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125395357019_UCL2627_MD3_Real_Betis_vs_Feyenoord_landscape_thumb.jpg" group-title="Sports",Real Betis vs Feyenoord - 22 Oct 2026 [ENGLISH]
-https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792651920~acl=/*~id=96986844396284316130963575393130~hmac=efda89dd26918f2341acd231826818282ad8dcfa3a5264eb4078e6cfe7136898
-
-#EXTINF:-1 tvg-id="1090549289" tvg-name="Sporting CP vs LASK - 22 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125330596919_UCL2627_MD3_SportingCP_vs_LASK_landscape_thumb.jpg" group-title="Sports",Sporting CP vs LASK - 22 Oct 2026 [ENGLISH]
-https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792651939~acl=/*~id=09187734644707491399201312215743~hmac=9673a2cd1ce319b17580dcc10dee09d5c1fb5a107b2f57a4d8524667f621c22f
-
-#EXTINF:-1 tvg-id="4249805" tvg-name="Reading vs Leyton Orient [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg" group-title="Football",Reading vs Leyton Orient [English]
-https://in-mc-flive.fancode.com/mumbai/4249805_english_hls_ba646578b745190_1ta-di_h264/720p.m3u8?hdntl=Expires=1792695032~_GO=Generated~acl=/mumbai/4249805_english_hls_ba646578b745190_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b7e0b01e-695b-42~Signature=ASgJGVB62jl96mhfXCYGBXLxzlXNxz6Hk_e9INpTCg57xf8JPyzCdkC9xkdZcDtu6wTeC3o3nhSZ0CNSvCRZ0xeuxAII
-
 #EXTINF:-1 tvg-id="4249616" tvg-name="Day 3 - World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg" group-title="Tennis",Day 3 - World Feed [English]
 https://in-mc-flive.fancode.com/mumbai/4249616_english_hls_1cfc6b5feb21323_1ta-di_h264/720p.m3u8?hdntl=Expires=1792698721~_GO=Generated~acl=/mumbai/4249616_english_hls_1cfc6b5feb21323_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_86ea3497-b379-46~Signature=ASgJGVAgCiwV4PQLyjtQUcPPvhy3zByffFK4sxlBaFg-H9-CyUdD2li9I9Dq_kYydu0lrfgetls_Hupavw8euuToIEIJ
 
