@@ -660,8 +660,8 @@ https://in-mc-flive.fancode.com/mumbai/4249665_english_hls_910773056354556_1ta-d
 #EXTINF:-1 tvg-id="4249667" tvg-name="New South Wales vs Western Australia [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249667_53087_WAU_NSW_FC-WEB_1791299730396.jpg" group-title="Cricket",New South Wales vs Western Australia [English]
 https://in-mc-flive.fancode.com/mumbai/4249667_english_hls_27a33faf8098479_1ta-di_h264/720p.m3u8?hdntl=Expires=1792636216~_GO=Generated~acl=/mumbai/4249667_english_hls_27a33faf8098479_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1bc806f7-832f-41~Signature=ASgJGVASFbOM4MAmCMUf2mmpkzLTkGyKlovLqq201hc_WUgIPGV15OvjMgW_x4veTnwAVfCaaBPr0Gfp_n19EufDMA4G
 
-#EXTINF:-1 tvg-id="4249804" tvg-name="Sydney Sixers Women vs Perth Scorchers Women [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249804_53097_SS-W_PS-W_FC-Web.png" group-title="Cricket",Sydney Sixers Women vs Perth Scorchers Women [English]
-https://in-mc-flive.fancode.com/mumbai/4249804_english_hls_a62996220890342_1ta-di_h264/720p.m3u8?hdntl=Expires=1792637427~_GO=Generated~acl=/mumbai/4249804_english_hls_a62996220890342_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e4ee57dd-9ed0-40~Signature=ASgJGVCaVNABhOpeSRGG-5wd_B5snPeAsxLzbEHblsH5oXXtiDvfVIx3bnModaI1e38Pd1zo7SL4XvRFp8SCjaqLHigD
+#EXTINF:-1 tvg-id="4250336" tvg-name="Kenya vs Denmark [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png" group-title="Cricket",Kenya vs Denmark [English]
+https://in-mc-flive.fancode.com/mumbai/4250336_english_hls_3e3f7ed4433143_1ta-di_h264/720p.m3u8?hdntl=Expires=1792650744~_GO=Generated~acl=/mumbai/4250336_english_hls_3e3f7ed4433143_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_338307a6-c49f-4a~Signature=ASgJGVBFqrvnf4AkhAkYgZ8HTaufLA33saxUPgCkTVLGWO5W91E1r5a1RuHDrZAzeguINV97oacQaylSCBT4r1x4LlUO
 
 #EXTINF:-1 tvg-id="4249609" tvg-name="Day 3 - World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png" group-title="Tennis",Day 3 - World Feed [English]
 https://in-mc-flive.fancode.com/mumbai/4249609_english_hls_8f2b2f331567116_1ta-di_h264/720p.m3u8?hdntl=Expires=1792650137~_GO=Generated~acl=/mumbai/4249609_english_hls_8f2b2f331567116_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c8a665fb-d767-45~Signature=ASgJGVDstq5ZXDhRnPaFJ3ECMfRyZ_atffAs_ClP_tr-7NxkBOs5dR7sEN0E9Md5JWINvajV93nAP4svchk1dUhky6EJ
@@ -685,12 +685,12 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HLTHKHY9" tvg-name="World Beach Sprint Finals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3abb1a01-7f5d-424f-bc61-3ab1b1f1e47c/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",World Beach Sprint Finals
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
 
