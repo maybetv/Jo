@@ -650,9 +650,6 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 # --- LIVE EVENTS ---
 
-#EXTINF:-1 tvg-id="1090549289_ENG" tvg-name="Sporting CP vs LASK - 22 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125330596919_UCL2627_MD3_SportingCP_vs_LASK_landscape_thumb.jpg" group-title="Football",Sporting CP vs LASK - 22 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792659662~acl=/*~id=80067044408693262351753102848126~hmac=7c2d78719fde60feba32116f0e9f0dea2d8d44de50be9d32039bdfb33660b073
-
 #EXTINF:-1 tvg-id="1090549254" tvg-name="Bayern Munchen vs Arsenal - 22 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125227792719_UCL2627_MD3_Bayern_vs_Arsenal_landscape_thumb.jpg" group-title="Sports",Bayern Munchen vs Arsenal - 22 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792651847~acl=/*~id=00441257607441023742582022693810~hmac=9e7888a15196d50d3d41904f03152e383ca4f748386b18cbe946d460d1ac00bb
 
