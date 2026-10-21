@@ -649,7 +649,10 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090549320_ENG" tvg-name="Rajasthan Frontiers vs Haryana Lions - 21 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026725/1792417147157732_STCL_Rajasthan-Frontiers-vs-Haryana-Lions_live_landscape_thumb.jpg" group-title="Cricket",Rajasthan Frontiers vs Haryana Lions - 21 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi12110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792615314~acl=/*~id=74188170407790276890309500606609~hmac=4d669b4c949c7df4a7c06673fe3ef7a2003c3c8f6b7e3a0ae9c070e91c5b22f9
+https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792615919~acl=/*~id=12894170041206740698491629599908~hmac=fe4f1cb78686ccbcfeb4049218f5c1354fb4768506b8d2cf12c377e235e4de46
+
+#EXTINF:-1 tvg-id="1090549320" tvg-name="Rajasthan Frontiers vs Haryana Lions - 21 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026725/1792417147157732_STCL_Rajasthan-Frontiers-vs-Haryana-Lions_live_landscape_thumb.jpg" group-title="Sports",Rajasthan Frontiers vs Haryana Lions - 21 Oct 2026 [ENGLISH]
+https://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792615850~acl=/*~id=83172242931311624649830689450973~hmac=d004e8522cfc0f4b21e4166bacb413bb492659098dae9702ed9ba711bac3aecc
 
 #EXTINF:-1 tvg-id="4249782" tvg-name="South Africa vs Australia [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Cricket",South Africa vs Australia [English]
 https://in-mc-flive.fancode.com/mumbai/4249782_english_hls_bf21f9fa2f28565_1ta-di_h264/720p.m3u8?hdntl=Expires=1792653774~_GO=Generated~acl=/mumbai/4249782_english_hls_bf21f9fa2f28565_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_5487a23f-78dc-40~Signature=ASgJGVBpQP89zrQWZi3en02FaKtA0DjHIFulpCCaVQCy9OKFml7fYamDseoYiOViKJYPNh_3CqrJZCB913uYjXCfAeUJ
