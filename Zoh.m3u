@@ -649,13 +649,16 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090549320_ENG" tvg-name="Rajasthan Frontiers vs Haryana Lions - 21 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026725/1792417147157732_STCL_Rajasthan-Frontiers-vs-Haryana-Lions_live_landscape_thumb.jpg" group-title="Cricket",Rajasthan Frontiers vs Haryana Lions - 21 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792629253~acl=/*~id=50010918011898556049423006563648~hmac=5ea42d19eba874e77475db6c996df1cc79dc21a9059a89d2ee0787b0191808c6
+https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792629862~acl=/*~id=99012686989679632092729653778061~hmac=1e4f021629a286c63e07fc1319b9a9105a9e3970ad85e94aa8b8569185a1766d
 
 #EXTINF:-1 tvg-id="1090549331_ENG" tvg-name="Haryana Hurricanes vs Emperia Marathas - Semi Final 2 - 21 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026663/179234691409325_VCL26_SF_Haryana_Hurricanes_vs_Emperia_Marathas_landscape_thumb.jpg" group-title="Volleyball",Haryana Hurricanes vs Emperia Marathas - Semi Final 2 - 21 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2119931/cricodi_2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792629253~acl=/*~id=50010918011898556049423006563648~hmac=5ea42d19eba874e77475db6c996df1cc79dc21a9059a89d2ee0787b0191808c6
+https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8947/cricodi_2110-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792629862~acl=/*~id=99012686989679632092729653778061~hmac=1e4f021629a286c63e07fc1319b9a9105a9e3970ad85e94aa8b8569185a1766d
 
 #EXTINF:-1 tvg-id="1090549331_HIN" tvg-name="Haryana Hurricanes vs Emperia Marathas - Semi Final 2 - 21 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026663/179234691409325_VCL26_SF_Haryana_Hurricanes_vs_Emperia_Marathas_landscape_thumb.jpg" group-title="Volleyball",Haryana Hurricanes vs Emperia Marathas - Semi Final 2 - 21 Oct 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch9187/cricodi_2110-hin-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792629253~acl=/*~id=50010918011898556049423006563648~hmac=5ea42d19eba874e77475db6c996df1cc79dc21a9059a89d2ee0787b0191808c6
+https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch9187/cricodi_2110-hin-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792629862~acl=/*~id=99012686989679632092729653778061~hmac=1e4f021629a286c63e07fc1319b9a9105a9e3970ad85e94aa8b8569185a1766d
+
+#EXTINF:-1 tvg-id="1090549301_ENG" tvg-name="LOSC Lille vs Galatasaray - MD3 - 21 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025834/1791099270661478_UYL26_LOSC_Lille_vs_Galatasaray_live_landscape_thumb.jpg" group-title="Football",LOSC Lille vs Galatasaray - MD3 - 21 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi22110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792629862~acl=/*~id=99012686989679632092729653778061~hmac=1e4f021629a286c63e07fc1319b9a9105a9e3970ad85e94aa8b8569185a1766d
 
 #EXTINF:-1 tvg-id="1090549320" tvg-name="Rajasthan Frontiers vs Haryana Lions - 21 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026725/1792417147157732_STCL_Rajasthan-Frontiers-vs-Haryana-Lions_live_landscape_thumb.jpg" group-title="Sports",Rajasthan Frontiers vs Haryana Lions - 21 Oct 2026 [ENGLISH]
 https://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792615850~acl=/*~id=83172242931311624649830689450973~hmac=d004e8522cfc0f4b21e4166bacb413bb492659098dae9702ed9ba711bac3aecc
@@ -672,6 +675,9 @@ https://in-mc-flive.fancode.com/mumbai/4249696_english_hls_d51b02bd8369074_1ta-d
 #EXTINF:-1 tvg-id="4250478" tvg-name="Dubai vs Emirates Blues [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250478_53130_EMB_DUB_fc-web_1792412930104.jpg" group-title="Cricket",Dubai vs Emirates Blues [English]
 https://in-mc-flive.fancode.com/mumbai/4250478_english_hls_f696d741098031_1ta-di_h264/720p.m3u8?hdntl=Expires=1792671344~_GO=Generated~acl=/mumbai/4250478_english_hls_f696d741098031_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_9b339e73-2fcd-4a~Signature=ASgJGVBtUpVkBUUNU9bcUtjH-bhT5WQ7bmoX6yPGCfCZQ0O-IQB46BS3P1Gk4OfyD6baBpnm3ZnKQc5JK1B7dknfQvcJ
 
+#EXTINF:-1 tvg-id="4249759" tvg-name="Zambia vs Nigeria [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249759_53093_ZAM_NGR_FC-Web_1792493252671.png" group-title="Cricket",Zambia vs Nigeria [English]
+https://in-mc-flive.fancode.com/mumbai/4249759_english_hls_f29d7378369507_1ta-di_h264/720p.m3u8?hdntl=Expires=1792672556~_GO=Generated~acl=/mumbai/4249759_english_hls_f29d7378369507_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_04578bec-dd36-43~Signature=ASgJGVAWmA7vFyNS-0tQIDO4nkjBRQPB4xzSf4fJ9a2Wwlco1tOq719oFoETgkhY7FDRNMG2KLi9AdXJ77gUYZiWxNkF
+
 #EXTINF:-1 tvg-id="4249609" tvg-name="Day 3 - World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png" group-title="Tennis",Day 3 - World Feed [English]
 https://in-mc-flive.fancode.com/mumbai/4249609_english_hls_8f2b2f331567116_1ta-di_h264/720p.m3u8?hdntl=Expires=1792650137~_GO=Generated~acl=/mumbai/4249609_english_hls_8f2b2f331567116_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c8a665fb-d767-45~Signature=ASgJGVDstq5ZXDhRnPaFJ3ECMfRyZ_atffAs_ClP_tr-7NxkBOs5dR7sEN0E9Md5JWINvajV93nAP4svchk1dUhky6EJ
 
@@ -683,9 +689,6 @@ https://in-mc-flive.fancode.com/mumbai/4249623_english_hls_6c8130a2c479550_1ta-d
 
 #EXTINF:-1 tvg-id="4249616" tvg-name="Day 3 - World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg" group-title="Tennis",Day 3 - World Feed [English]
 https://in-mc-flive.fancode.com/mumbai/4249616_english_hls_1cfc6b5feb21323_1ta-di_h264/720p.m3u8?hdntl=Expires=1792669527~_GO=Generated~acl=/mumbai/4249616_english_hls_1cfc6b5feb21323_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1a7491b2-2d53-45~Signature=ASgJGVAQAqE7ymyaCMv5K79VdVpiNZS9ypkPbElMPOnUT3bRaea3RkdkQ8LsAQtfELQZmrjvubFuwc1N3o268vUV51UD
-
-#EXTINF:-1 tvg-id="4249759" tvg-name="Zambia vs Nigeria [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249759_53093_ZAM_NGR_FC-Web_1792493252671.png" group-title="Cricket",Zambia vs Nigeria [English]
-https://in-mc-flive.fancode.com/mumbai/4249759_english_hls_f29d7378369507_1ta-di_h264/720p.m3u8?hdntl=Expires=1792672556~_GO=Generated~acl=/mumbai/4249759_english_hls_f29d7378369507_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_04578bec-dd36-43~Signature=ASgJGVAWmA7vFyNS-0tQIDO4nkjBRQPB4xzSf4fJ9a2Wwlco1tOq719oFoETgkhY7FDRNMG2KLi9AdXJ77gUYZiWxNkF
 
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
@@ -700,6 +703,17 @@ https://ComeInNextMatch.com/4K.m3u8
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1792606507~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=2affb4e2942b256640fd0fe7304fbb566e8ba5a4dd78c8455b3721f2ce67cfdb/manifest.mpd?vcfilter=17c31031-3707-4cd2-8eee-d29858cb79a6&
+
+#EXTINF:-1 tvg-id="a1e7fd5d-5436-423e-b18f-d86c4244e6b9" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/lwmsgcovawwwpeimbbwk" tvg-lang="English" group-title="Cricket",English | Zambia v Nigeria
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1792615509~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=5af6799d0ee6b8348b470384c315d5f0866452f37fd315b3caddf6310629b825/manifest.mpd?vcfilter=a1e7fd5d-5436-423e-b18f-d86c4244e6b9&
 
 #EXTINF:-1 tvg-id="B0HFWWJWH6" tvg-name="Australia tour of South Africa 2026 - 2nd Test - South Africa vs Australia" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.df9be69a-7bd6-4883-a021-b7e4801a1573/8/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Australia tour of South Africa 2026 - 2nd Test - South Africa vs Australia
 #KODIPROP:inputstream=inputstream.adaptive
