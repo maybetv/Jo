@@ -657,36 +657,36 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090549541_ENG" tvg-name="1st T20I - 22 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026907/1792594510946283_NZvsIND_1st_t20i_live_landscape_thumb.jpg" group-title="Cricket",1st T20I - 22 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchc857/cricodi_2210-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792696048~acl=/*~id=56910437508129443108749250664245~hmac=f9500e8fc1daf575f767f12160b5b922d3b4f0bc84d0cf420510fdd250e55766
+https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchc857/cricodi_2210-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792696659~acl=/*~id=95059589205733761591542647688501~hmac=428b27f9bad3ac718b1ac89cc6dd69a48bdc9ea7c18dea007444ec147b2b236f
 
 #EXTINF:-1 tvg-id="1090549541_HIN" tvg-name="1st T20I - 22 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026907/1792594510946283_NZvsIND_1st_t20i_live_landscape_thumb.jpg" group-title="Cricket",1st T20I - 22 Oct 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8872/cricodi_2210-hin-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792696048~acl=/*~id=56910437508129443108749250664245~hmac=f9500e8fc1daf575f767f12160b5b922d3b4f0bc84d0cf420510fdd250e55766
+https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8872/cricodi_2210-hin-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792696659~acl=/*~id=95059589205733761591542647688501~hmac=428b27f9bad3ac718b1ac89cc6dd69a48bdc9ea7c18dea007444ec147b2b236f
 
 #EXTINF:-1 tvg-id="1090549541_TAM" tvg-name="1st T20I - 22 Oct 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026907/1792594510946283_NZvsIND_1st_t20i_live_landscape_thumb.jpg" group-title="Cricket",1st T20I - 22 Oct 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2119951/cricodi_2210/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792696048~acl=/*~id=56910437508129443108749250664245~hmac=f9500e8fc1daf575f767f12160b5b922d3b4f0bc84d0cf420510fdd250e55766
+https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchb442/cricodi_2210-tam-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792696659~acl=/*~id=95059589205733761591542647688501~hmac=428b27f9bad3ac718b1ac89cc6dd69a48bdc9ea7c18dea007444ec147b2b236f
 
 #EXTINF:-1 tvg-id="1090549541_TEL" tvg-name="1st T20I - 22 Oct 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026907/1792594510946283_NZvsIND_1st_t20i_live_landscape_thumb.jpg" group-title="Cricket",1st T20I - 22 Oct 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2119941/cricodi_2210/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792696048~acl=/*~id=56910437508129443108749250664245~hmac=f9500e8fc1daf575f767f12160b5b922d3b4f0bc84d0cf420510fdd250e55766
+https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchc77b/cricodi_2210-tel-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792696659~acl=/*~id=95059589205733761591542647688501~hmac=428b27f9bad3ac718b1ac89cc6dd69a48bdc9ea7c18dea007444ec147b2b236f
 
 #EXTINF:-1 tvg-id="1090549541_KAN" tvg-name="1st T20I - 22 Oct 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026907/1792594510946283_NZvsIND_1st_t20i_live_landscape_thumb.jpg" group-title="Cricket",1st T20I - 22 Oct 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2119782/cricodi_2210/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792696048~acl=/*~id=56910437508129443108749250664245~hmac=f9500e8fc1daf575f767f12160b5b922d3b4f0bc84d0cf420510fdd250e55766
+https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpche169/cricodi_2210-kan-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792696659~acl=/*~id=95059589205733761591542647688501~hmac=428b27f9bad3ac718b1ac89cc6dd69a48bdc9ea7c18dea007444ec147b2b236f
 
 #EXTINF:-1 tvg-id="1090549540_ENG" tvg-name="LINK Hong Kong Open - Day 1 - 22 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055323772141_Asian-Tour_LINK-Hong-Kong-Open_D1_live_landscape_thumb.jpg" group-title="Golf",LINK Hong Kong Open - Day 1 - 22 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_LIN2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792696048~acl=/*~id=56910437508129443108749250664245~hmac=f9500e8fc1daf575f767f12160b5b922d3b4f0bc84d0cf420510fdd250e55766
+https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_LIN2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792696659~acl=/*~id=95059589205733761591542647688501~hmac=428b27f9bad3ac718b1ac89cc6dd69a48bdc9ea7c18dea007444ec147b2b236f
 
 #EXTINF:-1 tvg-id="1090549539_ENG" tvg-name="Genesis Championship - Day 1 - 22 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611483435924_DP-World_Genesis-Championship_D1_live_landscape_thumb.jpg" group-title="Golf",Genesis Championship - Day 1 - 22 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018457/Golf_Gen2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792696048~acl=/*~id=56910437508129443108749250664245~hmac=f9500e8fc1daf575f767f12160b5b922d3b4f0bc84d0cf420510fdd250e55766
+https://sonydaimenew.akamaized.net/hls/live/2018457/Golf_Gen2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792696659~acl=/*~id=95059589205733761591542647688501~hmac=428b27f9bad3ac718b1ac89cc6dd69a48bdc9ea7c18dea007444ec147b2b236f
 
-#EXTINF:-1 tvg-id="1090549619" tvg-name="1st T20I [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026907/1792594510946283_NZvsIND_1st_t20i_live_landscape_thumb.jpg" group-title="Sports",1st T20I [ENGLISH]
+#EXTINF:-1 tvg-id="1090549619" tvg-name="1st T20I - 22 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026907/1792594510946283_NZvsIND_1st_t20i_live_landscape_thumb.jpg" group-title="Sports",1st T20I - 22 Oct 2026 [ENGLISH]
 https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/?hdnea=exp=1792695808~acl=/*~id=37460978000955063891150754056767~hmac=d5498c28d7c566794bf6aad662bea5e915ecb83e6a8a0130eff08d7c110d53fc
 
-#EXTINF:-1 tvg-id="1090549541" tvg-name="1st T20I [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026907/1792594510946283_NZvsIND_1st_t20i_live_landscape_thumb.jpg" group-title="Sports",1st T20I [ENGLISH]
+#EXTINF:-1 tvg-id="1090549541" tvg-name="1st T20I - 22 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026907/1792594510946283_NZvsIND_1st_t20i_live_landscape_thumb.jpg" group-title="Sports",1st T20I - 22 Oct 2026 [ENGLISH]
 https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_2210/?hdnea=exp=1792695826~acl=/*~id=67633810384148911320636062075469~hmac=00d3b54b9965708edc82a6da6605931f4c9fe64a5ae7966fcf6bcf163c4a9dfd
 
-#EXTINF:-1 tvg-id="1090549540" tvg-name="LINK Hong Kong Open - Day 1 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055323772141_Asian-Tour_LINK-Hong-Kong-Open_D1_live_landscape_thumb.jpg" group-title="Sports",LINK Hong Kong Open - Day 1 [ENGLISH]
+#EXTINF:-1 tvg-id="1090549540" tvg-name="LINK Hong Kong Open - Day 1 - 22 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055323772141_Asian-Tour_LINK-Hong-Kong-Open_D1_live_landscape_thumb.jpg" group-title="Sports",LINK Hong Kong Open - Day 1 - 22 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_LIN2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792686048~acl=/*~id=52086777074832758675405612069907~hmac=3bd2029283ccc0b664c20d0ef86331fb5c95456594ac94228ff04757b42b6d71
 
-#EXTINF:-1 tvg-id="1090549539" tvg-name="Genesis Championship - Day 1 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611483435924_DP-World_Genesis-Championship_D1_live_landscape_thumb.jpg" group-title="Sports",Genesis Championship - Day 1 [ENGLISH]
+#EXTINF:-1 tvg-id="1090549539" tvg-name="Genesis Championship - Day 1 - 22 Oct 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611483435924_DP-World_Genesis-Championship_D1_live_landscape_thumb.jpg" group-title="Sports",Genesis Championship - Day 1 - 22 Oct 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2018457/Golf_Gen2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792680646~acl=/*~id=37255041743746835064614538311380~hmac=f20e6d86b079442a9712ecd4acede25ddb6d8845dde36e5186cad4ba73934877
 
 #EXTINF:-1 tvg-id="4249667" tvg-name="New South Wales vs Western Australia [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249667_53087_WAU_NSW_FC-WEB_1791299730396.jpg" group-title="Cricket",New South Wales vs Western Australia [English]
@@ -725,6 +725,17 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DA
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1792679409~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=859cb7c9da43861105734ae2a2ee20040d746dab00c4aac71fdd23b4a08f37f4/manifest.mpd?vcfilter=7d22177c-4d98-4c3b-96ca-5c0cd1df94bf&
+
+#EXTINF:-1 tvg-id="cd662101-4914-41e4-a04c-d46821005ae3" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/bx2ssredtaz2l7e1igna" tvg-lang="English" group-title="Cricket",English | 1st ODI: Namibia vs Ireland (1st Innings)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1792682109~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=9d0f37909547a972bbfa9ec74e197fce246a6c02e71e48a106d83b48c25b6ad0/manifest.mpd?vcfilter=cd662101-4914-41e4-a04c-d46821005ae3&
 
 #EXTINF:-1 tvg-id="B0HN5MNSPC" tvg-name="New Zealand vs. India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e2a60804-e877-4e77-bc40-5f237b95235a/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",New Zealand vs. India
 #KODIPROP:inputstream=inputstream.adaptive
