@@ -674,13 +674,10 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090549627_ENG" tvg-name="Jablonec vs Brighton - 22 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026477/1792131894013184_UECL_26_MD2_Jablonec-vs-Brighton_live_landscape_thumb.jpg" group-title="Football",Jablonec vs Brighton - 22 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2037139/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792729527~acl=/*~id=71398807110671711878786217202040~hmac=bca1b4e9b83f8de681bd9c9610847164a659888af34f6684e9de75b1aefa40b3
+https://sonydaime.akamaized.net/hls/live/2037139/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792730134~acl=/*~id=09498845377561836670776196193773~hmac=86d75e045cdb5b8d9bcef1ade3b56a3bc8f7f73af99982648372c87d7b0e397a
 
 #EXTINF:-1 tvg-id="1090549594_HIN" tvg-name="Mumbai Mavericks vs Tamilnadu Thunders - 22 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026937/179261767506469_STCL26_mumbai_vs_tamilnadu_landscape_thumb.jpg" group-title="Cricket",Mumbai Mavericks vs Tamilnadu Thunders - 22 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792729527~acl=/*~id=71398807110671711878786217202040~hmac=bca1b4e9b83f8de681bd9c9610847164a659888af34f6684e9de75b1aefa40b3
-
-#EXTINF:-1 tvg-id="1090549551_ENG" tvg-name="Kairat Almaty vs Panathinaikos - 22 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026439/1792070243386375_UECL_26_MD2_Kairat-Almaty-vs-Panathinaikos_live_landscape_thumb.jpg" group-title="Football",Kairat Almaty vs Panathinaikos - 22 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2094588/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792729527~acl=/*~id=71398807110671711878786217202040~hmac=bca1b4e9b83f8de681bd9c9610847164a659888af34f6684e9de75b1aefa40b3
+https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792730134~acl=/*~id=09498845377561836670776196193773~hmac=86d75e045cdb5b8d9bcef1ade3b56a3bc8f7f73af99982648372c87d7b0e397a
 
 #EXTINF:-1 tvg-id="1090549627" tvg-name="Jablonec vs Brighton - 22 Oct 2026 | UEFA Conference League 2026-27 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026477/1792131894013184_UECL_26_MD2_Jablonec-vs-Brighton_live_landscape_thumb.jpg" group-title="Sports",Jablonec vs Brighton - 22 Oct 2026 | UEFA Conference League 2026-27 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2037139/footlive2210/ENG/master.m3u8?hdnea=exp=1792729248~acl=/*~id=07405960129751451424282399762332~hmac=5abcdbdbb5b767e1fb52f572d8d5a63d944c95fb8af7cc2fec42ff2e909238e6
@@ -700,7 +697,7 @@ https://in-mc-flive.fancode.com/mumbai/4250218_english_hls_d1cfbda13e81053_1ta-d
 #EXTINF:-1 tvg-id="4250154" tvg-name="Court 1 - Round 16 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg" group-title="Badminton",Court 1 - Round 16 [English]
 https://in-mc-flive.fancode.com/mumbai/4250154_english_hls_3c611f41f696154_1ta-di_h264/720p.m3u8?hdntl=Expires=1792748427~_GO=Generated~acl=/mumbai/4250154_english_hls_3c611f41f696154_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4cf53f19-7091-44~Signature=ASgJGVAhRKk-Sw-svZSWJFVUT4KaPSa-Uoy0FjcrhALthYYERUVHKfqNvU01GjoVZNCbDLAe3TDhax4G49zgTWrSarkH
 
-#EXTINF:-1 tvg-id="4250155" tvg-name="Court 2 - Round 16 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/R_Gunji_PV_Sindhu_FC-App-V2_FC-WEB.jpg" group-title="Badminton",Court 2 - Round 16 [English]
+#EXTINF:-1 tvg-id="4250155" tvg-name="Court 2 - Round 16 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg" group-title="Badminton",Court 2 - Round 16 [English]
 https://in-mc-flive.fancode.com/mumbai/4250155_english_hls_ee7e9a1c7a21470_1ta-di_h264/720p.m3u8?hdntl=Expires=1792749034~_GO=Generated~acl=/mumbai/4250155_english_hls_ee7e9a1c7a21470_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b0f69f54-f82b-4b~Signature=ASgJGVDm3WJjDR85hWay1wt-gzXfE9ith_aXCvrtg_NnPVyC8ul3tzuS7Xu19IqzF-OOvBvMPo7HTFjqAR_PRNLlqjYG
 
 #EXTINF:-1 tvg-id="4249624" tvg-name="Day 4 - World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg" group-title="Tennis",Day 4 - World Feed [English]
@@ -720,21 +717,21 @@ https://ComeInNextMatch.com/4K.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6138da1047932e4c4328448493554901:4e8e19728da2159ac564bd5b01843621
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mvxw3ht3lx/out/v1/bfafd4b9e47b48a099b72253ed169032/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/mvxw3ht3lx/out/v1/bfafd4b9e47b48a099b72253ed169032/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0H37FB27F" tvg-name="Predator European Championships: Spain" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.447494d8-1dc7-4b08-89c7-f04ce02111ea/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Predator European Championships: Spain
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HMGBLP4J" tvg-name="Sri Lanka vs. England" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f1967cc8-f489-49bc-9556-a5730bfdaa8b/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Sri Lanka vs. England
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HLYT18ZF" tvg-name="Tennis Today Live-Brussels-ATP, Lyon-ATP & Almaty-ATP Early Rounds" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c24a8ddb-aa55-442e-9471-6b2159d0b47c/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Tennis Today Live-Brussels-ATP, Lyon-ATP & Almaty-ATP Early Rounds
 #KODIPROP:inputstream=inputstream.adaptive
@@ -748,5 +745,5 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl96
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6138da1047932e4c4328448493554901:4e8e19728da2159ac564bd5b01843621
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mvxw3ht3lx/out/v1/bfafd4b9e47b48a099b72253ed169032/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mvxw3ht3lx/out/v1/bfafd4b9e47b48a099b72253ed169032/cenc.mpd
 
