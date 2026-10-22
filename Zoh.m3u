@@ -656,8 +656,11 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 # --- LIVE EVENTS ---
 
-#EXTINF:-1 tvg-id="1090549541" tvg-name="1st T20I - 22 Oct 2026 | India Tour of New Zealand 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026907/1792594510946283_NZvsIND_1st_t20i_live_landscape_thumb.jpg" group-title="Sports",1st T20I - 22 Oct 2026 | India Tour of New Zealand 2026 [ENGLISH]
-https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_2210/ENG/master.m3u8?hdnea=exp=1792697137~acl=/*~id=46691140553210813794468369638587~hmac=3636580318dba2d345ee61be7c68dd2ee6e504572b8c81d0369921bbd244e057
+#EXTINF:-1 tvg-id="1090549594_HIN" tvg-name="Mumbai Mavericks vs Tamilnadu Thunders - 22 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026937/179261767506469_STCL26_mumbai_vs_tamilnadu_landscape_thumb.jpg" group-title="Cricket",Mumbai Mavericks vs Tamilnadu Thunders - 22 Oct 2026 [HIN]
+https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792714939~acl=/*~id=67412039318139673109069139956319~hmac=9b6a7b110ca16cf98efc2f8532b0d69cd8c48966433e179e0b32f8945d64c725
+
+#EXTINF:-1 tvg-id="1090549594" tvg-name="Mumbai Mavericks vs Tamilnadu Thunders - 22 Oct 2026 | Salute Tiranga Cricket League (STCL) 2026 [HINDI]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026937/179261767506469_STCL26_mumbai_vs_tamilnadu_landscape_thumb.jpg" group-title="Sports",Mumbai Mavericks vs Tamilnadu Thunders - 22 Oct 2026 | Salute Tiranga Cricket League (STCL) 2026 [HINDI]
+https://sonydaimenew.akamaized.net/hls/live/2120305/criclive2210/HIN/master.m3u8?hdnea=exp=1792714848~acl=/*~id=44064913925070173180463365682967~hmac=14cb9ce74a31dc63fa0ad3b0cdf7e159a7e9850fe769f1f834466c5e4c78c1a3
 
 #EXTINF:-1 tvg-id="4249782" tvg-name="South Africa vs Australia [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Cricket",South Africa vs Australia [English]
 https://in-mc-flive.fancode.com/mumbai/4249782_english_hls_bf21f9fa2f75350_1ta-di_h264/720p.m3u8?hdntl=Expires=1792739943~_GO=Generated~acl=/mumbai/4249782_english_hls_bf21f9fa2f75350_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b8284b59-16ea-40~Signature=ASgJGVBgt5KPS-AF0EumoPQHV_6108eLiM2lL21XP3CsFP6owbBBttutxB9hrQHlPFq2xWr6nHskNl-mcHlFEnRBd7gN
@@ -670,6 +673,9 @@ https://in-mc-flive.fancode.com/mumbai/4250338_english_hls_e735380f0e82720_1ta-d
 
 #EXTINF:-1 tvg-id="4250331" tvg-name="Ireland vs Namibia [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-Ireland_fc-web.jpg" group-title="Cricket",Ireland vs Namibia [English]
 https://in-mc-flive.fancode.com/mumbai/4250331_english_hls_7f6dfbff8a18598_1ta-di_h264/720p.m3u8?hdntl=Expires=1792741155~_GO=Generated~acl=/mumbai/4250331_english_hls_7f6dfbff8a18598_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0223b7e2-df6e-4a~Signature=ASgJGVAv5ZjjfH6s96_m81Jy9kjMdNONdc_7xne-vsL4ELvqBtXW4URwnbni5WXqW77pL-hlrVZk3r8ZsGFt6rhrXekD
+
+#EXTINF:-1 tvg-id="4250480" tvg-name="Emirates Red vs Dubai [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250480_53130_EMR_DUB_fc-web_1792412929376.jpg" group-title="Cricket",Emirates Red vs Dubai [English]
+https://in-mc-flive.fancode.com/mumbai/4250480_english_hls_9a3a4c0fea24440_1ta-di_h264/720p.m3u8?hdntl=Expires=1792758128~_GO=Generated~acl=/mumbai/4250480_english_hls_9a3a4c0fea24440_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_90c0629a-910c-4c~Signature=ASgJGVBVWRX4xbrlTPPqTgV4GlCFygPlmdKIgb6eDYG5ItsxBPZvvEqzEy0tQPYOGzzxSTVx5HiODOBHYrUFhZzH_3AN
 
 #EXTINF:-1 tvg-id="4249610" tvg-name="Day 4 - World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png" group-title="Tennis",Day 4 - World Feed [English]
 https://in-mc-flive.fancode.com/mumbai/4249610_english_hls_f58b618b6194312_1ta-di_h264/720p.m3u8?hdntl=Expires=1792736300~_GO=Generated~acl=/mumbai/4249610_english_hls_f58b618b6194312_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b4ac297d-3aab-49~Signature=ASgJGVCHYH9uoydJLKR2-SL5HdjDiulIfMTaoW74IAHSEhXAjpDNPS1hbqI6XFWE7ky-DGPRhyepr7G6dWfP8e0luZwF
