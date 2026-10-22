@@ -657,19 +657,16 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090549541_ENG" tvg-name="1st T20I - 22 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026907/1792594510946283_NZvsIND_1st_t20i_live_landscape_thumb.jpg" group-title="Cricket",1st T20I - 22 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/mpchgp431f/mpchc857/cricodi_2210-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792710641~acl=/*~id=56797235878114611193383487327574~hmac=0fd25b0fe4282b16c8bd19d83065169bff58b058b9866d78299cc6021fb379f3
+https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792711295~acl=/*~id=15912191452129162037927067092595~hmac=5ded9d83e17cbfc9d2bf6db74ae2dcccb84935e8858bf6810657a251a8af8873
 
 #EXTINF:-1 tvg-id="1090549541_HIN" tvg-name="1st T20I - 22 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026907/1792594510946283_NZvsIND_1st_t20i_live_landscape_thumb.jpg" group-title="Cricket",1st T20I - 22 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792710641~acl=/*~id=56797235878114611193383487327574~hmac=0fd25b0fe4282b16c8bd19d83065169bff58b058b9866d78299cc6021fb379f3
+https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792711295~acl=/*~id=15912191452129162037927067092595~hmac=5ded9d83e17cbfc9d2bf6db74ae2dcccb84935e8858bf6810657a251a8af8873
 
 #EXTINF:-1 tvg-id="1090549541_TAM" tvg-name="1st T20I - 22 Oct 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026907/1792594510946283_NZvsIND_1st_t20i_live_landscape_thumb.jpg" group-title="Cricket",1st T20I - 22 Oct 2026 [TAM]
-https://sonydaime.akamaized.net/hls/live/2119951/cricodi_2210/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792710641~acl=/*~id=56797235878114611193383487327574~hmac=0fd25b0fe4282b16c8bd19d83065169bff58b058b9866d78299cc6021fb379f3
-
-#EXTINF:-1 tvg-id="1090549541_TEL" tvg-name="1st T20I - 22 Oct 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026907/1792594510946283_NZvsIND_1st_t20i_live_landscape_thumb.jpg" group-title="Cricket",1st T20I - 22 Oct 2026 [TEL]
-https://sonydaime.akamaized.net/hls/live/2119941/cricodi_2210/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792710641~acl=/*~id=56797235878114611193383487327574~hmac=0fd25b0fe4282b16c8bd19d83065169bff58b058b9866d78299cc6021fb379f3
+https://sonydaime.akamaized.net/hls/live/2119951/cricodi_2210/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792711295~acl=/*~id=15912191452129162037927067092595~hmac=5ded9d83e17cbfc9d2bf6db74ae2dcccb84935e8858bf6810657a251a8af8873
 
 #EXTINF:-1 tvg-id="1090549541_KAN" tvg-name="1st T20I - 22 Oct 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026907/1792594510946283_NZvsIND_1st_t20i_live_landscape_thumb.jpg" group-title="Cricket",1st T20I - 22 Oct 2026 [KAN]
-https://sonydaime.akamaized.net/hls/live/2119782/cricodi_2210/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792710641~acl=/*~id=56797235878114611193383487327574~hmac=0fd25b0fe4282b16c8bd19d83065169bff58b058b9866d78299cc6021fb379f3
+https://sonydaime.akamaized.net/hls/live/2119782/cricodi_2210/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792711295~acl=/*~id=15912191452129162037927067092595~hmac=5ded9d83e17cbfc9d2bf6db74ae2dcccb84935e8858bf6810657a251a8af8873
 
 #EXTINF:-1 tvg-id="1090549619" tvg-name="1st T20I - 22 Oct 2026 | India Tour of New Zealand 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026907/1792594510946283_NZvsIND_1st_t20i_live_landscape_thumb.jpg" group-title="Sports",1st T20I - 22 Oct 2026 | India Tour of New Zealand 2026 [ENGLISH]
 https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1792697137~acl=/*~id=46691140553210813794468369638587~hmac=3636580318dba2d345ee61be7c68dd2ee6e504572b8c81d0369921bbd244e057
@@ -704,17 +701,6 @@ https://in-mc-flive.fancode.com/mumbai/4249624_english_hls_00b5a191e961539_1ta-d
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
 
-#EXTINF:-1 tvg-id="cd662101-4914-41e4-a04c-d46821005ae3" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/bx2ssredtaz2l7e1igna" tvg-lang="English" group-title="Cricket",English | 1st ODI: Namibia vs Ireland (1st Innings)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1792682109~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=9d0f37909547a972bbfa9ec74e197fce246a6c02e71e48a106d83b48c25b6ad0/manifest.mpd?vcfilter=cd662101-4914-41e4-a04c-d46821005ae3&
-
 #EXTINF:-1 tvg-id="8abe38c5-b1a9-422d-b81e-b47458e76bfd" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/lfit5nj9894t0wyb6kux" tvg-lang="English" group-title="Cricket",English | Papua New Guinea v Jersey (2nd Innings)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -736,6 +722,17 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DA
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1792695606~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=93f1c8130623cd9b819186c545e85dc2b491b0f22c775217f2bac45ec53ca3ac/manifest.mpd?vcfilter=057fce9f-760f-4fed-918c-e1743e719015&
+
+#EXTINF:-1 tvg-id="c76a480f-70d1-41d1-9ae6-a9632e0e970b" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/wxzdw7endidjk2ujbdiw" tvg-lang="English" group-title="Cricket",English | 1st ODI: Namibia vs Ireland (2nd Innings)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1792697406~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=6e53bafdc06fae1e0c49a2f93ea6407d90d218abf8aed944193825d81d29baad/manifest.mpd?vcfilter=c76a480f-70d1-41d1-9ae6-a9632e0e970b&
 
 #EXTINF:-1 tvg-id="B0HN5MNSPC" tvg-name="New Zealand vs. India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e2a60804-e877-4e77-bc40-5f237b95235a/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",New Zealand vs. India
 #KODIPROP:inputstream=inputstream.adaptive
