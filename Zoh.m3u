@@ -674,13 +674,16 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090549594_HIN" tvg-name="Mumbai Mavericks vs Tamilnadu Thunders - 22 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026937/179261767506469_STCL26_mumbai_vs_tamilnadu_landscape_thumb.jpg" group-title="Cricket",Mumbai Mavericks vs Tamilnadu Thunders - 22 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792721616~acl=/*~id=19516136343082745178898632951160~hmac=6593f99f8e22fb467ef5d6378e7de42e48c2c0ee1c1a1fe1bdd823710ad13bef
+https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792722221~acl=/*~id=88362645925855603556798412037885~hmac=585278e7013849e6c7ba327d83c7d0060d7804ec44d6a81c1ae72e1511968e27
 
 #EXTINF:-1 tvg-id="1090549551_ENG" tvg-name="Kairat Almaty vs Panathinaikos - 22 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026439/1792070243386375_UECL_26_MD2_Kairat-Almaty-vs-Panathinaikos_live_landscape_thumb.jpg" group-title="Football",Kairat Almaty vs Panathinaikos - 22 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2094588/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792721616~acl=/*~id=19516136343082745178898632951160~hmac=6593f99f8e22fb467ef5d6378e7de42e48c2c0ee1c1a1fe1bdd823710ad13bef
+https://sonydaime.akamaized.net/hls/live/2094588/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792722221~acl=/*~id=88362645925855603556798412037885~hmac=585278e7013849e6c7ba327d83c7d0060d7804ec44d6a81c1ae72e1511968e27
 
 #EXTINF:-1 tvg-id="1090549594" tvg-name="Mumbai Mavericks vs Tamilnadu Thunders - 22 Oct 2026 | Salute Tiranga Cricket League (STCL) 2026 [HINDI]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026937/179261767506469_STCL26_mumbai_vs_tamilnadu_landscape_thumb.jpg" group-title="Sports",Mumbai Mavericks vs Tamilnadu Thunders - 22 Oct 2026 | Salute Tiranga Cricket League (STCL) 2026 [HINDI]
 https://sonydaimenew.akamaized.net/hls/live/2120305/criclive2210/HIN/master.m3u8?hdnea=exp=1792714848~acl=/*~id=44064913925070173180463365682967~hmac=14cb9ce74a31dc63fa0ad3b0cdf7e159a7e9850fe769f1f834466c5e4c78c1a3
+
+#EXTINF:-1 tvg-id="1090549551" tvg-name="Kairat Almaty vs Panathinaikos - 22 Oct 2026 | UEFA Conference League 2026-27 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026439/1792070243386375_UECL_26_MD2_Kairat-Almaty-vs-Panathinaikos_live_landscape_thumb.jpg" group-title="Sports",Kairat Almaty vs Panathinaikos - 22 Oct 2026 | UEFA Conference League 2026-27 [ENGLISH]
+https://sonydaimenew.akamaized.net/hls/live/2094588/footlive2210/ENG/master.m3u8?hdnea=exp=1792722051~acl=/*~id=72884240330924631891535877239987~hmac=b61e4eb54a129a96e0d18691496c41456c6a5c8691e6e496f4f791258930cb09
 
 #EXTINF:-1 tvg-id="4249782" tvg-name="South Africa vs Australia [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Cricket",South Africa vs Australia [English]
 https://in-mc-flive.fancode.com/mumbai/4249782_english_hls_bf21f9fa2f75350_1ta-di_h264/720p.m3u8?hdntl=Expires=1792739943~_GO=Generated~acl=/mumbai/4249782_english_hls_bf21f9fa2f75350_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b8284b59-16ea-40~Signature=ASgJGVBgt5KPS-AF0EumoPQHV_6108eLiM2lL21XP3CsFP6owbBBttutxB9hrQHlPFq2xWr6nHskNl-mcHlFEnRBd7gN
@@ -695,7 +698,7 @@ https://in-mc-flive.fancode.com/mumbai/4250331_english_hls_7f6dfbff8a18598_1ta-d
 https://in-mc-flive.fancode.com/mumbai/4250480_english_hls_9a3a4c0fea24440_1ta-di_h264/720p.m3u8?hdntl=Expires=1792758128~_GO=Generated~acl=/mumbai/4250480_english_hls_9a3a4c0fea24440_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_90c0629a-910c-4c~Signature=ASgJGVBVWRX4xbrlTPPqTgV4GlCFygPlmdKIgb6eDYG5ItsxBPZvvEqzEy0tQPYOGzzxSTVx5HiODOBHYrUFhZzH_3AN
 
 #EXTINF:-1 tvg-id="4249610" tvg-name="Day 4 - World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png" group-title="Tennis",Day 4 - World Feed [English]
-https://in-mc-flive.fancode.com/mumbai/4249610_english_hls_f58b618b6194312_1ta-di_h264/720p.m3u8?hdntl=Expires=1792736300~_GO=Generated~acl=/mumbai/4249610_english_hls_f58b618b6194312_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b4ac297d-3aab-49~Signature=ASgJGVCHYH9uoydJLKR2-SL5HdjDiulIfMTaoW74IAHSEhXAjpDNPS1hbqI6XFWE7ky-DGPRhyepr7G6dWfP8e0luZwF
+https://in-mc-flive.fancode.com/mumbai/4249610_english_hls_f58b618b6194312_1ta-di_h264/720p.m3u8?hdntl=Expires=1792765403~_GO=Generated~acl=/mumbai/4249610_english_hls_f58b618b6194312_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b8ff10e0-b252-46~Signature=ASgJGVDwtEuI65LUBfsZCZZ_nA-lV2FpZA0gy8XAsNcyzUVRgCSnQnVmOKDAZwj5C7AyHdOsVLx88R0Zjdyox8iUqfEC
 
 #EXTINF:-1 tvg-id="4250154" tvg-name="Court 1 - Round 16 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg" group-title="Badminton",Court 1 - Round 16 [English]
 https://in-mc-flive.fancode.com/mumbai/4250154_english_hls_3c611f41f696154_1ta-di_h264/720p.m3u8?hdntl=Expires=1792748427~_GO=Generated~acl=/mumbai/4250154_english_hls_3c611f41f696154_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4cf53f19-7091-44~Signature=ASgJGVAhRKk-Sw-svZSWJFVUT4KaPSa-Uoy0FjcrhALthYYERUVHKfqNvU01GjoVZNCbDLAe3TDhax4G49zgTWrSarkH
@@ -722,17 +725,6 @@ https://ComeInNextMatch.com/4K.m3u8
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1792695606~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=93f1c8130623cd9b819186c545e85dc2b491b0f22c775217f2bac45ec53ca3ac/manifest.mpd?vcfilter=057fce9f-760f-4fed-918c-e1743e719015&
-
-#EXTINF:-1 tvg-id="c76a480f-70d1-41d1-9ae6-a9632e0e970b" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/wxzdw7endidjk2ujbdiw" tvg-lang="English" group-title="Cricket",English | 1st ODI: Namibia vs Ireland (2nd Innings)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1792697406~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=6e53bafdc06fae1e0c49a2f93ea6407d90d218abf8aed944193825d81d29baad/manifest.mpd?vcfilter=c76a480f-70d1-41d1-9ae6-a9632e0e970b&
 
 #EXTINF:-1 tvg-id="B0HFWWJWH6" tvg-name="Australia tour of South Africa 2026 - 2nd Test - South Africa vs Australia" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.df9be69a-7bd6-4883-a021-b7e4801a1573/10/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Australia tour of South Africa 2026 - 2nd Test - South Africa vs Australia
 #KODIPROP:inputstream=inputstream.adaptive
