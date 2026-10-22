@@ -672,7 +672,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090549594_HIN" tvg-name="Mumbai Mavericks vs Tamilnadu Thunders - 22 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026937/179261767506469_STCL26_mumbai_vs_tamilnadu_landscape_thumb.jpg" group-title="Cricket",Mumbai Mavericks vs Tamilnadu Thunders - 22 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792715551~acl=/*~id=18058278913295749929575441097591~hmac=36548fa3b8f17cc778883c205ef71b97a52e18745b4416d0b7a5a9914509f7b5
+https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792716157~acl=/*~id=30784633927513922989972944258425~hmac=8a7bf84f1f44eca65780bc03ae8a165eb11e1214b65ab51850aa6e44b9f2b320
 
 #EXTINF:-1 tvg-id="1090549594" tvg-name="Mumbai Mavericks vs Tamilnadu Thunders - 22 Oct 2026 | Salute Tiranga Cricket League (STCL) 2026 [HINDI]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026937/179261767506469_STCL26_mumbai_vs_tamilnadu_landscape_thumb.jpg" group-title="Sports",Mumbai Mavericks vs Tamilnadu Thunders - 22 Oct 2026 | Salute Tiranga Cricket League (STCL) 2026 [HINDI]
 https://sonydaimenew.akamaized.net/hls/live/2120305/criclive2210/HIN/master.m3u8?hdnea=exp=1792714848~acl=/*~id=44064913925070173180463365682967~hmac=14cb9ce74a31dc63fa0ad3b0cdf7e159a7e9850fe769f1f834466c5e4c78c1a3
@@ -689,7 +689,7 @@ https://in-mc-flive.fancode.com/mumbai/4250338_english_hls_e735380f0e82720_1ta-d
 #EXTINF:-1 tvg-id="4250331" tvg-name="Ireland vs Namibia [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-Ireland_fc-web.jpg" group-title="Cricket",Ireland vs Namibia [English]
 https://in-mc-flive.fancode.com/mumbai/4250331_english_hls_7f6dfbff8a18598_1ta-di_h264/720p.m3u8?hdntl=Expires=1792741155~_GO=Generated~acl=/mumbai/4250331_english_hls_7f6dfbff8a18598_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0223b7e2-df6e-4a~Signature=ASgJGVAv5ZjjfH6s96_m81Jy9kjMdNONdc_7xne-vsL4ELvqBtXW4URwnbni5WXqW77pL-hlrVZk3r8ZsGFt6rhrXekD
 
-#EXTINF:-1 tvg-id="4250480" tvg-name="Emirates Red vs Dubai [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250480_53130_EMR_DUB_fc-web_1792412929376.jpg" group-title="Cricket",Emirates Red vs Dubai [English]
+#EXTINF:-1 tvg-id="4250480" tvg-name="Dubai vs Emirates Red [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250480_53130_EMR_DUB_fc-web_1792412929376.jpg" group-title="Cricket",Dubai vs Emirates Red [English]
 https://in-mc-flive.fancode.com/mumbai/4250480_english_hls_9a3a4c0fea24440_1ta-di_h264/720p.m3u8?hdntl=Expires=1792758128~_GO=Generated~acl=/mumbai/4250480_english_hls_9a3a4c0fea24440_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_90c0629a-910c-4c~Signature=ASgJGVBVWRX4xbrlTPPqTgV4GlCFygPlmdKIgb6eDYG5ItsxBPZvvEqzEy0tQPYOGzzxSTVx5HiODOBHYrUFhZzH_3AN
 
 #EXTINF:-1 tvg-id="4249610" tvg-name="Day 4 - World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png" group-title="Tennis",Day 4 - World Feed [English]
