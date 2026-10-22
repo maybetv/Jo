@@ -674,10 +674,10 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090549594_HIN" tvg-name="Mumbai Mavericks vs Tamilnadu Thunders - 22 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026937/179261767506469_STCL26_mumbai_vs_tamilnadu_landscape_thumb.jpg" group-title="Cricket",Mumbai Mavericks vs Tamilnadu Thunders - 22 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792725279~acl=/*~id=76423813110856166482032238438141~hmac=9e04212e4bb6e9c7811bb7132f8f9dc10fdc923e4b5f0ae1784be57bacb3d93b
+https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792725885~acl=/*~id=63910996245351485432604403408229~hmac=93bf57b39b1cede4fa00f669ae8f85ddaf10f20d685fb89e1170ea1a975cc2a2
 
 #EXTINF:-1 tvg-id="1090549551_ENG" tvg-name="Kairat Almaty vs Panathinaikos - 22 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026439/1792070243386375_UECL_26_MD2_Kairat-Almaty-vs-Panathinaikos_live_landscape_thumb.jpg" group-title="Football",Kairat Almaty vs Panathinaikos - 22 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2094588/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792725279~acl=/*~id=76423813110856166482032238438141~hmac=9e04212e4bb6e9c7811bb7132f8f9dc10fdc923e4b5f0ae1784be57bacb3d93b
+https://sonydaime.akamaized.net/hls/live/2094588/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792725885~acl=/*~id=63910996245351485432604403408229~hmac=93bf57b39b1cede4fa00f669ae8f85ddaf10f20d685fb89e1170ea1a975cc2a2
 
 #EXTINF:-1 tvg-id="1090549594" tvg-name="Mumbai Mavericks vs Tamilnadu Thunders - 22 Oct 2026 | Salute Tiranga Cricket League (STCL) 2026 [HINDI]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026937/179261767506469_STCL26_mumbai_vs_tamilnadu_landscape_thumb.jpg" group-title="Sports",Mumbai Mavericks vs Tamilnadu Thunders - 22 Oct 2026 | Salute Tiranga Cricket League (STCL) 2026 [HINDI]
 https://sonydaimenew.akamaized.net/hls/live/2120305/criclive2210/HIN/master.m3u8?hdnea=exp=1792714848~acl=/*~id=44064913925070173180463365682967~hmac=14cb9ce74a31dc63fa0ad3b0cdf7e159a7e9850fe769f1f834466c5e4c78c1a3
@@ -686,7 +686,7 @@ https://sonydaimenew.akamaized.net/hls/live/2120305/criclive2210/HIN/master.m3u8
 https://sonydaimenew.akamaized.net/hls/live/2094588/footlive2210/ENG/master.m3u8?hdnea=exp=1792722051~acl=/*~id=72884240330924631891535877239987~hmac=b61e4eb54a129a96e0d18691496c41456c6a5c8691e6e496f4f791258930cb09
 
 #EXTINF:-1 tvg-id="4249782" tvg-name="South Africa vs Australia [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Cricket",South Africa vs Australia [English]
-https://in-mc-flive.fancode.com/mumbai/4249782_english_hls_bf21f9fa2f75350_1ta-di_h264/720p.m3u8?hdntl=Expires=1792739943~_GO=Generated~acl=/mumbai/4249782_english_hls_bf21f9fa2f75350_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b8284b59-16ea-40~Signature=ASgJGVBgt5KPS-AF0EumoPQHV_6108eLiM2lL21XP3CsFP6owbBBttutxB9hrQHlPFq2xWr6nHskNl-mcHlFEnRBd7gN
+https://in-mc-flive.fancode.com/mumbai/4249782_english_hls_bf21f9fa2f75350_1ta-di_h264/720p.m3u8?hdntl=Expires=1792769039~_GO=Generated~acl=/mumbai/4249782_english_hls_bf21f9fa2f75350_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_bcffead8-b835-44~Signature=ASgJGVDLmPC5uF-Cg2uwRzyJeQfixbQ9aucncqqYRzl-WKk1BM70s9zIJsG49aKLqqKeWmVlQJPwuPuj8fx9lfDCysUD
 
 #EXTINF:-1 tvg-id="4250480" tvg-name="Dubai vs Emirates Red [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250480_53130_EMR_DUB_fc-web_1792412929376.jpg" group-title="Cricket",Dubai vs Emirates Red [English]
 https://in-mc-flive.fancode.com/mumbai/4250480_english_hls_9a3a4c0fea24440_1ta-di_h264/720p.m3u8?hdntl=Expires=1792758128~_GO=Generated~acl=/mumbai/4250480_english_hls_9a3a4c0fea24440_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_90c0629a-910c-4c~Signature=ASgJGVBVWRX4xbrlTPPqTgV4GlCFygPlmdKIgb6eDYG5ItsxBPZvvEqzEy0tQPYOGzzxSTVx5HiODOBHYrUFhZzH_3AN
