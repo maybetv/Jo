@@ -674,19 +674,16 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090549594_HIN" tvg-name="Mumbai Mavericks vs Tamilnadu Thunders - 22 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026937/179261767506469_STCL26_mumbai_vs_tamilnadu_landscape_thumb.jpg" group-title="Cricket",Mumbai Mavericks vs Tamilnadu Thunders - 22 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792726491~acl=/*~id=80667178695509861571429037547705~hmac=36030e6edb92f18284374102c6bb6f4cfb241c0a84b23e96f48016cda56e5ff1
+https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792727098~acl=/*~id=62031427465603847059262075595842~hmac=805020ce0af44322221da37dc98e10f4e2c73ec17366894ec5ff65d3e6694eaa
 
 #EXTINF:-1 tvg-id="1090549551_ENG" tvg-name="Kairat Almaty vs Panathinaikos - 22 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026439/1792070243386375_UECL_26_MD2_Kairat-Almaty-vs-Panathinaikos_live_landscape_thumb.jpg" group-title="Football",Kairat Almaty vs Panathinaikos - 22 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2094588/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792726491~acl=/*~id=80667178695509861571429037547705~hmac=36030e6edb92f18284374102c6bb6f4cfb241c0a84b23e96f48016cda56e5ff1
+https://sonydaime.akamaized.net/hls/live/2094588/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792727098~acl=/*~id=62031427465603847059262075595842~hmac=805020ce0af44322221da37dc98e10f4e2c73ec17366894ec5ff65d3e6694eaa
 
 #EXTINF:-1 tvg-id="1090549594" tvg-name="Mumbai Mavericks vs Tamilnadu Thunders - 22 Oct 2026 | Salute Tiranga Cricket League (STCL) 2026 [HINDI]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026937/179261767506469_STCL26_mumbai_vs_tamilnadu_landscape_thumb.jpg" group-title="Sports",Mumbai Mavericks vs Tamilnadu Thunders - 22 Oct 2026 | Salute Tiranga Cricket League (STCL) 2026 [HINDI]
 https://sonydaimenew.akamaized.net/hls/live/2120305/criclive2210/HIN/master.m3u8?hdnea=exp=1792714848~acl=/*~id=44064913925070173180463365682967~hmac=14cb9ce74a31dc63fa0ad3b0cdf7e159a7e9850fe769f1f834466c5e4c78c1a3
 
 #EXTINF:-1 tvg-id="1090549551" tvg-name="Kairat Almaty vs Panathinaikos - 22 Oct 2026 | UEFA Conference League 2026-27 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026439/1792070243386375_UECL_26_MD2_Kairat-Almaty-vs-Panathinaikos_live_landscape_thumb.jpg" group-title="Sports",Kairat Almaty vs Panathinaikos - 22 Oct 2026 | UEFA Conference League 2026-27 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2094588/footlive2210/ENG/master.m3u8?hdnea=exp=1792722051~acl=/*~id=72884240330924631891535877239987~hmac=b61e4eb54a129a96e0d18691496c41456c6a5c8691e6e496f4f791258930cb09
-
-#EXTINF:-1 tvg-id="4249782" tvg-name="South Africa vs Australia [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Cricket",South Africa vs Australia [English]
-https://in-mc-flive.fancode.com/mumbai/4249782_english_hls_bf21f9fa2f75350_1ta-di_h264/720p.m3u8?hdntl=Expires=1792769039~_GO=Generated~acl=/mumbai/4249782_english_hls_bf21f9fa2f75350_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_bcffead8-b835-44~Signature=ASgJGVDLmPC5uF-Cg2uwRzyJeQfixbQ9aucncqqYRzl-WKk1BM70s9zIJsG49aKLqqKeWmVlQJPwuPuj8fx9lfDCysUD
 
 #EXTINF:-1 tvg-id="4250480" tvg-name="Dubai vs Emirates Red [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250480_53130_EMR_DUB_fc-web_1792412929376.jpg" group-title="Cricket",Dubai vs Emirates Red [English]
 https://in-mc-flive.fancode.com/mumbai/4250480_english_hls_9a3a4c0fea24440_1ta-di_h264/720p.m3u8?hdntl=Expires=1792758128~_GO=Generated~acl=/mumbai/4250480_english_hls_9a3a4c0fea24440_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_90c0629a-910c-4c~Signature=ASgJGVBVWRX4xbrlTPPqTgV4GlCFygPlmdKIgb6eDYG5ItsxBPZvvEqzEy0tQPYOGzzxSTVx5HiODOBHYrUFhZzH_3AN
