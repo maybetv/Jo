@@ -680,13 +680,13 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090549712_ENG" tvg-name="Bournemouth vs Milan - 23 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791244113649235_UEL2627_MD3_Bournemouth_vs_Milan_landscape_thumb.jpg" group-title="Football",Bournemouth vs Milan - 23 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2120302/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792743481~acl=/*~id=29291873867499356352822209267401~hmac=37a8619893d9097145d9869199adfeb23caa31857ac349813c94e7481a71fe7d
+https://sonydaime.akamaized.net/hls/live/2120302/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792744087~acl=/*~id=82972955213703307300542385975540~hmac=dd9dc4d9219225a2dac4375a146956319edc9e3f4e11ffc7dd6849b71b8ac541
 
 #EXTINF:-1 tvg-id="1090549735_ENG" tvg-name="Beşiktaş vs Crystal Palace - 23 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791245711395235_UEL2627_MD3_Besiktas_vs_Crystal_Palace_landscape_thumb.jpg" group-title="Football",Beşiktaş vs Crystal Palace - 23 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2018458/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792743481~acl=/*~id=29291873867499356352822209267401~hmac=37a8619893d9097145d9869199adfeb23caa31857ac349813c94e7481a71fe7d
+https://sonydaime.akamaized.net/hls/live/2018458/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792744087~acl=/*~id=82972955213703307300542385975540~hmac=dd9dc4d9219225a2dac4375a146956319edc9e3f4e11ffc7dd6849b71b8ac541
 
 #EXTINF:-1 tvg-id="1090549910_ENG" tvg-name="Ajax vs Atalanta - 23 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026498/1792147436477574_UECL_26_MD2_Ajax-vs-Atalanta_live_landscape_thumb.jpg" group-title="Football",Ajax vs Atalanta - 23 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2118669/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792743481~acl=/*~id=29291873867499356352822209267401~hmac=37a8619893d9097145d9869199adfeb23caa31857ac349813c94e7481a71fe7d
+https://sonydaime.akamaized.net/hls/live/2118669/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792744087~acl=/*~id=82972955213703307300542385975540~hmac=dd9dc4d9219225a2dac4375a146956319edc9e3f4e11ffc7dd6849b71b8ac541
 
 #EXTINF:-1 tvg-id="1090549712" tvg-name="Bournemouth vs Milan - 23 Oct 2026 | UEFA Europa League 2026-27 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791244113649235_UEL2627_MD3_Bournemouth_vs_Milan_landscape_thumb.jpg" group-title="Sports",Bournemouth vs Milan - 23 Oct 2026 | UEFA Europa League 2026-27 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2120302/footlive2210/ENG/master.m3u8?hdnea=exp=1792738246~acl=/*~id=21229883169491563950827748997077~hmac=98e03ce0c6ffa77ce8150c208f33ee278d234241fe709f2e0c3436f6d584e8b0
@@ -744,5 +744,5 @@ https://ComeInNextMatch.com/4K.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
 
