@@ -33,6 +33,7 @@ https://colorsportscreen.com/freetv/stream.m3u8?id=9085984ade93
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Jaihind TV" tvg-logo="https://i.postimg.cc/x8nxCyFM/Jaihind-TV.png" group-title="Malayalam News",Jaihind TV
 https://yuppnimrestreammum.akamaized.net/260723/smil:jaihind1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Kerala vision News" tvg-logo="https://i.postimg.cc/90CX1KzJ/kerala-vision-news.png" group-title="Malayalam News",Kerala vision News
+https://yt-live-proxy.npashru.workers.dev/keralavision
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Zee Malayalam News" tvg-logo="https://i.postimg.cc/ZKDBKYCM/zee-news-malayalam.png" group-title="Malayalam News",Zee Malayalam News
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Real Kerala News" tvg-logo="https://i.postimg.cc/CK6Sbdp9/real-news-kerala.png" group-title="Malayalam News",Real Kerala News
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Raj News Malayalam" tvg-logo="https://i.postimg.cc/hPHm1Pc5/Raj-News-Malayalam.png" http-referrer="https://colorsportscreen.com" group-title="Malayalam News",Raj News Malayalam
@@ -48,11 +49,15 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/AsianetHD.m3u8
 https://streamhub.dhruvpatil681.workers.dev/874.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Asianet movies HD" tvg-logo="https://i.postimg.cc/4ygqrhC6/Asianet-Movies-hd.webp" group-title="Malayalam",Asianet movies HD
-http://d4-smart-d4.it.com:80/live/marouane291023/9e1hq6uiv9/277186.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Asianet movies" tvg-logo="https://i.postimg.cc/L4DxHWjd/Asianet-Movies.webp" group-title="Malayalam",Asianet movies
-http://51.75.127.199:3141/asianetmovies/index.m3u8
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Asianet Plus" tvg-logo="https://i.postimg.cc/hvvZF8ym/Asianet-Plus.png" group-title="Malayalam",Asianet Plus
-http://d4-smart-d4.it.com:80/live/marouane291023/9e1hq6uiv9/277187.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://bh- .org/
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetplus_live_https/index.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Asianet Middle East" tvg-logo="https://i.postimg.cc/KjxvT1FR/Asianet-Middle-East.png" group-title="Malayalam",Middle East
 https://fta.ektv.in/live/697/master.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sun Surya HD" tvg-logo="https://i.postimg.cc/VsxSKwC1/sun_surya_tv.png" group-title="Malayalam",Sun Surya HD
