@@ -35,7 +35,7 @@ jobs:
           import os
 
           FILE_NAME = "Zoh.m3u"
-          SOURCE_URL = ""
+          SOURCE_URL = "https://hjh-545.pages.dev/"
           HEADERS = {"User-Agent": "Mozilla/5.0"}
 
           def parse_m3u(content):
