@@ -680,10 +680,10 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090550072_HIN" tvg-name="Punjab Falcons vs UP Dhurandhar - 23 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026725/1792418899640732_STCL_Punjab-Falcons-vs-UP-Dhurandhar_live_landscape_thumb.jpg" group-title="Cricket",Punjab Falcons vs UP Dhurandhar - 23 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792785905~acl=/*~id=34976403305570334673502357022689~hmac=310adc1bbd9f1f27afffd109c92ba8b9565ac7b01693482d38bd5ca457b38943
+https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792786511~acl=/*~id=57282472773695493323588357498473~hmac=567c4b8dba8a05c359ce88ba422797e5eaab93303183ccd95e0df301d6a0016f
 
 #EXTINF:-1 tvg-id="1090550071_ENG" tvg-name="LINK Hong Kong Open - Day 2 - 23 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055341445141_Asian-Tour_LINK-Hong-Kong-Open_D2_live_landscape_thumb.jpg" group-title="Golf",LINK Hong Kong Open - Day 2 - 23 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2120299/Golf_LIN2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792785905~acl=/*~id=34976403305570334673502357022689~hmac=310adc1bbd9f1f27afffd109c92ba8b9565ac7b01693482d38bd5ca457b38943
+https://sonydaime.akamaized.net/hls/live/2120299/Golf_LIN2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792786511~acl=/*~id=57282472773695493323588357498473~hmac=567c4b8dba8a05c359ce88ba422797e5eaab93303183ccd95e0df301d6a0016f
 
 #EXTINF:-1 tvg-id="1090550072" tvg-name="Punjab Falcons vs UP Dhurandhar - 23 Oct 2026 | Salute Tiranga Cricket League (STCL) 2026 [HINDI]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026725/1792418899640732_STCL_Punjab-Falcons-vs-UP-Dhurandhar_live_landscape_thumb.jpg" group-title="Sports",Punjab Falcons vs UP Dhurandhar - 23 Oct 2026 | Salute Tiranga Cricket League (STCL) 2026 [HINDI]
 https://sonydaimenew.akamaized.net/hls/live/2120303/criclive2310/HIN/master.m3u8?hdnea=exp=1792772447~acl=/*~id=81878409894825560317991616390658~hmac=9e1f7ab6dec7c89b471aeed6432c4cc4fcb1b4d0e3203d913a9a24dfc6b32100
@@ -705,6 +705,28 @@ https://in-mc-flive.fancode.com/mumbai/4250157_english_hls_5b7e4a7fb27605_1ta-di
 
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
+
+#EXTINF:-1 tvg-id="5201245b-fb35-408c-aa2f-11a1814c1fa0" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ozf5wsdumhnhkcosf57p" tvg-lang="English" group-title="Cricket",English | Zambia v Lesotho
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1792772110~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=274e728fbb944ab8777fe112dde38f7ac66eac281a908432d89d3b3bba297c64/manifest.mpd?vcfilter=5201245b-fb35-408c-aa2f-11a1814c1fa0&
+
+#EXTINF:-1 tvg-id="c8464a20-265b-4ad2-b942-b92b8917ca48" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/zscl6o8bncitpqwb0scg" tvg-lang="English" group-title="Cricket",English | Nigeria v Mozambique
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1792772115~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=70d1e8aa99d0dd2497c8373c6d60f6b5dab34a9f9de11c3b1f1049360bd14a83/manifest.mpd?vcfilter=c8464a20-265b-4ad2-b942-b92b8917ca48&
 
 #EXTINF:-1 tvg-id="B0HL5YN53G" tvg-name="Zimbabwe Women tour of India 2026 - 1st ODI - India Women vs Zimbabwe Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1e5b6fd4-25b7-4e3a-be5b-aa3786467831/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Zimbabwe Women tour of India 2026 - 1st ODI - India Women vs Zimbabwe Women
 #KODIPROP:inputstream=inputstream.adaptive
