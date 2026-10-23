@@ -24,7 +24,7 @@ https://hjh-545.pages.dev/stream?id=asianethd
 
 # --- ISL SPECIAL EVENTS ---
 #EXTINF:-1 tvg-id="1090550073_ENG" tvg-name="Inter Kashi vs East Bengal FC - 23 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026658/179233523030793_ISL26_KSHI_vs_EastBengalFC_live_landscape_thumb.jpg" group-title="Football",Inter Kashi vs East Bengal FC - 23 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2120306/footlive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792796223~acl=/*~id=06800364924896349378991763893639~hmac=cb6d6931dd77243e3edd9eb975ba1547de4982327e813191d8d9cb2292a0a4ea
+https://sonydaime.akamaized.net/hls/live/2120306/footlive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792796830~acl=/*~id=71398619706835694060033277144731~hmac=759669364b6ec9433d91e9390eff085dca9f83ac59b10a7d3815baf2c6f121d3
 # --- END ISL SPECIAL EVENTS ---
 
 
@@ -686,22 +686,19 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090550073_HIN" tvg-name="Inter Kashi vs East Bengal FC - 23 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026658/179233523030793_ISL26_KSHI_vs_EastBengalFC_live_landscape_thumb.jpg" group-title="Football",Inter Kashi vs East Bengal FC - 23 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2094589/footlive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792796223~acl=/*~id=06800364924896349378991763893639~hmac=cb6d6931dd77243e3edd9eb975ba1547de4982327e813191d8d9cb2292a0a4ea
+https://sonydaime.akamaized.net/hls/live/2094589/footlive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792796830~acl=/*~id=71398619706835694060033277144731~hmac=759669364b6ec9433d91e9390eff085dca9f83ac59b10a7d3815baf2c6f121d3
 
 #EXTINF:-1 tvg-id="1090550073_BEN" tvg-name="Inter Kashi vs East Bengal FC - 23 Oct 2026 [BEN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026658/179233523030793_ISL26_KSHI_vs_EastBengalFC_live_landscape_thumb.jpg" group-title="Football",Inter Kashi vs East Bengal FC - 23 Oct 2026 [BEN]
-https://sonydaime.akamaized.net/hls/live/2094588/footlive2310/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792796223~acl=/*~id=06800364924896349378991763893639~hmac=cb6d6931dd77243e3edd9eb975ba1547de4982327e813191d8d9cb2292a0a4ea
+https://sonydaime.akamaized.net/hls/live/2094588/footlive2310/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792796830~acl=/*~id=71398619706835694060033277144731~hmac=759669364b6ec9433d91e9390eff085dca9f83ac59b10a7d3815baf2c6f121d3
 
 #EXTINF:-1 tvg-id="1090550072_HIN" tvg-name="Mumbai Mavericks vs Gujarat Royals - 23 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026940/1792621782167596_STCL26_mumbai_vs_gujarat_landscape_thumb.jpg" group-title="Cricket",Mumbai Mavericks vs Gujarat Royals - 23 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792796223~acl=/*~id=06800364924896349378991763893639~hmac=cb6d6931dd77243e3edd9eb975ba1547de4982327e813191d8d9cb2292a0a4ea
+https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792796830~acl=/*~id=71398619706835694060033277144731~hmac=759669364b6ec9433d91e9390eff085dca9f83ac59b10a7d3815baf2c6f121d3
 
 #EXTINF:-1 tvg-id="1090550072" tvg-name="Mumbai Mavericks vs Gujarat Royals - 23 Oct 2026 | Salute Tiranga Cricket League (STCL) 2026 [HINDI]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026940/1792621782167596_STCL26_mumbai_vs_gujarat_landscape_thumb.jpg" group-title="Sports",Mumbai Mavericks vs Gujarat Royals - 23 Oct 2026 | Salute Tiranga Cricket League (STCL) 2026 [HINDI]
 https://sonydaimenew.akamaized.net/hls/live/2120303/criclive2310/HIN/master.m3u8?hdnea=exp=1792772447~acl=/*~id=81878409894825560317991616390658~hmac=9e1f7ab6dec7c89b471aeed6432c4cc4fcb1b4d0e3203d913a9a24dfc6b32100
 
 #EXTINF:-1 tvg-id="4249697" tvg-name="Afghanistan vs Zimbabwe [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249697_53089_AFG_ZIM_FC-WEB.jpg" group-title="Cricket",Afghanistan vs Zimbabwe [English]
 https://in-mc-flive.fancode.com/mumbai/4249697_english_hls_7444655df2273_1ta-di_h264/720p.m3u8?hdntl=Expires=1792839422~_GO=Generated~acl=/mumbai/4249697_english_hls_7444655df2273_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_2a95910b-65f3-48~Signature=ASgJGVAx9Xdoje_TUv90BdNo6E_Tchyf1vKmWUclAUjQFbRSLmJHWf9dVw1Hp4EJw4vwIeJzUNUK5chyzzUawVhVPx8J
-
-#EXTINF:-1 tvg-id="4249760" tvg-name="Mozambique vs Nigeria [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249760_53093_NGR_MOZ_FC-Web_1792493253330.png" group-title="Cricket",Mozambique vs Nigeria [English]
-https://in-mc-flive.fancode.com/mumbai/4249760_english_hls_bae1223fe532144_1ta-di_h264/720p.m3u8?hdntl=Expires=1792829717~_GO=Generated~acl=/mumbai/4249760_english_hls_bae1223fe532144_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_2a91e166-13ad-45~Signature=ASgJGVArITLI-ourZDr6qLKeKKdS0jgYhJt_hcDO0iavuXL8jqoaJbcYw25OJD4MAZ3jEL3-oTnneHUwnPBQQbYvy84N
 
 #EXTINF:-1 tvg-id="4249611" tvg-name="Day 5 - World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png" group-title="Tennis",Day 5 - World Feed [English]
 https://in-mc-flive.fancode.com/mumbai/4249611_english_hls_b8e15a815945358_1ta-di_h264/720p.m3u8?hdntl=Expires=1792823057~_GO=Generated~acl=/mumbai/4249611_english_hls_b8e15a815945358_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_152cd9af-cb08-49~Signature=ASgJGVAiwukhY1oeHtXbq8XPyng9qD6knaBDo0KWMUUQVDpDJZHSdObzvPakF1iHIGH_2nQtqQ0hx59rMpVCU-NyUgUJ
@@ -734,14 +731,42 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DA
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=de4f7619ad148729aeb3fa269c66ac69:39f15c262064e93e317aefeb4d458cf0
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/umccpiuysl/out/v1/e3ede4759e57470d8969017f847f9426/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/umccpiuysl/out/v1/e3ede4759e57470d8969017f847f9426/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HFG5QN17" tvg-name="ODI Tri-Nation Series in UAE 2026 - Final - Afghanistan vs Zimbabwe" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1399581a-e87b-45f3-ae53-faf4e42483fc/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",ODI Tri-Nation Series in UAE 2026 - Final - Afghanistan vs Zimbabwe
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dbad433264aa645af31c76701ae83e38:f8fb07f5bc0a587bf4faa5ca640b1c00
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jr2yukryn7/out/v1/2310db8f31c047c4b01ebd3ab96d815d/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0H37FB27F" tvg-name="Predator European Championships: Spain" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.447494d8-1dc7-4b08-89c7-f04ce02111ea/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Predator European Championships: Spain
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HNP97V83" tvg-name="The Morning Drive" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.15a64732-e0d0-4a78-93c4-c3bfbd7c735e/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",The Morning Drive
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HLSFD2KV" tvg-name="Tennis Today Live-Brussels-ATP, Lyon-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Quarterfinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dcd0feb3-0452-4410-a9e2-15be868e5b3c/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Tennis Today Live-Brussels-ATP, Lyon-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Quarterfinals
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HFG5QN17" tvg-name="ODI Tri-Nation Series in UAE 2026 - Final - Afghanistan vs Zimbabwe" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1399581a-e87b-45f3-ae53-faf4e42483fc/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",ODI Tri-Nation Series in UAE 2026 - Final - Afghanistan vs Zimbabwe
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dbad433264aa645af31c76701ae83e38:f8fb07f5bc0a587bf4faa5ca640b1c00
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jr2yukryn7/out/v1/2310db8f31c047c4b01ebd3ab96d815d/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HM6W67Q7" tvg-name="India vs. Zimbabwe" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e0511307-b993-4e0e-bcee-0c31f55f51e5/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",India vs. Zimbabwe
 #KODIPROP:inputstream=inputstream.adaptive
