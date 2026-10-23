@@ -12,7 +12,7 @@ https://janya-asianet.vgcdn.net/ptnr-monitoring/title-AsianetNews_POC/vglive-sk-
 https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8
 https://asianet-yupptv.vgcdn.net/ptnr-yupptv/title-Asianet_News/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/26f4b1f3-41c6-4a57-b7f2-759f8b319ac8/main.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="BIG TV 24x7" tvg-logo="https://i.postimg.cc/rpHrRxR5/big-tv-malayalam.png" group-title="Malayalam News",BIG TV 24x7
-http://103.17.193.159:5001/live/3567.m3u8
+https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Reporter TV" tvg-logo="https://i.postimg.cc/MKL4rv2J/Reporter-TV.png" group-title="Malayalam News",Reporter TV
 https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Twenty Four News" tvg-logo="https://i.postimg.cc/3rB2hBKL/TWENTY-FOUR.png" group-title="Malayalam News",Twenty Four News
@@ -36,6 +36,7 @@ https://yuppnimrestreammum.akamaized.net/260723/smil:jaihind1.smil/playlist.m3u8
 https://yt-live-proxy.npashru.workers.dev/keralavision
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Zee Malayalam News" tvg-logo="https://i.postimg.cc/ZKDBKYCM/zee-news-malayalam.png" group-title="Malayalam News",Zee Malayalam News
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Real Kerala News" tvg-logo="https://i.postimg.cc/CK6Sbdp9/real-news-kerala.png" group-title="Malayalam News",Real Kerala News
+https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Raj News Malayalam" tvg-logo="https://i.postimg.cc/hPHm1Pc5/Raj-News-Malayalam.png" http-referrer="https://colorsportscreen.com" group-title="Malayalam News",Raj News Malayalam
 https://mumt04.tangotv.in/m18aqlK4RAJNEWSMALAYALAM/index.m3u8
 https://streamhub.dhruvpatil681.workers.dev/3454.m3u8
@@ -77,7 +78,9 @@ https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_i
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Surya TV" tvg-logo="https://i.postimg.cc/25GXCmWQ/Sun-Surya-TV.png" group-title="Malayalam",Surya TV
 https://livestream6.sunnxt.com/30612a1b269d4a18aa14657641c47515/SuryaTVB_IN_index.mpd
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Zee Keralam HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00239LE2.png" group-title="Malayalam",Zee Keralam HD
-http://51.75.127.199:3141/zeekeralamhd/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c9a3aadd35944a59f5e9157119ee043:d976e1b12be1cf578c23e9963d42720c
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Keralam_HD/dash/Zee_Keralam_HD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0;com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
 https://shoebinfo.qzz.io/ze/zee5.php?play=0-9-129
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Mazhavil Manorama HD" tvg-logo="https://i.postimg.cc/0NL75YyM/Mazhavil-Manorama-HD.png" group-title="Malayalam",Mazhavil Manorama HD
@@ -462,12 +465,14 @@ https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereb
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sony Sports Ten 5" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/18_265.png" group-title="Sports",Sony Sports Ten 5
 https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_ten5.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Unite8 Sports 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Screenshot_2026-06-09_234117.png"  group-title="Sports",Unite8 Sports 1 HD
-https://streamhub.dhruvpatil681.workers.dev/10417.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="SUnite8 Sports 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Screenshot_2026-06-10_002618.png"  group-title="Sports",Unite8 Sports 2 HD
-https://streamhub.dhruvpatil681.workers.dev/10418.m3u8
-#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Unite8 Sports 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Screenshot_2026-06-09_234117.png"  group-title="Sports",Unite8 Sports 1 HD
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Unite8 Sports 1 HD" tvg-logo="https://i.postimg.cc/CM8HzGKv/UNITE8-Sports-1HD.png"  group-title="Sports",Unite8 Sports 1 HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e83e7e9ba7434912939f75cbe79dbe30:25324c4169e1801e28451dcd60c523ff
 https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd
-#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="SUnite8 Sports 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Screenshot_2026-06-10_002618.png"  group-title="Sports",Unite8 Sports 2 HD
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="SUnite8 Sports 2 HD" tvg-logo="https://i.postimg.cc/9X9trdf8/UNITE8-Sports-2HD.png"  group-title="Sports",Unite8 Sports 2 HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bdab2703954e4467a0ef7bc698a8e9eb:a0f83f142c4487b234bfc645f85ece75
 https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_2_HD/dash/Unite8_Sports_2_HD.mpd
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="DD Sports" tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540" group-title="Sports",DD Sports
 https://cdn.pishow.tv/ott/live/13/master.m3u8
