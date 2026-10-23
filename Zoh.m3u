@@ -22,6 +22,12 @@ https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_i
 https://hjh-545.pages.dev/stream?id=asianethd
 
 
+# --- ISL SPECIAL EVENTS ---
+#EXTINF:-1 tvg-id="1090550073_ENG" tvg-name="Inter Kashi vs East Bengal FC - 23 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026658/179233523030793_ISL26_KSHI_vs_EastBengalFC_live_landscape_thumb.jpg" group-title="Football",Inter Kashi vs East Bengal FC - 23 Oct 2026 [ENG]
+https://sonydaime.akamaized.net/hls/live/2120306/footlive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792795613~acl=/*~id=72030424046822527362103255299471~hmac=feb01ee4617f160a1bf6475060094ea43af21665dafe4e9fd97398b8853e3a2d
+# --- END ISL SPECIAL EVENTS ---
+
+
 #EXTINF:-1 tvg-id="22020" tvg-logo="https://img.media.jio.com/tvpimages/97/2/300156_1752854414598_l_medium.jpg" group-title="Malayalam Entertainment",Mazhavil Manorama HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=37b4403a66f2565da33ba3b5704bb178:449f87256b3c1d7c2cdcbe04cbfd5530
@@ -679,17 +685,20 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 # --- LIVE EVENTS ---
 
+#EXTINF:-1 tvg-id="1090550073_HIN" tvg-name="Inter Kashi vs East Bengal FC - 23 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026658/179233523030793_ISL26_KSHI_vs_EastBengalFC_live_landscape_thumb.jpg" group-title="Football",Inter Kashi vs East Bengal FC - 23 Oct 2026 [HIN]
+https://sonydaime.akamaized.net/hls/live/2094589/footlive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792795613~acl=/*~id=72030424046822527362103255299471~hmac=feb01ee4617f160a1bf6475060094ea43af21665dafe4e9fd97398b8853e3a2d
+
+#EXTINF:-1 tvg-id="1090550073_BEN" tvg-name="Inter Kashi vs East Bengal FC - 23 Oct 2026 [BEN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026658/179233523030793_ISL26_KSHI_vs_EastBengalFC_live_landscape_thumb.jpg" group-title="Football",Inter Kashi vs East Bengal FC - 23 Oct 2026 [BEN]
+https://sonydaime.akamaized.net/hls/live/2094588/footlive2310/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792795613~acl=/*~id=72030424046822527362103255299471~hmac=feb01ee4617f160a1bf6475060094ea43af21665dafe4e9fd97398b8853e3a2d
+
 #EXTINF:-1 tvg-id="1090550072_HIN" tvg-name="Mumbai Mavericks vs Gujarat Royals - 23 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026940/1792621782167596_STCL26_mumbai_vs_gujarat_landscape_thumb.jpg" group-title="Cricket",Mumbai Mavericks vs Gujarat Royals - 23 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792795005~acl=/*~id=46842177620593560648253279097259~hmac=698c5c3e1128788bd5cdb594c6faeecc076e80b1a3d685ce58a3bf7a38477877
+https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792795613~acl=/*~id=72030424046822527362103255299471~hmac=feb01ee4617f160a1bf6475060094ea43af21665dafe4e9fd97398b8853e3a2d
 
 #EXTINF:-1 tvg-id="1090550072" tvg-name="Mumbai Mavericks vs Gujarat Royals - 23 Oct 2026 | Salute Tiranga Cricket League (STCL) 2026 [HINDI]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026940/1792621782167596_STCL26_mumbai_vs_gujarat_landscape_thumb.jpg" group-title="Sports",Mumbai Mavericks vs Gujarat Royals - 23 Oct 2026 | Salute Tiranga Cricket League (STCL) 2026 [HINDI]
 https://sonydaimenew.akamaized.net/hls/live/2120303/criclive2310/HIN/master.m3u8?hdnea=exp=1792772447~acl=/*~id=81878409894825560317991616390658~hmac=9e1f7ab6dec7c89b471aeed6432c4cc4fcb1b4d0e3203d913a9a24dfc6b32100
 
 #EXTINF:-1 tvg-id="4249760" tvg-name="Mozambique vs Nigeria [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249760_53093_NGR_MOZ_FC-Web_1792493253330.png" group-title="Cricket",Mozambique vs Nigeria [English]
 https://in-mc-flive.fancode.com/mumbai/4249760_english_hls_bae1223fe532144_1ta-di_h264/720p.m3u8?hdntl=Expires=1792829717~_GO=Generated~acl=/mumbai/4249760_english_hls_bae1223fe532144_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_2a91e166-13ad-45~Signature=ASgJGVArITLI-ourZDr6qLKeKKdS0jgYhJt_hcDO0iavuXL8jqoaJbcYw25OJD4MAZ3jEL3-oTnneHUwnPBQQbYvy84N
-
-#EXTINF:-1 tvg-id="4249761" tvg-name="Lesotho vs Zambia [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249761_53093_ZAM_LES_FC-Web_1792493252664.png" group-title="Cricket",Lesotho vs Zambia [English]
-https://in-mc-flive.fancode.com/mumbai/4249761_english_hls_245a2df94d82412_1ta-di_h264/720p.m3u8?hdntl=Expires=1792829720~_GO=Generated~acl=/mumbai/4249761_english_hls_245a2df94d82412_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7b113e4a-319f-49~Signature=ASgJGVB1XGlEJ_kvf9wr4WWY26OP3cyfte3uzheDd1OvHe6LqpqOAv71bY1EZALwfcQg9G22ozYIN7APGmXBkhVP70gJ
 
 #EXTINF:-1 tvg-id="4249611" tvg-name="Day 5 - World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png" group-title="Tennis",Day 5 - World Feed [English]
 https://in-mc-flive.fancode.com/mumbai/4249611_english_hls_b8e15a815945358_1ta-di_h264/720p.m3u8?hdntl=Expires=1792823057~_GO=Generated~acl=/mumbai/4249611_english_hls_b8e15a815945358_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_152cd9af-cb08-49~Signature=ASgJGVAiwukhY1oeHtXbq8XPyng9qD6knaBDo0KWMUUQVDpDJZHSdObzvPakF1iHIGH_2nQtqQ0hx59rMpVCU-NyUgUJ
@@ -705,17 +714,6 @@ https://in-mc-flive.fancode.com/mumbai/4249840_english_hls_a5f9d1422359282_1ta-d
 
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
-
-#EXTINF:-1 tvg-id="5201245b-fb35-408c-aa2f-11a1814c1fa0" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ozf5wsdumhnhkcosf57p" tvg-lang="English" group-title="Cricket",English | Zambia v Lesotho
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1792772110~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=274e728fbb944ab8777fe112dde38f7ac66eac281a908432d89d3b3bba297c64/manifest.mpd?vcfilter=5201245b-fb35-408c-aa2f-11a1814c1fa0&
 
 #EXTINF:-1 tvg-id="c8464a20-265b-4ad2-b942-b92b8917ca48" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/zscl6o8bncitpqwb0scg" tvg-lang="English" group-title="Cricket",English | Nigeria v Mozambique
 #KODIPROP:inputstream=inputstream.adaptive
