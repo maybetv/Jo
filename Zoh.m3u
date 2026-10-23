@@ -697,13 +697,13 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090550116_ENG" tvg-name="Delhi Dynamites vs Emperia Marathas - Final - 23 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026930/1792612456710353_VCL26_final_Delhi_Dynamites_vs_Emperia_Marathas_landscape_thumb.jpg" group-title="Volleyball",Delhi Dynamites vs Emperia Marathas - Final - 23 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2120305/Volleyba2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792816265~acl=/*~id=63471025623838897193878337124776~hmac=17535ad47c0276e9757dd2780bd802bfd813a4c766143bc111b1fce918e532bb
+https://sonydaime.akamaized.net/hls/live/2120305/Volleyba2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792816873~acl=/*~id=08381889125925717498476117230907~hmac=459282e324cc455dda08d0219681be99c322698efaac676908c16c7dc56d1171
 
 #EXTINF:-1 tvg-id="1090550116_HIN" tvg-name="Delhi Dynamites vs Emperia Marathas - Final - 23 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026930/1792612456710353_VCL26_final_Delhi_Dynamites_vs_Emperia_Marathas_landscape_thumb.jpg" group-title="Volleyball",Delhi Dynamites vs Emperia Marathas - Final - 23 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2120304/Volleyba2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792816265~acl=/*~id=63471025623838897193878337124776~hmac=17535ad47c0276e9757dd2780bd802bfd813a4c766143bc111b1fce918e532bb
+https://sonydaime.akamaized.net/hls/live/2120304/Volleyba2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792816873~acl=/*~id=08381889125925717498476117230907~hmac=459282e324cc455dda08d0219681be99c322698efaac676908c16c7dc56d1171
 
 #EXTINF:-1 tvg-id="1090550072_HIN" tvg-name="Delhi Leaders vs Tamilnadu Thunders - 23 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026769/1792489851034675_Delhi_Leaders_vs_Tamilnadu_Thunders_live_landscape_thumb.jpg" group-title="Cricket",Delhi Leaders vs Tamilnadu Thunders - 23 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792816265~acl=/*~id=63471025623838897193878337124776~hmac=17535ad47c0276e9757dd2780bd802bfd813a4c766143bc111b1fce918e532bb
+https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792816873~acl=/*~id=08381889125925717498476117230907~hmac=459282e324cc455dda08d0219681be99c322698efaac676908c16c7dc56d1171
 
 #EXTINF:-1 tvg-id="1090550116" tvg-name="Delhi Dynamites vs Emperia Marathas - Final - 23 Oct 2026 | Volleyball Champions League 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026930/1792612456710353_VCL26_final_Delhi_Dynamites_vs_Emperia_Marathas_landscape_thumb.jpg" group-title="Sports",Delhi Dynamites vs Emperia Marathas - Final - 23 Oct 2026 | Volleyball Champions League 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2120305/Volleyba2310/ENG/master.m3u8?hdnea=exp=1792803045~acl=/*~id=58749512068931740502247453068094~hmac=46780a6025755b52cbf335aa62ea82dd9e276a2941d3f95417f4a1cdae8d8041
@@ -714,7 +714,7 @@ https://sonydaimenew.akamaized.net/hls/live/2120303/criclive2310/HIN/master.m3u8
 #EXTINF:-1 tvg-id="4249697" tvg-name="Zimbabwe vs Afghanistan [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249697_53089_AFG_ZIM_FC-WEB.jpg" group-title="Cricket",Zimbabwe vs Afghanistan [English]
 https://in-mc-flive.fancode.com/mumbai/4249697_english_hls_7444655df2273_1ta-di_h264/720p.m3u8?hdntl=Expires=1792839422~_GO=Generated~acl=/mumbai/4249697_english_hls_7444655df2273_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_2a95910b-65f3-48~Signature=ASgJGVAx9Xdoje_TUv90BdNo6E_Tchyf1vKmWUclAUjQFbRSLmJHWf9dVw1Hp4EJw4vwIeJzUNUK5chyzzUawVhVPx8J
 
-#EXTINF:-1 tvg-id="4250483" tvg-name="Emirates Blues vs Abu Dhabi [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250483_53130_EMB_ABD_fc-web_1792412930142.jpg" group-title="Cricket",Emirates Blues vs Abu Dhabi [English]
+#EXTINF:-1 tvg-id="4250483" tvg-name="Abu Dhabi vs Emirates Blues [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250483_53130_EMB_ABD_fc-web_1792412930142.jpg" group-title="Cricket",Abu Dhabi vs Emirates Blues [English]
 https://in-mc-flive.fancode.com/mumbai/4250483_english_hls_48727574d09619_1ta-di_h264/720p.m3u8?hdntl=Expires=1792858851~_GO=Generated~acl=/mumbai/4250483_english_hls_48727574d09619_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_d278e189-b209-4d~Signature=ASgJGVB1okBRGquj2wfruHnzA45-N4arDUp0oUvAU2Bpik0rh9x-JVgGwmiWVX2FaROBiD1_dCRVnhMtjVtXMo-0XzAI
 
 #EXTINF:-1 tvg-id="4250267" tvg-name="Al-Ittihad vs Diriyah [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250267_53025_ITT_DIR_FC-Web.png" group-title="Football",Al-Ittihad vs Diriyah [English]
