@@ -674,7 +674,10 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090550070_ENG" tvg-name="Genesis Championship - Day 2 - 23 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611478125924_DP-World_Genesis-Championship_D2_live_landscape_thumb.jpg" group-title="Golf",Genesis Championship - Day 2 - 23 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2120301/Golf_Gen2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792766493~acl=/*~id=68123627328485146419503215071015~hmac=9e8f099711d55f9a5ad18e9e500d34885cf481abdde44f4d72a0f6277e117a06
+https://sonydaime.akamaized.net/hls/live/2120301/Golf_Gen2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792767098~acl=/*~id=54817834888339269178708831510087~hmac=bdc68d33abe2f4e793e60cb820cd2bae906c4cddb33a870b8c8ac570d88e1160
+
+#EXTINF:-1 tvg-id="1090550070" tvg-name="Genesis Championship - Day 2 - 23 Oct 2026 | DP World Tour [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611478125924_DP-World_Genesis-Championship_D2_live_landscape_thumb.jpg" group-title="Sports",Genesis Championship - Day 2 - 23 Oct 2026 | DP World Tour [ENGLISH]
+https://sonydaimenew.akamaized.net/hls/live/2120301/Golf_Gen2310/ENG/master.m3u8?hdnea=exp=1792767049~acl=/*~id=74840593534100273763159678033980~hmac=0454bea0c23e6c870f2ea4639cd930081bb6caf1d7ebc36a4a4244ed0e015d21
 
 #EXTINF:-1 tvg-id="139978" tvg-name="Day 1 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Australiaold-match-card.png" group-title="MotoGP",Day 1 [English]
 https://in-mc-flive.fancode.com/mumbai/139978_english_hls_907152588e45860_1ta-di_h264/720p.m3u8?hdntl=Expires=1792792145~_GO=Generated~acl=/mumbai/139978_english_hls_907152588e45860_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_bcb69c1d-6c02-48~Signature=ASgJGVAlIy2IX1vRc4jI2KUbWSzCHwGDvaD5FGurbflYFxtf_t2CBJiG2bylEovA6nDBUb7RdyhBqioiiAtHQsD3yLYA
