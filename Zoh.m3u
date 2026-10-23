@@ -697,19 +697,13 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090550116_ENG" tvg-name="Delhi Dynamites vs Emperia Marathas - Final - 23 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026930/1792612456710353_VCL26_final_Delhi_Dynamites_vs_Emperia_Marathas_landscape_thumb.jpg" group-title="Volleyball",Delhi Dynamites vs Emperia Marathas - Final - 23 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2120305/Volleyba2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792818087~acl=/*~id=47756976049625872739332800248681~hmac=32c195c9b4f1c6486e023243b39830d0683b08a3dc069843803d5edbbe6a9595
+https://sonydaime.akamaized.net/hls/live/2120305/Volleyba2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792818694~acl=/*~id=86048367356461975779652829448835~hmac=6705d00ba1b68758fa3bd2e5c3c7ed75e46c3ecd7712f977cc6947c1a84915eb
 
 #EXTINF:-1 tvg-id="1090550116_HIN" tvg-name="Delhi Dynamites vs Emperia Marathas - Final - 23 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026930/1792612456710353_VCL26_final_Delhi_Dynamites_vs_Emperia_Marathas_landscape_thumb.jpg" group-title="Volleyball",Delhi Dynamites vs Emperia Marathas - Final - 23 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2120304/Volleyba2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792818087~acl=/*~id=47756976049625872739332800248681~hmac=32c195c9b4f1c6486e023243b39830d0683b08a3dc069843803d5edbbe6a9595
-
-#EXTINF:-1 tvg-id="1090550072_HIN" tvg-name="Delhi Leaders vs Tamilnadu Thunders - 23 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026769/1792489851034675_Delhi_Leaders_vs_Tamilnadu_Thunders_live_landscape_thumb.jpg" group-title="Cricket",Delhi Leaders vs Tamilnadu Thunders - 23 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792818087~acl=/*~id=47756976049625872739332800248681~hmac=32c195c9b4f1c6486e023243b39830d0683b08a3dc069843803d5edbbe6a9595
+https://sonydaime.akamaized.net/hls/live/2120304/Volleyba2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792818694~acl=/*~id=86048367356461975779652829448835~hmac=6705d00ba1b68758fa3bd2e5c3c7ed75e46c3ecd7712f977cc6947c1a84915eb
 
 #EXTINF:-1 tvg-id="1090550116" tvg-name="Delhi Dynamites vs Emperia Marathas - Final - 23 Oct 2026 | Volleyball Champions League 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026930/1792612456710353_VCL26_final_Delhi_Dynamites_vs_Emperia_Marathas_landscape_thumb.jpg" group-title="Sports",Delhi Dynamites vs Emperia Marathas - Final - 23 Oct 2026 | Volleyball Champions League 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2120305/Volleyba2310/ENG/master.m3u8?hdnea=exp=1792803045~acl=/*~id=58749512068931740502247453068094~hmac=46780a6025755b52cbf335aa62ea82dd9e276a2941d3f95417f4a1cdae8d8041
-
-#EXTINF:-1 tvg-id="1090550072" tvg-name="Delhi Leaders vs Tamilnadu Thunders - 23 Oct 2026 | Salute Tiranga Cricket League (STCL) 2026 [HINDI]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026769/1792489851034675_Delhi_Leaders_vs_Tamilnadu_Thunders_live_landscape_thumb.jpg" group-title="Sports",Delhi Leaders vs Tamilnadu Thunders - 23 Oct 2026 | Salute Tiranga Cricket League (STCL) 2026 [HINDI]
-https://sonydaimenew.akamaized.net/hls/live/2120303/criclive2310/HIN/master.m3u8?hdnea=exp=1792813839~acl=/*~id=42305937218722083498290741243272~hmac=cc48dbc77af7d05a4dfe1ca5c7f95b44d856afff1e2cd27d261e0f3609a32b17
 
 #EXTINF:-1 tvg-id="4249697" tvg-name="Zimbabwe vs Afghanistan [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249697_53089_AFG_ZIM_FC-WEB.jpg" group-title="Cricket",Zimbabwe vs Afghanistan [English]
 https://in-mc-flive.fancode.com/mumbai/4249697_english_hls_7444655df2273_1ta-di_h264/720p.m3u8?hdntl=Expires=1792839422~_GO=Generated~acl=/mumbai/4249697_english_hls_7444655df2273_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_2a95910b-65f3-48~Signature=ASgJGVAx9Xdoje_TUv90BdNo6E_Tchyf1vKmWUclAUjQFbRSLmJHWf9dVw1Hp4EJw4vwIeJzUNUK5chyzzUawVhVPx8J
