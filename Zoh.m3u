@@ -703,7 +703,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090550213_ENG" tvg-name="1st Unofficial Test - Day 1 - 24 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027138/1792752132049819_NZ_vs_IND_A_1st_test_day1_live_landscape_thumb.jpg" group-title="Cricket",1st Unofficial Test - Day 1 - 24 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792838074~acl=/*~id=82672863226425413367969138747025~hmac=c44bdee568c50c9bba70dd26f761e8802e6f0c0d4b78a8f0e249bf3c9dac9382
+https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792838680~acl=/*~id=12746480149683742616726443942123~hmac=ceb20e8a60e20b23b3633b0a8a2708d1c9f6407041400e26a59a82490223d524
 
 #EXTINF:-1 tvg-id="1090550213" tvg-name="1st Unofficial Test - Day 1 - 24 Oct 2026 | India A Tour of New Zealand [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027138/1792752132049819_NZ_vs_IND_A_1st_test_day1_live_landscape_thumb.jpg" group-title="Sports",1st Unofficial Test - Day 1 - 24 Oct 2026 | India A Tour of New Zealand [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2120300/criclive2310/ENG/master.m3u8?hdnea=exp=1792835444~acl=/*~id=80252246033218102274912461493437~hmac=4c0ef408ddad4e94487affb2d322228293164e879c9c18c6ed805ae6d567eaf2
@@ -713,6 +713,9 @@ https://in-mc-flive.fancode.com/mumbai/4249618_english_hls_bd306a0e4442012_1ta-d
 
 #EXTINF:-1 tvg-id="139979" tvg-name="Day 2 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Australiaold-match-card.png" group-title="MotoGP",Day 2 [English]
 https://in-mc-flive.fancode.com/mumbai/139979_english_hls_c7aa6f758469211_1ta-di_h264/720p.m3u8?hdntl=Expires=1792877285~_GO=Generated~acl=/mumbai/139979_english_hls_c7aa6f758469211_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_12d37240-e5db-44~Signature=ASgJGVBpn-wZG24vBzclKTkD1pIOvVfhU6iETAP8BrDeJuX_3svcgH6vEHI6u7VrvWcruVU6w-3FAUnKUZ5MowiC2p8A
+
+#EXTINF:-1 tvg-id="4250507" tvg-name="Opening Race [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web_1792770153782.jpg" group-title="Motorsports",Opening Race [English]
+https://in-mc-flive.fancode.com/mumbai/4250507_english_hls_44cd9f0fb737145_1ta-di_h264/720p.m3u8?hdntl=Expires=1792881558~_GO=Generated~acl=/mumbai/4250507_english_hls_44cd9f0fb737145_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c4c8a960-fd18-46~Signature=ASgJGVA6WQjmx8XBcdvxPlgrvtfn0-pXfynIymnsfpD3sx5MtubjCMlLk1IDK50NtetW9cc2YVmuP9HsOl3r-Sy187kF
 
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
