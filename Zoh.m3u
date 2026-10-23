@@ -697,10 +697,10 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090550116_ENG" tvg-name="Delhi Dynamites vs Emperia Marathas - Final - 23 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026930/1792612456710353_VCL26_final_Delhi_Dynamites_vs_Emperia_Marathas_landscape_thumb.jpg" group-title="Volleyball",Delhi Dynamites vs Emperia Marathas - Final - 23 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2120305/Volleyba2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792818694~acl=/*~id=86048367356461975779652829448835~hmac=6705d00ba1b68758fa3bd2e5c3c7ed75e46c3ecd7712f977cc6947c1a84915eb
+https://sonydaime.akamaized.net/hls/live/2120305/Volleyba2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792819300~acl=/*~id=28467802287771103504426568271947~hmac=038289253e246dd9b0c5a0f7854610f132ca46fbb9d28fe15d39bb2fafe5d769
 
 #EXTINF:-1 tvg-id="1090550116_HIN" tvg-name="Delhi Dynamites vs Emperia Marathas - Final - 23 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026930/1792612456710353_VCL26_final_Delhi_Dynamites_vs_Emperia_Marathas_landscape_thumb.jpg" group-title="Volleyball",Delhi Dynamites vs Emperia Marathas - Final - 23 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2120304/Volleyba2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792818694~acl=/*~id=86048367356461975779652829448835~hmac=6705d00ba1b68758fa3bd2e5c3c7ed75e46c3ecd7712f977cc6947c1a84915eb
+https://sonydaime.akamaized.net/hls/live/2120304/Volleyba2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792819300~acl=/*~id=28467802287771103504426568271947~hmac=038289253e246dd9b0c5a0f7854610f132ca46fbb9d28fe15d39bb2fafe5d769
 
 #EXTINF:-1 tvg-id="1090550116" tvg-name="Delhi Dynamites vs Emperia Marathas - Final - 23 Oct 2026 | Volleyball Champions League 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026930/1792612456710353_VCL26_final_Delhi_Dynamites_vs_Emperia_Marathas_landscape_thumb.jpg" group-title="Sports",Delhi Dynamites vs Emperia Marathas - Final - 23 Oct 2026 | Volleyball Champions League 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2120305/Volleyba2310/ENG/master.m3u8?hdnea=exp=1792803045~acl=/*~id=58749512068931740502247453068094~hmac=46780a6025755b52cbf335aa62ea82dd9e276a2941d3f95417f4a1cdae8d8041
@@ -713,9 +713,6 @@ https://in-mc-flive.fancode.com/mumbai/4250483_english_hls_48727574d09619_1ta-di
 
 #EXTINF:-1 tvg-id="4250267" tvg-name="Al-Ittihad vs Diriyah [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250267_53025_ITT_DIR_FC-Web.png" group-title="Football",Al-Ittihad vs Diriyah [English]
 https://in-mc-flive.fancode.com/mumbai/4250267_english_hls_6eaa9dffe496375_1ta-di_h264/720p.m3u8?hdntl=Expires=1792855208~_GO=Generated~acl=/mumbai/4250267_english_hls_6eaa9dffe496375_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_dc80f17b-a63e-48~Signature=ASgJGVDq5po8tITJvTbYLQBx258_ufdCqo0RO2kNw8Xg0GzuxyyXs1kZiSbRgTpIyoqVjWrv-JrYEUgTWfb983-0VBEE
-
-#EXTINF:-1 tvg-id="4249611" tvg-name="Day 5 - World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png" group-title="Tennis",Day 5 - World Feed [English]
-https://in-mc-flive.fancode.com/mumbai/4249611_english_hls_b8e15a815945358_1ta-di_h264/720p.m3u8?hdntl=Expires=1792852175~_GO=Generated~acl=/mumbai/4249611_english_hls_b8e15a815945358_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_b8f612a5-a8f2-48~Signature=ASgJGVAkmbXmDL8PXnEN-TtZBIA86QBhwggGxogPnRvd-RJRJxmIXDhNWTxGbJcdT84YNAiM9hXipXchVZtyI-vCzuEE
 
 #EXTINF:-1 tvg-id="4250156" tvg-name="Court 1 - QF [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg" group-title="Badminton",Court 1 - QF [English]
 https://in-mc-flive.fancode.com/mumbai/4250156_english_hls_eaffc4881757714_1ta-di_h264/720p.m3u8?hdntl=Expires=1792855815~_GO=Generated~acl=/mumbai/4250156_english_hls_eaffc4881757714_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_9abb6071-eb33-47~Signature=ASgJGVCTj_7ys0W0mO_gv1aWooblZEUcGrnKdxQdf71J8vAO7HcLdjQ-c2XRHU-hJefqD_JUSfkbhrDkYkm8KS1we8UL
