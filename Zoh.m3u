@@ -21,7 +21,7 @@ https://hjh-545.pages.dev/stream?id=asianethd
 
 # --- ISL SPECIAL EVENTS ---
 #EXTINF:-1 tvg-id="1090550073_ENG" tvg-name="Inter Kashi vs East Bengal FC - 23 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026658/179233523030793_ISL26_KSHI_vs_EastBengalFC_live_landscape_thumb.jpg" group-title="Football",Inter Kashi vs East Bengal FC - 23 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2120306/footlive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792798057~acl=/*~id=16264269501274409674808647015098~hmac=c41f21cbe9b96ef8fed44ab98d33277d73706c12acb7a8011217884a827ac34b
+https://sonydaime.akamaized.net/hls/live/2120306/footlive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792798666~acl=/*~id=74345077392492640365677886315096~hmac=d4849e2195995a7094f750ffbf6b7719fc6b20edbb68b3d481c431885b75fdd4
 
 #EXTINF:-1 tvg-id="1090550073" tvg-name="Inter Kashi vs East Bengal FC - 23 Oct 2026 | MG Indian Super League 2026-27 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026658/179233523030793_ISL26_KSHI_vs_EastBengalFC_live_landscape_thumb.jpg" group-title="Sports",Inter Kashi vs East Bengal FC - 23 Oct 2026 | MG Indian Super League 2026-27 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2120306/footlive2310/ENG/master.m3u8?hdnea=exp=1792797648~acl=/*~id=34009329926714089171716740736499~hmac=b7b7c173fcdb8a53dc04741a3b8888cae3e302c9f83df6b7598c11daaebc1eeb
@@ -695,13 +695,13 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090550073_HIN" tvg-name="Inter Kashi vs East Bengal FC - 23 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026658/179233523030793_ISL26_KSHI_vs_EastBengalFC_live_landscape_thumb.jpg" group-title="Football",Inter Kashi vs East Bengal FC - 23 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2094589/footlive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792798057~acl=/*~id=16264269501274409674808647015098~hmac=c41f21cbe9b96ef8fed44ab98d33277d73706c12acb7a8011217884a827ac34b
+https://sonydaime.akamaized.net/hls/live/2094589/footlive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792798666~acl=/*~id=74345077392492640365677886315096~hmac=d4849e2195995a7094f750ffbf6b7719fc6b20edbb68b3d481c431885b75fdd4
 
 #EXTINF:-1 tvg-id="1090550073_BEN" tvg-name="Inter Kashi vs East Bengal FC - 23 Oct 2026 [BEN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026658/179233523030793_ISL26_KSHI_vs_EastBengalFC_live_landscape_thumb.jpg" group-title="Football",Inter Kashi vs East Bengal FC - 23 Oct 2026 [BEN]
-https://sonydaime.akamaized.net/hls/live/2094588/footlive2310/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792798057~acl=/*~id=16264269501274409674808647015098~hmac=c41f21cbe9b96ef8fed44ab98d33277d73706c12acb7a8011217884a827ac34b
+https://sonydaime.akamaized.net/hls/live/2094588/footlive2310/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792798666~acl=/*~id=74345077392492640365677886315096~hmac=d4849e2195995a7094f750ffbf6b7719fc6b20edbb68b3d481c431885b75fdd4
 
 #EXTINF:-1 tvg-id="1090550072_HIN" tvg-name="Mumbai Mavericks vs Gujarat Royals - 23 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026940/1792621782167596_STCL26_mumbai_vs_gujarat_landscape_thumb.jpg" group-title="Cricket",Mumbai Mavericks vs Gujarat Royals - 23 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792798057~acl=/*~id=16264269501274409674808647015098~hmac=c41f21cbe9b96ef8fed44ab98d33277d73706c12acb7a8011217884a827ac34b
+https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792798666~acl=/*~id=74345077392492640365677886315096~hmac=d4849e2195995a7094f750ffbf6b7719fc6b20edbb68b3d481c431885b75fdd4
 
 #EXTINF:-1 tvg-id="1090550072" tvg-name="Mumbai Mavericks vs Gujarat Royals - 23 Oct 2026 | Salute Tiranga Cricket League (STCL) 2026 [HINDI]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026940/1792621782167596_STCL26_mumbai_vs_gujarat_landscape_thumb.jpg" group-title="Sports",Mumbai Mavericks vs Gujarat Royals - 23 Oct 2026 | Salute Tiranga Cricket League (STCL) 2026 [HINDI]
 https://sonydaimenew.akamaized.net/hls/live/2120303/criclive2310/HIN/master.m3u8?hdnea=exp=1792772447~acl=/*~id=81878409894825560317991616390658~hmac=9e1f7ab6dec7c89b471aeed6432c4cc4fcb1b4d0e3203d913a9a24dfc6b32100
