@@ -703,10 +703,13 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090550213_ENG" tvg-name="1st Unofficial Test - Day 1 - 24 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027138/1792752132049819_NZ_vs_IND_A_1st_test_day1_live_landscape_thumb.jpg" group-title="Cricket",1st Unofficial Test - Day 1 - 24 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792840497~acl=/*~id=67125541670595054727470314169009~hmac=fcb340b800446598621f2b83371205a7e4f69babb3c37bfbdefa80d058b6ac78
+https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792841102~acl=/*~id=15015106611986597661418791832316~hmac=8db06307dd6af0282bd451dfa756ef079ef743985c8c4554e67cac6c3f12f908
 
 #EXTINF:-1 tvg-id="1090550213" tvg-name="1st Unofficial Test - Day 1 - 24 Oct 2026 | India A Tour of New Zealand [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027138/1792752132049819_NZ_vs_IND_A_1st_test_day1_live_landscape_thumb.jpg" group-title="Sports",1st Unofficial Test - Day 1 - 24 Oct 2026 | India A Tour of New Zealand [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2120300/criclive2310/ENG/master.m3u8?hdnea=exp=1792835444~acl=/*~id=80252246033218102274912461493437~hmac=4c0ef408ddad4e94487affb2d322228293164e879c9c18c6ed805ae6d567eaf2
+
+#EXTINF:-1 tvg-id="4249285" tvg-name="Victoria vs Tasmania [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249285_53072_TAS_VCT_FC-Web.jpg" group-title="Cricket",Victoria vs Tasmania [English]
+https://in-mc-flive.fancode.com/mumbai/4249285_english_hls_c101cf832389375_1ta-di_h264/720p.m3u8?hdntl=Expires=1792883981~_GO=Generated~acl=/mumbai/4249285_english_hls_c101cf832389375_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ce656463-67d4-43~Signature=ASgJGVB-EBFjWK52d9-_V3iMM6V9qCJSbLvqfXMFqkncayydc7BaSYxl1O3JtbqrVgSIoQyeYgS5WBRvx16AHTRwuhoP
 
 #EXTINF:-1 tvg-id="4249618" tvg-name="Day 5 - World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg" group-title="Tennis",Day 5 - World Feed [English]
 https://in-mc-flive.fancode.com/mumbai/4249618_english_hls_bd306a0e4442012_1ta-di_h264/720p.m3u8?hdntl=Expires=1792871741~_GO=Generated~acl=/mumbai/4249618_english_hls_bd306a0e4442012_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_55ef39e1-aa5c-4a~Signature=ASgJGVD6PRf5XlLw9pghLVtybYq8qHzUS9zPPtvoO6VJbWP2usliMlgn-xL9HvDY6vx5VSYQcUkZ6p5jiu_mTMQVugsC
