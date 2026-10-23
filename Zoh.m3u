@@ -680,13 +680,10 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090550072_HIN" tvg-name="Punjab Falcons vs UP Dhurandhar - 23 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026725/1792418899640732_STCL_Punjab-Falcons-vs-UP-Dhurandhar_live_landscape_thumb.jpg" group-title="Cricket",Punjab Falcons vs UP Dhurandhar - 23 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792788331~acl=/*~id=53470237763724965066202442945362~hmac=f814e062f534ede9e5b7f3638b21f5845f74827ee5a038cf88be29d8d8a81af1
+https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792788937~acl=/*~id=29370777944413818848525474453256~hmac=72bb440b4c5ddd40ac6252798959253e268085a702b8dc42526f7fe6bb8f712c
 
 #EXTINF:-1 tvg-id="1090550072" tvg-name="Punjab Falcons vs UP Dhurandhar - 23 Oct 2026 | Salute Tiranga Cricket League (STCL) 2026 [HINDI]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026725/1792418899640732_STCL_Punjab-Falcons-vs-UP-Dhurandhar_live_landscape_thumb.jpg" group-title="Sports",Punjab Falcons vs UP Dhurandhar - 23 Oct 2026 | Salute Tiranga Cricket League (STCL) 2026 [HINDI]
 https://sonydaimenew.akamaized.net/hls/live/2120303/criclive2310/HIN/master.m3u8?hdnea=exp=1792772447~acl=/*~id=81878409894825560317991616390658~hmac=9e1f7ab6dec7c89b471aeed6432c4cc4fcb1b4d0e3203d913a9a24dfc6b32100
-
-#EXTINF:-1 tvg-id="1090550071" tvg-name="LINK Hong Kong Open - Day 2 - 23 Oct 2026 | Asian Tour 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055341445141_Asian-Tour_LINK-Hong-Kong-Open_D2_live_landscape_thumb.jpg" group-title="Sports",LINK Hong Kong Open - Day 2 - 23 Oct 2026 | Asian Tour 2026 [ENGLISH]
-https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_LIN2310/ENG/master.m3u8?hdnea=exp=1792772447~acl=/*~id=81878409894825560317991616390658~hmac=9e1f7ab6dec7c89b471aeed6432c4cc4fcb1b4d0e3203d913a9a24dfc6b32100
 
 #EXTINF:-1 tvg-id="4249760" tvg-name="Mozambique vs Nigeria [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249760_53093_NGR_MOZ_FC-Web_1792493253330.png" group-title="Cricket",Mozambique vs Nigeria [English]
 https://in-mc-flive.fancode.com/mumbai/4249760_english_hls_bae1223fe532144_1ta-di_h264/720p.m3u8?hdntl=Expires=1792829717~_GO=Generated~acl=/mumbai/4249760_english_hls_bae1223fe532144_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_2a91e166-13ad-45~Signature=ASgJGVArITLI-ourZDr6qLKeKKdS0jgYhJt_hcDO0iavuXL8jqoaJbcYw25OJD4MAZ3jEL3-oTnneHUwnPBQQbYvy84N
