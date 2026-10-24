@@ -729,7 +729,7 @@ https://in-mc-flive.fancode.com/mumbai/4250340_english_hls_ba610ffa8719836_1ta-d
 #EXTINF:-1 tvg-id="4250332" tvg-name="Namibia vs Ireland [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-Ireland_fc-web.jpg" group-title="Cricket",Namibia vs Ireland [English]
 https://in-mc-flive.fancode.com/mumbai/4250332_english_hls_1aa599cf365384_1ta-di_h264/720p.m3u8?hdntl=Expires=1792911831~_GO=Generated~acl=/mumbai/4250332_english_hls_1aa599cf365384_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1449d916-3251-4c~Signature=ASgJGVDtOG7rBHiN37qweSUJeC48Jp9K31k3k6HSmgaLX7CA1hxxQr2CPXP7hKpeqhwBoh1zJoxzVuUWsD1GhLwOgqoI
 
-#EXTINF:-1 tvg-id="4250158" tvg-name="Semi-Finals [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg" group-title="Badminton",Semi-Finals [English]
+#EXTINF:-1 tvg-id="4250158" tvg-name="Semi-Finals [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hina-Akechi_PV_Sindhu_FC-App-V2.jpg" group-title="Badminton",Semi-Finals [English]
 https://in-mc-flive.fancode.com/mumbai/4250158_english_hls_6fe83d089b42758_1ta-di_h264/720p.m3u8?hdntl=Expires=1792913041~_GO=Generated~acl=/mumbai/4250158_english_hls_6fe83d089b42758_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f683311f-c19e-4a~Signature=ASgJGVD98NN_ZFWboQKEDDAlAVkiZLN1-K8IC-1ob6lLAbFXQDOJ_Er0klA90n6MK_paUXoc8uYFGYogc7R2aavJy4EK
 
 #EXTINF:-1 tvg-id="4249843" tvg-name="Melbourne Victory vs Melbourne City [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249843_53101_MLV_MLC_fc-Web_1792223292104.jpg" group-title="Football",Melbourne Victory vs Melbourne City [English]
@@ -740,17 +740,6 @@ https://in-mc-flive.fancode.com/mumbai/4249612_english_hls_4bb5d239f294482_1ta-d
 
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
-
-#EXTINF:-1 tvg-id="b3922ef5-0b0f-43a6-a88a-85817f9358ac" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/bpzhtxn2isg9hjic8fbc" tvg-lang="English" group-title="Cricket",English | Qatar v Kenya (1st Innings)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1792852207~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=5d80a2485127a32108482e2fecba9b8d9888e7a30d24fec75f80a167cf656b1a/manifest.mpd?vcfilter=b3922ef5-0b0f-43a6-a88a-85817f9358ac&
 
 #EXTINF:-1 tvg-id="496f7536-eb74-41ed-b390-c06cf9df1cb7" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/lrbr87vwntlaq2d30u2v" tvg-lang="English" group-title="Cricket",English | Denmark v Kuwait (1st Innings)
 #KODIPROP:inputstream=inputstream.adaptive
@@ -773,6 +762,17 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1792854005~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=26611e67159fe60d737fb8241e6145c92b255495d2eb36740c3bbefa6617fd98/manifest.mpd?vcfilter=3f8f6b30-10ac-48f0-9f41-46ddea389863&
+
+#EXTINF:-1 tvg-id="6023de0f-701e-4c23-b97a-0741f34a90a4" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/qypcfdqbwdywtnbrywqg" tvg-lang="English" group-title="Cricket",English | Qatar v Kenya (2nd Innings)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1792866609~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=ab89e4dbe812c7a7e2f4576af79ad00a968e8806e79867e4b58c264e76f3745f/manifest.mpd?vcfilter=6023de0f-701e-4c23-b97a-0741f34a90a4&
 
 #EXTINF:-1 tvg-id="B0HL646MJT" tvg-name="New Zealand vs. India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4bdb387d-8b40-409f-b76a-f9b7349d5ea2/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",New Zealand vs. India
 #KODIPROP:inputstream=inputstream.adaptive
