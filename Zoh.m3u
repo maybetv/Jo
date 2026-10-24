@@ -703,13 +703,22 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090550278_ENG" tvg-name="2nd T20I - 24 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg" group-title="Cricket",2nd T20I - 24 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792873994~acl=/*~id=90896766854607207269957188498376~hmac=e63249a4548c3ec786efad7c88b847b21321d62ba24d23fa307ecafbc742ab54
+https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2410/ENG/master.m3u8?hdnea=exp=1792874622~acl=/*~id=15260721783639242665922604079422~hmac=15bb6d3bad09814fc907f38aceea5ac47e722977477762b7d2f44d7e6d5dd5f8
 
 #EXTINF:-1 tvg-id="1090550278_HIN" tvg-name="2nd T20I - 24 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg" group-title="Cricket",2nd T20I - 24 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792873994~acl=/*~id=90896766854607207269957188498376~hmac=e63249a4548c3ec786efad7c88b847b21321d62ba24d23fa307ecafbc742ab54
+https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2410/HIN/master.m3u8?hdnea=exp=1792874622~acl=/*~id=15260721783639242665922604079422~hmac=15bb6d3bad09814fc907f38aceea5ac47e722977477762b7d2f44d7e6d5dd5f8
+
+#EXTINF:-1 tvg-id="1090550278_TAM" tvg-name="2nd T20I - 24 Oct 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg" group-title="Cricket",2nd T20I - 24 Oct 2026 [TAM]
+https://sonydaime.akamaized.net/hls/live/2119951/cricodi_2410/TAM/master.m3u8?hdnea=exp=1792874622~acl=/*~id=15260721783639242665922604079422~hmac=15bb6d3bad09814fc907f38aceea5ac47e722977477762b7d2f44d7e6d5dd5f8
+
+#EXTINF:-1 tvg-id="1090550278_TEL" tvg-name="2nd T20I - 24 Oct 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg" group-title="Cricket",2nd T20I - 24 Oct 2026 [TEL]
+https://sonydaime.akamaized.net/hls/live/2119941/cricodi_2410/TEL/master.m3u8?hdnea=exp=1792874622~acl=/*~id=15260721783639242665922604079422~hmac=15bb6d3bad09814fc907f38aceea5ac47e722977477762b7d2f44d7e6d5dd5f8
+
+#EXTINF:-1 tvg-id="1090550278_KAN" tvg-name="2nd T20I - 24 Oct 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg" group-title="Cricket",2nd T20I - 24 Oct 2026 [KAN]
+https://sonydaime.akamaized.net/hls/live/2119782/cricodi_2410/KAN/master.m3u8?hdnea=exp=1792874622~acl=/*~id=15260721783639242665922604079422~hmac=15bb6d3bad09814fc907f38aceea5ac47e722977477762b7d2f44d7e6d5dd5f8
 
 #EXTINF:-1 tvg-id="1090550217_ENG" tvg-name="LINK Hong Kong Open - Day 3 - 24 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055358975141_Asian-Tour_LINK-Hong-Kong-Open_D3_live_landscape_thumb.jpg" group-title="Golf",LINK Hong Kong Open - Day 3 - 24 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2120307/AsianTou2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792873994~acl=/*~id=90896766854607207269957188498376~hmac=e63249a4548c3ec786efad7c88b847b21321d62ba24d23fa307ecafbc742ab54
+https://sonydaime.akamaized.net/hls/live/2120307/AsianTou2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792874622~acl=/*~id=15260721783639242665922604079422~hmac=15bb6d3bad09814fc907f38aceea5ac47e722977477762b7d2f44d7e6d5dd5f8
 
 #EXTINF:-1 tvg-id="4249282" tvg-name="New South Wales vs Western Australia [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249282_53072_WAU_NSW_FC-Web.jpg" group-title="Cricket",New South Wales vs Western Australia [English]
 https://in-mc-flive.fancode.com/mumbai/4249282_english_hls_43ae1cf2385812_1ta-di_h264/720p.m3u8?hdntl=Expires=1792907589~_GO=Generated~acl=/mumbai/4249282_english_hls_43ae1cf2385812_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_244f951a-2254-4c~Signature=ASgJGVDniEiDt7EtGWMqXxOmf5SVRoq5FnZDuCxUcU-cYD8joGiVZgQm8NLWUFy01GKiWljioZErPe5LQlxpzCXFWTwM
