@@ -21,7 +21,7 @@ https://hjh-545.pages.dev/stream?id=asianethd
 
 # --- ISL SPECIAL EVENTS ---
 #EXTINF:-1 tvg-id="1090550221_ENG" tvg-name="Odisha FC vs NorthEast United FC - 24 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026659/1792341017913368_ISL26_OFC_vs_NorthEast_UnitedFC_live_landscape_thumb.jpg" group-title="Football",Odisha FC vs NorthEast United FC - 24 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2018457/Footlive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792894735~acl=/*~id=74081105121770988567633151031716~hmac=85d66dd2885374d81a09de88de8190f90f6ecdedb832c16f8c5310d2c2ceb207
+https://sonydaime.akamaized.net/hls/live/2018457/Footlive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792895340~acl=/*~id=60931862684417414825267107736236~hmac=684f269533ed7fcef740f2d773a53ded4876b604dc81474ee91a002535aa4a63
 # --- END ISL SPECIAL EVENTS ---
 
 
@@ -719,10 +719,10 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090550221_HIN" tvg-name="Odisha FC vs NorthEast United FC - 24 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026659/1792341017913368_ISL26_OFC_vs_NorthEast_UnitedFC_live_landscape_thumb.jpg" group-title="Football",Odisha FC vs NorthEast United FC - 24 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2094587/Footlive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792894735~acl=/*~id=74081105121770988567633151031716~hmac=85d66dd2885374d81a09de88de8190f90f6ecdedb832c16f8c5310d2c2ceb207
+https://sonydaime.akamaized.net/hls/live/2094587/Footlive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792895340~acl=/*~id=60931862684417414825267107736236~hmac=684f269533ed7fcef740f2d773a53ded4876b604dc81474ee91a002535aa4a63
 
 #EXTINF:-1 tvg-id="1090550219_HIN" tvg-name="Punjab Falcons vs Haryana Lions - 24 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026763/1792484022978376_Punjab_Falcons_vs_Haryana_Lions_landscape_thumb.jpg" group-title="Cricket",Punjab Falcons vs Haryana Lions - 24 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2120308/criclive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792894735~acl=/*~id=74081105121770988567633151031716~hmac=85d66dd2885374d81a09de88de8190f90f6ecdedb832c16f8c5310d2c2ceb207
+https://sonydaime.akamaized.net/hls/live/2120308/criclive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792895340~acl=/*~id=60931862684417414825267107736236~hmac=684f269533ed7fcef740f2d773a53ded4876b604dc81474ee91a002535aa4a63
 
 #EXTINF:-1 tvg-id="4250340" tvg-name="Qatar vs Kenya [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png" group-title="Cricket",Qatar vs Kenya [English]
 https://in-mc-flive.fancode.com/mumbai/4250340_english_hls_ba610ffa8719836_1ta-di_h264/720p.m3u8?hdntl=Expires=1792910014~_GO=Generated~acl=/mumbai/4250340_english_hls_ba610ffa8719836_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0a567ef6-edab-4f~Signature=ASgJGVCvUf8QZQKW3N6Tsz8oLCyIOuP-VArhQJSUwPiJlHytZyWlESIcZJ6-vpCJXI_0Qt_JCNro_hNb-FHgnNPuhxQL
@@ -756,17 +756,6 @@ https://in-mc-flive.fancode.com/mumbai/4249626_english_hls_36a8c0fcd929601_1ta-d
 
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
-
-#EXTINF:-1 tvg-id="6023de0f-701e-4c23-b97a-0741f34a90a4" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/qypcfdqbwdywtnbrywqg" tvg-lang="English" group-title="Cricket",English | Qatar v Kenya (2nd Innings)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1792866609~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=ab89e4dbe812c7a7e2f4576af79ad00a968e8806e79867e4b58c264e76f3745f/manifest.mpd?vcfilter=6023de0f-701e-4c23-b97a-0741f34a90a4&
 
 #EXTINF:-1 tvg-id="2f1f6eec-6f7d-47e3-b56f-50dec0fbcd41" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/jq4a6d2nxlub2t2kcirj" tvg-lang="English" group-title="Cricket",English | 2nd ODI: Namibia vs Ireland (2nd Innings)
 #KODIPROP:inputstream=inputstream.adaptive
