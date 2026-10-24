@@ -699,32 +699,23 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
+
 # --- LIVE EVENTS ---
 
-
 #EXTINF:-1 tvg-id="1090550213_ENG" tvg-name="1st Unofficial Test - Day 1 - 24 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027138/1792752132049819_NZ_vs_IND_A_1st_test_day1_live_landscape_thumb.jpg" group-title="Cricket",1st Unofficial Test - Day 1 - 24 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792842315~acl=/*~id=93077439579106776145927792704989~hmac=5d3563d005002d8c9d811eec5b6c09db5928f2cb2709134806f75317c0c5534d
-
+https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792842920~acl=/*~id=97418812436558068245036642055655~hmac=a7a13472801e391e575a030bf0c8dc9617fac29c7653464ee6adb57f8cb7b70e
 
 #EXTINF:-1 tvg-id="1090550213" tvg-name="1st Unofficial Test - Day 1 - 24 Oct 2026 | India A Tour of New Zealand [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027138/1792752132049819_NZ_vs_IND_A_1st_test_day1_live_landscape_thumb.jpg" group-title="Sports",1st Unofficial Test - Day 1 - 24 Oct 2026 | India A Tour of New Zealand [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2120300/criclive2310/ENG/master.m3u8?hdnea=exp=1792835444~acl=/*~id=80252246033218102274912461493437~hmac=4c0ef408ddad4e94487affb2d322228293164e879c9c18c6ed805ae6d567eaf2
 
-
 #EXTINF:-1 tvg-id="4249285" tvg-name="Victoria vs Tasmania [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249285_53072_TAS_VCT_FC-Web.jpg" group-title="Cricket",Victoria vs Tasmania [English]
 https://in-mc-flive.fancode.com/mumbai/4249285_english_hls_c101cf832389375_1ta-di_h264/720p.m3u8?hdntl=Expires=1792883981~_GO=Generated~acl=/mumbai/4249285_english_hls_c101cf832389375_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ce656463-67d4-43~Signature=ASgJGVB-EBFjWK52d9-_V3iMM6V9qCJSbLvqfXMFqkncayydc7BaSYxl1O3JtbqrVgSIoQyeYgS5WBRvx16AHTRwuhoP
-
 
 #EXTINF:-1 tvg-id="139979" tvg-name="Day 2 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Australiaold-match-card.png" group-title="MotoGP",Day 2 [English]
 https://in-mc-flive.fancode.com/mumbai/139979_english_hls_c7aa6f758469211_1ta-di_h264/720p.m3u8?hdntl=Expires=1792877285~_GO=Generated~acl=/mumbai/139979_english_hls_c7aa6f758469211_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_12d37240-e5db-44~Signature=ASgJGVBpn-wZG24vBzclKTkD1pIOvVfhU6iETAP8BrDeJuX_3svcgH6vEHI6u7VrvWcruVU6w-3FAUnKUZ5MowiC2p8A
 
-
-#EXTINF:-1 tvg-id="4250507" tvg-name="Opening Race [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web_1792770153782.jpg" group-title="Motorsports",Opening Race [English]
-https://in-mc-flive.fancode.com/mumbai/4250507_english_hls_44cd9f0fb737145_1ta-di_h264/720p.m3u8?hdntl=Expires=1792881558~_GO=Generated~acl=/mumbai/4250507_english_hls_44cd9f0fb737145_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c4c8a960-fd18-46~Signature=ASgJGVA6WQjmx8XBcdvxPlgrvtfn0-pXfynIymnsfpD3sx5MtubjCMlLk1IDK50NtetW9cc2YVmuP9HsOl3r-Sy187kF
-
-
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
-
 
 #EXTINF:-1 tvg-id="9487957e-5851-49db-b2aa-734dd33a502c" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/r26qxl0u2sqzew5y6laf" tvg-lang="English" group-title="Cricket",English | Gambia v Uganda
 #KODIPROP:inputstream=inputstream.adaptive
@@ -737,14 +728,12 @@ https://ComeInNextMatch.com/4K.m3u8
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1792788311~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=6ab4ddc4b66ff0f290843b2d060ecfae59043d79725cf016471c46f07f202232/manifest.mpd?vcfilter=9487957e-5851-49db-b2aa-734dd33a502c&
 
-
 #EXTINF:-1 tvg-id="B0HNX1J2GC" tvg-name="Combat FC 14 Prelims" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.23ae007c-2f85-44a3-a7e7-a9719c7829ae/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Combat FC 14 Prelims
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1918ddf008413696077e06138983c5f9:2d66e0d80ca9ac6ad8b8c230a97f74b4
 https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lbgomzfdel/out/v1/99687c04728943498f884d9bf6a0c837/cenc.mpd
-
 
 #EXTINF:-1 tvg-id="B0HMHWPRJH" tvg-name="OHL Hockey: Flint Firebirds vs Saginaw Spirit" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.81f48928-b0b2-470b-a7c1-22df84c6919a/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",OHL Hockey: Flint Firebirds vs Saginaw Spirit
 #KODIPROP:inputstream=inputstream.adaptive
@@ -753,14 +742,12 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lbgomzfd
 #KODIPROP:inputstream.adaptive.license_key=b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd
 
-
 #EXTINF:-1 tvg-id="B0HN9R2SKN" tvg-name="Volleyball - MAIA 2026 Season - Nebraska Kearney at Newman" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fffc1581-cde6-48a5-9233-5afd99bdaf89/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Volleyball - MAIA 2026 Season - Nebraska Kearney at Newman
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd
-
 
 #EXTINF:-1 tvg-id="B0HN4JXCFT" tvg-name="Grand Prix of Australia, Qualifying" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.00c8e6f9-cddb-42a0-a732-78dbe6ad9ae0/8/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Grand Prix of Australia, Qualifying
 #KODIPROP:inputstream=inputstream.adaptive
@@ -769,10 +756,10 @@ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
 https://ABEV233AAAAAAAAMKWUJMJOAUX7UL.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq75jsBhpq29JsA2pjbG91ZGZyb250AngoZmlkOjAxYTE2YWFkLWY4Y2ItNzIyOS1iMTE3LTI4NmEyMzE0MDUxMRkBOKEFoQJ4My8xYnltY2xpYnVyL291dC92MS84MTk3YzhlMDU1Yzk0YTg2ODYyMzY1M2FjNTVjMTBiZlggA9qcA0FR65jYqJ5yM9UzJKMrdiO2z_18Z3V84hEaaOw/IAD/ecb5167adc48418f9e275a06ed14a1f9/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-east-1_iad_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/1bymclibur/out/v1/8197c8e055c94a868623653ac55c10bf/38a55cc9-e62e-4ff5-8702-aceca94fd14a-cenc.mpd?aws.sessionId=ebd30613-22c3-4d52-9f46-82402e38fe6a
 
-
 #EXTINF:-1 tvg-id="B0HMFJXK7B" tvg-name="F1 Academy-Austin, Opening Race" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0953edc7-5164-401f-9db5-a550af953c9d/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",F1 Academy-Austin, Opening Race
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3
 https://live-emt-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBpq764GBhpq2-eGA2ZmYXN0bHkCeChmaWQ6MDFhMTZiMDAtNjY5Ny03NjIwLThhYzUtNjAyMTE4NDc1ZDlmGQE4oQWhAngzL284MWlqdnZ0Mmsvb3V0L3YxLzA5NzczMzNjNmY2YjQyYWViOGRmMThkZTA4ZjU1ODZmWCC4bt9nGO3Qr8n2LTdAmT-lWO02faRPcCcbjtTtvdkzvQ/CMH/27bec2c642624deb84bc6daf673acda0/v1/dash/159325541587/imdb_amagi_amzn1_dv_live_csid_83a10cd1-8e37-4ec7-845f-bfa744c7c933_us-east-1_cmh_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/o81ijvvt2k/out/v1/0977333c6f6b42aeb8df18de08f5586f/3fd0fa40-0aa1-41f0-baaa-bedac059b25c-cenc.mpd?aws.sessionId=36018e77-99e2-48be-be84-90cbdf080656
+
