@@ -21,7 +21,7 @@ https://hjh-545.pages.dev/stream?id=asianethd
 
 # --- ISL SPECIAL EVENTS ---
 #EXTINF:-1 tvg-id="1090550221_ENG" tvg-name="Odisha FC vs NorthEast United FC - 24 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026659/1792341017913368_ISL26_OFC_vs_NorthEast_UnitedFC_live_landscape_thumb.jpg" group-title="Football",Odisha FC vs NorthEast United FC - 24 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2018457/Footlive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792899582~acl=/*~id=09287781556224265509964533675509~hmac=19736f0b4fa7022da76f3647b02118a2c713e4ee49c47f42d490525634aaf323
+https://sonydaime.akamaized.net/hls/live/2018457/Footlive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792900189~acl=/*~id=32300179173359406770597227619605~hmac=cb78433f1c644be0c1d7734598e7941ed6d2ffc72f32065de060eb9f16ea9f68
 # --- END ISL SPECIAL EVENTS ---
 
 
@@ -724,31 +724,28 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090550233_ENG" tvg-name="UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg" group-title="Fight Sports",UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2022320/UFC_UFC_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792899582~acl=/*~id=09287781556224265509964533675509~hmac=19736f0b4fa7022da76f3647b02118a2c713e4ee49c47f42d490525634aaf323
+https://sonydaime.akamaized.net/hls/live/2022320/UFC_UFC_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792900189~acl=/*~id=32300179173359406770597227619605~hmac=cb78433f1c644be0c1d7734598e7941ed6d2ffc72f32065de060eb9f16ea9f68
 
 #EXTINF:-1 tvg-id="1090550233_HIN" tvg-name="UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg" group-title="Fight Sports",UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2018458/UFC_UFC_2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792899582~acl=/*~id=09287781556224265509964533675509~hmac=19736f0b4fa7022da76f3647b02118a2c713e4ee49c47f42d490525634aaf323
+https://sonydaime.akamaized.net/hls/live/2018458/UFC_UFC_2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792900189~acl=/*~id=32300179173359406770597227619605~hmac=cb78433f1c644be0c1d7734598e7941ed6d2ffc72f32065de060eb9f16ea9f68
 
 #EXTINF:-1 tvg-id="1090550233_TAM" tvg-name="UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg" group-title="Fight Sports",UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [TAM]
-https://sonydaime.akamaized.net/hls/live/2022317/UFC_UFC_2410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792899582~acl=/*~id=09287781556224265509964533675509~hmac=19736f0b4fa7022da76f3647b02118a2c713e4ee49c47f42d490525634aaf323
+https://sonydaime.akamaized.net/hls/live/2022317/UFC_UFC_2410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792900189~acl=/*~id=32300179173359406770597227619605~hmac=cb78433f1c644be0c1d7734598e7941ed6d2ffc72f32065de060eb9f16ea9f68
 
 #EXTINF:-1 tvg-id="1090550233_TEL" tvg-name="UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg" group-title="Fight Sports",UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [TEL]
-https://sonydaime.akamaized.net/hls/live/2022316/UFC_UFC_2410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792899582~acl=/*~id=09287781556224265509964533675509~hmac=19736f0b4fa7022da76f3647b02118a2c713e4ee49c47f42d490525634aaf323
+https://sonydaime.akamaized.net/hls/live/2022316/UFC_UFC_2410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792900189~acl=/*~id=32300179173359406770597227619605~hmac=cb78433f1c644be0c1d7734598e7941ed6d2ffc72f32065de060eb9f16ea9f68
 
 #EXTINF:-1 tvg-id="1090550233_KAN" tvg-name="UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg" group-title="Fight Sports",UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [KAN]
-https://sonydaime.akamaized.net/hls/live/2120299/UFC_UFC_2410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792899582~acl=/*~id=09287781556224265509964533675509~hmac=19736f0b4fa7022da76f3647b02118a2c713e4ee49c47f42d490525634aaf323
+https://sonydaime.akamaized.net/hls/live/2120299/UFC_UFC_2410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792900189~acl=/*~id=32300179173359406770597227619605~hmac=cb78433f1c644be0c1d7734598e7941ed6d2ffc72f32065de060eb9f16ea9f68
 
 #EXTINF:-1 tvg-id="1090550221_HIN" tvg-name="Odisha FC vs NorthEast United FC - 24 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026659/1792341017913368_ISL26_OFC_vs_NorthEast_UnitedFC_live_landscape_thumb.jpg" group-title="Football",Odisha FC vs NorthEast United FC - 24 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2094587/Footlive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792899582~acl=/*~id=09287781556224265509964533675509~hmac=19736f0b4fa7022da76f3647b02118a2c713e4ee49c47f42d490525634aaf323
+https://sonydaime.akamaized.net/hls/live/2094587/Footlive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792900189~acl=/*~id=32300179173359406770597227619605~hmac=cb78433f1c644be0c1d7734598e7941ed6d2ffc72f32065de060eb9f16ea9f68
 
 #EXTINF:-1 tvg-id="1090550219_HIN" tvg-name="Punjab Falcons vs Haryana Lions - 24 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026763/1792484022978376_Punjab_Falcons_vs_Haryana_Lions_landscape_thumb.jpg" group-title="Cricket",Punjab Falcons vs Haryana Lions - 24 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2120308/criclive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792899582~acl=/*~id=09287781556224265509964533675509~hmac=19736f0b4fa7022da76f3647b02118a2c713e4ee49c47f42d490525634aaf323
+https://sonydaime.akamaized.net/hls/live/2120308/criclive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792900189~acl=/*~id=32300179173359406770597227619605~hmac=cb78433f1c644be0c1d7734598e7941ed6d2ffc72f32065de060eb9f16ea9f68
 
 #EXTINF:-1 tvg-id="4250484" tvg-name="Dubai vs Abu Dhabi [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250484_53130_DUB_ABD_fc-web_1792412929330.jpg" group-title="Cricket",Dubai vs Abu Dhabi [English]
 https://in-mc-flive.fancode.com/mumbai/4250484_english_hls_5abafb3d1014548_1ta-di_h264/720p.m3u8?hdntl=Expires=1792930631~_GO=Generated~acl=/mumbai/4250484_english_hls_5abafb3d1014548_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1d102401-4197-48~Signature=ASgJGVBxV0YzWyQmuaANDX9Vvivi9KG9L0w_8r7a6FcVud-9ps-tf6HF95AhHgVhIqnmgrkp45ix4QUiL4Z8_MfH5AoO
-
-#EXTINF:-1 tvg-id="4249764" tvg-name="Gambia vs Zambia [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249764_53093_GAM_ZAM_FC-Web_1792493252668.png" group-title="Cricket",Gambia vs Zambia [English]
-https://in-mc-flive.fancode.com/mumbai/4249764_english_hls_2771dfc2c691938_1ta-di_h264/720p.m3u8?hdntl=Expires=1792931858~_GO=Generated~acl=/mumbai/4249764_english_hls_2771dfc2c691938_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0cc964b7-2d31-4d~Signature=ASgJGVACc6-Z-RlJJd3BKVNed9prq55OHnnj_lhyiSbFVra-VySfeeIrd8XWo8ENiE4FuhiwcjKUPUa8QXf5v42L1R8P
 
 #EXTINF:-1 tvg-id="4249599" tvg-name="Preston North End F.C. vs West Bromwich Albion F.C. [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249599_52993_PST_WBA_fc-web.jpg" group-title="Football",Preston North End F.C. vs West Bromwich Albion F.C. [English]
 https://in-mc-flive.fancode.com/mumbai/4249599_english_hls_59bbe98d3383734_1ta-di_h264/720p.m3u8?hdntl=Expires=1792936132~_GO=Generated~acl=/mumbai/4249599_english_hls_59bbe98d3383734_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7976c11d-5e0c-43~Signature=ASgJGVA0_bU4D2Kz6obFtgByGmnlkxoIFlFI8cqVMurosXP-ucwOsMs31q0bBlBqaESQlULuglutDQsspxHXleijfw4A
@@ -765,19 +762,11 @@ https://in-mc-flive.fancode.com/mumbai/4249619_english_hls_cfb645a9ef30372_1ta-d
 #EXTINF:-1 tvg-id="4249626" tvg-name="Day 6 - World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg" group-title="Tennis",Day 6 - World Feed [English]
 https://in-mc-flive.fancode.com/mumbai/4249626_english_hls_36a8c0fcd929601_1ta-di_h264/720p.m3u8?hdntl=Expires=1792936139~_GO=Generated~acl=/mumbai/4249626_english_hls_36a8c0fcd929601_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_32ff63b6-517a-43~Signature=ASgJGVCvTn9OEUP_Ly-Jt38AvYWRgSw2gyzTr267cSnYHJlibFmuPE7QL_VKYj-ECXxz7e5XJR3ILW3TuTLuilvlVhcE
 
+#EXTINF:-1 tvg-id="4250353" tvg-name="Day 3 - World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Butterfield-bermuda-golf_Web-match-card.png" group-title="Golf",Day 3 - World Feed [English]
+https://in-mc-flive.fancode.com/mumbai/4250353_english_hls_29318dfe2b32750_1ta-di_h264/720p.m3u8?hdntl=Expires=1792943544~_GO=Generated~acl=/mumbai/4250353_english_hls_29318dfe2b32750_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_54646a07-0128-41~Signature=ASgJGVBbG3diLiQuqVpd2Ymd9iWa6mWkLjV5bD6SGbKMsKDb-RqpsJxy-rEoiAvRbIHcdv5p2i6VLW5Iy9uY2wTGKTIA
+
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
-
-#EXTINF:-1 tvg-id="9f86682a-441a-44dd-b26f-b5764639264e" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ji1ijo9xehtj2xuuzfyd" tvg-lang="English" group-title="Cricket",English | Gambia v Zambia
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1792874709~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=a93b2a283f15475b56a2532166b42d343540ba28e93721499e3924194bc2e672/manifest.mpd?vcfilter=9f86682a-441a-44dd-b26f-b5764639264e&
 
 #EXTINF:-1 tvg-id="B0H37FB27F" tvg-name="Predator European Championships: Spain" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.447494d8-1dc7-4b08-89c7-f04ce02111ea/9/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Predator European Championships: Spain
 #KODIPROP:inputstream=inputstream.adaptive
