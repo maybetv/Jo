@@ -703,13 +703,13 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090550213_ENG" tvg-name="1st Unofficial Test - Day 1 - 24 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027138/1792752132049819_NZ_vs_IND_A_1st_test_day1_live_landscape_thumb.jpg" group-title="Cricket",1st Unofficial Test - Day 1 - 24 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792859290~acl=/*~id=45090972020197955569176203208383~hmac=c1ed76b1b048951db9bfb8f9a7ecc74c4f2f8c51aa31296d073743289a420626
+https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792859896~acl=/*~id=04212899619303624630208273598299~hmac=b9c377f596059ae78af13e6efa617c47efaf90e86cd08c53aefdfac41ea73fc5
 
 #EXTINF:-1 tvg-id="1090550216_ENG" tvg-name="Genesis Championship - Day 3 - 24 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611472051924_DP-World_Genesis-Championship_D3_live_landscape_thumb.jpg" group-title="Golf",Genesis Championship - Day 3 - 24 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2120302/Genesis_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792859290~acl=/*~id=45090972020197955569176203208383~hmac=c1ed76b1b048951db9bfb8f9a7ecc74c4f2f8c51aa31296d073743289a420626
+https://sonydaime.akamaized.net/hls/live/2120302/Genesis_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792859896~acl=/*~id=04212899619303624630208273598299~hmac=b9c377f596059ae78af13e6efa617c47efaf90e86cd08c53aefdfac41ea73fc5
 
 #EXTINF:-1 tvg-id="1090550217_ENG" tvg-name="LINK Hong Kong Open - Day 3 - 24 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055358975141_Asian-Tour_LINK-Hong-Kong-Open_D3_live_landscape_thumb.jpg" group-title="Golf",LINK Hong Kong Open - Day 3 - 24 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2120307/AsianTou2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792859290~acl=/*~id=45090972020197955569176203208383~hmac=c1ed76b1b048951db9bfb8f9a7ecc74c4f2f8c51aa31296d073743289a420626
+https://sonydaime.akamaized.net/hls/live/2120307/AsianTou2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792859896~acl=/*~id=04212899619303624630208273598299~hmac=b9c377f596059ae78af13e6efa617c47efaf90e86cd08c53aefdfac41ea73fc5
 
 #EXTINF:-1 tvg-id="1090550213" tvg-name="1st Unofficial Test - Day 1 - 24 Oct 2026 | India A Tour of New Zealand [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027138/1792752132049819_NZ_vs_IND_A_1st_test_day1_live_landscape_thumb.jpg" group-title="Sports",1st Unofficial Test - Day 1 - 24 Oct 2026 | India A Tour of New Zealand [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2120300/criclive2310/ENG/master.m3u8?hdnea=exp=1792835444~acl=/*~id=80252246033218102274912461493437~hmac=4c0ef408ddad4e94487affb2d322228293164e879c9c18c6ed805ae6d567eaf2
@@ -723,7 +723,7 @@ https://sonydaimenew.akamaized.net/hls/live/2120307/AsianTou2410/ENG/master.m3u8
 #EXTINF:-1 tvg-id="4249285" tvg-name="Victoria vs Tasmania [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249285_53072_TAS_VCT_FC-Web.jpg" group-title="Cricket",Victoria vs Tasmania [English]
 https://in-mc-flive.fancode.com/mumbai/4249285_english_hls_c101cf832389375_1ta-di_h264/720p.m3u8?hdntl=Expires=1792883981~_GO=Generated~acl=/mumbai/4249285_english_hls_c101cf832389375_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ce656463-67d4-43~Signature=ASgJGVB-EBFjWK52d9-_V3iMM6V9qCJSbLvqfXMFqkncayydc7BaSYxl1O3JtbqrVgSIoQyeYgS5WBRvx16AHTRwuhoP
 
-#EXTINF:-1 tvg-id="139979" tvg-name="Day 2 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Australiaold-match-card.png" group-title="",Day 2 [English]
+#EXTINF:-1 tvg-id="139979" tvg-name="Day 2 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Australiaold-match-card.png" group-title="MotoGP",Day 2 [English]
 https://in-mc-flive.fancode.com/mumbai/139979_english_hls_c7aa6f758469211_1ta-di_h264/720p.m3u8?hdntl=Expires=1792877285~_GO=Generated~acl=/mumbai/139979_english_hls_c7aa6f758469211_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_12d37240-e5db-44~Signature=ASgJGVBpn-wZG24vBzclKTkD1pIOvVfhU6iETAP8BrDeJuX_3svcgH6vEHI6u7VrvWcruVU6w-3FAUnKUZ5MowiC2p8A
 
 #EXTINF:-1 tvg-id="4249841" tvg-name="Newcastle Jets vs Macarthur [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249841_53101_NJ_MAC_fc-Web_1792223292297.jpg" group-title="Football",Newcastle Jets vs Macarthur [English]
