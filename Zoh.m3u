@@ -21,7 +21,7 @@ https://hjh-545.pages.dev/stream?id=asianethd
 
 # --- ISL SPECIAL EVENTS ---
 #EXTINF:-1 tvg-id="1090550221_ENG" tvg-name="Odisha FC vs NorthEast United FC - 24 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026659/1792341017913368_ISL26_OFC_vs_NorthEast_UnitedFC_live_landscape_thumb.jpg" group-title="Football",Odisha FC vs NorthEast United FC - 24 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2018457/Footlive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792894128~acl=/*~id=12746696008212197740368582570631~hmac=f8e97dd362b468a860b3b43933c63b47188ed840ed2116d15589af3bbb8dafaa
+https://sonydaime.akamaized.net/hls/live/2018457/Footlive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792894735~acl=/*~id=74081105121770988567633151031716~hmac=85d66dd2885374d81a09de88de8190f90f6ecdedb832c16f8c5310d2c2ceb207
 # --- END ISL SPECIAL EVENTS ---
 
 
@@ -719,10 +719,10 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090550221_HIN" tvg-name="Odisha FC vs NorthEast United FC - 24 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026659/1792341017913368_ISL26_OFC_vs_NorthEast_UnitedFC_live_landscape_thumb.jpg" group-title="Football",Odisha FC vs NorthEast United FC - 24 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2094587/Footlive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792894128~acl=/*~id=12746696008212197740368582570631~hmac=f8e97dd362b468a860b3b43933c63b47188ed840ed2116d15589af3bbb8dafaa
+https://sonydaime.akamaized.net/hls/live/2094587/Footlive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792894735~acl=/*~id=74081105121770988567633151031716~hmac=85d66dd2885374d81a09de88de8190f90f6ecdedb832c16f8c5310d2c2ceb207
 
 #EXTINF:-1 tvg-id="1090550219_HIN" tvg-name="Punjab Falcons vs Haryana Lions - 24 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026763/1792484022978376_Punjab_Falcons_vs_Haryana_Lions_landscape_thumb.jpg" group-title="Cricket",Punjab Falcons vs Haryana Lions - 24 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2120308/criclive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792894128~acl=/*~id=12746696008212197740368582570631~hmac=f8e97dd362b468a860b3b43933c63b47188ed840ed2116d15589af3bbb8dafaa
+https://sonydaime.akamaized.net/hls/live/2120308/criclive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792894735~acl=/*~id=74081105121770988567633151031716~hmac=85d66dd2885374d81a09de88de8190f90f6ecdedb832c16f8c5310d2c2ceb207
 
 #EXTINF:-1 tvg-id="4250340" tvg-name="Qatar vs Kenya [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png" group-title="Cricket",Qatar vs Kenya [English]
 https://in-mc-flive.fancode.com/mumbai/4250340_english_hls_ba610ffa8719836_1ta-di_h264/720p.m3u8?hdntl=Expires=1792910014~_GO=Generated~acl=/mumbai/4250340_english_hls_ba610ffa8719836_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0a567ef6-edab-4f~Signature=ASgJGVCvUf8QZQKW3N6Tsz8oLCyIOuP-VArhQJSUwPiJlHytZyWlESIcZJ6-vpCJXI_0Qt_JCNro_hNb-FHgnNPuhxQL
@@ -742,14 +742,11 @@ https://in-mc-flive.fancode.com/mumbai/4249765_english_hls_962395d46c82740_1ta-d
 #EXTINF:-1 tvg-id="4249599" tvg-name="Preston North End F.C. vs West Bromwich Albion F.C. [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249599_52993_PST_WBA_fc-web.jpg" group-title="Football",Preston North End F.C. vs West Bromwich Albion F.C. [English]
 https://in-mc-flive.fancode.com/mumbai/4249599_english_hls_59bbe98d3383734_1ta-di_h264/720p.m3u8?hdntl=Expires=1792936132~_GO=Generated~acl=/mumbai/4249599_english_hls_59bbe98d3383734_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7976c11d-5e0c-43~Signature=ASgJGVA0_bU4D2Kz6obFtgByGmnlkxoIFlFI8cqVMurosXP-ucwOsMs31q0bBlBqaESQlULuglutDQsspxHXleijfw4A
 
-#EXTINF:-1 tvg-id="4249200" tvg-name="Tottenham Hotspur Women vs Arsenal Women [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249200_53038_TOT-W_ARS-W_fc-web.jpg" group-title="Football",Tottenham Hotspur Women vs Arsenal Women [English]
-https://in-mc-flive.fancode.com/mumbai/4249200_english_hls_d5650a431f25560_1ta-di_h264/720p.m3u8?hdntl=Expires=1792928201~_GO=Generated~acl=/mumbai/4249200_english_hls_d5650a431f25560_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_791fc896-fa18-49~Signature=ASgJGVCAYP4XorzIQ3yadCWqrXNhncgvP2RCfkGyPUgdecdXShRnBGX1O0Ho0qCcT4UATOmMZXa0yYWnSsnhEgRPv6UO
+#EXTINF:-1 tvg-id="4250108" tvg-name="Leganes vs RCD Mallorca [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250108_53017_LEG_MRC_FC-Web.png" group-title="Football",Leganes vs RCD Mallorca [English]
+https://in-mc-flive.fancode.com/mumbai/4250108_english_hls_9de23e4f9271171_1ta-di_h264/720p.m3u8?hdntl=Expires=1792937395~_GO=Generated~acl=/mumbai/4250108_english_hls_9de23e4f9271171_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_d23d1ef2-b5ab-4b~Signature=ASgJGVDIgShQYcz7tYU4gNJQSfqtJ4DV4PgXcV3Xb01KxWU4WCOmEUNCK_Pw0hKDrKdOAyJcEq8Mj9DR59oulpjRSoIH
 
 #EXTINF:-1 tvg-id="4250158" tvg-name="Semi-Finals [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg" group-title="Badminton",Semi-Finals [English]
 https://in-mc-flive.fancode.com/mumbai/4250158_english_hls_6fe83d089b42758_1ta-di_h264/720p.m3u8?hdntl=Expires=1792913041~_GO=Generated~acl=/mumbai/4250158_english_hls_6fe83d089b42758_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f683311f-c19e-4a~Signature=ASgJGVD98NN_ZFWboQKEDDAlAVkiZLN1-K8IC-1ob6lLAbFXQDOJ_Er0klA90n6MK_paUXoc8uYFGYogc7R2aavJy4EK
-
-#EXTINF:-1 tvg-id="4249612" tvg-name="Day 6 - World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png" group-title="Tennis",Day 6 - World Feed [English]
-https://in-mc-flive.fancode.com/mumbai/4249612_english_hls_4bb5d239f294482_1ta-di_h264/720p.m3u8?hdntl=Expires=1792921520~_GO=Generated~acl=/mumbai/4249612_english_hls_4bb5d239f294482_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_02c2ba69-468d-4b~Signature=ASgJGVAyRmW96jNHfqzTxlFn2WeheYvy6wu1ZsgF4OkN7p6N6-nU7pTFYmAeTc5-KQN0-F6_nlJ9yLjhxMk57sQyLgEJ
 
 #EXTINF:-1 tvg-id="4249619" tvg-name="World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg" group-title="Tennis",World Feed [English]
 https://in-mc-flive.fancode.com/mumbai/4249619_english_hls_cfb645a9ef30372_1ta-di_h264/720p.m3u8?hdntl=Expires=1792928810~_GO=Generated~acl=/mumbai/4249619_english_hls_cfb645a9ef30372_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_904f745d-6c4d-40~Signature=ASgJGVAtCwJ51nYzXWj7LkeLSTBuwdKfWkVtCFii1HWQeSXzNN7_KqLrj_EZO_mdZKRZElnPGq1brYev5fKaTsgdQk0P
