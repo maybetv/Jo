@@ -699,44 +699,35 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
+
 # --- LIVE EVENTS ---
 
-
 #EXTINF:-1 tvg-id="1090550213_ENG" tvg-name="1st Unofficial Test - Day 1 - 24 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027138/1792752132049819_NZ_vs_IND_A_1st_test_day1_live_landscape_thumb.jpg" group-title="Cricket",1st Unofficial Test - Day 1 - 24 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792862320~acl=/*~id=72533119551532537683207056611417~hmac=501084b35c042172b21df90d880421207676a0573286836ba44464f7067bbac7
-
+https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792863540~acl=/*~id=87382009313289274165490611146666~hmac=c5734f4130e4bf1c4a7fee7b535d038983acbf1fa6e782720bc1d8b0f5f3dda0
 
 #EXTINF:-1 tvg-id="1090550216_ENG" tvg-name="Genesis Championship - Day 3 - 24 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611472051924_DP-World_Genesis-Championship_D3_live_landscape_thumb.jpg" group-title="Golf",Genesis Championship - Day 3 - 24 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2120302/Genesis_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792862320~acl=/*~id=72533119551532537683207056611417~hmac=501084b35c042172b21df90d880421207676a0573286836ba44464f7067bbac7
-
+https://sonydaime.akamaized.net/hls/live/2120302/Genesis_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792863540~acl=/*~id=87382009313289274165490611146666~hmac=c5734f4130e4bf1c4a7fee7b535d038983acbf1fa6e782720bc1d8b0f5f3dda0
 
 #EXTINF:-1 tvg-id="1090550217_ENG" tvg-name="LINK Hong Kong Open - Day 3 - 24 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055358975141_Asian-Tour_LINK-Hong-Kong-Open_D3_live_landscape_thumb.jpg" group-title="Golf",LINK Hong Kong Open - Day 3 - 24 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2120307/AsianTou2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792862320~acl=/*~id=72533119551532537683207056611417~hmac=501084b35c042172b21df90d880421207676a0573286836ba44464f7067bbac7
-
+https://sonydaime.akamaized.net/hls/live/2120307/AsianTou2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792863540~acl=/*~id=87382009313289274165490611146666~hmac=c5734f4130e4bf1c4a7fee7b535d038983acbf1fa6e782720bc1d8b0f5f3dda0
 
 #EXTINF:-1 tvg-id="1090550213" tvg-name="1st Unofficial Test - Day 1 - 24 Oct 2026 | India A Tour of New Zealand [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027138/1792752132049819_NZ_vs_IND_A_1st_test_day1_live_landscape_thumb.jpg" group-title="Sports",1st Unofficial Test - Day 1 - 24 Oct 2026 | India A Tour of New Zealand [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2120300/criclive2310/ENG/master.m3u8?hdnea=exp=1792835444~acl=/*~id=80252246033218102274912461493437~hmac=4c0ef408ddad4e94487affb2d322228293164e879c9c18c6ed805ae6d567eaf2
 
-
 #EXTINF:-1 tvg-id="1090550216" tvg-name="Genesis Championship - Day 3 - 24 Oct 2026 | DP World Tour [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611472051924_DP-World_Genesis-Championship_D3_live_landscape_thumb.jpg" group-title="Sports",Genesis Championship - Day 3 - 24 Oct 2026 | DP World Tour [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2120302/Genesis_2410/ENG/master.m3u8?hdnea=exp=1792855246~acl=/*~id=56930153112694230242815352793050~hmac=aefa62b343e5e7805b6b75a67ad26e1e0e04c8fb25a1723bb817b6cae2c8166c
-
 
 #EXTINF:-1 tvg-id="1090550217" tvg-name="LINK Hong Kong Open - Day 3 - 24 Oct 2026 | Asian Tour 2026 [ENGLISH]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055358975141_Asian-Tour_LINK-Hong-Kong-Open_D3_live_landscape_thumb.jpg" group-title="Sports",LINK Hong Kong Open - Day 3 - 24 Oct 2026 | Asian Tour 2026 [ENGLISH]
 https://sonydaimenew.akamaized.net/hls/live/2120307/AsianTou2410/ENG/master.m3u8?hdnea=exp=1792858852~acl=/*~id=43743134088678786837816661800315~hmac=d0a902532d5b81836320e196444428193acc1c9bd5d9200a5787e265d10b41d5
 
-
 #EXTINF:-1 tvg-id="4249285" tvg-name="Victoria vs Tasmania [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249285_53072_TAS_VCT_FC-Web.jpg" group-title="Cricket",Victoria vs Tasmania [English]
 https://in-mc-flive.fancode.com/mumbai/4249285_english_hls_c101cf832389375_1ta-di_h264/720p.m3u8?hdntl=Expires=1792883981~_GO=Generated~acl=/mumbai/4249285_english_hls_c101cf832389375_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ce656463-67d4-43~Signature=ASgJGVB-EBFjWK52d9-_V3iMM6V9qCJSbLvqfXMFqkncayydc7BaSYxl1O3JtbqrVgSIoQyeYgS5WBRvx16AHTRwuhoP
-
 
 #EXTINF:-1 tvg-id="4249841" tvg-name="Newcastle Jets vs Macarthur [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249841_53101_NJ_MAC_fc-Web_1792223292297.jpg" group-title="Football",Newcastle Jets vs Macarthur [English]
 https://in-mc-flive.fancode.com/mumbai/4249841_english_hls_865a5ca7c073916_1ta-di_h264/720p.m3u8?hdntl=Expires=1792900330~_GO=Generated~acl=/mumbai/4249841_english_hls_865a5ca7c073916_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f3b16c5f-8776-47~Signature=ASgJGVDuEfHRJxMS1rykv8irVXsoIrWkGIzm0PxTHuTEdAmWfsafjwfrTQ_umVV87o9CvVub_uW1xJPVfrTSkxrdRhUA
 
-
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
-
 
 #EXTINF:-1 tvg-id="9487957e-5851-49db-b2aa-734dd33a502c" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/r26qxl0u2sqzew5y6laf" tvg-lang="English" group-title="Cricket",English | Gambia v Uganda
 #KODIPROP:inputstream=inputstream.adaptive
@@ -749,26 +740,10 @@ https://ComeInNextMatch.com/4K.m3u8
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1792788311~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=6ab4ddc4b66ff0f290843b2d060ecfae59043d79725cf016471c46f07f202232/manifest.mpd?vcfilter=9487957e-5851-49db-b2aa-734dd33a502c&
 
-
 #EXTINF:-1 tvg-id="B0HNWZW2G1" tvg-name="LIVE: Genesis Championship Day 3" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.12cf5e96-f0e3-4b84-b40a-a59b510ef741/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",LIVE: Genesis Championship Day 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9590ea43d0f770c24205e23440d8af8c:b127454380d8fffc3acd12575b2b4adb
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd
 
-
-#EXTINF:-1 tvg-id="B0HHKGBBPS" tvg-name="Boston College at Denver" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.70923bc6-d3a1-4689-b86a-d516493d2ca8/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Boston College at Denver
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd
-
-
-#EXTINF:-1 tvg-id="B0HMCRDMYG" tvg-name="Players Series SA, Third Round" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3afdc776-3b3e-4db1-95ed-30b0d756ccc0/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Players Series SA, Third Round
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
