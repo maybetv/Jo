@@ -11,7 +11,7 @@ ISL_END_MARKER = "# --- END ISL SPECIAL EVENTS ---"
 INCLUDE_OTHER_LIVE_EVENTS = True
 
 PLAYLISTS = {
-    "SonyLiv": "https://github.com/kajju027/SonyLiv-Events-Json/raw/refs/heads/main/sonyliv.m3u",
+    "SonyLiv": "https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u",
     "Fancode": "https://github.com/kajju027/Fancode-Events-Json/raw/refs/heads/main/fc.m3u",
     "Hotstar": "https://github.com/Sflex0719/JH4K/raw/refs/heads/main/JHS.m3u",
     "ICC TV": "https://github.com/doctor-8trange/nexphi0/raw/refs/heads/main/data/icc.m3u",
@@ -122,6 +122,7 @@ def insert_below_asianet(content, isl_blocks):
 def main():
     isl_blocks = {"Malayalam": [], "English": []}
     live_blocks = []
+    seen_urls = set()  # ഡ്യൂപ്ലിക്കേറ്റുകൾ ഒഴിവാക്കാൻ ട്രാക്ക് ചെയ്യുന്നു
 
     # 1. നിലവിലുള്ള ഫയൽ വായിക്കുന്നു
     base_content = "#EXTM3U\n\n"
@@ -137,11 +138,11 @@ def main():
     # പഴയ ISL സെക്ഷൻ നീക്കം ചെയ്യുന്നു
     base_content = clean_previous_isl_block(base_content)
 
-    existing_streams = set()
+    # ബേസ് കണ്ടന്റിലുള്ള സ്റ്റാറ്റിക് സ്ട്രീമുകൾ ശേഖരിക്കുന്നു
     for line in base_content.splitlines():
         line_str = line.strip()
         if line_str.startswith(("http://", "https://")):
-            existing_streams.add(line_str)
+            seen_urls.add(line_str)
 
     # 2. പ്ലേലിസ്റ്റുകൾ ഫെച്ച് ചെയ്ത് പ്രോസസ്സ് ചെയ്യുന്നു
     for provider, url in PLAYLISTS.items():
@@ -176,8 +177,9 @@ def main():
                         break
                     i += 1
 
-                if stream and stream not in existing_streams:
-                    existing_streams.add(stream)
+                # സ്ട്രീം ലഭ്യമാണെങ്കിൽ ഒപ്പം നിലവിൽ സീൻ ചെയ്യാത്തതാണെങ്കിൽ മാത്രം പ്രോസസ്സ് ചെയ്യുക (ഡ്യൂപ്ലിക്കേറ്റ് ഒഴിവാക്കൽ)
+                if stream and stream not in seen_urls:
+                    seen_urls.add(stream)
 
                     # ISL ഫിൽട്ടർ പരിശോധിക്കുന്നു
                     isl_type = get_isl_type(block, provider)
@@ -198,7 +200,7 @@ def main():
     with open(OUTPUT, "w", encoding="utf-8") as out:
         out.write(updated_base.rstrip() + "\n\n")
 
-        # മറ്റ് ലൈവ് ഇവന്റുകൾ ഏറ്റവും താഴെ ചേർക്കുന്നു
+        # മറ്റ് ലൈവ് ഇവന്റുകൾ ഏറ്റവും താഴെ ചേർക്കുന്നു (സോഴ്സിൽ ഇല്ലാത്തവ ഓട്ടോമാറ്റിക്കായി ഒഴിവാക്കപ്പെടും)
         if INCLUDE_OTHER_LIVE_EVENTS and live_blocks:
             out.write(f"{MARKER}\n\n")
             out.write("\n\n".join(live_blocks) + "\n\n")
