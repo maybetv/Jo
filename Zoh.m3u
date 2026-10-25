@@ -679,41 +679,52 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
-
 # --- LIVE EVENTS ---
+
 
 #EXTINF:-1 tvg-id="sonyliv-1090550560" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792351748337172_ISL26_KeralaBlastersFC_vs_MumbaiCityFC_live_landscape_thumb.jpg" group-title="Football", Kerala Blasters FC vs Mumbai City FC | MG Indian Super League 2026-27 [Hindi]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2d27prod-PlaybackConfig/2120302/footlive2510/HIN/master.m3u8?hdnea=exp=1792977651~acl=/*~id=86512930116209831410264985061677~hmac=61ea95296557da4cc66ca2dc015c48bd4298f5feb244bdaf6049c9ef5563bbc2
 
+
 #EXTINF:-1 tvg-id="sonyliv-1090550567" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026765/1792485497377887_Rajasthan_Frontiers_vs_UP_landscape_thumb.jpg" group-title="Cricket", Rajasthan Frontiers vs UP Dhurandhar | Salute Tiranga Cricket League (STCL) 2026 [Hindi]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT0b06prod-PlaybackConfig/2120306/criclive2510/HIN/master.m3u8?hdnea=exp=1792947046~acl=/*~id=71823931476391307432356238763995~hmac=07a33500e7235aa31761b1841427509df33332d0378ab2dd6f4bc6beddf86a96
+
 
 #EXTINF:-1 tvg-id="4250486" tvg-name="Emirates Blues vs Emirates Red [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250486_53130_EMR_EMB_fc-web_1792412929389.jpg" group-title="Cricket",Emirates Blues vs Emirates Red [English]
 https://in-mc-flive.fancode.com/mumbai/4250486_english_hls_ff87bb499147285_1ta-di_h264/720p.m3u8?hdntl=Expires=1793017247~_GO=Generated~acl=/mumbai/4250486_english_hls_ff87bb499147285_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_437f65b6-015e-40~Signature=ASgJGVCZbk97hz3iMBY69LUyoLbi1lbWqV4_LGEuNbRhFW0tGksuS92xbcef84DEtEFJz_cHUEiaWdsITnnF-0cvnmUG
 
+
 #EXTINF:-1 tvg-id="4249768" tvg-name="Nigeria vs Uganda [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249768_53093_NGR_UGA_FC-Web_1792493252642.png" group-title="Cricket",Nigeria vs Uganda [English]
 https://in-mc-flive.fancode.com/mumbai/4249768_english_hls_eaae84509f5630_1ta-di_h264/720p.m3u8?hdntl=Expires=1793018467~_GO=Generated~acl=/mumbai/4249768_english_hls_eaae84509f5630_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_62e22e61-ae49-42~Signature=ASgJGVCFWzYMRcDqKm--_VFhLQIEFOJ9vipQL-mx39el0mAG6kuag4maYjT-e_tyZMsbouXYkjq07BicKYv6YeR3NNgK
+
 
 #EXTINF:-1 tvg-id="4250110" tvg-name="CE Sabadell vs Tenerife [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250110_53017_CES_TFE_FC-Web.png" group-title="Football",CE Sabadell vs Tenerife [English]
 https://in-mc-flive.fancode.com/mumbai/4250110_english_hls_4d48dae3cf7683_1ta-di_h264/720p.m3u8?hdntl=Expires=1793019088~_GO=Generated~acl=/mumbai/4250110_english_hls_4d48dae3cf7683_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a366e521-1293-4f~Signature=ASgJGVAZ-fXy1LvmCSuZzh9ViJo29e3_unkQOOIO6QwGcv-nV3BdMS89MnEXP0bk2slsoGmmhDAgqb0ckstP5VSAtuUF
 
+
 #EXTINF:-1 tvg-id="4249203" tvg-name="Birmingham City F.C. Women vs Charlton Athletic F.C Women [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249203_53038_BIR-W_CHL-W_fc-web.jpg" group-title="Football",Birmingham City F.C. Women vs Charlton Athletic F.C Women [English]
 https://in-mc-flive.fancode.com/mumbai/4249203_english_hls_97dd20d1e667503_1ta-di_h264/720p.m3u8?hdntl=Expires=1793022767~_GO=Generated~acl=/mumbai/4249203_english_hls_97dd20d1e667503_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_d5e18df2-6b05-46~Signature=ASgJGVBe_JPoAOqNMK16MJrMgkBT3pZ43szPuq5b5eSVPPSaqHQf3q7kQ0QGDwlUNQvsgn7cU9MxGYDxqbHtdzYkS8oJ
+
 
 #EXTINF:-1 tvg-id="4249204" tvg-name="Everton Women vs Aston Villa Women [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249204_53038_EVE-W_AST-W_fc-web.jpg" group-title="Football",Everton Women vs Aston Villa Women [English]
 https://in-mc-flive.fancode.com/mumbai/4249204_english_hls_8b196dc54994870_1ta-di_h264/720p.m3u8?hdntl=Expires=1793022768~_GO=Generated~acl=/mumbai/4249204_english_hls_8b196dc54994870_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_24b4e80e-80f9-4f~Signature=ASgJGVDNbEvSnR3vhpVPJ8BgssD-hRA6bfi0MXsGDqp3BxjtWXIZpelWXHN-Y6EjQLr6FwN3tUUmM5Knw0iCCB8qGHgI
 
+
 #EXTINF:-1 tvg-id="4249205" tvg-name="Liverpool Women vs London City Lionesses [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249205_53038_LIV-W_LCL_fc-web.jpg" group-title="Football",Liverpool Women vs London City Lionesses [English]
 https://in-mc-flive.fancode.com/mumbai/4249205_english_hls_1d931ab8e057494_1ta-di_h264/720p.m3u8?hdntl=Expires=1793022770~_GO=Generated~acl=/mumbai/4249205_english_hls_1d931ab8e057494_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_484e8bbe-9663-42~Signature=ASgJGVBIi6lN_tS_sp2tPK5VXNqxYxjMnQnUwSoIkKuQLhTjsSNY-WKQYj4RLU81Fu1ggiswEzV_AMFMhFEnNLMDEWIP
+
 
 #EXTINF:-1 tvg-id="4250159" tvg-name="Finals [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg" group-title="Badminton",Finals [English]
 https://in-mc-flive.fancode.com/mumbai/4250159_english_hls_f0bf5565811704_1ta-di_h264/720p.m3u8?hdntl=Expires=1793008164~_GO=Generated~acl=/mumbai/4250159_english_hls_f0bf5565811704_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0b6154b4-128f-46~Signature=ASgJGVAJ-OucAB8B31GoPuabUj-5iCXKPwKw9vOxmObuuXEBtXARdwn_ZRCKKZbnQ7WN1tciSJjjtq5bs0gQRYGhAUEK
 
+
 #EXTINF:-1 tvg-id="4249620" tvg-name="Day 7 - World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg" group-title="Tennis",Day 7 - World Feed [English]
 https://in-mc-flive.fancode.com/mumbai/4249620_english_hls_01ac50ded573779_1ta-di_h264/720p.m3u8?hdntl=Expires=1793020927~_GO=Generated~acl=/mumbai/4249620_english_hls_01ac50ded573779_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7c5ea5b3-aa9d-4a~Signature=ASgJGVBe6YHqUkJW2-EZF1nHf3XtOvRvqPkEAnO_sVpBhFBnmkkvf4g6H6TdvceUF05M0PCWB2EDma9530fehs9iSa4F
 
+
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
+
 
 #EXTINF:-1 tvg-id="9627acbb-00ee-450e-bd36-31f7f05da916" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/dz2u12i8twho6ce8r8k9" tvg-lang="English" group-title="Cricket",English | Nigeria v Uganda
 #KODIPROP:inputstream=inputstream.adaptive
@@ -726,12 +737,14 @@ https://ComeInNextMatch.com/4K.m3u8
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1792961108~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=66dd863f91ac6c414994a7a9ee6e145e7bb3905c48e5e97d195293aa6086b18c/manifest.mpd?vcfilter=9627acbb-00ee-450e-bd36-31f7f05da916&
 
+
 #EXTINF:-1 tvg-id="B0HMG5YWFC" tvg-name="Pakistan ODI Tri-Series 2026 - 4th Match - Pakistan vs England" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6e464c74-5145-4aa7-ab93-bf7dc4a472f7/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Pakistan ODI Tri-Series 2026 - 4th Match - Pakistan vs England
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=53ac5670511d1300366b35b85eb6eadc:e255086091e4638f16985ca3ddd56e2b
 https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/t0zydsmzll/out/v1/62025d771c7b4fe7a727ede5f3d6b8ec/cenc.mpd
+
 
 #EXTINF:-1 tvg-id="B0HMLP8D75" tvg-name="India Women vs. Zimbabwe Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9ce2fde4-1fb3-475d-8568-fc7d05c9b0e7/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",India Women vs. Zimbabwe Women
 #KODIPROP:inputstream=inputstream.adaptive
@@ -740,12 +753,14 @@ https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/t0zydsmzll
 #KODIPROP:inputstream.adaptive.license_key=7aa827ea7809299f1459d4934d4d9953:f899257f571bd6a083d8a113edfc3a39
 https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7ibewarcma/out/v1/2a1ed994d4894d6a951452721876a4c4/cenc.mpd
 
+
 #EXTINF:-1 tvg-id="B0H37FB27F" tvg-name="Predator European Championships: Spain" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.447494d8-1dc7-4b08-89c7-f04ce02111ea/9/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Predator European Championships: Spain
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
 https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
+
 
 #EXTINF:-1 tvg-id="B0HNYRP9BS" tvg-name="Everton vs. Aston Villa" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.20a82ebe-34b9-4d06-9d1a-8cb080dd117d/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Everton vs. Aston Villa
 #KODIPROP:inputstream=inputstream.adaptive
@@ -754,12 +769,14 @@ https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
 
+
 #EXTINF:-1 tvg-id="B0HMG5YWFC" tvg-name="Pakistan ODI Tri-Series 2026 - 4th Match - Pakistan vs England" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6e464c74-5145-4aa7-ab93-bf7dc4a472f7/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Pakistan ODI Tri-Series 2026 - 4th Match - Pakistan vs England
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=53ac5670511d1300366b35b85eb6eadc:e255086091e4638f16985ca3ddd56e2b
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/t0zydsmzll/out/v1/62025d771c7b4fe7a727ede5f3d6b8ec/cenc.mpd
+
 
 #EXTINF:-1 tvg-id="B0HMLP8D75" tvg-name="India Women vs. Zimbabwe Women" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9ce2fde4-1fb3-475d-8568-fc7d05c9b0e7/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",India Women vs. Zimbabwe Women
 #KODIPROP:inputstream=inputstream.adaptive
@@ -768,12 +785,14 @@ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/t0zydsmzll/out/v1
 #KODIPROP:inputstream.adaptive.license_key=7aa827ea7809299f1459d4934d4d9953:f899257f571bd6a083d8a113edfc3a39
 https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7ibewarcma/out/v1/2a1ed994d4894d6a951452721876a4c4/cenc.mpd
 
+
 #EXTINF:-1 tvg-id="B0HMJPK9QT" tvg-name="Montreal Mission vs. Cambridge Turbos" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5c3e6f25-0e19-41f7-86f6-f675ff9c92d1/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Montreal Mission vs. Cambridge Turbos
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b
 https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvo0vho9p/out/v1/fc7d1d525ec34aa589a2f02f40c92791/cenc.mpd
+
 
 #EXTINF:-1 tvg-id="B0HMP54X2M" tvg-name="Cricket-India Women vs Zimbabwe Women: 2nd ODI" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ac03f3c8-d0ea-43d7-8e26-b1cfb173cddf/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Cricket-India Women vs Zimbabwe Women: 2nd ODI
 #KODIPROP:inputstream=inputstream.adaptive
@@ -782,10 +801,10 @@ https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvo0vho
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
+
 #EXTINF:-1 tvg-id="B0HM61FVPM" tvg-name="India vs. Zimbabwe" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d3d5b55c-eb17-4583-81c2-27de4f1f06b6/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",India vs. Zimbabwe
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-
