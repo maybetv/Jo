@@ -723,7 +723,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090550567_HIN" tvg-name="Tamilnadu Thunders vs Gujarat royals - 25 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026766/1792484827162767_Tamilnadu_Thunders_vs_Gujarat_royals_landscape_thumb.jpg" group-title="Cricket",Tamilnadu Thunders vs Gujarat royals - 25 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792963789~acl=/*~id=08355504806867778305317012562334~hmac=7eacd4faec411d1e3f9ef7cac3863fcd1f5ed09bdff8f63313adb141e4629fd8
+https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792964394~acl=/*~id=26995966493223739316857584411427~hmac=31f7a447f98af7c4a12cf50c723e5c5ec4d1b576cf693e8ccc8704a85605ceac
 
 #EXTINF:-1 tvg-id="4250516" tvg-name="United Arab Emirates vs Netherlands [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png" group-title="Cricket",United Arab Emirates vs Netherlands [English]
 https://in-mc-flive.fancode.com/mumbai/4250516_english_hls_794c5fa68798836_1ta-di_h264/720p.m3u8?hdntl=Expires=1792991803~_GO=Generated~acl=/mumbai/4250516_english_hls_794c5fa68798836_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_816dcef4-6d5a-48~Signature=ASgJGVAWSM9HC47UAy276SSKy-nVLdSIN9ZmmahwrsB0sEhPwEQiEHv3nOoc-Wbh33QSIwtvDBJJvGIHd5k0FlrDpskP
@@ -745,17 +745,6 @@ https://in-mc-flive.fancode.com/mumbai/4250528_english_hls_5f5972517d95754_1ta-d
 
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
-
-#EXTINF:-1 tvg-id="baf485b3-8795-491e-b7cc-ede695ed6feb" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/x3th2nlvfw8wdjhwaidm" tvg-lang="English" group-title="Cricket",English | United Arab Emirates v Netherlands (1st Innings)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1792934109~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=b58f2146d01e4a31fa0092002aabb93fa15af4de0bdb434c870bb0f5d878bc53/manifest.mpd?vcfilter=baf485b3-8795-491e-b7cc-ede695ed6feb&
 
 #EXTINF:-1 tvg-id="948dd6ac-f084-4a4b-bae5-2f02c001a6cf" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/chcpzfw4iz9ptkkn9vpi" tvg-lang="English" group-title="Cricket",English | Denmark v Papua New Guinea (1st Innings)
 #KODIPROP:inputstream=inputstream.adaptive
