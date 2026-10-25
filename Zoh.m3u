@@ -21,7 +21,7 @@ https://hjh-545.pages.dev/stream?id=asianethd
 
 # --- ISL SPECIAL EVENTS ---
 #EXTINF:-1 tvg-id="1090550558_ENG" tvg-name="Churchill Brothers SC vs Punjab FC - 25 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792351011297172_ISL26_Churchill_BrothersSC_vs_PFC_live_landscape_thumb.jpg" group-title="Football",Churchill Brothers SC vs Punjab FC - 25 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2120304/footlive2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792972871~acl=/*~id=65589875953745282809186350171132~hmac=5d6ee180ef13841d8a98327a04026623a3b0a7eef06b43dbe886afa56fac210f
+https://sonydaime.akamaized.net/hls/live/2120304/footlive2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792973478~acl=/*~id=18771087230117820114165715715790~hmac=3376c52bfa885e96d4e92391529ab79c07f177b75d3faedf1e483691f29c8226
 # --- END ISL SPECIAL EVENTS ---
 
 
@@ -744,10 +744,10 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090550558_HIN" tvg-name="Churchill Brothers SC vs Punjab FC - 25 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792351011297172_ISL26_Churchill_BrothersSC_vs_PFC_live_landscape_thumb.jpg" group-title="Football",Churchill Brothers SC vs Punjab FC - 25 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2120305/footlive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792972871~acl=/*~id=65589875953745282809186350171132~hmac=5d6ee180ef13841d8a98327a04026623a3b0a7eef06b43dbe886afa56fac210f
+https://sonydaime.akamaized.net/hls/live/2120305/footlive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792973478~acl=/*~id=18771087230117820114165715715790~hmac=3376c52bfa885e96d4e92391529ab79c07f177b75d3faedf1e483691f29c8226
 
 #EXTINF:-1 tvg-id="1090550567_HIN" tvg-name="Tamilnadu Thunders vs Gujarat royals - 25 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026766/1792484827162767_Tamilnadu_Thunders_vs_Gujarat_royals_landscape_thumb.jpg" group-title="Cricket",Tamilnadu Thunders vs Gujarat royals - 25 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792972871~acl=/*~id=65589875953745282809186350171132~hmac=5d6ee180ef13841d8a98327a04026623a3b0a7eef06b43dbe886afa56fac210f
+https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792973478~acl=/*~id=18771087230117820114165715715790~hmac=3376c52bfa885e96d4e92391529ab79c07f177b75d3faedf1e483691f29c8226
 
 #EXTINF:-1 tvg-id="4250516" tvg-name="United Arab Emirates vs Netherlands [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png" group-title="Cricket",United Arab Emirates vs Netherlands [English]
 https://in-mc-flive.fancode.com/mumbai/4250516_english_hls_794c5fa68798836_1ta-di_h264/720p.m3u8?hdntl=Expires=1792991803~_GO=Generated~acl=/mumbai/4250516_english_hls_794c5fa68798836_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_816dcef4-6d5a-48~Signature=ASgJGVAWSM9HC47UAy276SSKy-nVLdSIN9ZmmahwrsB0sEhPwEQiEHv3nOoc-Wbh33QSIwtvDBJJvGIHd5k0FlrDpskP
@@ -772,17 +772,6 @@ https://in-mc-flive.fancode.com/mumbai/4250159_english_hls_f0bf5565811704_1ta-di
 
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
-
-#EXTINF:-1 tvg-id="91441c43-dc85-4306-b656-5640a58d0ab8" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/obiynwq5t8bfy1wd6zjn" tvg-lang="English" group-title="Cricket",English | Gambia v Lesotho
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1792944908~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=b90cc3ae1220899eb0aaeed20b87dff2d005ef93d488a8a39e51a310609bbab7/manifest.mpd?vcfilter=91441c43-dc85-4306-b656-5640a58d0ab8&
 
 #EXTINF:-1 tvg-id="3425c937-1f19-4c30-ae9e-1a11e0fda01a" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/exgnvrvyigpp9oh7es58" tvg-lang="English" group-title="Cricket",English | United Arab Emirates v Netherlands (2nd Innings)
 #KODIPROP:inputstream=inputstream.adaptive
