@@ -723,19 +723,16 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090550567_HIN" tvg-name="Delhi Leaders vs Mumbai Mavericks - 25 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026942/1792622523106954_STCL26_delhi_vs_mumbai_landscape_thumb.jpg" group-title="Cricket",Delhi Leaders vs Mumbai Mavericks - 25 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792951068~acl=/*~id=46050432167129250190478886207140~hmac=d07ef7bb65b2e969d773263512ee926b157a55852a0bf50b2130dbb583a58880
+https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792951673~acl=/*~id=91584154725996447754035709472857~hmac=2defb54b46ca609cad93435e05f33e9ea3fca0a41e5877ee2c7ce4447961926e
 
 #EXTINF:-1 tvg-id="1090550568_ENG" tvg-name="LINK Hong Kong Open - Day 4 - 25 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055378971141_Asian-Tour_LINK-Hong-Kong-Open_D4_live_landscape_thumb.jpg" group-title="Golf",LINK Hong Kong Open - Day 4 - 25 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2120307/Golf_LIN2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792951068~acl=/*~id=46050432167129250190478886207140~hmac=d07ef7bb65b2e969d773263512ee926b157a55852a0bf50b2130dbb583a58880
+https://sonydaime.akamaized.net/hls/live/2120307/Golf_LIN2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792951673~acl=/*~id=91584154725996447754035709472857~hmac=2defb54b46ca609cad93435e05f33e9ea3fca0a41e5877ee2c7ce4447961926e
 
 #EXTINF:-1 tvg-id="1090550570_ENG" tvg-name="Genesis Championship - Day 4 - 25 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611466128924_DP-World_Genesis-Championship_D4_live_landscape_thumb.jpg" group-title="Golf",Genesis Championship - Day 4 - 25 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2094588/Golf_Gen2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792951068~acl=/*~id=46050432167129250190478886207140~hmac=d07ef7bb65b2e969d773263512ee926b157a55852a0bf50b2130dbb583a58880
+https://sonydaime.akamaized.net/hls/live/2094588/Golf_Gen2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792951673~acl=/*~id=91584154725996447754035709472857~hmac=2defb54b46ca609cad93435e05f33e9ea3fca0a41e5877ee2c7ce4447961926e
 
 #EXTINF:-1 tvg-id="4250516" tvg-name="United Arab Emirates vs Netherlands [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png" group-title="Cricket",United Arab Emirates vs Netherlands [English]
 https://in-mc-flive.fancode.com/mumbai/4250516_english_hls_794c5fa68798836_1ta-di_h264/720p.m3u8?hdntl=Expires=1792991803~_GO=Generated~acl=/mumbai/4250516_english_hls_794c5fa68798836_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_816dcef4-6d5a-48~Signature=ASgJGVAWSM9HC47UAy276SSKy-nVLdSIN9ZmmahwrsB0sEhPwEQiEHv3nOoc-Wbh33QSIwtvDBJJvGIHd5k0FlrDpskP
-
-#EXTINF:-1 tvg-id="4249845" tvg-name="Sydney FC vs Adelaide United [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249845_53101_SYD_ADL_fc-Web_1792223294286.jpg" group-title="Football",Sydney FC vs Adelaide United [English]
-https://in-mc-flive.fancode.com/mumbai/4249845_english_hls_bf2f0076bc49928_1ta-di_h264/720p.m3u8?hdntl=Expires=1792986350~_GO=Generated~acl=/mumbai/4249845_english_hls_bf2f0076bc49928_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_082e1a7d-b333-41~Signature=ASgJGVCuF8kTdrmI1SUY7pU0QZ69g2QkOyDu76tcxfQUrfvRczENwENNkr5HAyDV7aUolZ1IWPlKdo-1ixGNfGHAMtcB
 
 #EXTINF:-1 tvg-id="4250528" tvg-name="Race Day [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/JK-Tyre-_Web-match-card.png" group-title="Motorsports",Race Day [English]
 https://in-mc-flive.fancode.com/mumbai/4250528_english_hls_5f5972517d95754_1ta-di_h264/720p.m3u8?hdntl=Expires=1792986351~_GO=Generated~acl=/mumbai/4250528_english_hls_5f5972517d95754_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ba9049d3-d1e5-40~Signature=ASgJGVAb3w547_XBaKnwmbgU4pzbtc2OTk10kddmWANWJN9YWKAd-XRdnI7TcshSjmsEZ-MdktV7o21s1waeEZvbCtcE
@@ -759,14 +756,7 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9590ea43d0f770c24205e23440d8af8c:b127454380d8fffc3acd12575b2b4adb
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0H8W7GDJL" tvg-name="AHL Hockey: Calgary Wranglers vs Abbotsford Canucks" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c95e2615-76f4-44e1-b340-96410f31feaa/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",AHL Hockey: Calgary Wranglers vs Abbotsford Canucks
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HMX2NC56" tvg-name="Grand Prix of Australia" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6cab6dd4-80c3-466f-a696-a09cc5fe6c87/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Grand Prix of Australia
 #KODIPROP:inputstream=inputstream.adaptive
