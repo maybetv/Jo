@@ -723,16 +723,22 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090550567_HIN" tvg-name="Delhi Leaders vs Mumbai Mavericks - 25 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026942/1792622523106954_STCL26_delhi_vs_mumbai_landscape_thumb.jpg" group-title="Cricket",Delhi Leaders vs Mumbai Mavericks - 25 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792952281~acl=/*~id=16702834381134594369157167139694~hmac=dda5ee075d97297e1cbf9337071c362cbd3810f05602cd2fc1e23579cc620e3b
+https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792952887~acl=/*~id=58196987331235828098670466492990~hmac=2bd3277d82b5e72423ec4ce447daa7d74c1733fa6bae3a5a22db4b65f2634438
 
 #EXTINF:-1 tvg-id="1090550568_ENG" tvg-name="LINK Hong Kong Open - Day 4 - 25 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055378971141_Asian-Tour_LINK-Hong-Kong-Open_D4_live_landscape_thumb.jpg" group-title="Golf",LINK Hong Kong Open - Day 4 - 25 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2120307/Golf_LIN2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792952281~acl=/*~id=16702834381134594369157167139694~hmac=dda5ee075d97297e1cbf9337071c362cbd3810f05602cd2fc1e23579cc620e3b
+https://sonydaime.akamaized.net/hls/live/2120307/Golf_LIN2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792952887~acl=/*~id=58196987331235828098670466492990~hmac=2bd3277d82b5e72423ec4ce447daa7d74c1733fa6bae3a5a22db4b65f2634438
 
 #EXTINF:-1 tvg-id="1090550570_ENG" tvg-name="Genesis Championship - Day 4 - 25 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611466128924_DP-World_Genesis-Championship_D4_live_landscape_thumb.jpg" group-title="Golf",Genesis Championship - Day 4 - 25 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2094588/Golf_Gen2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792952281~acl=/*~id=16702834381134594369157167139694~hmac=dda5ee075d97297e1cbf9337071c362cbd3810f05602cd2fc1e23579cc620e3b
+https://sonydaime.akamaized.net/hls/live/2094588/Golf_Gen2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792952887~acl=/*~id=58196987331235828098670466492990~hmac=2bd3277d82b5e72423ec4ce447daa7d74c1733fa6bae3a5a22db4b65f2634438
 
 #EXTINF:-1 tvg-id="4250516" tvg-name="United Arab Emirates vs Netherlands [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png" group-title="Cricket",United Arab Emirates vs Netherlands [English]
 https://in-mc-flive.fancode.com/mumbai/4250516_english_hls_794c5fa68798836_1ta-di_h264/720p.m3u8?hdntl=Expires=1792991803~_GO=Generated~acl=/mumbai/4250516_english_hls_794c5fa68798836_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_816dcef4-6d5a-48~Signature=ASgJGVAWSM9HC47UAy276SSKy-nVLdSIN9ZmmahwrsB0sEhPwEQiEHv3nOoc-Wbh33QSIwtvDBJJvGIHd5k0FlrDpskP
+
+#EXTINF:-1 tvg-id="4250341" tvg-name="Jersey vs Kenya [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png" group-title="Cricket",Jersey vs Kenya [English]
+https://in-mc-flive.fancode.com/mumbai/4250341_english_hls_c58feffa0698348_1ta-di_h264/720p.m3u8?hdntl=Expires=1792996654~_GO=Generated~acl=/mumbai/4250341_english_hls_c58feffa0698348_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c2569f73-ada9-4f~Signature=ASgJGVCGTgT4jV4b5Gjh3jm-B6CVTNROXIaagDf8dkIpObinU_bCM43weNcEpu3TVoCqhZBtjMEyqrLlJmyyaB2p5T8K
+
+#EXTINF:-1 tvg-id="4250342" tvg-name="Denmark vs Papua New Guinea [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png" group-title="Cricket",Denmark vs Papua New Guinea [English]
+https://in-mc-flive.fancode.com/mumbai/4250342_english_hls_9a7010219d23415_1ta-di_h264/720p.m3u8?hdntl=Expires=1792996655~_GO=Generated~acl=/mumbai/4250342_english_hls_9a7010219d23415_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_d58d4619-f9cf-4f~Signature=ASgJGVBMglrfiE093hvP7P4dPdozM3fc-4ijXRq6xSNbCmWq6BoR3SbD41bjhcZxpyVydyuegMi-XFGUm3nQOHcas1IB
 
 #EXTINF:-1 tvg-id="4250528" tvg-name="Race Day [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/JK-Tyre-_Web-match-card.png" group-title="Motorsports",Race Day [English]
 https://in-mc-flive.fancode.com/mumbai/4250528_english_hls_5f5972517d95754_1ta-di_h264/720p.m3u8?hdntl=Expires=1792986351~_GO=Generated~acl=/mumbai/4250528_english_hls_5f5972517d95754_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ba9049d3-d1e5-40~Signature=ASgJGVAb3w547_XBaKnwmbgU4pzbtc2OTk10kddmWANWJN9YWKAd-XRdnI7TcshSjmsEZ-MdktV7o21s1waeEZvbCtcE
@@ -779,11 +785,4 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9590ea43d0f770c24205e23440d8af8c:b127454380d8fffc3acd12575b2b4adb
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HMX2NC56" tvg-name="Grand Prix of Australia" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6cab6dd4-80c3-466f-a696-a09cc5fe6c87/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Grand Prix of Australia
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
-https://a106live-emt-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq8P-PBhpq3TkPA2Zha2FtYWkCeChmaWQ6MDFhMTcwMjYtZTM3OC03NDY0LTg5Y2EtMjJjOTcxNGQ2NmE3GQE4oQWhAngzL2F1aGNjd2dnYW8vb3V0L3YxLzMwZjNhZDliYTJjMzQwNzM5ZWEyOTQzZjI5ZDQ0YjMyWCBO3hMUokrNWHcvKktW7zSdqNet_tiF_VIYASVA8b1NmA/PDX/709b3c4313a9405ab5e8634864c7cc3b/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/auhccwggao/out/v1/30f3ad9ba2c340739ea2943f29d44b32/67c248f8-6579-4fc0-b1c6-3409ccf5e5ea-cenc.mpd?aws.sessionId=9562ab18-d16a-443f-bab9-36dce047a45c
 
