@@ -21,7 +21,7 @@ https://hjh-545.pages.dev/stream?id=asianethd
 
 # --- ISL SPECIAL EVENTS ---
 #EXTINF:-1 tvg-id="1090550558_ENG" tvg-name="Churchill Brothers SC vs Punjab FC - 25 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792351011297172_ISL26_Churchill_BrothersSC_vs_PFC_live_landscape_thumb.jpg" group-title="Football",Churchill Brothers SC vs Punjab FC - 25 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2120304/footlive2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792973478~acl=/*~id=18771087230117820114165715715790~hmac=3376c52bfa885e96d4e92391529ab79c07f177b75d3faedf1e483691f29c8226
+https://sonydaime.akamaized.net/hls/live/2120304/footlive2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792974084~acl=/*~id=21316925829241971374877741843561~hmac=1a01327ee7c950bdc45ae4e7902810e9bb4691d8a0b6af46b217f0dfd4ae969c
 # --- END ISL SPECIAL EVENTS ---
 
 
@@ -744,10 +744,10 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 # --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="1090550558_HIN" tvg-name="Churchill Brothers SC vs Punjab FC - 25 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792351011297172_ISL26_Churchill_BrothersSC_vs_PFC_live_landscape_thumb.jpg" group-title="Football",Churchill Brothers SC vs Punjab FC - 25 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2120305/footlive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792973478~acl=/*~id=18771087230117820114165715715790~hmac=3376c52bfa885e96d4e92391529ab79c07f177b75d3faedf1e483691f29c8226
+https://sonydaime.akamaized.net/hls/live/2120305/footlive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792974084~acl=/*~id=21316925829241971374877741843561~hmac=1a01327ee7c950bdc45ae4e7902810e9bb4691d8a0b6af46b217f0dfd4ae969c
 
 #EXTINF:-1 tvg-id="1090550567_HIN" tvg-name="Tamilnadu Thunders vs Gujarat royals - 25 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026766/1792484827162767_Tamilnadu_Thunders_vs_Gujarat_royals_landscape_thumb.jpg" group-title="Cricket",Tamilnadu Thunders vs Gujarat royals - 25 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792973478~acl=/*~id=18771087230117820114165715715790~hmac=3376c52bfa885e96d4e92391529ab79c07f177b75d3faedf1e483691f29c8226
+https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792974084~acl=/*~id=21316925829241971374877741843561~hmac=1a01327ee7c950bdc45ae4e7902810e9bb4691d8a0b6af46b217f0dfd4ae969c
 
 #EXTINF:-1 tvg-id="4250516" tvg-name="United Arab Emirates vs Netherlands [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png" group-title="Cricket",United Arab Emirates vs Netherlands [English]
 https://in-mc-flive.fancode.com/mumbai/4250516_english_hls_794c5fa68798836_1ta-di_h264/720p.m3u8?hdntl=Expires=1792991803~_GO=Generated~acl=/mumbai/4250516_english_hls_794c5fa68798836_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_816dcef4-6d5a-48~Signature=ASgJGVAWSM9HC47UAy276SSKy-nVLdSIN9ZmmahwrsB0sEhPwEQiEHv3nOoc-Wbh33QSIwtvDBJJvGIHd5k0FlrDpskP
@@ -758,8 +758,8 @@ https://in-mc-flive.fancode.com/mumbai/4250341_english_hls_c58feffa0698348_1ta-d
 #EXTINF:-1 tvg-id="4250342" tvg-name="Denmark vs Papua New Guinea [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png" group-title="Cricket",Denmark vs Papua New Guinea [English]
 https://in-mc-flive.fancode.com/mumbai/4250342_english_hls_9a7010219d23415_1ta-di_h264/720p.m3u8?hdntl=Expires=1792996655~_GO=Generated~acl=/mumbai/4250342_english_hls_9a7010219d23415_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_d58d4619-f9cf-4f~Signature=ASgJGVBMglrfiE093hvP7P4dPdozM3fc-4ijXRq6xSNbCmWq6BoR3SbD41bjhcZxpyVydyuegMi-XFGUm3nQOHcas1IB
 
-#EXTINF:-1 tvg-id="4249766" tvg-name="Gambia vs Lesotho [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249766_53093_GAM_LES_FC-Web_1792493253302.png" group-title="Cricket",Gambia vs Lesotho [English]
-https://in-mc-flive.fancode.com/mumbai/4249766_english_hls_452249917198475_1ta-di_h264/720p.m3u8?hdntl=Expires=1793002712~_GO=Generated~acl=/mumbai/4249766_english_hls_452249917198475_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_864955a7-b96c-40~Signature=ASgJGVA2W_IuGxm6F9aIx8Rz4G6aXIBD6UeN0CzpfikmnFU37NlyZMFXkCZAqBaqRSLJVKyMURtRMHfD3NDnlX7O4YgP
+#EXTINF:-1 tvg-id="4250486" tvg-name="Emirates Red vs Emirates Blues [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250486_53130_EMR_EMB_fc-web_1792412929389.jpg" group-title="Cricket",Emirates Red vs Emirates Blues [English]
+https://in-mc-flive.fancode.com/mumbai/4250486_english_hls_ff87bb499147285_1ta-di_h264/720p.m3u8?hdntl=Expires=1793017247~_GO=Generated~acl=/mumbai/4250486_english_hls_ff87bb499147285_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_437f65b6-015e-40~Signature=ASgJGVCZbk97hz3iMBY69LUyoLbi1lbWqV4_LGEuNbRhFW0tGksuS92xbcef84DEtEFJz_cHUEiaWdsITnnF-0cvnmUG
 
 #EXTINF:-1 tvg-id="4249202" tvg-name="Crystal Palace Women vs Chelsea F.C. Women [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249202_53038_CP-W_CHE-W_fc-web.jpg" group-title="Football",Crystal Palace Women vs Chelsea F.C. Women [English]
 https://in-mc-flive.fancode.com/mumbai/4249202_english_hls_59513ac5e836839_1ta-di_h264/720p.m3u8?hdntl=Expires=1793015429~_GO=Generated~acl=/mumbai/4249202_english_hls_59513ac5e836839_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4278316e-6771-40~Signature=ASgJGVD6wokeMg7klQGJjJbw_JCEq0_WPOtPgxfWNMTPMTqiLXQIJ-tF8ELEjVw-NPDUA8r0NpssmWyYBdtrxUKpmzAE
