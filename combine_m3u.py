@@ -49,26 +49,28 @@ def get_isl_type(block_lines, provider):
 
 
 def clean_previous_isl_block(content):
-    """മുൻപ് ചേർത്ത ISL ബ്ലോക്ക് ഫയലിൽ നിന്ന് പൂർണ്ണമായി നീക്കം ചെയ്യുന്നു."""
+    """ഫയലിൽ നിലനിൽക്കുന്ന പഴയ എല്ലാ ISL സ്റ്റാർട്ട്/എൻഡ് ബ്ലോക്കുകളും പൂർണ്ണമായി നീക്കം ചെയ്യുന്നു."""
     pattern = rf"\n*{re.escape(ISL_START_MARKER)}.*?{re.escape(ISL_END_MARKER)}\n*"
-    return re.sub(pattern, "\n\n", content, flags=re.DOTALL)
+    while re.search(pattern, content, flags=re.DOTALL):
+        content = re.sub(pattern, "\n\n", content, flags=re.DOTALL)
+    return content
 
 
 def insert_below_asianet(content, isl_blocks):
-    mal_count = len(isl_blocks.get("Malayalam", []))
     eng_count = len(isl_blocks.get("English", []))
+    mal_count = len(isl_blocks.get("Malayalam", []))
 
-    if mal_count == 0 and eng_count == 0:
+    if eng_count == 0 and mal_count == 0:
         return content
 
-    # ആദ്യം ഇംഗ്ലീഷ്, തുടർന്ന് മലയാളം എന്ന ക്രമത്തിൽ മാറ്റുന്നു
+    # ആദ്യം ഇംഗ്ലീഷ്, തുടർന്ന് മലയാളം എന്ന ക്രമത്തിൽ ലിങ്കുകൾ അടുക്കുന്നു
     ordered_isl_items = []
     for block in isl_blocks.get("English", []):
         ordered_isl_items.append("\n".join(block))
     for block in isl_blocks.get("Malayalam", []):
         ordered_isl_items.append("\n".join(block))
 
-    # ഓരോ ലിങ്കിനും ഇടയിൽ രണ്ട് വരികൾ (Two blank lines) ഗ്യാപ്പ് നൽകുന്നു
+    # എല്ലാ ISL ലിങ്കുകൾക്കും ഒടുവിൽ ഒരൊറ്റ പ്രാവശ്യം മാത്രം സ്റ്റാർട്ടും എൻഡും വരുന്ന രീതി
     isl_section = f"{ISL_START_MARKER}\n\n" + "\n\n\n".join(ordered_isl_items) + f"\n\n{ISL_END_MARKER}"
 
     lines = content.splitlines(keepends=True)
@@ -106,7 +108,7 @@ def main():
     live_blocks = []
     seen_urls = set()
 
-    # 1. നിലവിലുള്ള ഫയലിൽ നിന്ന് സ്റ്റാറ്റിക് ചാനലുകൾ മാത്രം റീഡ് ചെയ്യുന്നു
+    # 1. നിലവിലുള്ള ഫയൽ റീഡ് ചെയ്യുന്നു
     base_content = "#EXTM3U\n\n"
     if os.path.exists(OUTPUT):
         with open(OUTPUT, "r", encoding="utf-8", errors="ignore") as f:
@@ -117,10 +119,10 @@ def main():
         elif content.strip():
             base_content = content.strip() + "\n\n"
 
-    # പഴയ ISL സെക്ഷൻ പൂർണ്ണമായി ഒഴിവാക്കുന്നു
+    # പഴയ ISL സെക്ഷനുകൾ പൂർണ്ണമായി ഒഴിവാക്കുന്നു
     base_content = clean_previous_isl_block(base_content)
 
-    # 2. ഒറിജിനൽ സോഴ്സ് പ്ലേലിസ്റ്റുകൾ ഫെച്ച് ചെയ്ത് പുതിയ ലൈവ് ലിങ്കുകൾ മാത്രം ശേഖരിക്കുന്നു
+    # 2. സോഴ്സ് പ്ലേലിസ്റ്റുകൾ ഫെച്ച് ചെയ്ത് പ്രോസസ്സ് ചെയ്യുന്നു
     for provider, url in PLAYLISTS.items():
         print(f"Checking {provider}...")
 
@@ -167,10 +169,10 @@ def main():
         except Exception as e:
             print(f"Failed to fetch {provider}: {e}")
 
-    # 3. Asianet-ന് താഴെ പുതിയ ക്രമീകരണത്തോടെ ISL മാച്ചുകൾ ഇൻസേർട്ട് ചെയ്യുന്നു
+    # 3. Asianet-ന് താഴെ ഒറ്റ ബ്ലോക്കായി ISL മാച്ചുകൾ ചേർക്കുന്നു
     updated_base = insert_below_asianet(base_content, isl_blocks)
 
-    # 4. ഫയൽ സേവ് ചെയ്യുന്നു (സോഴ്സിൽ ഇല്ലാത്ത പഴയ ലിങ്കുകൾ ഒഴിവാക്കപ്പെടുന്നു)
+    # 4. ഫയൽ സേവ് ചെയ്യുന്നു
     with open(OUTPUT, "w", encoding="utf-8") as out:
         out.write(updated_base.rstrip() + "\n\n")
 
