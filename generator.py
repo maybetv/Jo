@@ -5,7 +5,7 @@ from urllib3.util.retry import Retry
 from bs4 import BeautifulSoup
 
 PLAYLIST_URL = os.environ.get("PLAYLIST_URL", "").strip()
-IP_MANAGER_URL = "https://game.playindia.fun/Jtv/IP.php?id=RiYlIZ"
+IP_MANAGER_URL = ""
 OUTPUT_DIR = "playlist"
 OUTPUT_FILE = os.path.join(OUTPUT_DIR, "Rexz.m3u")
 
