@@ -9,7 +9,6 @@ ISL_END_MARKER = "# --- END ISL SPECIAL EVENTS ---"
 
 INCLUDE_OTHER_LIVE_EVENTS = True
 
-# മെയിൻ സോഴ്സും മറ്റ് സോഴ്സുകളും
 PLAYLISTS = {
     "SonyLiv": "https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u",
     "Fancode": "https://github.com/kajju027/Fancode-Events-Json/raw/refs/heads/main/fc.m3u",
@@ -29,7 +28,6 @@ def get_isl_type(block_lines, provider):
     full_text = " ".join(block_lines)
     full_lower = full_text.lower()
 
-    # മെയിൻ സോഴ്സ് ആയ SonyLiv-ൽ നിന്ന് മാത്രം ISL മാച്ചുകൾ കണ്ടെത്തുന്നു
     is_sony = (provider.lower() == "sonyliv") or ("sony" in full_lower)
     if not is_sony:
         return None
@@ -54,7 +52,6 @@ def get_isl_type(block_lines, provider):
 
 
 def clean_existing_sections(content):
-    """ഫയലിലുള്ള പഴയ ISL ബ്ലോക്കുകളും ലൈവ് ഇവന്റ് മാർക്കറുകളും പൂർണ്ണമായി നീക്കം ചെയ്യുന്നു."""
     if MARKER in content:
         content = content.split(MARKER)[0].rstrip()
     
@@ -120,15 +117,12 @@ def main():
     live_blocks = []
     seen_base_urls = set()
 
-    # 1. നിലവിലുള്ള ഫയൽ വായിക്കുന്നു
     base_content = "#EXTM3U\n\n"
     if os.path.exists(OUTPUT):
         with open(OUTPUT, "r", encoding="utf-8", errors="ignore") as f:
             content = f.read()
-
         base_content = clean_existing_sections(content)
 
-    # 2. സോഴ്സ് പ്ലേലിസ്റ്റുകൾ ഫെച്ച് ചെയ്ത് പ്രോസസ്സ് ചെയ്യുന്നു
     for provider, url in PLAYLISTS.items():
         print(f"Checking {provider}...")
 
@@ -167,7 +161,6 @@ def main():
                     if base_stream_url not in seen_base_urls:
                         seen_base_urls.add(base_stream_url)
 
-                        # സോഴ്സ് പ്രൊവൈഡർ അനുസരിച്ച് ISL ഫിൽട്ടർ പരിശോധിക്കുന്നു
                         isl_type = get_isl_type(block, provider)
                         if isl_type:
                             isl_blocks[isl_type].append(block)
@@ -179,10 +172,8 @@ def main():
         except Exception as e:
             print(f"Failed to fetch {provider}: {e}")
 
-    # 3. Asianet-ന് താഴെ ISL മാച്ചുകൾ ചേർക്കുന്നു
     updated_base = insert_below_asianet(base_content, isl_blocks)
 
-    # 4. ഫയൽ സേവ് ചെയ്യുന്നു
     with open(OUTPUT, "w", encoding="utf-8") as out:
         out.write(updated_base.rstrip() + "\n\n")
 
