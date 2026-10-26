@@ -679,6 +679,9 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 #EXTINF:-1 tvg-id="sonyliv-1090550644" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027143/179275492633881_NZ_vs_IND_A_1st_test_day3_live_landscape_thumb.jpg" group-title="Cricket", 1st Unofficial Test - Day 3 | India A Tour of New Zealand [English]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2120299/criclive2510/ENG/master.m3u8?hdnea=exp=1793008246~acl=/*~id=54009841981951384097284120477470~hmac=7014272ac6a303bb57126aa9f43c645745283e52a1d9b8bc08dd921fdeaaaad5
 
+#EXTINF:-1 tvg-id="4250529" tvg-name="Delhi Dynamites vs Haryana Hustlers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg" group-title="Cricket",Delhi Dynamites vs Haryana Hustlers
+https://in-mc-flive.fancode.com/mumbai/4250529_english_hls_e5433aa61a5575_1ta-di_h264/720p.m3u8?hdntl=Expires=1793074641~_GO=Generated~acl=/mumbai/4250529_english_hls_e5433aa61a5575_1ta-di_h264/*~SessionID=122002764__fad98e44-a2ba-42~Signature=ASgJGVDZ0cJsKCco5Xw0Eje8sDYczG2X7TNSjeeui88vuoTt_HLbhZ9K1f8gwA1axhzFd97VxnILxvQh144eR41zCAYL
+
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
 
