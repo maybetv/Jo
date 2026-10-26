@@ -55,8 +55,8 @@ def get_isl_type(block_lines, provider):
     return None
 
 
-def clean_previous_isl_block(content):
-    """ഫയലിലുള്ള പഴയ എല്ലാ ISL ബ്ലോക്കുകളും ടാഗുകളും പൂർണ്ണമായി നീക്കം ചെയ്യുന്നു."""
+def remove_all_isl_sections(content):
+    """ഫയലിൽ എവിടെയെല്ലാം പഴയ ISL ടാഗുകളും ബ്ലോക്കുകളും ഉണ്ടോ അവ പൂർണ്ണമായി നീക്കം ചെയ്യുന്നു."""
     while ISL_START_MARKER in content and ISL_END_MARKER in content:
         start_idx = content.find(ISL_START_MARKER)
         end_idx = content.find(ISL_END_MARKER) + len(ISL_END_MARKER)
@@ -64,6 +64,8 @@ def clean_previous_isl_block(content):
             content = content[:start_idx] + content[end_idx:]
         else:
             break
+    
+    # ഒരു ടാഗ് മാത്രം ബാക്കി നിന്നിട്ടുണ്ടെങ്കിൽ അതും ഒഴിവാക്കുന്നു
     content = content.replace(ISL_START_MARKER, "").replace(ISL_END_MARKER, "")
     content = re.sub(r'\n{3,}', '\n\n', content)
     return content.strip()
@@ -73,17 +75,16 @@ def insert_below_asianet(content, isl_blocks):
     eng_list = isl_blocks.get("English", [])
     mal_list = isl_blocks.get("Malayalam", [])
 
+    # സോഴ്സിൽ മാച്ചുകൾ ഒന്നും ഇല്ലെങ്കിൽ ISL സെക്ഷൻ ഒട്ടും ചേർക്കില്ല (പഴയത് പൂർണ്ണമായി പോയിട്ടുണ്ടാവും)
     if not eng_list and not mal_list:
         return content
 
-    # ആദ്യം ഇംഗ്ലീഷ്, തുടർന്ന് മലയാളം എന്ന ക്രമത്തിൽ ലിങ്കുകൾ അടുക്കുന്നു
     ordered_items = []
     for block in eng_list:
         ordered_items.append("\n".join(block))
     for block in mal_list:
         ordered_items.append("\n".join(block))
 
-    # എല്ലാ ലിങ്കുകൾക്കും മുകളിൽ ഒരൊറ്റ സ്റ്റാർട്ടും താഴെ ഒരൊറ്റ എൻഡും മാത്രം, രണ്ട് ലൈൻ ഗ്യാപ്പ്
     isl_section = f"{ISL_START_MARKER}\n\n" + "\n\n\n".join(ordered_items) + f"\n\n{ISL_END_MARKER}"
 
     lines = content.splitlines(keepends=True)
@@ -119,7 +120,7 @@ def insert_below_asianet(content, isl_blocks):
 def main():
     isl_blocks = {"English": [], "Malayalam": []}
     live_blocks = []
-    seen_base_urls = set()  # ടോക്കണുകൾ ഒഴിവാക്കി മെയിൻ പാത്ത് മാത്രം ട്രാക്ക് ചെയ്യാൻ
+    seen_base_urls = set()
 
     # 1. നിലവിലുള്ള ഫയൽ റീഡ് ചെയ്യുന്നു
     base_content = "#EXTM3U\n\n"
@@ -132,10 +133,10 @@ def main():
         elif content.strip():
             base_content = content.strip() + "\n\n"
 
-    # പഴയ ISL സെക്ഷനുകൾ പൂർണ്ണമായി ഒഴിവാക്കുന്നു
-    base_content = clean_previous_isl_block(base_content)
+    # 2. ഫയലിലുള്ള എല്ലാ പഴയ ISL സെക്ഷനുകളും പൂർണ്ണമായി ക്ലീൻ ചെയ്യുന്നു
+    base_content = remove_all_isl_sections(base_content)
 
-    # 2. സോഴ്സ് പ്ലേലിസ്റ്റുകൾ ഫെച്ച് ചെയ്ത് പ്രോസസ്സ് ചെയ്യുന്നു
+    # 3. സോഴ്സ് പ്ലേലിസ്റ്റുകൾ ഫെച്ച് ചെയ്ത് പ്രോസസ്സ് ചെയ്യുന്നു
     for provider, url in PLAYLISTS.items():
         print(f"Checking {provider}...")
 
@@ -169,7 +170,6 @@ def main():
                     i += 1
 
                 if stream:
-                    # ടോക്കണുകൾ (Query parameters) ഒഴിവാക്കി മെയിൻ URL മാത്രം പരിശോധിക്കുന്നു
                     base_stream_url = stream.split('?')[0]
 
                     if base_stream_url not in seen_base_urls:
@@ -186,10 +186,10 @@ def main():
         except Exception as e:
             print(f"Failed to fetch {provider}: {e}")
 
-    # 3. Asianet-ന് താഴെ കൃത്യമായ ക്രമത്തിൽ ISL മാച്ചുകൾ ചേർക്കുന്നു
+    # 4. സോഴ്സിൽ ലിങ്കുകൾ ഉണ്ടെങ്കിൽ മാത്രം Asianet-ന് താഴെ ചേർക്കുന്നു, ഇല്ലെങ്കിൽ ഒഴിവാക്കപ്പെടും
     updated_base = insert_below_asianet(base_content, isl_blocks)
 
-    # 4. ഫയൽ സേവ് ചെയ്യുന്നു
+    # 5. ഫയൽ സേവ് ചെയ്യുന്നു
     with open(OUTPUT, "w", encoding="utf-8") as out:
         out.write(updated_base.rstrip() + "\n\n")
 
