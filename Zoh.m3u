@@ -668,44 +668,32 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
-# --- LIVE EVENTS ---
 
+# --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="4250489" tvg-name="Emirates Blues vs Sharjah [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250489_53130_EMB_SHA_fc-web_1792412930086.jpg" group-title="Cricket",Emirates Blues vs Sharjah [English]
 https://in-mc-flive.fancode.com/mumbai/4250489_english_hls_03580ea31262174_1ta-di_h264/720p.m3u8?hdntl=Expires=1793117886~_GO=Generated~acl=/mumbai/4250489_english_hls_03580ea31262174_1ta-di_h264/*~SessionID=fc-app_sportsguruand_0b1_watcho_6f45f86d-6c8b-48~Signature=ATFKiJtc2GwGz8Zgo7QIIk2LhQgiyJ7Jpv1ImfE4VUIj3W3kg_h_QI5NPP35fFwwR_9x0Q8t2y_WAjHP-59RK4nGWYUO
 
-
 #EXTINF:-1 tvg-id="4248715" tvg-name="Air Force SC vs Pakhtakor Tashkent [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248715_53053_AFSC_PT_fc-web.jpg" group-title="Football",Air Force SC vs Pakhtakor Tashkent [English]
 https://in-mc-flive.fancode.com/mumbai/4248715_english_hls_17127bb0fe40666_1ta-di_h264/720p.m3u8?hdntl=Expires=1793124550~_GO=Generated~acl=/mumbai/4248715_english_hls_17127bb0fe40666_1ta-di_h264/*~SessionID=fc-app_sportsguruand_811_watcho_eff7da97-67e4-4a~Signature=ATFKiJu48wXig_SP0ZrtosZdnFKGoqsgl1zIH6N7lIZDJF8KtxaXW8dhb58IH0iyqhyZyxDCRaeT7FU97lgbK8ZqNiUA
-
 
 #EXTINF:-1 tvg-id="4248717" tvg-name="Al Qadisiyah vs Al Sadd [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248717_53053_ALQ_SDD_fc-web_1792670735783.jpg" group-title="Football",Al Qadisiyah vs Al Sadd [English]
 https://in-mc-flive.fancode.com/mumbai/4248717_english_hls_ec4ce4a73734867_1ta-di_h264/720p.m3u8?hdntl=Expires=1793124553~_GO=Generated~acl=/mumbai/4248717_english_hls_ec4ce4a73734867_1ta-di_h264/*~SessionID=fc-app_sportsguruand_17b_watcho_82cf8027-ecf9-4f~Signature=ATFKiJsUwDRV8xs3jVe7g8Tmo-j2Lly2QRuZhg6UtBZqVuZm5y3DFkuS7r0O3x0azgf7EoIXUq-m33mJiyCAe8RgNpMN
 
-
 #EXTINF:-1 tvg-id="4250000" tvg-name="Walsall vs Salford City" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card-2.png" group-title="Football",Walsall vs Salford City
 https://in-mc-flive.fancode.com/mumbai/4250000_english_hls_76ed4f8d9d26684_1ta-di_h264/720p.m3u8?hdntl=Expires=1793130651~_GO=Generated~acl=/mumbai/4250000_english_hls_76ed4f8d9d26684_1ta-di_h264/*~SessionID=122002764__68a9dd8a-0e3c-43~Signature=ATFKiJtsL0Fs-io2Gvg_bDYnDlpsKxFK2H7l3U9YdGOUiNgmZvBvf9qc0zny-Yj-HndiFFfp-yod25PJnxwzHsySEUgK
-
 
 #EXTINF:-1 tvg-id="4249628" tvg-name="Day 1 - World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png" group-title="Tennis",Day 1 - World Feed [English]
 https://in-mc-flive.fancode.com/mumbai/4249628_english_hls_5f77957eed29537_1ta-di_h264/720p.m3u8?hdntl=Expires=1793108277~_GO=Generated~acl=/mumbai/4249628_english_hls_5f77957eed29537_1ta-di_h264/*~SessionID=fc-app_sportsguruios_watcho_2b824fc5-3c38-44~Signature=ATFKiJvOXFUy4AFSOySlAasUP2ydUu-q0MPjc0WBklQl2e7YXkF1mHeVdvk6Ytw9FtQtRAC1lUHMGrsJHe8njC4ckI4M
 
-
-#EXTINF:-1 tvg-id="4249635" tvg-name="Glaubandich Court [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png" group-title="Tennis",Glaubandich Court [English]
-https://in-mc-flive.fancode.com/mumbai/4249635_english_hls_f1c0d0326694191_1ta-di_h264/720p.m3u8?hdntl=Expires=1793117889~_GO=Generated~acl=/mumbai/4249635_english_hls_f1c0d0326694191_1ta-di_h264/*~SessionID=fc-app_sportsguruand_548_watcho_b5290ef6-1469-41~Signature=ATFKiJuFAqv_mRazck1vQsL0Z29WMBeQqVk3SunNl-GN_UZjkgm5iGXwidAvH6A6OO4xogx2Mv6FULqrOYZViYDTwmUO
-
-
 #EXTINF:-1 tvg-id="4250545" tvg-name="Centre Court [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png" group-title="Tennis",Centre Court [English]
 https://in-mc-flive.fancode.com/mumbai/4250545_english_hls_3f7621985c77750_1ta-di_h264/720p.m3u8?hdntl=Expires=1793126977~_GO=Generated~acl=/mumbai/4250545_english_hls_3f7621985c77750_1ta-di_h264/*~SessionID=fc-app_sportsguruand_144_watcho_0424eee9-a904-49~Signature=ATFKiJtnoLaOfUEXjPv_gin7QnXEJj6jHzkKd0VZ4wxbQUhR4hIeSZYyro1s6TB0rumzoZwoYzzkr2_ngNkMmaE30PoE
-
 
 #EXTINF:-1 tvg-id="4250546" tvg-name="World Feed 2 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png" group-title="Tennis",World Feed 2 [English]
 https://in-mc-flive.fancode.com/mumbai/4250546_english_hls_999c99ff213863_1ta-di_h264/720p.m3u8?hdntl=Expires=1793126979~_GO=Generated~acl=/mumbai/4250546_english_hls_999c99ff213863_1ta-di_h264/*~SessionID=fc-app_sportsguruand_a21_watcho_9a3bb5d0-5fad-42~Signature=ATFKiJsFFg--A2t5giv0rcSf-HpvZdCRf13hLuy9Zt6F0f0y5d4Z6EHjT5jf7cSWIy9RbfDKw7xnlJQbh9vmigkEU24B
 
-
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
-
 
 #EXTINF:-1 tvg-id="B0H37FB27F" tvg-name="Predator European Championships: Spain" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.447494d8-1dc7-4b08-89c7-f04ce02111ea/9/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Predator European Championships: Spain
 #KODIPROP:inputstream=inputstream.adaptive
@@ -714,18 +702,17 @@ https://ComeInNextMatch.com/4K.m3u8
 #KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
 
-
 #EXTINF:-1 tvg-id="B0HJZRQ6JB" tvg-name="Tennis Today Live-Basel-ATP & Vienna-ATP Early Rounds" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5a06d9b7-9e9b-4f4e-b4b7-7b8c3205a4c6/13/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Tennis Today Live-Basel-ATP & Vienna-ATP Early Rounds
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
 
-
-#EXTINF:-1 tvg-id="B0FQQXFCMF" tvg-name="Second Serve - Live-Basel-ATP & Vienna-ATP Early Rounds" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.68ccc8db-4407-492d-8b37-369596935fcd/17/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Second Serve - Live-Basel-ATP & Vienna-ATP Early Rounds
+#EXTINF:-1 tvg-id="B0FQQXFCMF" tvg-name="Second Serve - Live-Basel-ATP & Vienna-ATP Early Rounds" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.68ccc8db-4407-492d-8b37-369596935fcd/18/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Second Serve - Live-Basel-ATP & Vienna-ATP Early Rounds
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
 https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+
