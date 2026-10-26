@@ -56,10 +56,15 @@ def get_isl_type(block_lines, provider):
 
 
 def clean_previous_isl_block(content):
-    """ഫയലിലുള്ള എല്ലാ പഴയ ISL ബ്ലോക്കുകളും ടാഗുകളും പൂർണ്ണമായി നീക്കം ചെയ്യുന്നു."""
-    pattern = rf"{re.escape(ISL_START_MARKER)}.*?{re.escape(ISL_END_MARKER)}"
-    content = re.sub(pattern, "", content, flags=re.DOTALL)
-    # അധികമുള്ള വരികൾ ക്ലീൻ ചെയ്യുന്നു
+    """ഫയലിലുള്ള പഴയ എല്ലാ ISL ബ്ലോക്കുകളും ടാഗുകളും പൂർണ്ണമായി നീക്കം ചെയ്യുന്നു."""
+    while ISL_START_MARKER in content and ISL_END_MARKER in content:
+        start_idx = content.find(ISL_START_MARKER)
+        end_idx = content.find(ISL_END_MARKER) + len(ISL_END_MARKER)
+        if start_idx < end_idx:
+            content = content[:start_idx] + content[end_idx:]
+        else:
+            break
+    content = content.replace(ISL_START_MARKER, "").replace(ISL_END_MARKER, "")
     content = re.sub(r'\n{3,}', '\n\n', content)
     return content.strip()
 
@@ -78,7 +83,7 @@ def insert_below_asianet(content, isl_blocks):
     for block in mal_list:
         ordered_items.append("\n".join(block))
 
-    # ഒരൊറ്റ ISL ബ്ലോക്ക് മാത്രം നിർമ്മിക്കുന്നു
+    # എല്ലാ ലിങ്കുകൾക്കും മുകളിൽ ഒരൊറ്റ സ്റ്റാർട്ടും താഴെ ഒരൊറ്റ എൻഡും മാത്രം, രണ്ട് ലൈൻ ഗ്യാപ്പ്
     isl_section = f"{ISL_START_MARKER}\n\n" + "\n\n\n".join(ordered_items) + f"\n\n{ISL_END_MARKER}"
 
     lines = content.splitlines(keepends=True)
