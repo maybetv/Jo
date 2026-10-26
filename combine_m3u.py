@@ -40,16 +40,23 @@ def get_isl_type(block_lines, provider):
     if not re.search(match_keywords, full_lower):
         return None
 
-    if re.search(r'(\bmal\b|\[mal\]|_mal|/mal/|malayalam|മലയാളം)', full_lower):
+    # ഹിന്ദി, തമിഴ്, ബംഗാളി തുടങ്ങിയ മറ്റ് ഭാഷകൾ പൂർണ്ണമായി ഒഴിവാക്കുന്നു
+    if re.search(r'(?i)(\bhindi\b|\btamil\b|\bbengali\b|\btelugu\b|\bkannada\b|\bmarathi\b|\[hin\]|\[tam\]|\[ben\])', full_lower):
+        return None
+
+    # മലയാളം പരിശോധിക്കുന്നു
+    if re.search(r'(?i)(\bmal\b|\[mal\]|_mal|/mal/|\bmalayalam\b|മലയാളം)', full_lower):
         return 'Malayalam'
-    elif re.search(r'(\beng\b|\[eng\]|_eng|/eng/|english|ഇംഗ്ലീഷ്)', full_lower):
+    
+    # ഇംഗ്ലീഷ് പരിശോധിക്കുന്നു
+    if re.search(r'(?i)(\beng\b|\[eng\]|_eng|/eng/|\benglish\b|ഇംഗ്ലീഷ്)', full_lower):
         return 'English'
 
     return None
 
 
 def clean_previous_isl_block(content):
-    """ഫയലിൽ നിലനിൽക്കുന്ന പഴയ എല്ലാ ISL സ്റ്റാർട്ട്/എൻഡ് ബ്ലോക്കുകളും പൂർണ്ണമായി നീക്കം ചെയ്യുന്നു."""
+    """ഫയലിൽ നിലനിൽക്കുന്ന പഴയ ISL ബ്ലോക്കുകൾ പൂർണ്ണമായി നീക്കം ചെയ്യുന്നു."""
     pattern = rf"\n*{re.escape(ISL_START_MARKER)}.*?{re.escape(ISL_END_MARKER)}\n*"
     while re.search(pattern, content, flags=re.DOTALL):
         content = re.sub(pattern, "\n\n", content, flags=re.DOTALL)
@@ -57,21 +64,21 @@ def clean_previous_isl_block(content):
 
 
 def insert_below_asianet(content, isl_blocks):
-    eng_count = len(isl_blocks.get("English", []))
-    mal_count = len(isl_blocks.get("Malayalam", []))
+    eng_list = isl_blocks.get("English", [])
+    mal_list = isl_blocks.get("Malayalam", [])
 
-    if eng_count == 0 and mal_count == 0:
+    if not eng_list and not mal_list:
         return content
 
     # ആദ്യം ഇംഗ്ലീഷ്, തുടർന്ന് മലയാളം എന്ന ക്രമത്തിൽ ലിങ്കുകൾ അടുക്കുന്നു
-    ordered_isl_items = []
-    for block in isl_blocks.get("English", []):
-        ordered_isl_items.append("\n".join(block))
-    for block in isl_blocks.get("Malayalam", []):
-        ordered_isl_items.append("\n".join(block))
+    ordered_items = []
+    for block in eng_list:
+        ordered_items.append("\n".join(block))
+    for block in mal_list:
+        ordered_items.append("\n".join(block))
 
-    # എല്ലാ ISL ലിങ്കുകൾക്കും ഒടുവിൽ ഒരൊറ്റ പ്രാവശ്യം മാത്രം സ്റ്റാർട്ടും എൻഡും വരുന്ന രീതി
-    isl_section = f"{ISL_START_MARKER}\n\n" + "\n\n\n".join(ordered_isl_items) + f"\n\n{ISL_END_MARKER}"
+    # എല്ലാ ലിങ്കുകൾക്കും മുകളിൽ ഒരൊറ്റ സ്റ്റാർട്ടും താഴെ ഒരൊറ്റ എൻഡും മാത്രം നൽകുന്നു
+    isl_section = f"{ISL_START_MARKER}\n\n" + "\n\n\n".join(ordered_items) + f"\n\n{ISL_END_MARKER}"
 
     lines = content.splitlines(keepends=True)
     insert_idx = -1
@@ -104,7 +111,7 @@ def insert_below_asianet(content, isl_blocks):
 
 
 def main():
-    isl_blocks = {"Malayalam": [], "English": []}
+    isl_blocks = {"English": [], "Malayalam": []}
     live_blocks = []
     seen_urls = set()
 
@@ -181,11 +188,6 @@ def main():
             out.write("\n\n".join(live_blocks) + "\n\n")
 
     print(f"\nSuccessfully updated {OUTPUT}!")
-    total_isl = len(isl_blocks['Malayalam']) + len(isl_blocks['English'])
-    if total_isl > 0:
-        print(f"Placed {len(isl_blocks['English'])} English and {len(isl_blocks['Malayalam'])} Malayalam matches below Asianet.")
-    else:
-        print("No active Sony ISL matches found. File kept clean.")
 
 
 if __name__ == "__main__":
