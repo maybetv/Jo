@@ -40,7 +40,7 @@ def get_isl_type(block_lines, provider):
     if not re.search(match_keywords, full_lower):
         return None
 
-    # ഹിന്ദി, തമിഴ്, ബംഗാളി തുടങ്ങിയ മറ്റ് ഭാഷകൾ പൂർണ്ണമായി ഒഴിവാക്കുന്നു
+    # മറ്റ് ഭാഷകൾ പൂർണ്ണമായി ഒഴിവാക്കുന്നു
     if re.search(r'(?i)(\bhindi\b|\btamil\b|\bbengali\b|\btelugu\b|\bkannada\b|\bmarathi\b|\[hin\]|\[tam\]|\[ben\])', full_lower):
         return None
 
@@ -56,11 +56,12 @@ def get_isl_type(block_lines, provider):
 
 
 def clean_previous_isl_block(content):
-    """ഫയലിൽ നിലനിൽക്കുന്ന പഴയ ISL ബ്ലോക്കുകൾ പൂർണ്ണമായി നീക്കം ചെയ്യുന്നു."""
-    pattern = rf"\n*{re.escape(ISL_START_MARKER)}.*?{re.escape(ISL_END_MARKER)}\n*"
-    while re.search(pattern, content, flags=re.DOTALL):
-        content = re.sub(pattern, "\n\n", content, flags=re.DOTALL)
-    return content
+    """ഫയലിലുള്ള എല്ലാ പഴയ ISL ബ്ലോക്കുകളും ടാഗുകളും പൂർണ്ണമായി നീക്കം ചെയ്യുന്നു."""
+    pattern = rf"{re.escape(ISL_START_MARKER)}.*?{re.escape(ISL_END_MARKER)}"
+    content = re.sub(pattern, "", content, flags=re.DOTALL)
+    # അധികമുള്ള വരികൾ ക്ലീൻ ചെയ്യുന്നു
+    content = re.sub(r'\n{3,}', '\n\n', content)
+    return content.strip()
 
 
 def insert_below_asianet(content, isl_blocks):
@@ -77,7 +78,7 @@ def insert_below_asianet(content, isl_blocks):
     for block in mal_list:
         ordered_items.append("\n".join(block))
 
-    # എല്ലാ ലിങ്കുകൾക്കും മുകളിൽ ഒരൊറ്റ സ്റ്റാർട്ടും താഴെ ഒരൊറ്റ എൻഡും മാത്രം നൽകുന്നു
+    # ഒരൊറ്റ ISL ബ്ലോക്ക് മാത്രം നിർമ്മിക്കുന്നു
     isl_section = f"{ISL_START_MARKER}\n\n" + "\n\n\n".join(ordered_items) + f"\n\n{ISL_END_MARKER}"
 
     lines = content.splitlines(keepends=True)
@@ -176,7 +177,7 @@ def main():
         except Exception as e:
             print(f"Failed to fetch {provider}: {e}")
 
-    # 3. Asianet-ന് താഴെ ഒറ്റ ബ്ലോക്കായി ISL മാച്ചുകൾ ചേർക്കുന്നു
+    # 3. Asianet-ന് താഴെ കൃത്യമായ ക്രമത്തിൽ ISL മാച്ചുകൾ ചേർക്കുന്നു
     updated_base = insert_below_asianet(base_content, isl_blocks)
 
     # 4. ഫയൽ സേവ് ചെയ്യുന്നു
