@@ -7,9 +7,9 @@ MARKER = "# --- LIVE EVENTS ---"
 ISL_START_MARKER = "# --- ISL SPECIAL EVENTS ---"
 ISL_END_MARKER = "# --- END ISL SPECIAL EVENTS ---"
 
-# മറ്റ് പ്രൊവൈഡർമാരുടെ ലൈവ് ഇവന്റുകൾ ഏറ്റവും താഴെ വേണമെങ്കിൽ True, വേണ്ടെങ്കിൽ False നൽകാം
 INCLUDE_OTHER_LIVE_EVENTS = True
 
+# മെയിൻ സോഴ്സും മറ്റ് സോഴ്സുകളും
 PLAYLISTS = {
     "SonyLiv": "https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u",
     "Fancode": "https://github.com/kajju027/Fancode-Events-Json/raw/refs/heads/main/fc.m3u",
@@ -29,6 +29,7 @@ def get_isl_type(block_lines, provider):
     full_text = " ".join(block_lines)
     full_lower = full_text.lower()
 
+    # മെയിൻ സോഴ്സ് ആയ SonyLiv-ൽ നിന്ന് മാത്രം ISL മാച്ചുകൾ കണ്ടെത്തുന്നു
     is_sony = (provider.lower() == "sonyliv") or ("sony" in full_lower)
     if not is_sony:
         return None
@@ -40,23 +41,23 @@ def get_isl_type(block_lines, provider):
     if not re.search(match_keywords, full_lower):
         return None
 
-    # മറ്റ് ഭാഷകൾ പൂർണ്ണമായി ഒഴിവാക്കുന്നു
     if re.search(r'(?i)(\bhindi\b|\btamil\b|\bbengali\b|\btelugu\b|\bkannada\b|\bmarathi\b|\[hin\]|\[tam\]|\[ben\])', full_lower):
         return None
 
-    # മലയാളം പരിശോധിക്കുന്നു
     if re.search(r'(?i)(\bmal\b|\[mal\]|_mal|/mal/|\bmalayalam\b|മലയാളം)', full_lower):
         return 'Malayalam'
     
-    # ഇംഗ്ലീഷ് പരിശോധിക്കുന്നു
     if re.search(r'(?i)(\beng\b|\[eng\]|_eng|/eng/|\benglish\b|ഇംഗ്ലീഷ്)', full_lower):
         return 'English'
 
     return None
 
 
-def remove_all_isl_sections(content):
-    """ഫയലിൽ എവിടെയെല്ലാം പഴയ ISL ടാഗുകളും ബ്ലോക്കുകളും ഉണ്ടോ അവ പൂർണ്ണമായി നീക്കം ചെയ്യുന്നു."""
+def clean_existing_sections(content):
+    """ഫയലിലുള്ള പഴയ ISL ബ്ലോക്കുകളും ലൈവ് ഇവന്റ് മാർക്കറുകളും പൂർണ്ണമായി നീക്കം ചെയ്യുന്നു."""
+    if MARKER in content:
+        content = content.split(MARKER)[0].rstrip()
+    
     while ISL_START_MARKER in content and ISL_END_MARKER in content:
         start_idx = content.find(ISL_START_MARKER)
         end_idx = content.find(ISL_END_MARKER) + len(ISL_END_MARKER)
@@ -64,10 +65,8 @@ def remove_all_isl_sections(content):
             content = content[:start_idx] + content[end_idx:]
         else:
             break
-    
-    # ഒരു ടാഗ് മാത്രം ബാക്കി നിന്നിട്ടുണ്ടെങ്കിൽ അതും ഒഴിവാക്കുന്നു
+            
     content = content.replace(ISL_START_MARKER, "").replace(ISL_END_MARKER, "")
-    content = re.sub(r'\n{3,}', '\n\n', content)
     return content.strip()
 
 
@@ -75,7 +74,6 @@ def insert_below_asianet(content, isl_blocks):
     eng_list = isl_blocks.get("English", [])
     mal_list = isl_blocks.get("Malayalam", [])
 
-    # സോഴ്സിൽ മാച്ചുകൾ ഒന്നും ഇല്ലെങ്കിൽ ISL സെക്ഷൻ ഒട്ടും ചേർക്കില്ല (പഴയത് പൂർണ്ണമായി പോയിട്ടുണ്ടാവും)
     if not eng_list and not mal_list:
         return content
 
@@ -122,21 +120,15 @@ def main():
     live_blocks = []
     seen_base_urls = set()
 
-    # 1. നിലവിലുള്ള ഫയൽ റീഡ് ചെയ്യുന്നു
+    # 1. നിലവിലുള്ള ഫയൽ വായിക്കുന്നു
     base_content = "#EXTM3U\n\n"
     if os.path.exists(OUTPUT):
         with open(OUTPUT, "r", encoding="utf-8", errors="ignore") as f:
             content = f.read()
 
-        if MARKER in content:
-            base_content = content.split(MARKER)[0].rstrip() + "\n\n"
-        elif content.strip():
-            base_content = content.strip() + "\n\n"
+        base_content = clean_existing_sections(content)
 
-    # 2. ഫയലിലുള്ള എല്ലാ പഴയ ISL സെക്ഷനുകളും പൂർണ്ണമായി ക്ലീൻ ചെയ്യുന്നു
-    base_content = remove_all_isl_sections(base_content)
-
-    # 3. സോഴ്സ് പ്ലേലിസ്റ്റുകൾ ഫെച്ച് ചെയ്ത് പ്രോസസ്സ് ചെയ്യുന്നു
+    # 2. സോഴ്സ് പ്ലേലിസ്റ്റുകൾ ഫെച്ച് ചെയ്ത് പ്രോസസ്സ് ചെയ്യുന്നു
     for provider, url in PLAYLISTS.items():
         print(f"Checking {provider}...")
 
@@ -175,6 +167,7 @@ def main():
                     if base_stream_url not in seen_base_urls:
                         seen_base_urls.add(base_stream_url)
 
+                        # സോഴ്സ് പ്രൊവൈഡർ അനുസരിച്ച് ISL ഫിൽട്ടർ പരിശോധിക്കുന്നു
                         isl_type = get_isl_type(block, provider)
                         if isl_type:
                             isl_blocks[isl_type].append(block)
@@ -186,10 +179,10 @@ def main():
         except Exception as e:
             print(f"Failed to fetch {provider}: {e}")
 
-    # 4. സോഴ്സിൽ ലിങ്കുകൾ ഉണ്ടെങ്കിൽ മാത്രം Asianet-ന് താഴെ ചേർക്കുന്നു, ഇല്ലെങ്കിൽ ഒഴിവാക്കപ്പെടും
+    # 3. Asianet-ന് താഴെ ISL മാച്ചുകൾ ചേർക്കുന്നു
     updated_base = insert_below_asianet(base_content, isl_blocks)
 
-    # 5. ഫയൽ സേവ് ചെയ്യുന്നു
+    # 4. ഫയൽ സേവ് ചെയ്യുന്നു
     with open(OUTPUT, "w", encoding="utf-8") as out:
         out.write(updated_base.rstrip() + "\n\n")
 
