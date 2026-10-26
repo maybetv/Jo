@@ -119,7 +119,7 @@ def insert_below_asianet(content, isl_blocks):
 def main():
     isl_blocks = {"English": [], "Malayalam": []}
     live_blocks = []
-    seen_urls = set()
+    seen_base_urls = set()  # ടോക്കണുകൾ ഒഴിവാക്കി മെയിൻ പാത്ത് മാത്രം ട്രാക്ക് ചെയ്യാൻ
 
     # 1. നിലവിലുള്ള ഫയൽ റീഡ് ചെയ്യുന്നു
     base_content = "#EXTM3U\n\n"
@@ -168,14 +168,18 @@ def main():
                         break
                     i += 1
 
-                if stream and stream not in seen_urls:
-                    seen_urls.add(stream)
+                if stream:
+                    # ടോക്കണുകൾ (Query parameters) ഒഴിവാക്കി മെയിൻ URL മാത്രം പരിശോധിക്കുന്നു
+                    base_stream_url = stream.split('?')[0]
 
-                    isl_type = get_isl_type(block, provider)
-                    if isl_type:
-                        isl_blocks[isl_type].append(block)
-                    else:
-                        live_blocks.append("\n".join(block))
+                    if base_stream_url not in seen_base_urls:
+                        seen_base_urls.add(base_stream_url)
+
+                        isl_type = get_isl_type(block, provider)
+                        if isl_type:
+                            isl_blocks[isl_type].append(block)
+                        else:
+                            live_blocks.append("\n".join(block))
 
                 i += 1
 
