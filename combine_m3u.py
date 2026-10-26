@@ -24,7 +24,7 @@ HEADERS = {
 }
 
 
-def get_isl_type(block_lines, provider):
+def get_isl_mal_eng_type(block_lines, provider):
     full_text = " ".join(block_lines)
     full_lower = full_text.lower()
 
@@ -32,45 +32,56 @@ def get_isl_type(block_lines, provider):
     if not is_sony:
         return None
 
-    match_keywords = (
-        r'\b(isl|isl\d+|indian super league|footlive|kerala blasters|blasters|kbfc|east bengal|mohun bagan|mumbai city|bengaluru fc|chennaiyin|goa|hyderabad|jamshedpur|northeast united|odisha|punjab|churchill brothers)\b'
-        r'|കേരള|ബ്ലാസ്റ്റേഴ്സ്'
-    )
+    match_keywords = r'\b(isl|isl\d+|footlive)\b'
     if not re.search(match_keywords, full_lower):
-        return None
-
-    if re.search(r'(?i)(\bhindi\b|\btamil\b|\bbengali\b|\btelugu\b|\bkannada\b|\bmarathi\b|\[hin\]|\[tam\]|\[ben\])', full_lower):
         return None
 
     if re.search(r'(?i)(\bmal\b|\[mal\]|_mal|/mal/|\bmalayalam\b|മലയാളം)', full_lower):
         return 'Malayalam'
-    
-    if re.search(r'(?i)(\beng\b|\[eng\]|_eng|/eng/|\benglish\b|ഇംഗ്ലീഷ്)', full_lower):
+    elif re.search(r'(?i)(\beng\b|\[eng\]|_eng|/eng/|\benglish\b|ഇംഗ്ലീഷ്)', full_lower):
         return 'English'
 
     return None
 
 
-def clean_existing_sections(content):
+def clean_file_content(content):
+    """ഫയലിലുള്ള പഴയ ISL ടാഗുകളും സോഴ്സിൽ ഇല്ലാത്ത പഴയ സോണി/ISL ലിങ്കുകളും പൂർണ്ണമായി നീക്കം ചെയ്യുന്നു."""
     if MARKER in content:
-        content = content.split(MARKER)[0].rstrip()
-    
-    while ISL_START_MARKER in content and ISL_END_MARKER in content:
-        start_idx = content.find(ISL_START_MARKER)
-        end_idx = content.find(ISL_END_MARKER) + len(ISL_END_MARKER)
+        base_part = content.split(MARKER)[0]
+    else:
+        base_part = content
+
+    while ISL_START_MARKER in base_part and ISL_END_MARKER in base_part:
+        start_idx = base_part.find(ISL_START_MARKER)
+        end_idx = base_part.find(ISL_END_MARKER) + len(ISL_END_MARKER)
         if start_idx < end_idx:
-            content = content[:start_idx] + content[end_idx:]
+            base_part = base_part[:start_idx] + base_part[end_idx:]
         else:
             break
             
-    content = content.replace(ISL_START_MARKER, "").replace(ISL_END_MARKER, "")
-    return content.strip()
+    base_part = base_part.replace(ISL_START_MARKER, "").replace(ISL_END_MARKER, "")
+
+    lines = base_part.splitlines(keepends=True)
+    cleaned_lines = []
+    skip = False
+    
+    for line in lines:
+        if ('sonyliv' in line.lower() or 'isl' in line.lower() or 'footlive' in line.lower()) and not ('asianet' in line.lower()):
+            if cleaned_lines and cleaned_lines[-1].startswith("#EXTINF"):
+                cleaned_lines.pop()
+            skip = True
+            continue
+            
+        if skip and (line.startswith("http://") or line.startswith("https://") or line.startswith("#KODIPROP") or line.startswith("PlayBackConfig") or line.strip() == ""):
+            continue
+        else:
+            skip = False
+            cleaned_lines.append(line)
+
+    return "".join(cleaned_lines).strip()
 
 
-def insert_below_asianet(content, isl_blocks):
-    eng_list = isl_blocks.get("English", [])
-    mal_list = isl_blocks.get("Malayalam", [])
-
+def insert_below_asianet(content, mal_list, eng_list):
     if not eng_list and not mal_list:
         return content
 
@@ -80,6 +91,7 @@ def insert_below_asianet(content, isl_blocks):
     for block in mal_list:
         ordered_items.append("\n".join(block))
 
+    # ലിങ്കുകൾക്ക് ഇടയിൽ രണ്ട് ലൈൻ ഗ്യാപ്പും ഒറ്റ ബ്ലോക്കും നൽകുന്നു
     isl_section = f"{ISL_START_MARKER}\n\n" + "\n\n\n".join(ordered_items) + f"\n\n{ISL_END_MARKER}"
 
     lines = content.splitlines(keepends=True)
@@ -113,7 +125,8 @@ def insert_below_asianet(content, isl_blocks):
 
 
 def main():
-    isl_blocks = {"English": [], "Malayalam": []}
+    malayalam_isl = []
+    english_isl = []
     live_blocks = []
     seen_base_urls = set()
 
@@ -121,7 +134,7 @@ def main():
     if os.path.exists(OUTPUT):
         with open(OUTPUT, "r", encoding="utf-8", errors="ignore") as f:
             content = f.read()
-        base_content = clean_existing_sections(content)
+        base_content = clean_file_content(content)
 
     for provider, url in PLAYLISTS.items():
         print(f"Checking {provider}...")
@@ -161,9 +174,12 @@ def main():
                     if base_stream_url not in seen_base_urls:
                         seen_base_urls.add(base_stream_url)
 
-                        isl_type = get_isl_type(block, provider)
-                        if isl_type:
-                            isl_blocks[isl_type].append(block)
+                        lang_type = get_isl_mal_eng_type(block, provider)
+                        
+                        if lang_type == 'Malayalam':
+                            malayalam_isl.append(block)
+                        elif lang_type == 'English':
+                            english_isl.append(block)
                         else:
                             live_blocks.append("\n".join(block))
 
@@ -172,7 +188,7 @@ def main():
         except Exception as e:
             print(f"Failed to fetch {provider}: {e}")
 
-    updated_base = insert_below_asianet(base_content, isl_blocks)
+    updated_base = insert_below_asianet(base_content, malayalam_isl, english_isl)
 
     with open(OUTPUT, "w", encoding="utf-8") as out:
         out.write(updated_base.rstrip() + "\n\n")
