@@ -32,8 +32,9 @@ def get_isl_mal_eng_type(block_lines, provider):
     if not is_sony:
         return None
 
-    match_keywords = r'\b(isl|isl\d+|footlive)\b'
-    if not re.search(match_keywords, full_lower):
+    # sonyliv- നമ്പറുകളും ഒപ്പം isl അല്ലെങ്കിൽ footlive കീവേഡുകളും ഓട്ടോമാറ്റിക്കായി റെക്കഗ്നൈസ് ചെയ്യുന്നു
+    match_pattern = r'(sonyliv-\d+|\bisl\b|\bisl\d+\b|\bfootlive\b)'
+    if not re.search(match_pattern, full_lower):
         return None
 
     if re.search(r'(?i)(\bmal\b|\[mal\]|_mal|/mal/|\bmalayalam\b|മലയാളം)', full_lower):
@@ -45,7 +46,10 @@ def get_isl_mal_eng_type(block_lines, provider):
 
 
 def clean_file_content(content):
-    """ഫയലിലുള്ള പഴയ ISL ടാഗുകളും സോഴ്സിൽ ഇല്ലാത്ത പഴയ സോണി/ISL ലിങ്കുകളും പൂർണ്ണമായി നീക്കം ചെയ്യുന്നു."""
+    """
+    നമ്പറുകൾ എന്തുതന്നെയായാലും 'sonyliv-' പാറ്റേണും ISL കീവേഡും വെച്ച് 
+    പഴയ ISL മാച്ചുകൾ മാത്രം സുരക്ഷിതമായി നീക്കം ചെയ്യുന്നു.
+    """
     if MARKER in content:
         base_part = content.split(MARKER)[0]
     else:
@@ -66,7 +70,9 @@ def clean_file_content(content):
     skip = False
     
     for line in lines:
-        if ('sonyliv' in line.lower() or 'isl' in line.lower() or 'footlive' in line.lower()) and not ('asianet' in line.lower()):
+        line_lower = line.lower()
+        # sonyliv- നമ്പറുകളും isl/footlive ഉള്ളവ മാത്രം ക്ലീൻ ചെയ്യുന്നു (സ്റ്റാറ്റിക് ചാനലുകളെ ഒഴിവാക്കി)
+        if (re.search(r'sonyliv-\d+', line_lower) or 'footlive' in line_lower) and ('isl' in line_lower or 'footlive' in line_lower) and not ('asianet' in line.lower()):
             if cleaned_lines and cleaned_lines[-1].startswith("#EXTINF"):
                 cleaned_lines.pop()
             skip = True
@@ -91,7 +97,6 @@ def insert_below_asianet(content, mal_list, eng_list):
     for block in mal_list:
         ordered_items.append("\n".join(block))
 
-    # ലിങ്കുകൾക്ക് ഇടയിൽ രണ്ട് ലൈൻ ഗ്യാപ്പും ഒറ്റ ബ്ലോക്കും നൽകുന്നു
     isl_section = f"{ISL_START_MARKER}\n\n" + "\n\n\n".join(ordered_items) + f"\n\n{ISL_END_MARKER}"
 
     lines = content.splitlines(keepends=True)
