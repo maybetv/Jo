@@ -628,62 +628,80 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
-
 # --- LIVE EVENTS ---
+
 
 #EXTINF:-1 tvg-id="sonyliv-1090550767" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027300/1792876687980737_NZvsIND_3rd_t20i_clean_landscape_thumb.jpg" group-title="Cricket", 3rd T20I | India Tour of New Zealand 2026 [English]
 https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2119931/cricodi_2710/ENG/master.m3u8?hdnea=exp=1793123467~acl=/*~id=53353272139169536400317577047093~hmac=0145e8f7464062d1e0a5bd152e464eeb65d2f87cc23fe617d13e2e019293e06e
 
+
 #EXTINF:-1 tvg-id="sonyliv-1090550767" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027300/1792876687980737_NZvsIND_3rd_t20i_clean_landscape_thumb.jpg" group-title="Cricket", 3rd T20I | India Tour of New Zealand 2026 [Hindi]
 https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT0b06prod-PlaybackConfig/2119921/cricodi_2710/HIN/master.m3u8?hdnea=exp=1793123467~acl=/*~id=53353272139169536400317577047093~hmac=0145e8f7464062d1e0a5bd152e464eeb65d2f87cc23fe617d13e2e019293e06e
+
 
 #EXTINF:-1 tvg-id="sonyliv-1090550767" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027300/1792876687980737_NZvsIND_3rd_t20i_clean_landscape_thumb.jpg" group-title="Cricket", 3rd T20I | India Tour of New Zealand 2026 [Telugu]
 https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT6b27prod-PlaybackConfig/2119941/cricodi_2710/TEL/master.m3u8?hdnea=exp=1793123467~acl=/*~id=53353272139169536400317577047093~hmac=0145e8f7464062d1e0a5bd152e464eeb65d2f87cc23fe617d13e2e019293e06e
 
+
 #EXTINF:-1 tvg-id="sonyliv-1090550767" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027300/1792876687980737_NZvsIND_3rd_t20i_clean_landscape_thumb.jpg" group-title="Cricket", 3rd T20I | India Tour of New Zealand 2026 [Tamil]
 https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa270prod-PlaybackConfig/2119951/cricodi_2710/TAM/master.m3u8?hdnea=exp=1793123467~acl=/*~id=53353272139169536400317577047093~hmac=0145e8f7464062d1e0a5bd152e464eeb65d2f87cc23fe617d13e2e019293e06e
+
 
 #EXTINF:-1 tvg-id="sonyliv-1090550767" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027300/1792876687980737_NZvsIND_3rd_t20i_clean_landscape_thumb.jpg" group-title="Cricket", 3rd T20I | India Tour of New Zealand 2026 [Kannada]
 https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT40a1prod-PlaybackConfig/2119782/cricodi_2710/KAN/master.m3u8?hdnea=exp=1793123467~acl=/*~id=53353272139169536400317577047093~hmac=0145e8f7464062d1e0a5bd152e464eeb65d2f87cc23fe617d13e2e019293e06e
 
+
 #EXTINF:-1 tvg-id="4250517" tvg-name="Netherlands vs Oman [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png" group-title="Cricket",Netherlands vs Oman [English]
 https://in-mc-flive.fancode.com/mumbai/4250517_english_hls_c6aadfde282620_1ta-di_h264/720p.m3u8?hdntl=Expires=1793164691~_GO=Generated~acl=/mumbai/4250517_english_hls_c6aadfde282620_1ta-di_h264/*~SessionID=fc-app_sportsguruand_2fd_watcho_dfb4ee5c-2026-4a~Signature=ATFKiJsQpElYsVwEsYUdxapFIxqwU9D07IBxfgfZUclJ2vVHKssUyYTjJrBSziwDEkZ0ESbe7uCn9OQo5grCejdbzpoP
+
 
 #EXTINF:-1 tvg-id="4250344" tvg-name="Jersey vs Kuwait [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png" group-title="Cricket",Jersey vs Kuwait [English]
 https://in-mc-flive.fancode.com/mumbai/4250344_english_hls_de2fcdd6e014877_1ta-di_h264/720p.m3u8?hdntl=Expires=1793169534~_GO=Generated~acl=/mumbai/4250344_english_hls_de2fcdd6e014877_1ta-di_h264/*~SessionID=fc-app_sportsguruand_364_watcho_7e30247d-cf53-48~Signature=ATFKiJvwMDLREd48lRC_SU2RW80t5I_VUBUS7RGfnwvUipTxFloJYBAzOw9a0BUrtnJ8GSQ04S2N301dNjt6hSvk7HIL
 
+
 #EXTINF:-1 tvg-id="4250333" tvg-name="Namibia vs Ireland [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-Ireland_fc-web.jpg" group-title="Cricket",Namibia vs Ireland [English]
 https://in-mc-flive.fancode.com/mumbai/4250333_english_hls_13eab2201f23744_1ta-di_h264/720p.m3u8?hdntl=Expires=1793171352~_GO=Generated~acl=/mumbai/4250333_english_hls_13eab2201f23744_1ta-di_h264/*~SessionID=fc-app_sportsguruand_d82_watcho_6221b301-02e4-42~Signature=ATFKiJsL97Jh5IrrQkjuqIK5j-s4mKWRj_T289JTpTW_TeZsCBojGI1r-E-N7oEbGeT2WpRKwHX3h9cyPGnK2xihyu4H
+
 
 #EXTINF:-1 tvg-id="4249783" tvg-name="South Africa vs Australia [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Cricket",South Africa vs Australia [English]
 https://in-mc-flive.fancode.com/mumbai/4249783_english_hls_97c5a4780083137_1ta-di_h264/720p.m3u8?hdntl=Expires=1793173775~_GO=Generated~acl=/mumbai/4249783_english_hls_97c5a4780083137_1ta-di_h264/*~SessionID=fc-app_sportsguruand_c4e_watcho_586cba68-53ee-46~Signature=ATFKiJvsjuNKmS39CEGJCbz7ufSXXXjr0NZqjqmaVkTXvB6FG0GniHiyTAobbPIg-DSZad66dtIgRGNswqK1vLHSBo4D
 
+
 #EXTINF:-1 tvg-id="4250357" tvg-name="Karnali Yaks vs Janakpur Bolts [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250357_53124_KNY_JKB_fc-Web.jpg" group-title="Cricket",Karnali Yaks vs Janakpur Bolts [English]
 https://in-mc-flive.fancode.com/mumbai/4250357_english_hls_0360aac3556241_1ta-di_h264/720p.m3u8?hdntl=Expires=1793185296~_GO=Generated~acl=/mumbai/4250357_english_hls_0360aac3556241_1ta-di_h264/*~SessionID=fc-app_sportsguruand_19d_watcho_4f4f86a3-1e5b-44~Signature=ATFKiJvp0LsJMIpkxI8Q5aBnnF7P6z7O5J9-7ucMzQEFvj0a2rSZrgDeT-IbMwcHyLoSQS3oQoYwukZX4Ujy1-tBBcQH
+
 
 #EXTINF:-1 tvg-id="4250533" tvg-name="Haryana Hustlers vs Chandigarh Chargers [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250533_53137_HH_CC_FC-Web.png" group-title="Cricket",Haryana Hustlers vs Chandigarh Chargers [English]
 https://in-mc-flive.fancode.com/mumbai/4250533_english_hls_5eecbc9bf133650_1ta-di_h264/720p.m3u8?hdntl=Expires=1793173776~_GO=Generated~acl=/mumbai/4250533_english_hls_5eecbc9bf133650_1ta-di_h264/*~SessionID=fc-app_sportsguruand_fb4_watcho_89fd6a80-9c0f-48~Signature=ATFKiJsAMq3f4QBcnJPsie-zTQDb9zQBbdUMhy3J7unPzUse7iDAonmxPJ2j-JysEx8oe8rmp-4Ao7PcoOUzPuQiiBIL
 
+
 #EXTINF:-1 tvg-id="4248720" tvg-name="Shanghai Port vs Cong An Ha Noi [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248720_53053_SHG_CAH_fc-web.jpg" group-title="Football",Shanghai Port vs Cong An Ha Noi [English]
 https://in-mc-flive.fancode.com/mumbai/4248720_english_hls_6565a0123240985_1ta-di_h264/720p.m3u8?hdntl=Expires=1793181044~_GO=Generated~acl=/mumbai/4248720_english_hls_6565a0123240985_1ta-di_h264/*~SessionID=fc-app_sportsguruand_1f5_watcho_ed2e37ee-2b16-40~Signature=ATFKiJucTjooDmS5WCBrKP4Q8GHo_NE7h-0wpAzXUF9CD5FO8ET12hoXOBbx3UHqZowlGeBqV0SWUKisSByNn4vvP4EK
+
 
 #EXTINF:-1 tvg-id="4248721" tvg-name="Johor Darul Ta'zim vs Port FC [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248721_53053_JDT_PFC_fc-web.jpg" group-title="Football",Johor Darul Ta'zim vs Port FC [English]
 https://in-mc-flive.fancode.com/mumbai/4248721_english_hls_b3d78a634125890_1ta-di_h264/720p.m3u8?hdntl=Expires=1793181045~_GO=Generated~acl=/mumbai/4248721_english_hls_b3d78a634125890_1ta-di_h264/*~SessionID=fc-app_sportsguruand_d91_watcho_6cd46d6d-bfd1-43~Signature=ATFKiJue40cvnv7kBjeOeba0MEEj1EWb3tUsX9L5vkUs4ZsvVbFvc4LfTHxKA-4ueHJ3hfMxE1NWhT-nJZkKclwBj5EG
 
+
 #EXTINF:-1 tvg-id="4248722" tvg-name="Daejeon Hana Citizen FC vs Vissel Kobe [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248722_53053_DAC_VIS_fc-web.jpg" group-title="Football",Daejeon Hana Citizen FC vs Vissel Kobe [English]
 https://in-mc-flive.fancode.com/mumbai/4248722_english_hls_7b39da61fa4700_1ta-di_h264/720p.m3u8?hdntl=Expires=1793181046~_GO=Generated~acl=/mumbai/4248722_english_hls_7b39da61fa4700_1ta-di_h264/*~SessionID=fc-app_sportsguruand_ef6_watcho_061fe10a-e5c9-44~Signature=ATFKiJvo5AFGsV2GpqGNxg6c1WhNNGqUv8SKN9h0rEu5-zB2rj9EawFWjZ47IojxiWwNgSJ-zy36UlB3zUGKUPlKKYcO
+
 
 #EXTINF:-1 tvg-id="4248723" tvg-name="Kyoto Sanga vs Newcastle Jets [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248723_53053_KYS_NJ_fc-web.jpg" group-title="Football",Kyoto Sanga vs Newcastle Jets [English]
 https://in-mc-flive.fancode.com/mumbai/4248723_english_hls_380992af4276697_1ta-di_h264/720p.m3u8?hdntl=Expires=1793181048~_GO=Generated~acl=/mumbai/4248723_english_hls_380992af4276697_1ta-di_h264/*~SessionID=fc-app_sportsguruand_9cf_watcho_96f9296b-c42e-4b~Signature=ATFKiJvmyliNugyhdf0CVD5axkc623M-hIMTlqqYwCGS0KW1eBePnuKYD-o_drcsN_ku0V6ZtDHLuhF9N0j1QN-FkSAB
 
+
 #EXTINF:-1 tvg-id="4249636" tvg-name="Glaubandich Court [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png" group-title="Tennis",Glaubandich Court [English]
 https://in-mc-flive.fancode.com/mumbai/4249636_english_hls_c755f6996c26929_1ta-di_h264/720p.m3u8?hdntl=Expires=1793182868~_GO=Generated~acl=/mumbai/4249636_english_hls_c755f6996c26929_1ta-di_h264/*~SessionID=fc-app_sportsguruand_c93_watcho_82c5ac78-56b8-49~Signature=ATFKiJuNbz4YLc28yrl1u9WKdgcfsKISdZmDdkxQu9jQCSSVa11QAvLLTqerSK8oRvyLh2NvfqFQ3kdTZh_FnDyb8bIC
+
 
 #EXTINF:-1 tvg-id="4249650" tvg-name="IWB Court 1 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png" group-title="Tennis",IWB Court 1 [English]
 https://in-mc-flive.fancode.com/mumbai/4249650_english_hls_8941f86d5194089_1ta-di_h264/720p.m3u8?hdntl=Expires=1793184687~_GO=Generated~acl=/mumbai/4249650_english_hls_8941f86d5194089_1ta-di_h264/*~SessionID=fc-app_sportsguruand_57e_watcho_0bffce30-ba70-4d~Signature=ATFKiJtTyflE2HswPlNbL0MmvvcImL5Vq0x_ezjpZVw3N_ggxJWlTW7QvyGqerzUHowkc-uXWrJjFc0dSbJabF4O9B0G
 
+
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
+
 
 #EXTINF:-1 tvg-id="82323211-4b35-424e-ac5a-dc97539277fb" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/y4vnyitg0v7gyqpy4xnm" tvg-lang="English" group-title="Cricket",English | 3rd ODI: Namibia vs Ireland (1st Innings)
 #KODIPROP:inputstream=inputstream.adaptive
@@ -696,6 +714,7 @@ https://ComeInNextMatch.com/4K.m3u8
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1793114108~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=224d666c6485615a3e9dadaa51e0d876c8c216153ed265b96554c67295494f16/manifest.mpd?vcfilter=82323211-4b35-424e-ac5a-dc97539277fb&
 
+
 #EXTINF:-1 tvg-id="f3d624d3-bd4d-463a-8ef6-d81b81334efe" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/mtmete74ontsci7areyt" tvg-lang="English" group-title="Cricket",English | Netherlands v Oman (2nd Innings)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -706,6 +725,7 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1793124005~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=8ec0938a0f8fa450ec9b63e600be1f0a4adfb80b80fc4ceef67144c528fc7a03/manifest.mpd?vcfilter=f3d624d3-bd4d-463a-8ef6-d81b81334efe&
+
 
 #EXTINF:-1 tvg-id="2eaf8738-7de7-44a6-98e0-0f942f231d07" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/bbpujcyxwa28hr6jjlwj" tvg-lang="English" group-title="Cricket",English | Kuwait v Jersey  (2nd Innings)
 #KODIPROP:inputstream=inputstream.adaptive
@@ -718,12 +738,14 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1793125805~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=3a05f90653068971903eeb3217c2bfd3c80b6b3181ef3b1b115cf656f2c498a1/manifest.mpd?vcfilter=2eaf8738-7de7-44a6-98e0-0f942f231d07&
 
+
 #EXTINF:-1 tvg-id="B0HN2PT7BB" tvg-name="Pakistan ODI Tri-Series 2026 - 5th Match - Pakistan vs Sri Lanka" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1751377a-8a97-41ca-8cfe-a48a200fae9c/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Pakistan ODI Tri-Series 2026 - 5th Match - Pakistan vs Sri Lanka
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=71c9587a489e14e4463fb01f0951bc69:2e5fcd0b450696f14c9f065364b6787b
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jcogtjna1p/out/v1/49e48e49b1b74230bc32c008303e962f/cenc.mpd
+
 
 #EXTINF:-1 tvg-id="B0HKDPRJRS" tvg-name="Australia tour of South Africa 2026 - 3rd Test - South Africa vs Australia" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.20a790a3-51e9-4ec1-9a8b-cb632845af2d/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Australia tour of South Africa 2026 - 3rd Test - South Africa vs Australia
 #KODIPROP:inputstream=inputstream.adaptive
@@ -732,12 +754,14 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jcogtjna1p/out/v1
 #KODIPROP:inputstream.adaptive.license_key=bdc52b31dcf25b0515a61fb9d0f444a2:468ae45daef1021713e7ea869a340f96
 https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/mdzi0aespt/out/v1/ebc753f4d4af40e481e5506bad35eb42/cenc.mpd
 
+
 #EXTINF:-1 tvg-id="B0H37FB27F" tvg-name="Predator European Championships: Spain" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.447494d8-1dc7-4b08-89c7-f04ce02111ea/10/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Predator European Championships: Spain
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
 https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
+
 
 #EXTINF:-1 tvg-id="B0HP69Z4HT" tvg-name="The Morning Drive" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7086bb27-816e-4519-a9f1-6537cf41f24b/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",The Morning Drive
 #KODIPROP:inputstream=inputstream.adaptive
@@ -746,12 +770,14 @@ https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9
 #KODIPROP:inputstream.adaptive.license_key=e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uenudg4x6g/out/v1/8b25f245771b4e5698d914b941c54982/cenc.mpd
 
+
 #EXTINF:-1 tvg-id="B0HN2PT7BB" tvg-name="Pakistan ODI Tri-Series 2026 - 5th Match - Pakistan vs Sri Lanka" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1751377a-8a97-41ca-8cfe-a48a200fae9c/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Pakistan ODI Tri-Series 2026 - 5th Match - Pakistan vs Sri Lanka
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=71c9587a489e14e4463fb01f0951bc69:2e5fcd0b450696f14c9f065364b6787b
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jcogtjna1p/out/v1/49e48e49b1b74230bc32c008303e962f/cenc.mpd
+
 
 #EXTINF:-1 tvg-id="B0HKDPRJRS" tvg-name="Australia tour of South Africa 2026 - 3rd Test - South Africa vs Australia" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.20a790a3-51e9-4ec1-9a8b-cb632845af2d/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Australia tour of South Africa 2026 - 3rd Test - South Africa vs Australia
 #KODIPROP:inputstream=inputstream.adaptive
@@ -760,6 +786,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jcogtjna1p/
 #KODIPROP:inputstream.adaptive.license_key=bdc52b31dcf25b0515a61fb9d0f444a2:468ae45daef1021713e7ea869a340f96
 https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yi1ah9sgsj/out/v1/ffe37797429b4ed28810e8d7735124fc/cenc.mpd
 
+
 #EXTINF:-1 tvg-id="B0HJ9YNQ91" tvg-name="South Africa vs. Australia" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1548c248-86f6-444f-94a6-0c2291f771c2/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",South Africa vs. Australia
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -767,10 +794,10 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yi1ah9sg
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
+
 #EXTINF:-1 tvg-id="B0HGD9C154" tvg-name="Tennis Today Live-Tokyo WTA & Guangzhou-WTA Early Rounds" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.582bf4c4-453f-4921-9f8f-a477afdd7cca/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Tennis Today Live-Tokyo WTA & Guangzhou-WTA Early Rounds
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
-
