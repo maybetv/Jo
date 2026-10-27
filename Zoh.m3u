@@ -634,6 +634,9 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 #EXTINF:-1 tvg-id="sonyliv-1090550766" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027325/1792938503930905_NZ_A_vs_IND_A_1st_Unofficial_Test_Day4_live_landscape_thumb.jpg" group-title="Cricket", 1st Unofficial Test - Day 4 | India A Tour of New Zealand [English]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTaf23prod-PlaybackConfig/2120299/criclive2610/ENG/master.m3u8?hdnea=exp=1793094665~acl=/*~id=33578001970725760259722790433657~hmac=b4570ecf0f0c79373633116b1fe4b505d13b3b0d416b3e7411370b66c1366e74
 
+#EXTINF:-1 tvg-id="4250532" tvg-name="Delhi Dynamites vs Uttrakhand Stars [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250532_53137_DLD_UTS_FC-Web.png" group-title="Cricket",Delhi Dynamites vs Uttrakhand Stars [English]
+https://in-mc-flive.fancode.com/mumbai/4250532_english_hls_8d8c6b71df3185_1ta-di_h264/720p.m3u8?hdntl=Expires=1793157424~_GO=Generated~acl=/mumbai/4250532_english_hls_8d8c6b71df3185_1ta-di_h264/*~SessionID=fc-app_sportsguruand_6bc_watcho_b5c06301-55a2-41~Signature=ATFKiJvSplQc3k04wfkIzTUKGOov_zb5kVnOxVv6DtUhnkkf8D-o_0ZKwOOcGLKDLD8ew9V12vuJRKzuRMMlXhdglR8L
+
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
 
