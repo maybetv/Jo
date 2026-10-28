@@ -676,9 +676,6 @@ https://in-mc-flive.fancode.com/mumbai/4249490_english_hls_94def54aa747178_1ta-d
 #EXTINF:-1 tvg-id="4249716" tvg-name="Liverpool vs Chelsea [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249716_53016_LIV_CHE_fc-web.jpg" group-title="Football",Liverpool vs Chelsea [English]
 https://in-mc-flive.fancode.com/mumbai/4249716_english_hls_dc760edd5a13591_1ta-di_h264/720p.m3u8?hdntl=Expires=1793303588~_GO=Generated~acl=/mumbai/4249716_english_hls_dc760edd5a13591_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e0e_watcho_565bfbd4-2a76-46~Signature=ATFKiJvl-MmdibDRz7y8Hx1Au8XSEFaHZpNRYyBFIdWEarTzfEtQavQpwgcjJ8OdJbeehBsLk1tslDa8Q2qH7VgcyG4K
 
-#EXTINF:-1 tvg-id="4249651" tvg-name="IWB Court 1 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png" group-title="Tennis",IWB Court 1 [English]
-https://in-mc-flive.fancode.com/mumbai/4249651_english_hls_f9093ad69c81693_1ta-di_h264/720p.m3u8?hdntl=Expires=1793296904~_GO=Generated~acl=/mumbai/4249651_english_hls_f9093ad69c81693_1ta-di_h264/*~SessionID=fc-app_sportsguruand_59b_watcho_8a5dd64c-44d3-4a~Signature=ATFKiJvNvBQ0iBOh5FaaZog6RpHCpIcFhO9vox5nf_wrBmz2zfUMJUB57YhYhDnttJusLqGaBrv8DkglJPRQia8H4GwF
-
 #EXTINF:-1 tvg-id="4249630" tvg-name="World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png" group-title="Tennis",World Feed [English]
 https://in-mc-flive.fancode.com/mumbai/4249630_english_hls_b555b035dd59328_1ta-di_h264/720p.m3u8?hdntl=Expires=1793276699~_GO=Generated~acl=/mumbai/4249630_english_hls_b555b035dd59328_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e86_watcho_45da19b1-1d59-46~Signature=ATFKiJs9INVx-IX45pkfNvxZlrT2xRBdHVr7YQG2349KpxeFJFJmYhxZBzCfJDNIZe49zxSFTCvly9uESq_101Q25vUI
 
@@ -691,10 +688,17 @@ https://in-mc-flive.fancode.com/mumbai/4249644_english_hls_8d8e73c39974541_1ta-d
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
 
+#EXTINF:-1 tvg-id="B0HN4TM41Z" tvg-name="Bournemouth vs. Villa" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2844dca7-66c8-42ed-b122-edd35cd9cd58/2/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",Bournemouth vs. Villa
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+
 #EXTINF:-1 tvg-id="B0GTZ7LJPW" tvg-name="Tennis Today Live-Basel-ATP & Vienna-ATP Early Rounds" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1e4d692f-7ce1-44cf-b8ce-08555a51d32b/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Tennis Today Live-Basel-ATP & Vienna-ATP Early Rounds
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
 
