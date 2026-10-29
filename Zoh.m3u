@@ -634,48 +634,38 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
-# --- LIVE EVENTS ---
 
+# --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="4249783" tvg-name="South Africa vs Australia [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Cricket",South Africa vs Australia [English]
 https://in-mc-flive.fancode.com/mumbai/4249783_english_hls_97c5a4780098274_1ta-di_h264/720p.m3u8?hdntl=Expires=1793347353~_GO=Generated~acl=/mumbai/4249783_english_hls_97c5a4780098274_1ta-di_h264/*~SessionID=fc-app_sportsguruand_9dc_watcho_451ef59e-7c99-4a~Signature=ATFKiJu8fmmi_uw3HRIpmryRB05f-MiQCtorybNbAZgW9zjJ0vP7019vYJ2ss2HdxEiH9eTP0DyCEasp-Jg065Tq-HYB
 
-
 #EXTINF:-1 tvg-id="4250518" tvg-name="Oman vs United Arab Emirates [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png" group-title="Cricket",Oman vs United Arab Emirates [English]
 https://in-mc-flive.fancode.com/mumbai/4250518_english_hls_923ba3241185095_1ta-di_h264/720p.m3u8?hdntl=Expires=1793337594~_GO=Generated~acl=/mumbai/4250518_english_hls_923ba3241185095_1ta-di_h264/*~SessionID=fc-app_sportsguruand_0c7_watcho_a03b2693-2ec1-4c~Signature=ATFKiJs1-8tCSQXSHlC6YinSkItnxPapjvNxlVoUkSQ32aD3iMmE0KKO5uX_Y-iQyVdItl6KAIm4uphXmdeZht8MOnYM
-
 
 #EXTINF:-1 tvg-id="4250388" tvg-name="Melbourne Stars Women vs Hobart Hurricanes Women [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250388_53125_MS-W_HB-W_fc-web_1793256237758.jpg" group-title="Cricket",Melbourne Stars Women vs Hobart Hurricanes Women [English]
 https://in-mc-flive.fancode.com/mumbai/4250388_english_hls_321fb9e3fd90092_1ta-di_h264/720p.m3u8?hdntl=Expires=1793347352~_GO=Generated~acl=/mumbai/4250388_english_hls_321fb9e3fd90092_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e43_watcho_79ac5ec9-360e-4f~Signature=ATFKiJsCM5YUhyTyoSI2iLmhLP__icE3JvouOn4nM1Av64mBIWxJqoRnWJsy_5fGAEAlveD1HszghYuP1s7Kp2qPp_YL
 
-
 #EXTINF:-1 tvg-id="4250360" tvg-name="Biratnagar Kings vs Karnali Yaks [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250360_53124_KNY_BK_fc-Web.jpg" group-title="Cricket",Biratnagar Kings vs Karnali Yaks [English]
 https://in-mc-flive.fancode.com/mumbai/4250360_english_hls_c17496c5a897481_1ta-di_h264/720p.m3u8?hdntl=Expires=1793358361~_GO=Generated~acl=/mumbai/4250360_english_hls_c17496c5a897481_1ta-di_h264/*~SessionID=fc-app_sportsguruand_ca0_watcho_56145e03-a372-47~Signature=ATFKiJt8w07IiZqhQDnMi7_pDVvoIChbLLtAOGsVXDGW1eNw8o3ohKkwQdm6xh0Aj8GZLSV_5P4vw_0hPZ0rxa4g-pQA
-
 
 #EXTINF:-1 tvg-id="4248997" tvg-name="Tampines Rovers FC vs Preah Khan Reach Svay Rieng FC [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248997_53057_TAM_PRK_fc-web_1789025066174.jpg" group-title="Football",Tampines Rovers FC vs Preah Khan Reach Svay Rieng FC [English]
 https://in-mc-flive.fancode.com/mumbai/4248997_english_hls_62d2e0b026340_1ta-di_h264/720p.m3u8?hdntl=Expires=1793354095~_GO=Generated~acl=/mumbai/4248997_english_hls_62d2e0b026340_1ta-di_h264/*~SessionID=fc-app_sportsguruand_a63_watcho_5abac343-6f7a-4c~Signature=ATFKiJtP14o6BZS7E1quDSSqyU5D8DIj9AIpU-e0t2lOXDAfRfY6y1BV3nlfnk7_xVq3BxbRypVLhL2PhbCAaWDzHn0L
 
-
 #EXTINF:-1 tvg-id="4248999" tvg-name="Gangwon FC vs Kitchee SC [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248999_53057_GW_KIT_fc-web_1789025065982.jpg" group-title="Football",Gangwon FC vs Kitchee SC [English]
 https://in-mc-flive.fancode.com/mumbai/4248999_english_hls_e496c26cd84894_1ta-di_h264/720p.m3u8?hdntl=Expires=1793354096~_GO=Generated~acl=/mumbai/4248999_english_hls_e496c26cd84894_1ta-di_h264/*~SessionID=fc-app_sportsguruand_150_watcho_c8f4c92e-7bd9-47~Signature=ATFKiJtVmgPHL-NCF196mK3yomINQwcHC44gkfI81sEDO5jpFIvjL0_fa2bQETwlqKTk5hZC7dEjtLF-rtEKomgN_kIH
-
 
 #EXTINF:-1 tvg-id="4250522" tvg-name="Round of 16 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hylo-Open-2026_fc-web.jpg" group-title="Badminton",Round of 16 [English]
 https://in-mc-flive.fancode.com/mumbai/4250522_english_hls_a264dda52960092_1ta-di_h264/720p.m3u8?hdntl=Expires=1793350423~_GO=Generated~acl=/mumbai/4250522_english_hls_a264dda52960092_1ta-di_h264/*~SessionID=fc-app_sportsguruand_2eb_watcho_84cbe7e7-6086-4e~Signature=ATFKiJuzgQmIH7V0HrbSwSNtf5aIWB7u3tKFwFrvqPJWYG8ITctU7R_tkd_FSgmWIcD4hzfQcPLZs_tQ7F8JjcCcYvcH
 
-
 #EXTINF:-1 tvg-id="4249645" tvg-name="World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png" group-title="Tennis",World Feed [English]
 https://in-mc-flive.fancode.com/mumbai/4249645_english_hls_4a573c125888268_1ta-di_h264/720p.m3u8?hdntl=Expires=1793357148~_GO=Generated~acl=/mumbai/4249645_english_hls_4a573c125888268_1ta-di_h264/*~SessionID=fc-app_sportsguruand_a76_watcho_564447f0-3a2a-4f~Signature=ATFKiJtfgxOVF8BvF9Ieijm46BC1Z816f4slSFBYOsgY3LtK9U2qiGuPJLEDhW-s0WFPtkYyJ1y4oIlwN6pgkpv1k4sB
-
 
 #EXTINF:-1 tvg-id="4250607" tvg-name="Fairplay Court [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png" group-title="Tennis",Fairplay Court [English]
 https://in-mc-flive.fancode.com/mumbai/4250607_english_hls_514010e5a214434_1ta-di_h264/720p.m3u8?hdntl=Expires=1793358968~_GO=Generated~acl=/mumbai/4250607_english_hls_514010e5a214434_1ta-di_h264/*~SessionID=fc-app_sportsguruand_10f_watcho_e786925c-209a-4f~Signature=ATFKiJtw3tagViFkKWIUiOFmHxP70vs1Ji6b9q0D4-zFcigDhLE6DBhJzTK5sd07tWdy5xKs8v3imRb9YnIHiUlAIlUA
 
-
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
-
 
 #EXTINF:-1 tvg-id="e930612b-2908-4bd9-a515-bad858446d33" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/fyiinpxqmtpa91fxuhjw" tvg-lang="English" group-title="Cricket",English | United Arab Emirates v Oman (2nd Innings)
 #KODIPROP:inputstream=inputstream.adaptive
@@ -688,7 +678,6 @@ https://ComeInNextMatch.com/4K.m3u8
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1793294108~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=eaa6f52a60337a2d81fefcdab39d1fec91bfa266d9784b56060b9224152e168f/manifest.mpd?vcfilter=e930612b-2908-4bd9-a515-bad858446d33&
 
-
 #EXTINF:-1 tvg-id="B0HKDPRJRS" tvg-name="Australia tour of South Africa 2026 - 3rd Test - South Africa vs Australia" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.20a790a3-51e9-4ec1-9a8b-cb632845af2d/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Australia tour of South Africa 2026 - 3rd Test - South Africa vs Australia
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -696,54 +685,61 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #KODIPROP:inputstream.adaptive.license_key=cad7365855ea0ac0653144882a46e9a6:0ee40359b01264cce5aac3140096c927
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mv8bhgey8i/out/v1/46e42bfd066b481c8bb856dfe5c2dc85/cenc.mpd
 
-
 #EXTINF:-1 tvg-id="B0HG6HPFD3" tvg-name="Pakistan ODI Tri-Series 2026 - 6th Match - Sri Lanka vs England" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.84dc9ca5-fdc8-46c9-bc90-b6008efe1e58/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Pakistan ODI Tri-Series 2026 - 6th Match - Sri Lanka vs England
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ba4284442c87f52ddeaa95c65d236805:56f0808d1f1fbfc0703b384081f1d340
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tw6qgpez4i/out/v1/fedd5ae90ed64a94a5a6b442a4c86e75/cenc.mpd
-
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/tw6qgpez4i/out/v1/fedd5ae90ed64a94a5a6b442a4c86e75/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HMW9M5NH" tvg-name="Womens Big Bash League 2026 - 2nd Match -Melbourne Stars Women vs Hobart Hurricanes Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0eda8909-da30-4ff4-9960-e6c505a894c4/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Womens Big Bash League 2026 - 2nd Match -Melbourne Stars Women vs Hobart Hurricanes Women
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f9bba6398d727a70e33b03bc2c1957d:8df87cf8c3d56350ea0297ae273de0c3
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/8x9f8fvjwv/out/v1/15d9b1a637644c4baa527bd43e8d87a5/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8x9f8fvjwv/out/v1/15d9b1a637644c4baa527bd43e8d87a5/cenc.mpd
 
-
-#EXTINF:-1 tvg-id="B0HL68J823" tvg-name="Early Rounds" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.541c776d-23ee-49bf-aad8-44b8821b574d/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Early Rounds
+#EXTINF:-1 tvg-id="B0HL8WTGB3" tvg-name="LIVE: HotelPlanner Final 2026 Day 1" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2936d252-90dc-4a87-a4b4-c76e8d484307/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",LIVE: HotelPlanner Final 2026 Day 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=9590ea43d0f770c24205e23440d8af8c:b127454380d8fffc3acd12575b2b4adb
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd
 
-
-#EXTINF:-1 tvg-id="B0HN7TKWTX" tvg-name="EuroTour Spanish Open Billiards-2026 Predator EuroTour: Spanish Open" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.54acd68c-aa00-48d5-8eee-8df4dde8932c/13/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",EuroTour Spanish Open Billiards-2026 Predator EuroTour: Spanish Open
+#EXTINF:-1 tvg-id="B0HKY9Y9J7" tvg-name="The Morning Drive" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.db3c0b0d-b563-4732-93ba-e5db5458d97e/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",The Morning Drive
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
-
+#KODIPROP:inputstream.adaptive.license_key=e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HG6HPFD3" tvg-name="Pakistan ODI Tri-Series 2026 - 6th Match - Sri Lanka vs England" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.84dc9ca5-fdc8-46c9-bc90-b6008efe1e58/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Pakistan ODI Tri-Series 2026 - 6th Match - Sri Lanka vs England
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ba4284442c87f52ddeaa95c65d236805:56f0808d1f1fbfc0703b384081f1d340
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tw6qgpez4i/out/v1/fedd5ae90ed64a94a5a6b442a4c86e75/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/tw6qgpez4i/out/v1/fedd5ae90ed64a94a5a6b442a4c86e75/cenc.mpd
 
+#EXTINF:-1 tvg-id="B0HN7TKWTX" tvg-name="EuroTour Spanish Open Billiards-2026 Predator EuroTour: Spanish Open" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.54acd68c-aa00-48d5-8eee-8df4dde8932c/13/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",EuroTour Spanish Open Billiards-2026 Predator EuroTour: Spanish Open
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HKDPRJRS" tvg-name="Australia tour of South Africa 2026 - 3rd Test - South Africa vs Australia" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.20a790a3-51e9-4ec1-9a8b-cb632845af2d/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Australia tour of South Africa 2026 - 3rd Test - South Africa vs Australia
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cad7365855ea0ac0653144882a46e9a6:0ee40359b01264cce5aac3140096c927
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mv8bhgey8i/out/v1/46e42bfd066b481c8bb856dfe5c2dc85/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HMW9M5NH" tvg-name="Womens Big Bash League 2026 - 2nd Match -Melbourne Stars Women vs Hobart Hurricanes Women" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0eda8909-da30-4ff4-9960-e6c505a894c4/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Womens Big Bash League 2026 - 2nd Match -Melbourne Stars Women vs Hobart Hurricanes Women
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f9bba6398d727a70e33b03bc2c1957d:8df87cf8c3d56350ea0297ae273de0c3
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8x9f8fvjwv/out/v1/15d9b1a637644c4baa527bd43e8d87a5/cenc.mpd
-
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/8x9f8fvjwv/out/v1/15d9b1a637644c4baa527bd43e8d87a5/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HMW4S5S7" tvg-name="Cricket-WBBL 2026: Stars vs. Hurricanes -- 2nd Match" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1ba4427c-4b8c-4697-a439-a311071f1b3c/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Cricket-WBBL 2026: Stars vs. Hurricanes -- 2nd Match
 #KODIPROP:inputstream=inputstream.adaptive
@@ -751,3 +747,4 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8x9f8fvjwv/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+
