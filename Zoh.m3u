@@ -634,32 +634,40 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
-
 # --- LIVE EVENTS ---
+
 
 #EXTINF:-1 tvg-id="4249770" tvg-name="Afghanistan vs Zimbabwe [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM1.jpg" group-title="Cricket",Afghanistan vs Zimbabwe [English]
 https://in-mc-flive.fancode.com/mumbai/4249770_english_hls_d9a990baeb9644_1ta-di_h264/720p.m3u8?hdntl=Expires=1793369970~_GO=Generated~acl=/mumbai/4249770_english_hls_d9a990baeb9644_1ta-di_h264/*~SessionID=fc-app_sportsguruand_438_watcho_6ea41926-8132-4b~Signature=ATFKiJuG5xsKHF0x-nlKTS-2LD2wiHGIplGYZwPOoL5U_GUpLpNI2iXMrpnqNj0iR88wndFbXgWa8Xwo8BNT2VpNjhIM
 
+
 #EXTINF:-1 tvg-id="4250493" tvg-name="Emirates Red vs Dubai [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250493_53130_DUB_EMR_fc-web_1792412929395.jpg" group-title="Cricket",Emirates Red vs Dubai [English]
 https://in-mc-flive.fancode.com/mumbai/4250493_english_hls_1309b726cb18268_1ta-di_h264/720p.m3u8?hdntl=Expires=1793377304~_GO=Generated~acl=/mumbai/4250493_english_hls_1309b726cb18268_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f01_watcho_fd06ccfb-6cd4-48~Signature=ATFKiJsDOWXIbQh4BgDL3bM40KlyG0j_3tb43LraH2tjuxCLv5IKgoIuu1l7MoD5nqEOT9ZrQMGjjdRP3EYwlVsrqmoH
+
 
 #EXTINF:-1 tvg-id="4249645" tvg-name="World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png" group-title="Tennis",World Feed [English]
 https://in-mc-flive.fancode.com/mumbai/4249645_english_hls_4a573c125888268_1ta-di_h264/720p.m3u8?hdntl=Expires=1793357148~_GO=Generated~acl=/mumbai/4249645_english_hls_4a573c125888268_1ta-di_h264/*~SessionID=fc-app_sportsguruand_a76_watcho_564447f0-3a2a-4f~Signature=ATFKiJtfgxOVF8BvF9Ieijm46BC1Z816f4slSFBYOsgY3LtK9U2qiGuPJLEDhW-s0WFPtkYyJ1y4oIlwN6pgkpv1k4sB
 
+
 #EXTINF:-1 tvg-id="4250607" tvg-name="Fairplay Court [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png" group-title="Tennis",Fairplay Court [English]
 https://in-mc-flive.fancode.com/mumbai/4250607_english_hls_514010e5a214434_1ta-di_h264/720p.m3u8?hdntl=Expires=1793358968~_GO=Generated~acl=/mumbai/4250607_english_hls_514010e5a214434_1ta-di_h264/*~SessionID=fc-app_sportsguruand_10f_watcho_e786925c-209a-4f~Signature=ATFKiJtw3tagViFkKWIUiOFmHxP70vs1Ji6b9q0D4-zFcigDhLE6DBhJzTK5sd07tWdy5xKs8v3imRb9YnIHiUlAIlUA
+
 
 #EXTINF:-1 tvg-id="4249652" tvg-name="IWB Court 1 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png" group-title="Tennis",IWB Court 1 [English]
 https://in-mc-flive.fancode.com/mumbai/4249652_english_hls_99fa8a4e1b71160_1ta-di_h264/720p.m3u8?hdntl=Expires=1793360786~_GO=Generated~acl=/mumbai/4249652_english_hls_99fa8a4e1b71160_1ta-di_h264/*~SessionID=fc-app_sportsguruand_749_watcho_d8b164ff-0bf7-47~Signature=ATFKiJu0IRTjvN0JyobIaJ3OLV6j8Cep4EaLClm5E-fH24_un_JKotn4Y4p4L1-0ribpLDSw24QrkDGceGOWbNsnCM8A
 
+
 #EXTINF:-1 tvg-id="4249631" tvg-name="N. Basilashvili vs C. Alcaraz [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Alcaraz-vs-Nikoloz-Basilashvili-Open-Web-match-card.png" group-title="Tennis",N. Basilashvili vs C. Alcaraz [English]
 https://in-mc-flive.fancode.com/mumbai/4249631_english_hls_c3d92b64f165761_1ta-di_h264/720p.m3u8?hdntl=Expires=1793362615~_GO=Generated~acl=/mumbai/4249631_english_hls_c3d92b64f165761_1ta-di_h264/*~SessionID=fc-app_sportsguruand_9ee_watcho_794c329a-92ee-40~Signature=ATFKiJui7KJBEpLuuRuGVd7MW6evH_LvLLrNG3EiAUBLfuHXTz8lA9U0PBUaZVXZa4D_VryssXYT-cvdqUqQgzBpieUB
+
 
 #EXTINF:-1 tvg-id="4249638" tvg-name="Glaubandich Court [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png" group-title="Tennis",Glaubandich Court [English]
 https://in-mc-flive.fancode.com/mumbai/4249638_english_hls_c0e21e5dc460514_1ta-di_h264/720p.m3u8?hdntl=Expires=1793362616~_GO=Generated~acl=/mumbai/4249638_english_hls_c0e21e5dc460514_1ta-di_h264/*~SessionID=fc-app_sportsguruand_063_watcho_9c46079d-952f-49~Signature=ATFKiJs4l_v11KASf-ywGma5-M4wi0ml93sp2G_k9TxiglBc5KA_uiVnYxsgNJAmzNyJ8_20benSwSbtUVKQumL7cI0J
 
+
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
+
 
 #EXTINF:-1 tvg-id="B0HKDPRJRS" tvg-name="Australia tour of South Africa 2026 - 3rd Test - South Africa vs Australia" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.20a790a3-51e9-4ec1-9a8b-cb632845af2d/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Australia tour of South Africa 2026 - 3rd Test - South Africa vs Australia
 #KODIPROP:inputstream=inputstream.adaptive
@@ -668,12 +676,14 @@ https://ComeInNextMatch.com/4K.m3u8
 #KODIPROP:inputstream.adaptive.license_key=cad7365855ea0ac0653144882a46e9a6:0ee40359b01264cce5aac3140096c927
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mv8bhgey8i/out/v1/46e42bfd066b481c8bb856dfe5c2dc85/cenc.mpd
 
+
 #EXTINF:-1 tvg-id="B0HG6HPFD3" tvg-name="Pakistan ODI Tri-Series 2026 - 6th Match - Sri Lanka vs England" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.84dc9ca5-fdc8-46c9-bc90-b6008efe1e58/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Pakistan ODI Tri-Series 2026 - 6th Match - Sri Lanka vs England
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ba4284442c87f52ddeaa95c65d236805:56f0808d1f1fbfc0703b384081f1d340
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tw6qgpez4i/out/v1/fedd5ae90ed64a94a5a6b442a4c86e75/cenc.mpd
+
 
 #EXTINF:-1 tvg-id="B0HKRD61F3" tvg-name="Afghanistan vs. Zimbabwe" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3a3561d0-2c21-402e-abe7-e92f42ace0c4/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Afghanistan vs. Zimbabwe
 #KODIPROP:inputstream=inputstream.adaptive
@@ -682,12 +692,14 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tw6qgpez4i/
 #KODIPROP:inputstream.adaptive.license_key=d2efbc1c5f8ff101397ecf138e8741ba:7f4d45f386a7640749e0f07417471f01
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rrqignujxl/out/v1/a14c2c9ea3af4fb9ab37ebda5dbc696b/cenc.mpd
 
+
 #EXTINF:-1 tvg-id="B0HNZJQQDK" tvg-name="ECHL Hockey: Idaho Steelheads vs Allen Americans" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.77ca84f0-e52e-44a6-b8e5-f0df43a03a30/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",ECHL Hockey: Idaho Steelheads vs Allen Americans
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9
 https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd
+
 
 #EXTINF:-1 tvg-id="B0HKRD61F3" tvg-name="Afghanistan vs. Zimbabwe" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3a3561d0-2c21-402e-abe7-e92f42ace0c4/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Afghanistan vs. Zimbabwe
 #KODIPROP:inputstream=inputstream.adaptive
@@ -696,12 +708,14 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6
 #KODIPROP:inputstream.adaptive.license_key=d2efbc1c5f8ff101397ecf138e8741ba:7f4d45f386a7640749e0f07417471f01
 https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rrqignujxl/out/v1/a14c2c9ea3af4fb9ab37ebda5dbc696b/cenc.mpd
 
+
 #EXTINF:-1 tvg-id="B0HN7TKWTX" tvg-name="EuroTour Spanish Open Billiards-2026 Predator EuroTour: Spanish Open" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.54acd68c-aa00-48d5-8eee-8df4dde8932c/14/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",EuroTour Spanish Open Billiards-2026 Predator EuroTour: Spanish Open
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
+
 
 #EXTINF:-1 tvg-id="B0GTZ7LJPW" tvg-name="Tennis Today Live-Basel-ATP & Vienna-ATP Early Rounds" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1e4d692f-7ce1-44cf-b8ce-08555a51d32b/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Tennis Today Live-Basel-ATP & Vienna-ATP Early Rounds
 #KODIPROP:inputstream=inputstream.adaptive
@@ -710,12 +724,14 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
 https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
 
+
 #EXTINF:-1 tvg-id="B0HKDPRJRS" tvg-name="Australia tour of South Africa 2026 - 3rd Test - South Africa vs Australia" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.20a790a3-51e9-4ec1-9a8b-cb632845af2d/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Australia tour of South Africa 2026 - 3rd Test - South Africa vs Australia
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cad7365855ea0ac0653144882a46e9a6:0ee40359b01264cce5aac3140096c927
 https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mv8bhgey8i/out/v1/46e42bfd066b481c8bb856dfe5c2dc85/cenc.mpd
+
 
 #EXTINF:-1 tvg-id="B0FQQXFCMF" tvg-name="Second Serve - Live-Basel-ATP & Vienna-ATP Early Rounds" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.68ccc8db-4407-492d-8b37-369596935fcd/20/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Second Serve - Live-Basel-ATP & Vienna-ATP Early Rounds
 #KODIPROP:inputstream=inputstream.adaptive
@@ -724,10 +740,10 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mv8bhgey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
 
+
 #EXTINF:-1 tvg-id="B0HG6HPFD3" tvg-name="Pakistan ODI Tri-Series 2026 - 6th Match - Sri Lanka vs England" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.84dc9ca5-fdc8-46c9-bc90-b6008efe1e58/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Pakistan ODI Tri-Series 2026 - 6th Match - Sri Lanka vs England
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ba4284442c87f52ddeaa95c65d236805:56f0808d1f1fbfc0703b384081f1d340
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tw6qgpez4i/out/v1/fedd5ae90ed64a94a5a6b442a4c86e75/cenc.mpd
-
