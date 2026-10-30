@@ -7,6 +7,7 @@ MARKER = "# --- LIVE EVENTS ---"
 ISL_START_MARKER = "# --- ISL SPECIAL EVENTS ---"
 ISL_END_MARKER = "# --- END ISL SPECIAL EVENTS ---"
 
+# മറ്റ് ലൈവ് ഇവന്റുകൾ ഫയലിന്റെ ഏറ്റവും അവസാനം വേണമെങ്കിൽ True, വേണ്ടെങ്കിൽ False
 INCLUDE_OTHER_LIVE_EVENTS = True
 
 PLAYLISTS = {
@@ -26,8 +27,8 @@ HEADERS = {
 
 def get_isl_mal_eng_type(block_lines, provider):
     """
-    SonyLiv-ൽ നിന്നുള്ള ISL മാച്ചുകൾ മാത്രമാണോ എന്ന് കർശനമായി ഉറപ്പുവരുത്തുന്നു.
-    മറ്റെന്ത് വന്നാലും None റിട്ടേൺ ചെയ്യും (അവ നേരെ താഴെയുള്ള LIVE EVENTS-ലേക്ക് പോകും).
+    SonyLiv-ൽ നിന്നുള്ള ISL മാച്ചുകളിൽ മലയാളവും ഇംഗ്ലീഷും മാത്രം കണ്ടെത്തുന്നു.
+    ഹിന്ദി, ബംഗാളി തുടങ്ങിയ മറ്റ് ഭാഷകളോ ക്രിക്കറ്റോ വന്നാൽ ഒഴിവാക്കും (None).
     """
     full_text = " ".join(block_lines)
     full_lower = full_text.lower()
@@ -37,34 +38,38 @@ def get_isl_mal_eng_type(block_lines, provider):
     if not is_sony:
         return None
 
-    # ക്രിക്കറ്റ് ലിങ്കുകളോ ടാഗുകളോ ഉണ്ടെങ്കിൽ പൂർണ്ണമായി തള്ളിക്കളയുന്നു
+    # ക്രിക്കറ്റ് പാറ്റേണുകൾ ഒഴിവാക്കുന്നു
     if "sonyeventsglobal" in full_lower or 'group-title="cricket"' in full_lower:
         return None
 
-    # ISL ഹുക്ക് (Title, Logo URL, അല്ലെങ്കിൽ സ്ട്രീമിൽ ISL ടാഗ് ഉണ്ടായിരിക്കണം)
-    match_pattern = r'(_isl\d*|\bisl\b|/isl/|indian super league|\bfootlive\b)'
-    if not re.search(match_pattern, full_lower):
+    # ISL ടാഗ് ഉണ്ടെന്ന് ഉറപ്പാക്കുന്നു
+    isl_pattern = r'(_isl\d*|\bisl\b|/isl/|indian super league|\bfootlive\b)'
+    if not re.search(isl_pattern, full_lower):
         return None
 
-    # ഭാഷ തിരിച്ചറിയുന്നു
+    # ഹിന്ദിയോ മറ്റ് ഭാഷകളോ ഉണ്ടെങ്കിൽ ഒഴിവാക്കുന്നു
+    if re.search(r'(?i)(\bhin\b|\[hin\]|_hin|/hin/|\bhindi\b|ഹിന്ദി)', full_lower):
+        return None
+
+    # മലയാളം കണ്ടെത്തുന്നു
     if re.search(r'(?i)(\bmal\b|\[mal\]|_mal|/mal/|\bmalayalam\b|മലയാളം)', full_lower):
         return 'Malayalam'
-    elif re.search(r'(?i)(\beng\b|\[eng\]|_eng|/eng/|\benglish\b|ഇംഗ്ലീഷ്)', full_lower):
+
+    # ഇംഗ്ലീഷ് കണ്ടെത്തുന്നു
+    if re.search(r'(?i)(\beng\b|\[eng\]|_eng|/eng/|\benglish\b|ഇംഗ്ലീഷ്)', full_lower):
         return 'English'
 
-    return 'English'
+    return None
 
 
 def clean_file_content(content):
     """
-    പഴയ ISL സെക്ഷനും, ചാനലുകൾക്കിടയിൽ തെറ്റായി കയറിയ sonyliv ക്രിക്കറ്റുകളും,
-    അവസാനമുള്ള ലൈവ് ഇവന്റുകളും പൂർണ്ണമായി നീക്കം ചെയ്ത് ഒറിജിനൽ ലിസ്റ്റ് മാത്രം ബാക്കിവെക്കുന്നു.
+    പഴയ ISL ബ്ലോക്കുകളും, അവസാനം കിടക്കുന്ന ലൈവ് ഇവന്റുകളും, 
+    തെറ്റായി കയറിയ മറ്റ് SonyLiv സ്ട്രീമുകളും നീക്കം ചെയ്ത് ഒറിജിനൽ ചാനലുകൾ മാത്രം ബാക്കിവെക്കുന്നു.
     """
-    # 1. പഴയ LIVE EVENTS മാർക്കറിന് ശേഷമുള്ളത് കളയുന്നു
     if MARKER in content:
         content = content.split(MARKER)[0]
 
-    # 2. ഏഷ്യാനെറ്റിന് താഴെയുള്ള പഴയ ISL ബ്ലോക്ക് പൂർണ്ണമായി നീക്കം ചെയ്യുന്നു
     while ISL_START_MARKER in content and ISL_END_MARKER in content:
         start_idx = content.find(ISL_START_MARKER)
         end_idx = content.find(ISL_END_MARKER) + len(ISL_END_MARKER)
@@ -75,7 +80,6 @@ def clean_file_content(content):
 
     content = content.replace(ISL_START_MARKER, "").replace(ISL_END_MARKER, "")
 
-    # 3. ഏഷ്യാനെറ്റിന് താഴെ കയറിക്കൂടിയ പഴയ സോണി ലൈവ് സ്ട്രീമുകളെ നീക്കം ചെയ്യുന്നു
     lines = content.splitlines(keepends=True)
     cleaned_lines = []
     skip = False
@@ -98,11 +102,12 @@ def clean_file_content(content):
 
 
 def insert_below_asianet(content, mal_list, eng_list):
-    """SonyLiv ISL മാത്രം Asianet HD-ക്ക് തൊട്ടുതാഴെ പ്ലേസ് ചെയ്യുന്നു"""
+    """ഇംഗ്ലീഷും മലയാളവും ISL മാത്രം Asianet HD-ക്ക് താഴെ പ്ലേസ് ചെയ്യുന്നു"""
     if not eng_list and not mal_list:
         return content
 
     ordered_items = []
+    # ഇംഗ്ലീഷ് ആദ്യം, ശേഷം മലയാളം
     for block in eng_list:
         ordered_items.append("\n".join(block))
     for block in mal_list:
@@ -185,22 +190,21 @@ def main():
                         break
                     i += 1
 
-                # ടൈറ്റിൽ അല്ലെങ്കിൽ സ്ട്രീമിന്റെ ലിങ്ക് വെച്ച് ഡ്യൂപ്ലിക്കേഷൻ വരുന്നത് തടയുന്നു
+                # യുണീക് ഐഡി വെച്ച് ഡ്യൂപ്ലിക്കേഷൻ പൂർണ്ണമായി തടയുന്നു
                 title_match = re.search(r',(.+)$', extinf_line)
                 unique_key = title_match.group(1).strip() if title_match else (stream.split('?')[0] if stream else extinf_line)
 
                 if unique_key not in seen_identifiers:
                     seen_identifiers.add(unique_key)
 
-                    # SonyLiv-ൽ നിന്നുള്ള ISL മാത്രമാണോ എന്ന് ചെക്ക് ചെയ്യുന്നു
                     lang_type = get_isl_mal_eng_type(block, provider)
-                    
+
                     if lang_type == 'Malayalam':
                         malayalam_isl.append(block)
                     elif lang_type == 'English':
                         english_isl.append(block)
                     else:
-                        # ബാക്കി എന്ത് ലിങ്ക് വന്നാലും (SonyLiv ക്രിക്കറ്റ്, Fancode, Hotstar etc.) ഇവിടെ വരുന്നു
+                        # ISL അല്ലാത്ത മറ്റെല്ലാ ലൈവ് ഇവന്റുകളും താഴേക്ക് വെക്കുന്നു
                         live_blocks.append("\n".join(block))
 
                 i += 1
@@ -208,14 +212,13 @@ def main():
         except Exception as e:
             print(f"Failed to fetch {provider}: {e}")
 
-    # Asianet-ന് താഴെ SonyLiv ISL മാത്രം ചേർക്കുന്നു
+    # Asianet-ന് താഴെ ഇംഗ്ലീഷും മലയാളവും ISL മാത്രം പ്ലേസ് ചെയ്യുന്നു
     updated_base = insert_below_asianet(base_content, malayalam_isl, english_isl)
 
-    # സേവ് ചെയ്യുന്നു
     with open(OUTPUT, "w", encoding="utf-8") as out:
         out.write(updated_base.rstrip() + "\n\n")
 
-        # മറ്റെല്ലാ ലൈവ് ഇവന്റുകളും ഫയലിന്റെ അവസാനം കൃത്യമായ മാർക്കറിൽ മാത്രം പ്ലേസ് ചെയ്യുന്നു
+        # മറ്റെല്ലാ ഇവന്റുകളും ഫയലിന്റെ അവസാന ഭാഗത്ത് മാത്രം എഴുതുന്നു
         if INCLUDE_OTHER_LIVE_EVENTS and live_blocks:
             out.write(f"{MARKER}\n\n")
             out.write("\n\n".join(live_blocks) + "\n\n")
