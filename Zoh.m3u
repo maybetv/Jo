@@ -19,12 +19,7 @@ https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_i
 https://hjh-545.pages.dev/stream?id=asianethd
 
 
-# --- ISL SPECIAL EVENTS ---
 
-#EXTINF:-1 tvg-id="sonyliv-1090551180" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026666/1792354036062910_ISL26_NorthEastUnitedFC_vs_BengaluruFC_landscape_thumb.jpg" group-title="Football", NorthEast United FC vs Bengaluru FC | MG Indian Super League 2026-27 [English]
-https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT9b3bprod-PlaybackConfig/2119931/cricodi_3010/ENG/master.m3u8?hdnea=exp=1793409654~acl=/*~id=25558727705277635805929236797972~hmac=cc6a2ea711295dcd57a50b14d313111805f1752e7b030a691af8990b97fa08be
-
-# --- END ISL SPECIAL EVENTS ---
 
 
 #EXTINF:-1 tvg-id="22020" tvg-logo="https://img.media.jio.com/tvpimages/97/2/300156_1752854414598_l_medium.jpg" group-title="Malayalam Entertainment",Mazhavil Manorama HD
@@ -639,9 +634,6 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 # --- LIVE EVENTS ---
 
-#EXTINF:-1 tvg-id="sonyliv-1090551180" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026666/1792354036062910_ISL26_NorthEastUnitedFC_vs_BengaluruFC_landscape_thumb.jpg" group-title="Football", NorthEast United FC vs Bengaluru FC | MG Indian Super League 2026-27 [Hindi]
-https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT9b3bprod-PlaybackConfig/2119921/cricodi_3010/HIN/master.m3u8?hdnea=exp=1793409654~acl=/*~id=25558727705277635805929236797972~hmac=cc6a2ea711295dcd57a50b14d313111805f1752e7b030a691af8990b97fa08be
-
 #EXTINF:-1 tvg-id="4250495" tvg-name="Emirates Blues vs Dubai [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250495_53130_DUB_EMB_fc-web_1792412930095.jpg" group-title="Cricket",Emirates Blues vs Dubai [English]
 https://in-mc-flive.fancode.com/mumbai/4250495_english_hls_68f22275454877_1ta-di_h264/720p.m3u8?hdntl=Expires=1793463662~_GO=Generated~acl=/mumbai/4250495_english_hls_68f22275454877_1ta-di_h264/*~SessionID=fc-app_sportsguruand_97b_watcho_42ce8038-aa7b-4b~Signature=ATFKiJuYkcWqIvi3LSOtYEMD-IqIa9qP0tOcI_tbn7PnOTiXsZ6eW1ksF_wOiL_sDnuWaSJRoXzpz3O2tU1LS9X0ErUJ
 
@@ -654,7 +646,7 @@ https://in-mc-flive.fancode.com/mumbai/4249646_english_hls_602e11646b22980_1ta-d
 #EXTINF:-1 tvg-id="4250523" tvg-name="Quaterfinals [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hylo-Open-2026_fc-web.jpg" group-title="Badminton",Quaterfinals [English]
 https://in-mc-flive.fancode.com/mumbai/4250523_english_hls_df9219e67c34239_1ta-di_h264/720p.m3u8?hdntl=Expires=1793447288~_GO=Generated~acl=/mumbai/4250523_english_hls_df9219e67c34239_1ta-di_h264/*~SessionID=fc-app_sportsguruand_1e4_watcho_0e06c481-7c15-40~Signature=ATFKiJtoem8dY8s8h7tbflmeqIzpgVvuX2x2HP1jWuRMFx1_CMpSruKcqURM1nZBFhC9k3KTQysQGv95nU2vWPhIWpMN
 
-#EXTINF:-1 tvg-id="4249632" tvg-name="C Alcaraz vs T Paul [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_6723.png" group-title="Tennis",C Alcaraz vs T Paul [English]
+#EXTINF:-1 tvg-id="4249632" tvg-name="A. Zverev vs A. Fery [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zverev-vs-Arthur-Fery-web-match-card.png" group-title="Tennis",A. Zverev vs A. Fery [English]
 https://in-mc-flive.fancode.com/mumbai/4249632_english_hls_5043c1251292601_1ta-di_h264/720p.m3u8?hdntl=Expires=1793449108~_GO=Generated~acl=/mumbai/4249632_english_hls_5043c1251292601_1ta-di_h264/*~SessionID=fc-app_sportsguruand_90d_watcho_f2ca27f2-b133-49~Signature=ATFKiJuBr5Um-7cYSWH6RZw4bWzPysChTQOycihQ44nly49AmDz-Z04fl3yWUXh6PJKJEvgj0RyXjU6mb34ixR7AOV8D
 
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
