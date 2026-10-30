@@ -19,6 +19,14 @@ https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_i
 https://hjh-545.pages.dev/stream?id=asianethd
 
 
+# --- ISL SPECIAL EVENTS ---
+
+#EXTINF:-1 tvg-id="sonyliv-1090551180" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026666/1792354036062910_ISL26_NorthEastUnitedFC_vs_BengaluruFC_landscape_thumb.jpg" group-title="Football", NorthEast United FC vs Bengaluru FC | MG Indian Super League 2026-27 [English]
+https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT9b3bprod-PlaybackConfig/2119931/cricodi_3010/ENG/master.m3u8?hdnea=exp=1793409654~acl=/*~id=25558727705277635805929236797972~hmac=cc6a2ea711295dcd57a50b14d313111805f1752e7b030a691af8990b97fa08be
+
+# --- END ISL SPECIAL EVENTS ---
+
+
 #EXTINF:-1 tvg-id="sonyliv-1090551201" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027568/1793115639556461_NZ_vs_IND_4th_T20i_landscape_thumb.jpg" group-title="Cricket", 4th T20I | India Tour of New Zealand 2026 [English]
 https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1793386870~acl=/*~id=70497179819891694545583603923983~hmac=4351aa39dd808cf22ffb6de66769aa5c54f0ef13f95c5b0463486aa64f5f6ea6
 
@@ -672,6 +680,9 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 # --- LIVE EVENTS ---
+
+#EXTINF:-1 tvg-id="sonyliv-1090551180" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026666/1792354036062910_ISL26_NorthEastUnitedFC_vs_BengaluruFC_landscape_thumb.jpg" group-title="Football", NorthEast United FC vs Bengaluru FC | MG Indian Super League 2026-27 [Hindi]
+https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT9b3bprod-PlaybackConfig/2119921/cricodi_3010/HIN/master.m3u8?hdnea=exp=1793409654~acl=/*~id=25558727705277635805929236797972~hmac=cc6a2ea711295dcd57a50b14d313111805f1752e7b030a691af8990b97fa08be
 
 #EXTINF:-1 tvg-id="4249783" tvg-name="South Africa vs Australia [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Cricket",South Africa vs Australia [English]
 https://in-mc-flive.fancode.com/mumbai/4249783_english_hls_97c5a4780073832_1ta-di_h264/720p.m3u8?hdntl=Expires=1793433803~_GO=Generated~acl=/mumbai/4249783_english_hls_97c5a4780073832_1ta-di_h264/*~SessionID=fc-app_sportsguruand_ba1_watcho_188c2002-784f-4b~Signature=ATFKiJuJww0HwCWt7AnNcoq4_pfAURTjQ75SeRJpD16M-fHFrIfHM5bsLL6lfVgejfReKRknnmrL_Yq8bepj7xHLNyoE
