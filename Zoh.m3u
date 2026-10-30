@@ -19,9 +19,6 @@ https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_i
 https://hjh-545.pages.dev/stream?id=asianethd
 
 
-
-
-
 #EXTINF:-1 tvg-id="22020" tvg-logo="https://img.media.jio.com/tvpimages/97/2/300156_1752854414598_l_medium.jpg" group-title="Malayalam Entertainment",Mazhavil Manorama HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=37b4403a66f2565da33ba3b5704bb178:449f87256b3c1d7c2cdcbe04cbfd5530
@@ -631,26 +628,32 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
-
 # --- LIVE EVENTS ---
+
 
 #EXTINF:-1 tvg-id="4250495" tvg-name="Emirates Blues vs Dubai [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250495_53130_DUB_EMB_fc-web_1792412930095.jpg" group-title="Cricket",Emirates Blues vs Dubai [English]
 https://in-mc-flive.fancode.com/mumbai/4250495_english_hls_68f22275454877_1ta-di_h264/720p.m3u8?hdntl=Expires=1793463662~_GO=Generated~acl=/mumbai/4250495_english_hls_68f22275454877_1ta-di_h264/*~SessionID=fc-app_sportsguruand_97b_watcho_42ce8038-aa7b-4b~Signature=ATFKiJuYkcWqIvi3LSOtYEMD-IqIa9qP0tOcI_tbn7PnOTiXsZ6eW1ksF_wOiL_sDnuWaSJRoXzpz3O2tU1LS9X0ErUJ
 
+
 #EXTINF:-1 tvg-id="4249639" tvg-name="Glaubandich Court [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png" group-title="Tennis",Glaubandich Court [English]
 https://in-mc-flive.fancode.com/mumbai/4249639_english_hls_6794afdacb61694_1ta-di_h264/720p.m3u8?hdntl=Expires=1793447264~_GO=Generated~acl=/mumbai/4249639_english_hls_6794afdacb61694_1ta-di_h264/*~SessionID=fc-app_sportsguruand_c39_watcho_b8b08634-bd7e-47~Signature=ATFKiJuJboZPEBrd0TpNRHkiNpYyHLlSN34A2u6A0nPKG6MOScQkRt25Rirg12AjUUAu74QzvAsWEA2id5bbcAXiYv8L
+
 
 #EXTINF:-1 tvg-id="4249646" tvg-name="World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png" group-title="Tennis",World Feed [English]
 https://in-mc-flive.fancode.com/mumbai/4249646_english_hls_602e11646b22980_1ta-di_h264/720p.m3u8?hdntl=Expires=1793447873~_GO=Generated~acl=/mumbai/4249646_english_hls_602e11646b22980_1ta-di_h264/*~SessionID=fc-app_sportsguruand_0e6_watcho_b2dd14ae-932b-40~Signature=ATFKiJutnY1TAQ1veIVNW90xdQ6nLJ4oyjoVwOUKdyWZhL13Nq6LXBeDaWxivt-Y6pBqZmsdpY0u31UEHfVvOMG9SewL
 
+
 #EXTINF:-1 tvg-id="4250523" tvg-name="Quaterfinals [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hylo-Open-2026_fc-web.jpg" group-title="Badminton",Quaterfinals [English]
 https://in-mc-flive.fancode.com/mumbai/4250523_english_hls_df9219e67c34239_1ta-di_h264/720p.m3u8?hdntl=Expires=1793447288~_GO=Generated~acl=/mumbai/4250523_english_hls_df9219e67c34239_1ta-di_h264/*~SessionID=fc-app_sportsguruand_1e4_watcho_0e06c481-7c15-40~Signature=ATFKiJtoem8dY8s8h7tbflmeqIzpgVvuX2x2HP1jWuRMFx1_CMpSruKcqURM1nZBFhC9k3KTQysQGv95nU2vWPhIWpMN
+
 
 #EXTINF:-1 tvg-id="4249632" tvg-name="A. Zverev vs A. Fery [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zverev-vs-Arthur-Fery-web-match-card.png" group-title="Tennis",A. Zverev vs A. Fery [English]
 https://in-mc-flive.fancode.com/mumbai/4249632_english_hls_5043c1251292601_1ta-di_h264/720p.m3u8?hdntl=Expires=1793449108~_GO=Generated~acl=/mumbai/4249632_english_hls_5043c1251292601_1ta-di_h264/*~SessionID=fc-app_sportsguruand_90d_watcho_f2ca27f2-b133-49~Signature=ATFKiJuBr5Um-7cYSWH6RZw4bWzPysChTQOycihQ44nly49AmDz-Z04fl3yWUXh6PJKJEvgj0RyXjU6mb34ixR7AOV8D
 
+
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
+
 
 #EXTINF:-1 tvg-id="B0HKDPRJRS" tvg-name="Australia tour of South Africa 2026 - 3rd Test - South Africa vs Australia" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.20a790a3-51e9-4ec1-9a8b-cb632845af2d/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Australia tour of South Africa 2026 - 3rd Test - South Africa vs Australia
 #KODIPROP:inputstream=inputstream.adaptive
@@ -659,12 +662,14 @@ https://ComeInNextMatch.com/4K.m3u8
 #KODIPROP:inputstream.adaptive.license_key=a0ea22119ca851e441c56df67e33f6fd:179bbc5d1bec825eaa1b712872f12eda
 https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4edw8hyqcz/out/v1/07d9e6556658457787dae8a34a36c5e7/cenc.mpd
 
+
 #EXTINF:-1 tvg-id="B0HHRHD34R" tvg-name="ONE Friday Fights 176" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cc796b16-729a-4d2c-9c47-9f1b840b4bfe/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",ONE Friday Fights 176
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/glqgccsvmt/out/v1/fe4f9d2a0a86421c8f497c1fefed9fea/cenc.mpd
+
 
 #EXTINF:-1 tvg-id="B0HP6P7PXZ" tvg-name="MLP Nations Cup" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.aada2f56-85a1-4b33-a482-5c197ae091f1/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",MLP Nations Cup
 #KODIPROP:inputstream=inputstream.adaptive
@@ -673,12 +678,14 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/glqgccsvmt/
 #KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
 https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
 
+
 #EXTINF:-1 tvg-id="B0HN7TKWTX" tvg-name="EuroTour Spanish Open Billiards-2026 Predator EuroTour: Spanish Open" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.54acd68c-aa00-48d5-8eee-8df4dde8932c/14/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",EuroTour Spanish Open Billiards-2026 Predator EuroTour: Spanish Open
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd
+
 
 #EXTINF:-1 tvg-id="B0HM9QN5D8" tvg-name="Tennis Today Live-Basel-ATP & Vienna-ATP Quarterfinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a3f3797a-0ace-4e84-a4db-0c713481c6dc/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Tennis Today Live-Basel-ATP & Vienna-ATP Quarterfinals
 #KODIPROP:inputstream=inputstream.adaptive
@@ -687,6 +694,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
 https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
 
+
 #EXTINF:-1 tvg-id="B0HKDPRJRS" tvg-name="Australia tour of South Africa 2026 - 3rd Test - South Africa vs Australia" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.20a790a3-51e9-4ec1-9a8b-cb632845af2d/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Australia tour of South Africa 2026 - 3rd Test - South Africa vs Australia
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -694,10 +702,10 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl96
 #KODIPROP:inputstream.adaptive.license_key=a0ea22119ca851e441c56df67e33f6fd:179bbc5d1bec825eaa1b712872f12eda
 https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4edw8hyqcz/out/v1/07d9e6556658457787dae8a34a36c5e7/cenc.mpd
 
+
 #EXTINF:-1 tvg-id="B0HNFGSVVR" tvg-name="Second Serve - Live-Basel-ATP & Vienna-ATP Early Rounds" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.394ec66b-fa35-41c3-a272-c513aa2d44d0/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Second Serve - Live-Basel-ATP & Vienna-ATP Early Rounds
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
-
