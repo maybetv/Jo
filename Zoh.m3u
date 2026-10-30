@@ -628,23 +628,28 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
-
 # --- LIVE EVENTS ---
+
 
 #EXTINF:-1 tvg-id="4250272" tvg-name="Al-Shabab FC vs Al-Ahli Saudi FC [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250272_53025_ASF_AAS_FC-Web.png" group-title="Football",Al-Shabab FC vs Al-Ahli Saudi FC [English]
 https://in-mc-flive.fancode.com/mumbai/4250272_english_hls_fac8dade1711476_1ta-di_h264/720p.m3u8?hdntl=Expires=1793469112~_GO=Generated~acl=/mumbai/4250272_english_hls_fac8dade1711476_1ta-di_h264/*~SessionID=fc-app_sportsguruand_b76_watcho_581e696c-a004-43~Signature=ATFKiJt6l8jT6mQG6ZAJeSpcm-EaOsaDUtZIm2zN_JXxqommqZEER8ptdjvyh12bJxEjtEhaWBvYc2V0BqhkT3w4vVAC
 
+
 #EXTINF:-1 tvg-id="4249600" tvg-name="Sheffield United F.C. vs Wrexham A.F.C. [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249600_52993_SHF_WRX_fc-web.jpg" group-title="Football",Sheffield United F.C. vs Wrexham A.F.C. [English]
 https://in-mc-flive.fancode.com/mumbai/4249600_english_hls_7dbc73ddc834837_1ta-di_h264/720p.m3u8?hdntl=Expires=1793476501~_GO=Generated~acl=/mumbai/4249600_english_hls_7dbc73ddc834837_1ta-di_h264/*~SessionID=fc-app_sportsguruand_ad7_watcho_a2b540ad-9770-4b~Signature=ATFKiJtufbT5wjYUEzr-tbm9QfUDsLkVbfgkg_q5s76pPoNz2UXAsaFeWqVzmiBSZJE1Im0kEhis96UMN2Ne6HrCeqMJ
+
 
 #EXTINF:-1 tvg-id="4249632" tvg-name="World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png" group-title="Tennis",World Feed [English]
 https://in-mc-flive.fancode.com/mumbai/4249632_english_hls_5043c1251292601_1ta-di_h264/720p.m3u8?hdntl=Expires=1793449108~_GO=Generated~acl=/mumbai/4249632_english_hls_5043c1251292601_1ta-di_h264/*~SessionID=fc-app_sportsguruand_90d_watcho_f2ca27f2-b133-49~Signature=ATFKiJuBr5Um-7cYSWH6RZw4bWzPysChTQOycihQ44nly49AmDz-Z04fl3yWUXh6PJKJEvgj0RyXjU6mb34ixR7AOV8D
 
+
 #EXTINF:-1 tvg-id="4250509" tvg-name="Day 2 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1792760641052.png" group-title="Golf",Day 2 [English]
 https://in-mc-flive.fancode.com/mumbai/4250509_english_hls_54b929ab6080469_1ta-di_h264/720p.m3u8?hdntl=Expires=1793476503~_GO=Generated~acl=/mumbai/4250509_english_hls_54b929ab6080469_1ta-di_h264/*~SessionID=fc-app_sportsguruand_0fd_watcho_8aad85a5-1b45-48~Signature=ATFKiJss95xKW8g3IDxw9n7Hg_WhcYYsvTGQZvaXeBmrdGbRWTCDquMSv8HHWttXuzT3SfjTCesOhzRTvnf3sQrH_CcC
 
+
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
+
 
 #EXTINF:-1 tvg-id="B0HMX2WT8B" tvg-name="LIVE Weigh In-Canelo vs. Mbilli" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c17d8008-9c7d-46a3-88e8-632f05f92af1/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",LIVE Weigh In-Canelo vs. Mbilli
 #KODIPROP:inputstream=inputstream.adaptive
@@ -653,12 +658,14 @@ https://ComeInNextMatch.com/4K.m3u8
 #KODIPROP:inputstream.adaptive.license_key=99f2d8b38451875101393cfda6cc5e77:3d32bdfa5fe52cf74567eb20716b5a65
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qkvxe8ubng/out/v1/dcedefedc735415a9f9d36d3d3016629/cenc.mpd
 
+
 #EXTINF:-1 tvg-id="B0HLW34DVZ" tvg-name="Sheffield United vs. Wrexham" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0bca3f4c-fbf1-439c-9e31-27a05283fa41/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Sheffield United vs. Wrexham
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+
 
 #EXTINF:-1 tvg-id="B0HN9FLCV3" tvg-name="Team World Championship, Stuttgart" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cb4ea32d-7db7-4677-9504-2b0b516e40b5/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Team World Championship, Stuttgart
 #KODIPROP:inputstream=inputstream.adaptive
@@ -667,12 +674,14 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/
 #KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
 
+
 #EXTINF:-1 tvg-id="B0HP6P7PXZ" tvg-name="MLP Nations Cup" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.aada2f56-85a1-4b33-a482-5c197ae091f1/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",MLP Nations Cup
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
 https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
+
 
 #EXTINF:-1 tvg-id="B0HHNSVKR2" tvg-name="Tennis Today Live-Basel-ATP & Vienna-ATP Quarterfinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fb4dc292-8763-4736-a327-5fc36f523c57/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Tennis Today Live-Basel-ATP & Vienna-ATP Quarterfinals
 #KODIPROP:inputstream=inputstream.adaptive
@@ -681,6 +690,7 @@ https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdn
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
 https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
 
+
 #EXTINF:-1 tvg-id="B0HP8GHQ2S" tvg-name="AHA Hockey: Delaware vs Syracuse - Women's" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cb9123f7-9ab6-417f-b6c7-04d699fb0374/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",AHA Hockey: Delaware vs Syracuse - Women's
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -688,10 +698,10 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl96
 #KODIPROP:inputstream.adaptive.license_key=b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9
 https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd
 
+
 #EXTINF:-1 tvg-id="B0HNFGSVVR" tvg-name="Second Serve - Live-Basel-ATP & Vienna-ATP Early Rounds" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.394ec66b-fa35-41c3-a272-c513aa2d44d0/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Second Serve - Live-Basel-ATP & Vienna-ATP Early Rounds
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
 https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
-
