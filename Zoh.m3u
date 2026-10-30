@@ -646,9 +646,6 @@ https://in-mc-flive.fancode.com/mumbai/4250526_english_hls_d3c070eb3081877_1ta-d
 #EXTINF:-1 tvg-id="4249669" tvg-name="Tasmania vs New South Wales [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249669_53087_TAS_NSW_FC-WEB.jpg" group-title="Cricket",Tasmania vs New South Wales [English]
 https://in-mc-flive.fancode.com/mumbai/4249669_english_hls_0ad52e993394154_1ta-di_h264/720p.m3u8?hdntl=Expires=1793402771~_GO=Generated~acl=/mumbai/4249669_english_hls_0ad52e993394154_1ta-di_h264/*~SessionID=fc-app_sportsguruand_370_watcho_95711197-b5bf-43~Signature=ATFKiJuVjOilCtpiPXf7JT1g6r9Kp0hL_ZwaL4OEQymvmrmzwm-jVJ74W4H0Y57XT1Qvd1ThNAHtR7Eu-5ypW53MhIUM
 
-#EXTINF:-1 tvg-id="4250311" tvg-name="Hong Kong, China vs England [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250311_53120_HK_ENG_fc-web.jpg" group-title="Cricket",Hong Kong, China vs England [English]
-https://in-mc-flive.fancode.com/mumbai/4250311_english_hls_f3039faaeb88655_1ta-di_h264/720p.m3u8?hdntl=Expires=1793420330~_GO=Generated~acl=/mumbai/4250311_english_hls_f3039faaeb88655_1ta-di_h264/*~SessionID=fc-app_sportsguruand_5cf_watcho_5c7e6e46-bedb-49~Signature=ATFKiJu62v5mlS0dam47seHgpDegPr0zjMJOPJLgQ7jxTZQrKNYZg1pxsIxrMPOu24we1OiescPT0NUpQbnuGhiTesEO
-
 #EXTINF:-1 tvg-id="4250312" tvg-name="Bangladesh vs Sri Lanka [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250312_53120_BAN_SL_fc-web.jpg" group-title="Cricket",Bangladesh vs Sri Lanka [English]
 https://in-mc-flive.fancode.com/mumbai/4250312_english_hls_15107cdc0b89292_1ta-di_h264/720p.m3u8?hdntl=Expires=1793423397~_GO=Generated~acl=/mumbai/4250312_english_hls_15107cdc0b89292_1ta-di_h264/*~SessionID=fc-app_sportsguruand_8cc_watcho_6689ca00-b5e6-42~Signature=ATFKiJueAjdnEnj3tX8Qgoqq-1lHKOkVK_vz-XjIAjJ8T55JV68CiRwlaMgz1izH3b5Qa2X2DcUSUfBvdyXVG2nPBEYP
 
@@ -657,17 +654,6 @@ https://in-mc-flive.fancode.com/mumbai/139981_english_hls_dc18e2235392788_1ta-di
 
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
-
-#EXTINF:-1 tvg-id="c9cdc33b-5919-40fa-85b1-b507aba878d9" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/tfejgskumfzfhtr8oilc" tvg-lang="English" group-title="Cricket",English | Hong Kong, China v England
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793364310~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=c4c09922b619be76e77378c15330ebec418dc4a81d32658cec86289d46be3cfb/manifest.mpd?vcfilter=c9cdc33b-5919-40fa-85b1-b507aba878d9&
 
 #EXTINF:-1 tvg-id="772aece8-c12b-4b8b-b55d-1bad4444e726" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ymmfia8dctx6afgyhput" tvg-lang="English" group-title="Cricket",English | Bangladesh v Sri Lanka
 #KODIPROP:inputstream=inputstream.adaptive
