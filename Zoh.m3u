@@ -646,9 +646,6 @@ https://in-mc-flive.fancode.com/mumbai/4250526_english_hls_d3c070eb3081877_1ta-d
 #EXTINF:-1 tvg-id="4249669" tvg-name="Tasmania vs New South Wales [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249669_53087_TAS_NSW_FC-WEB.jpg" group-title="Cricket",Tasmania vs New South Wales [English]
 https://in-mc-flive.fancode.com/mumbai/4249669_english_hls_0ad52e993394154_1ta-di_h264/720p.m3u8?hdntl=Expires=1793402771~_GO=Generated~acl=/mumbai/4249669_english_hls_0ad52e993394154_1ta-di_h264/*~SessionID=fc-app_sportsguruand_370_watcho_95711197-b5bf-43~Signature=ATFKiJuVjOilCtpiPXf7JT1g6r9Kp0hL_ZwaL4OEQymvmrmzwm-jVJ74W4H0Y57XT1Qvd1ThNAHtR7Eu-5ypW53MhIUM
 
-#EXTINF:-1 tvg-id="4250310" tvg-name="Oman vs South Africa [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250310_53120_SA_OMA_fc-web.jpg" group-title="Cricket",Oman vs South Africa [English]
-https://in-mc-flive.fancode.com/mumbai/4250310_english_hls_fa4292092b25858_1ta-di_h264/720p.m3u8?hdntl=Expires=1793416697~_GO=Generated~acl=/mumbai/4250310_english_hls_fa4292092b25858_1ta-di_h264/*~SessionID=fc-app_sportsguruand_5d4_watcho_684980d4-e930-49~Signature=ATFKiJuiSD9018GGZuJ6UezTvl0VVv0FjqwuY6OaXvugVKtALtsHFyxJwY6iD3m_kj6bIxdR_dkou6oBOe0fv3lLLgkD
-
 #EXTINF:-1 tvg-id="4250311" tvg-name="Hong Kong, China vs England [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250311_53120_HK_ENG_fc-web.jpg" group-title="Cricket",Hong Kong, China vs England [English]
 https://in-mc-flive.fancode.com/mumbai/4250311_english_hls_f3039faaeb88655_1ta-di_h264/720p.m3u8?hdntl=Expires=1793420330~_GO=Generated~acl=/mumbai/4250311_english_hls_f3039faaeb88655_1ta-di_h264/*~SessionID=fc-app_sportsguruand_5cf_watcho_5c7e6e46-bedb-49~Signature=ATFKiJu62v5mlS0dam47seHgpDegPr0zjMJOPJLgQ7jxTZQrKNYZg1pxsIxrMPOu24we1OiescPT0NUpQbnuGhiTesEO
 
@@ -658,7 +655,7 @@ https://in-mc-flive.fancode.com/mumbai/139981_english_hls_dc18e2235392788_1ta-di
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
 
-#EXTINF:-1 tvg-id="992cc923-cf3d-4540-9c7d-e7e7f8c79454" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/gliv0o7slfkgaqnv2qft" tvg-lang="English" group-title="Cricket",English | South Africa v Oman
+#EXTINF:-1 tvg-id="c9cdc33b-5919-40fa-85b1-b507aba878d9" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/tfejgskumfzfhtr8oilc" tvg-lang="English" group-title="Cricket",English | Hong Kong, China v England
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -667,7 +664,7 @@ https://ComeInNextMatch.com/4K.m3u8
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793360709~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=5edd659c48a8bf5412adab013355bdd33403bc3142f3838ad744898ac07e16de/manifest.mpd?vcfilter=992cc923-cf3d-4540-9c7d-e7e7f8c79454&
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793364310~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=c4c09922b619be76e77378c15330ebec418dc4a81d32658cec86289d46be3cfb/manifest.mpd?vcfilter=c9cdc33b-5919-40fa-85b1-b507aba878d9&
 
 #EXTINF:-1 tvg-id="B0HNNB38Z3" tvg-name="Hong Kong Sixes 2026 - 4th Match - South Africa vs Oman" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.10b6a999-0413-4e30-ad5f-dd3cbff6b727/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Hong Kong Sixes 2026 - 4th Match - South Africa vs Oman
 #KODIPROP:inputstream=inputstream.adaptive
