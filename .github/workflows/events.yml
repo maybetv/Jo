@@ -46,6 +46,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
+          # മാറ്റങ്ങൾ പുൾ ചെയ്യുന്നതിന് മുൻപ് Zoh.m3u സുരക്ഷിതമായി സ്റ്റേജ് ചെയ്യുന്നു
           git add Zoh.m3u
 
           if git diff --cached --quiet; then
@@ -54,4 +55,8 @@ jobs:
           fi
 
           git commit -m "Update live events playlist [skip ci]"
+
+          # റിമോട്ടിലെ മാറ്റങ്ങൾ നിലവിലെ ഫയലുകളെ കേടുവരുത്താതെ സിങ്ക് ചെയ്യുന്നു
+          git pull --rebase origin ${{ github.ref_name }}
+
           git push origin ${{ github.ref_name }}
