@@ -631,9 +631,6 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 # --- LIVE EVENTS ---
 
-#EXTINF:-1 tvg-id="sonyliv-1090551540" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027792/1793356107617263_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day1_landscape_thumb.jpg" group-title="Cricket", 2nd Unofficial Test - Day 1 | India A Tour of New Zealand [English]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe3b6prod-PlaybackConfig/2120303/criclive3010/ENG/master.m3u8?hdnea=exp=1793440265~acl=/*~id=13097997116423724468958902004580~hmac=11ff662c23983b3af7ba1f038a623dcc837fcc13b1cd2a9822f89a369f03e3ca
-
 #EXTINF:-1 tvg-id="4250526" tvg-name="Bangladesh vs West Indies [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg" group-title="Cricket",Bangladesh vs West Indies [English]
 https://in-mc-flive.fancode.com/mumbai/4250526_english_hls_d3c070eb3062034_1ta-di_h264/720p.m3u8?hdntl=Expires=1793502739~_GO=Generated~acl=/mumbai/4250526_english_hls_d3c070eb3062034_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f39_watcho_527b8621-7e58-4a~Signature=ATFKiJuq5dnmNElnQ6azaJHelJelZMekcrknZKAftEW0LktXT4SvUmQNrGFKIinv8p8JOdFk-mrWx9qoSa9ua3oMg9YK
 
@@ -642,9 +639,6 @@ https://in-mc-flive.fancode.com/mumbai/4249669_english_hls_0ad52e993378592_1ta-d
 
 #EXTINF:-1 tvg-id="4249670" tvg-name="Victoria vs Queensland [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249670_53087_QUN_VCT_FC-WEB.jpg" group-title="Cricket",Victoria vs Queensland [English]
 https://in-mc-flive.fancode.com/mumbai/4249670_english_hls_72230a09d416519_1ta-di_h264/720p.m3u8?hdntl=Expires=1793490617~_GO=Generated~acl=/mumbai/4249670_english_hls_72230a09d416519_1ta-di_h264/*~SessionID=fc-app_sportsguruand_494_watcho_0dced4d6-e051-43~Signature=ATFKiJu850NqEaV9tsqHZfoiQ8_kpx9-51kOpjjfk0L6TTqX732_qYa3XmapLHaMjV-6CyhjosrBC2MmFswohYFyrUcD
-
-#EXTINF:-1 tvg-id="4250320" tvg-name="England vs India [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ENG-vs-IND_fc-web_1793419761524.jpg" group-title="Cricket",England vs India [English]
-https://in-mc-flive.fancode.com/mumbai/4250320_english_hls_ef27833a9871797_1ta-di_h264/720p.m3u8?hdntl=Expires=1793506378~_GO=Generated~acl=/mumbai/4250320_english_hls_ef27833a9871797_1ta-di_h264/*~SessionID=fc-app_sportsguruand_0b2_watcho_4e9ee554-5038-48~Signature=ATFKiJuUSVs7XwZbOvXksNQGEOluda-RQorFGY6n3CNoOhKjsljRxfwtSahmtLXLrODzLnxcT2XPVaSrjOild0MEgp4G
 
 #EXTINF:-1 tvg-id="4250390" tvg-name="Adelaide Strikers Women vs Melbourne Stars Women [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250390_53125_AS-W_MS-W_fc-web_1793352701243.jpg" group-title="Cricket",Adelaide Strikers Women vs Melbourne Stars Women [English]
 https://in-mc-flive.fancode.com/mumbai/4250390_english_hls_032d3a160a8611_1ta-di_h264/720p.m3u8?hdntl=Expires=1793507591~_GO=Generated~acl=/mumbai/4250390_english_hls_032d3a160a8611_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e8f_watcho_ac78f853-0b79-45~Signature=ATFKiJvt7MIneLB9KZWVDHY1p8SZrMyJz49Z8eDz59v6zUcR49ujQiFa2_pVD37tFI6r32fCsTeCNeUOJiEZQ6cxcxcE
@@ -664,17 +658,6 @@ https://in-mc-flive.fancode.com/mumbai/4249847_english_hls_36204caf6f86869_1ta-d
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
 
-#EXTINF:-1 tvg-id="08a914c8-f7dc-4b69-a32e-52c607bf5904" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/oiqpcx8zbl5rw0s5pb6i" tvg-lang="English" group-title="Cricket",English | 2nd Semi-final: England v India
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793450709~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=9f587d0f86476ade28a484c947bd37e1b6dc9efd03661e014965e3c3bf89b1ba/manifest.mpd?vcfilter=08a914c8-f7dc-4b69-a32e-52c607bf5904&
-
 #EXTINF:-1 tvg-id="c550c096-1066-4984-abfd-3ae7f32153da" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/npc3zfxylqwbdm0ifwki" tvg-lang="English" group-title="Cricket",English | Netherlands v United Arab Emirates (1st Innings)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -685,6 +668,17 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1793452510~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=4ed88a8020f841462ab183490b513ba71c3b6a05516981e19e3d48726fd2794f/manifest.mpd?vcfilter=c550c096-1066-4984-abfd-3ae7f32153da&
+
+#EXTINF:-1 tvg-id="1c9095cf-963b-4670-8f34-30633734a5a9" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/jdqk9voyedgynwx1nm9s" tvg-lang="English" group-title="Cricket",English | Hong Kong International Sixes 2026 Plate, 1st Semi-final: Sri Lanka  v Oman
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793454310~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=2f243bff9c06d254caab3537666ae35ca383ee6633db4d1086da9380ceb37d0c/manifest.mpd?vcfilter=1c9095cf-963b-4670-8f34-30633734a5a9&
 
 #EXTINF:-1 tvg-id="B0HLZ4VQPQ" tvg-name="Womens Big Bash League 2026 - 4th Match - Adelaide Strikers Women vs Melbourne Stars Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7bcd78a9-701e-4b82-a7b4-b4c98580e6ac/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Womens Big Bash League 2026 - 4th Match - Adelaide Strikers Women vs Melbourne Stars Women
 #KODIPROP:inputstream=inputstream.adaptive
