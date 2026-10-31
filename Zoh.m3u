@@ -664,7 +664,7 @@ https://in-mc-flive.fancode.com/mumbai/4249847_english_hls_36204caf6f86869_1ta-d
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
 
-#EXTINF:-1 tvg-id="c5a529ff-7d5f-4fc7-b0cc-538d57e3e7cd" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/yyb9ntjvijdvrocl4v54" tvg-lang="English" group-title="Cricket",English | 1st Semi-final: Bangladesh v South Africa
+#EXTINF:-1 tvg-id="08a914c8-f7dc-4b69-a32e-52c607bf5904" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/oiqpcx8zbl5rw0s5pb6i" tvg-lang="English" group-title="Cricket",English | 2nd Semi-final: England v India
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -673,7 +673,7 @@ https://ComeInNextMatch.com/4K.m3u8
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793447110~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=4793d7983e658faa63f8f139e289aff5ea30ecdb9667fa0394743dcce2343277/manifest.mpd?vcfilter=c5a529ff-7d5f-4fc7-b0cc-538d57e3e7cd&
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793450709~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=9f587d0f86476ade28a484c947bd37e1b6dc9efd03661e014965e3c3bf89b1ba/manifest.mpd?vcfilter=08a914c8-f7dc-4b69-a32e-52c607bf5904&
 
 #EXTINF:-1 tvg-id="B0HMRLD4SS" tvg-name="Hong Kong Sixes 2026 - Bowl Semi Final 1- Bangladesh vs South Africa" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c042e372-387f-4e2e-acd1-d139e4a518a1/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Hong Kong Sixes 2026 - Bowl Semi Final 1- Bangladesh vs South Africa
 #KODIPROP:inputstream=inputstream.adaptive
