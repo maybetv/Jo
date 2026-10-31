@@ -649,6 +649,9 @@ https://in-mc-flive.fancode.com/mumbai/4250320_english_hls_ef27833a9871797_1ta-d
 #EXTINF:-1 tvg-id="4250390" tvg-name="Adelaide Strikers Women vs Melbourne Stars Women [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250390_53125_AS-W_MS-W_fc-web_1793352701243.jpg" group-title="Cricket",Adelaide Strikers Women vs Melbourne Stars Women [English]
 https://in-mc-flive.fancode.com/mumbai/4250390_english_hls_032d3a160a8611_1ta-di_h264/720p.m3u8?hdntl=Expires=1793507591~_GO=Generated~acl=/mumbai/4250390_english_hls_032d3a160a8611_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e8f_watcho_ac78f853-0b79-45~Signature=ATFKiJvt7MIneLB9KZWVDHY1p8SZrMyJz49Z8eDz59v6zUcR49ujQiFa2_pVD37tFI6r32fCsTeCNeUOJiEZQ6cxcxcE
 
+#EXTINF:-1 tvg-id="4250321" tvg-name="Sri Lanka vs Oman [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SL-vs-OMA_fc-web.jpg" group-title="Cricket",Sri Lanka vs Oman [English]
+https://in-mc-flive.fancode.com/mumbai/4250321_english_hls_57dfe01e8335283_1ta-di_h264/720p.m3u8?hdntl=Expires=1793510013~_GO=Generated~acl=/mumbai/4250321_english_hls_57dfe01e8335283_1ta-di_h264/*~SessionID=fc-app_sportsguruand_c6a_watcho_9873977f-896d-4e~Signature=ATFKiJuPzunLBm96RdfL5e_7j1pSjru9evEwzqgpTR0JaWfTD3ghLDg2OdwwkTAUj06dptPz4hMgmiNpoA1w8U8JaSAC
+
 #EXTINF:-1 tvg-id="139982" tvg-name="Day 2 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Petronas-Grand-Prix-of-Malaysia_fc-web.jpg" group-title="MotoGP",Day 2 [English]
 https://in-mc-flive.fancode.com/mumbai/139982_english_hls_db06becffb50637_1ta-di_h264/720p.m3u8?hdntl=Expires=1793493042~_GO=Generated~acl=/mumbai/139982_english_hls_db06becffb50637_1ta-di_h264/*~SessionID=fc-app_sportsguruand_7cb_watcho_a23f8368-aaea-4a~Signature=ATFKiJtQfzcpJoinDCNFbY8F0F1o2uttGWXFkyj_Hf1B8Rd3NTVmMgn1b91rttUPNR2B2d7sEWk5SiB9cBh5SoLImVQF
 
@@ -668,6 +671,17 @@ https://ComeInNextMatch.com/4K.m3u8
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793450709~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=9f587d0f86476ade28a484c947bd37e1b6dc9efd03661e014965e3c3bf89b1ba/manifest.mpd?vcfilter=08a914c8-f7dc-4b69-a32e-52c607bf5904&
+
+#EXTINF:-1 tvg-id="c550c096-1066-4984-abfd-3ae7f32153da" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/npc3zfxylqwbdm0ifwki" tvg-lang="English" group-title="Cricket",English | Netherlands v United Arab Emirates (1st Innings)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1793452510~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=4ed88a8020f841462ab183490b513ba71c3b6a05516981e19e3d48726fd2794f/manifest.mpd?vcfilter=c550c096-1066-4984-abfd-3ae7f32153da&
 
 #EXTINF:-1 tvg-id="B0HLZ4VQPQ" tvg-name="Womens Big Bash League 2026 - 4th Match - Adelaide Strikers Women vs Melbourne Stars Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7bcd78a9-701e-4b82-a7b4-b4c98580e6ac/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Womens Big Bash League 2026 - 4th Match - Adelaide Strikers Women vs Melbourne Stars Women
 #KODIPROP:inputstream=inputstream.adaptive
