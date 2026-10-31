@@ -19,12 +19,15 @@ https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_i
 https://hjh-545.pages.dev/stream?id=asianethd
 
 
+# --- ISL SPECIAL EVENTS ---
+
 #EXTINF:-1 tvg-id="sonyliv-1090551185" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792354956419172_ISL26_ChennaiyinFC_vs_KeralaBlastersFC_live_landscape_thumb.jpg" group-title="Football", Chennaiyin FC vs Kerala Blasters FC | MG Indian Super League 2026-27 [English]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2d27prod-PlaybackConfig/2120307/footlive3110/ENG/master.m3u8?hdnea=exp=1793487063~acl=/*~id=16112130905550530724330267848982~hmac=2c236b2ea4fdf9174984cf239b3255db1f428eb98163486be7044c60d4f6b765
 
 
 #EXTINF:-1 tvg-id="sonyliv-1090551185" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792354956419172_ISL26_ChennaiyinFC_vs_KeralaBlastersFC_live_landscape_thumb.jpg" group-title="Football", Chennaiyin FC vs Kerala Blasters FC | MG Indian Super League 2026-27 [Malayalam]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2d27prod-PlaybackConfig/2120306/footlive3110/MAL/master.m3u8?hdnea=exp=1793487063~acl=/*~id=16112130905550530724330267848982~hmac=2c236b2ea4fdf9174984cf239b3255db1f428eb98163486be7044c60d4f6b765
+
 # --- END ISL SPECIAL EVENTS ---
 
 
@@ -637,56 +640,35 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
-# --- LIVE EVENTS ---
 
+# --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="sonyliv-1090551185" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792354956419172_ISL26_ChennaiyinFC_vs_KeralaBlastersFC_live_landscape_thumb.jpg" group-title="Football", Chennaiyin FC vs Kerala Blasters FC | MG Indian Super League 2026-27 [Hindi]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2d27prod-PlaybackConfig/2120300/footlive3110/HIN/master.m3u8?hdnea=exp=1793487063~acl=/*~id=16112130905550530724330267848982~hmac=2c236b2ea4fdf9174984cf239b3255db1f428eb98163486be7044c60d4f6b765
 
-
 #EXTINF:-1 tvg-id="sonyliv-1090551185" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792354956419172_ISL26_ChennaiyinFC_vs_KeralaBlastersFC_live_landscape_thumb.jpg" group-title="Football", Chennaiyin FC vs Kerala Blasters FC | MG Indian Super League 2026-27 [Tamil]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2d27prod-PlaybackConfig/2120304/footlive3110/TAM/master.m3u8?hdnea=exp=1793487063~acl=/*~id=16112130905550530724330267848982~hmac=2c236b2ea4fdf9174984cf239b3255db1f428eb98163486be7044c60d4f6b765
-
 
 #EXTINF:-1 tvg-id="4249783" tvg-name="South Africa vs Australia [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Cricket",South Africa vs Australia [English]
 https://in-mc-flive.fancode.com/mumbai/4249783_english_hls_97c5a4780024185_1ta-di_h264/720p.m3u8?hdntl=Expires=1793520329~_GO=Generated~acl=/mumbai/4249783_english_hls_97c5a4780024185_1ta-di_h264/*~SessionID=fc-app_sportsguruand_918_watcho_2f1887b7-1190-4a~Signature=ATFKiJs6XDIBjO5fuuWD1AO9YHJEhHa7kXImpojJctpw65F19j2K42Ga12AhoQ4e1Rp8_NPTrv5HVoFXLzWsvNqlWkkI
 
-
 #EXTINF:-1 tvg-id="4250519" tvg-name="Netherlands vs United Arab Emirates [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png" group-title="Cricket",Netherlands vs United Arab Emirates [English]
 https://in-mc-flive.fancode.com/mumbai/4250519_english_hls_52d639dd0845065_1ta-di_h264/720p.m3u8?hdntl=Expires=1793510619~_GO=Generated~acl=/mumbai/4250519_english_hls_52d639dd0845065_1ta-di_h264/*~SessionID=fc-app_sportsguruand_d5e_watcho_81626f09-3ec1-47~Signature=ATFKiJsTh2IC2SilV8YAk0T8FL-NqDv4zgB087jyrUPrlAJv6jHYDh548PtBG28EOITY4QfKweeOrK4NrUE_dSv0ZNEM
-
 
 #EXTINF:-1 tvg-id="4250349" tvg-name="Kenya vs Papua New Guinea [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png" group-title="Cricket",Kenya vs Papua New Guinea [English]
 https://in-mc-flive.fancode.com/mumbai/4250349_english_hls_a784cd9b8693638_1ta-di_h264/720p.m3u8?hdntl=Expires=1793514861~_GO=Generated~acl=/mumbai/4250349_english_hls_a784cd9b8693638_1ta-di_h264/*~SessionID=fc-app_sportsguruand_9e8_watcho_289aa8e1-8da2-40~Signature=ATFKiJuv9bQgcep1hFkuyUfMHlek4_oeTEhy7f1o19nh08ngZ_RbCWi7W6guhTf-9p0rZAJsgZJGZqWEdJ6_MmvcFC4P
 
-
 #EXTINF:-1 tvg-id="4250350" tvg-name="Jersey vs Qatar [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png" group-title="Cricket",Jersey vs Qatar [English]
 https://in-mc-flive.fancode.com/mumbai/4250350_english_hls_b54e08c6d873024_1ta-di_h264/720p.m3u8?hdntl=Expires=1793514878~_GO=Generated~acl=/mumbai/4250350_english_hls_b54e08c6d873024_1ta-di_h264/*~SessionID=fc-app_sportsguruand_16e_watcho_12a52a96-64fa-4e~Signature=ATFKiJsUBZyz5I9hc37SCD2jv7D7rjKvPdIcSQ3Is-3JEqZMrEm77TW2yJVM6Ezw35KajGZWw50bnnayOLOQh74h1SsG
-
 
 #EXTINF:-1 tvg-id="4250362" tvg-name="Sudurpaschim Royals vs Biratnagar Kings [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250362_53124_SPR_BK_fc-Web.jpg" group-title="Cricket",Sudurpaschim Royals vs Biratnagar Kings [English]
 https://in-mc-flive.fancode.com/mumbai/4250362_english_hls_2279bcd8f161004_1ta-di_h264/720p.m3u8?hdntl=Expires=1793531338~_GO=Generated~acl=/mumbai/4250362_english_hls_2279bcd8f161004_1ta-di_h264/*~SessionID=fc-app_sportsguruand_447_watcho_8a9f187b-e273-47~Signature=ATFKiJvdNBFwhqst6ZSKonNZTQuVufOA_wg2FMfFnKgLCqawUNPi1vNc2NTYCxM7Z3kK5nYmvr5YhsEDFReTeIUhZ0IL
 
-
 #EXTINF:-1 tvg-id="4249633" tvg-name="Glaubandich Court [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png" group-title="Tennis",Glaubandich Court [English]
 https://in-mc-flive.fancode.com/mumbai/4249633_english_hls_421e45ee2157_1ta-di_h264/720p.m3u8?hdntl=Expires=1793533790~_GO=Generated~acl=/mumbai/4249633_english_hls_421e45ee2157_1ta-di_h264/*~SessionID=fc-app_sportsguruand_3ff_watcho_6f9e1979-4663-4b~Signature=ATFKiJvi5a-a0krb6V-Bm4txA6tQDIOxcXmfim3Fyjn0ZZhHAMJp5RbIpjC52ieuYqQ1uX1zKxmsWgxASSDMC59T1D0P
 
-
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
-
-
-#EXTINF:-1 tvg-id="55cb2f7b-e0c2-43d1-9f0b-cd1d8d7ecac4" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/uqhfjb7gjpuqepa0yt3u" tvg-lang="English" group-title="Cricket",English | Kenya v Papua New Guinea (1st Innings)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1793457015~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=988985a7cf1b1e732b86eece121e52af06cfe7fa2d8cdf373eb69959b17afc70/manifest.mpd?vcfilter=55cb2f7b-e0c2-43d1-9f0b-cd1d8d7ecac4&
-
 
 #EXTINF:-1 tvg-id="1afefde6-f9cc-4968-b7bf-dd9284312542" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/z27ygrztwjo6bxujbzq6" tvg-lang="English" group-title="Cricket",English | Netherlands v United Arab Emirates (2nd Innings)
 #KODIPROP:inputstream=inputstream.adaptive
@@ -699,7 +681,6 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1793467807~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=cf8ac16e2f14a1f8c68767070cd66dee8db9ac57ac37c8dc980479d17a9c2440/manifest.mpd?vcfilter=1afefde6-f9cc-4968-b7bf-dd9284312542&
 
-
 #EXTINF:-1 tvg-id="aaab44cc-f18c-4879-978b-62b605c2c0b3" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ejjfip1r4q4pewrolsur" tvg-lang="English" group-title="Cricket",English | Qatar v Jersey (1st Innings)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -711,14 +692,23 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1793472308~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=caf51febeab23da676009a74fc5bd74e3951d257f6b3b8c2c4219b9595f1f778/manifest.mpd?vcfilter=aaab44cc-f18c-4879-978b-62b605c2c0b3&
 
+#EXTINF:-1 tvg-id="a63c46f2-2821-4fb9-b79d-a7fbb698af1d" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/vxqgr6pf5onb8zdu3ykq" tvg-lang="English" group-title="Cricket",English | Kenya v Papua New Guinea (2nd Innings)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1793476808~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=995925fb8c13f50e61e9d69540d5fb9c6f7d3706277f0ec203075f41ce47276c/manifest.mpd?vcfilter=a63c46f2-2821-4fb9-b79d-a7fbb698af1d&
 
 #EXTINF:-1 tvg-id="B0HKDPRJRS" tvg-name="Australia tour of South Africa 2026 - 3rd Test - South Africa vs Australia" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.20a790a3-51e9-4ec1-9a8b-cb632845af2d/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Australia tour of South Africa 2026 - 3rd Test - South Africa vs Australia
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=055e7d596817187feb6148156f166cd4:d2f924558033464139e9367ffe346149
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/iq4ucnnylo/out/v1/589f94d67d424d2fa5792f43af15a45f/cenc.mpd
-
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/iq4ucnnylo/out/v1/589f94d67d424d2fa5792f43af15a45f/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HP445XSZ" tvg-name="Pakistan ODI Tri-Series 2026 - Final - Pakistan vs Sri Lanka" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.585cf604-276f-4a0d-8d72-73b6136cd9fb/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Pakistan ODI Tri-Series 2026 - Final - Pakistan vs Sri Lanka
 #KODIPROP:inputstream=inputstream.adaptive
@@ -727,22 +717,12 @@ https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/iq4ucnny
 #KODIPROP:inputstream.adaptive.license_key=a323fd2c6886dfea4831314fd63c4eb7:462c6dd2b56c26e958f5981fea25aef4
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/kauhtkxesb/out/v1/b7ddf44fd9d847f892422ff925f1c04c/cenc.mpd
 
-
 #EXTINF:-1 tvg-id="B0HNGCKJ18" tvg-name="Womens Big Bash League 2026 - 5th Match - Perth Scorchers Women vs Melbourne Renegades Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.473de08a-bbf3-4dd2-9f27-d805debb9f93/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Womens Big Bash League 2026 - 5th Match - Perth Scorchers Women vs Melbourne Renegades Women
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82b8543f9ed421538363bacc50c6cc93:a1c7f34031ab2f04a33af7f2df053146
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5rs9chknls/out/v1/84d18f950b7144af8b9f54919ca5d481/cenc.mpd
-
-
-#EXTINF:-1 tvg-id="B0HPLD3B2D" tvg-name="LIVE: HotelPlanner Final 2026 Day 3" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b5d98c54-a92d-4993-a4f7-44e80ede4f3e/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",LIVE: HotelPlanner Final 2026 Day 3
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9590ea43d0f770c24205e23440d8af8c:b127454380d8fffc3acd12575b2b4adb
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd
-
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/5rs9chknls/out/v1/84d18f950b7144af8b9f54919ca5d481/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HP445XSZ" tvg-name="Pakistan ODI Tri-Series 2026 - Final - Pakistan vs Sri Lanka" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.585cf604-276f-4a0d-8d72-73b6136cd9fb/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Pakistan ODI Tri-Series 2026 - Final - Pakistan vs Sri Lanka
 #KODIPROP:inputstream=inputstream.adaptive
@@ -751,6 +731,12 @@ https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr
 #KODIPROP:inputstream.adaptive.license_key=a323fd2c6886dfea4831314fd63c4eb7:462c6dd2b56c26e958f5981fea25aef4
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/kauhtkxesb/out/v1/b7ddf44fd9d847f892422ff925f1c04c/cenc.mpd
 
+#EXTINF:-1 tvg-id="B0HPLD3B2D" tvg-name="LIVE: HotelPlanner Final 2026 Day 3" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b5d98c54-a92d-4993-a4f7-44e80ede4f3e/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",LIVE: HotelPlanner Final 2026 Day 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9590ea43d0f770c24205e23440d8af8c:b127454380d8fffc3acd12575b2b4adb
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HKDPRJRS" tvg-name="Australia tour of South Africa 2026 - 3rd Test - South Africa vs Australia" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.20a790a3-51e9-4ec1-9a8b-cb632845af2d/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Australia tour of South Africa 2026 - 3rd Test - South Africa vs Australia
 #KODIPROP:inputstream=inputstream.adaptive
@@ -759,18 +745,10 @@ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/kauhtkxesb/out/v1
 #KODIPROP:inputstream.adaptive.license_key=055e7d596817187feb6148156f166cd4:d2f924558033464139e9367ffe346149
 https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/iq4ucnnylo/out/v1/589f94d67d424d2fa5792f43af15a45f/cenc.mpd
 
-
 #EXTINF:-1 tvg-id="B0HNGCKJ18" tvg-name="Womens Big Bash League 2026 - 5th Match - Perth Scorchers Women vs Melbourne Renegades Women" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.473de08a-bbf3-4dd2-9f27-d805debb9f93/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Womens Big Bash League 2026 - 5th Match - Perth Scorchers Women vs Melbourne Renegades Women
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82b8543f9ed421538363bacc50c6cc93:a1c7f34031ab2f04a33af7f2df053146
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5rs9chknls/out/v1/84d18f950b7144af8b9f54919ca5d481/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5rs9chknls/out/v1/84d18f950b7144af8b9f54919ca5d481/cenc.mpd
 
-
-#EXTINF:-1 tvg-id="B0HN7WRZQY" tvg-name="Cricket-WBBL 2026: Scorchers vs Renegades - 5th Match" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.06563ac3-08a7-4fce-b412-8174d5b752fc/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Cricket-WBBL 2026: Scorchers vs Renegades - 5th Match
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
