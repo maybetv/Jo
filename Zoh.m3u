@@ -646,7 +646,7 @@ https://in-mc-flive.fancode.com/mumbai/4249670_english_hls_72230a09d416519_1ta-d
 #EXTINF:-1 tvg-id="4250317" tvg-name="Scotland vs Sri Lanka [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250317_53120_SCO_SL_fc-web.jpg" group-title="Cricket",Scotland vs Sri Lanka [English]
 https://in-mc-flive.fancode.com/mumbai/4250317_english_hls_649458dff333332_1ta-di_h264/720p.m3u8?hdntl=Expires=1793496074~_GO=Generated~acl=/mumbai/4250317_english_hls_649458dff333332_1ta-di_h264/*~SessionID=fc-app_sportsguruand_072_watcho_c6fc19bc-3cf9-48~Signature=ATFKiJsOzs2hbLC57rFL4jEXkDu83DJ--3DAEygf7mOtESNnbO0NbByrEQZvK10Wgsatkq7VttVICKqA9GCGcal_8LsL
 
-#EXTINF:-1 tvg-id="4250318" tvg-name="United Arab Emirates vs India [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250318_53120_UAE_IND_fc-web.jpg" group-title="Cricket",United Arab Emirates vs India [English]
+#EXTINF:-1 tvg-id="4250318" tvg-name="India vs United Arab Emirates [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250318_53120_UAE_IND_fc-web.jpg" group-title="Cricket",India vs United Arab Emirates [English]
 https://in-mc-flive.fancode.com/mumbai/4250318_english_hls_70a4af040149501_1ta-di_h264/720p.m3u8?hdntl=Expires=1793499710~_GO=Generated~acl=/mumbai/4250318_english_hls_70a4af040149501_1ta-di_h264/*~SessionID=fc-app_sportsguruand_fb8_watcho_1c3930de-a362-43~Signature=ATFKiJsnMdEL3kAS5Ub7u7SB79q-TcxBBhVEgc8238CxI612GB2pycPfoPBEkPagygySNeAfvJzZzW3ot0t0BBAvyLoG
 
 #EXTINF:-1 tvg-id="139982" tvg-name="Day 2 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Petronas-Grand-Prix-of-Malaysia_fc-web.jpg" group-title="MotoGP",Day 2 [English]
@@ -655,7 +655,7 @@ https://in-mc-flive.fancode.com/mumbai/139982_english_hls_db06becffb50637_1ta-di
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
 
-#EXTINF:-1 tvg-id="8c0d6dd3-ed74-4047-881f-091973d5c78d" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/gb2uskdlw4kili0rdoce" tvg-lang="English" group-title="Cricket",English | Scotland v Sri Lanka
+#EXTINF:-1 tvg-id="9ec9bde1-a54d-4b3d-93ac-b5b5e9d0913b" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/wufidbibejkd7f4ptzk9" tvg-lang="English" group-title="Cricket",English | UAE v India
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -664,7 +664,7 @@ https://ComeInNextMatch.com/4K.m3u8
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793439909~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=db08b3f9f1875c9d417738b80fbb1701737b9369684fcac5564bb0d2285c2574/manifest.mpd?vcfilter=8c0d6dd3-ed74-4047-881f-091973d5c78d&
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793443509~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=b4325d6120462673f5d9fda642997f784c6bcad57c2b7f6cd712efd8eda31a40/manifest.mpd?vcfilter=9ec9bde1-a54d-4b3d-93ac-b5b5e9d0913b&
 
 #EXTINF:-1 tvg-id="B0HLPHVTPB" tvg-name="Hong Kong Sixes 2026 - 11th Match - Scotland vs Sri Lanka" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6d4fd29c-1738-463c-8252-d92ad764de01/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Hong Kong Sixes 2026 - 11th Match - Scotland vs Sri Lanka
 #KODIPROP:inputstream=inputstream.adaptive
