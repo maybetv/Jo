@@ -628,32 +628,40 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
-
 # --- LIVE EVENTS ---
+
 
 #EXTINF:-1 tvg-id="sonyliv-1090551540" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027792/1793356107617263_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day1_landscape_thumb.jpg" group-title="Cricket", 2nd Unofficial Test - Day 1 | India A Tour of New Zealand [English]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe3b6prod-PlaybackConfig/2120303/criclive3010/ENG/master.m3u8?hdnea=exp=1793440265~acl=/*~id=13097997116423724468958902004580~hmac=11ff662c23983b3af7ba1f038a623dcc837fcc13b1cd2a9822f89a369f03e3ca
 
+
 #EXTINF:-1 tvg-id="4249668" tvg-name="Western Australia vs South Australia [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249668_53087_SAU_WAU_FC-WEB.jpg" group-title="Cricket",Western Australia vs South Australia [English]
 https://in-mc-flive.fancode.com/mumbai/4249668_english_hls_a2c3979ec985476_1ta-di_h264/720p.m3u8?hdntl=Expires=1793487555~_GO=Generated~acl=/mumbai/4249668_english_hls_a2c3979ec985476_1ta-di_h264/*~SessionID=fc-app_sportsguruand_b25_watcho_71faf523-0292-40~Signature=ATFKiJvvLu4h5HdI1dpocrIuIrgI1R5mtGillGNT9tgoegsEyr6ZlTd6kJqXxa1SxhW5BKsyyMo_X983rErFvs1Q_zcF
+
 
 #EXTINF:-1 tvg-id="4249669" tvg-name="Tasmania vs New South Wales [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249669_53087_TAS_NSW_FC-WEB.jpg" group-title="Cricket",Tasmania vs New South Wales [English]
 https://in-mc-flive.fancode.com/mumbai/4249669_english_hls_0ad52e993378592_1ta-di_h264/720p.m3u8?hdntl=Expires=1793487556~_GO=Generated~acl=/mumbai/4249669_english_hls_0ad52e993378592_1ta-di_h264/*~SessionID=fc-app_sportsguruand_9b8_watcho_4fb5c5cd-dca8-41~Signature=ATFKiJtM4yqv7_lGCtpXcH2yXxvVHtkMe7CLVReX0iEUbgFeVuU2vISXOgCii4uakcpZUiTKM3aVW0Is_S0OLh15OVAA
 
+
 #EXTINF:-1 tvg-id="4249670" tvg-name="Victoria vs Queensland [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249670_53087_QUN_VCT_FC-WEB.jpg" group-title="Cricket",Victoria vs Queensland [English]
 https://in-mc-flive.fancode.com/mumbai/4249670_english_hls_72230a09d416519_1ta-di_h264/720p.m3u8?hdntl=Expires=1793490617~_GO=Generated~acl=/mumbai/4249670_english_hls_72230a09d416519_1ta-di_h264/*~SessionID=fc-app_sportsguruand_494_watcho_0dced4d6-e051-43~Signature=ATFKiJu850NqEaV9tsqHZfoiQ8_kpx9-51kOpjjfk0L6TTqX732_qYa3XmapLHaMjV-6CyhjosrBC2MmFswohYFyrUcD
+
 
 #EXTINF:-1 tvg-id="4250317" tvg-name="Scotland vs Sri Lanka [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250317_53120_SCO_SL_fc-web.jpg" group-title="Cricket",Scotland vs Sri Lanka [English]
 https://in-mc-flive.fancode.com/mumbai/4250317_english_hls_649458dff333332_1ta-di_h264/720p.m3u8?hdntl=Expires=1793496074~_GO=Generated~acl=/mumbai/4250317_english_hls_649458dff333332_1ta-di_h264/*~SessionID=fc-app_sportsguruand_072_watcho_c6fc19bc-3cf9-48~Signature=ATFKiJsOzs2hbLC57rFL4jEXkDu83DJ--3DAEygf7mOtESNnbO0NbByrEQZvK10Wgsatkq7VttVICKqA9GCGcal_8LsL
 
+
 #EXTINF:-1 tvg-id="4250318" tvg-name="India vs United Arab Emirates [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250318_53120_UAE_IND_fc-web.jpg" group-title="Cricket",India vs United Arab Emirates [English]
 https://in-mc-flive.fancode.com/mumbai/4250318_english_hls_70a4af040149501_1ta-di_h264/720p.m3u8?hdntl=Expires=1793499710~_GO=Generated~acl=/mumbai/4250318_english_hls_70a4af040149501_1ta-di_h264/*~SessionID=fc-app_sportsguruand_fb8_watcho_1c3930de-a362-43~Signature=ATFKiJsnMdEL3kAS5Ub7u7SB79q-TcxBBhVEgc8238CxI612GB2pycPfoPBEkPagygySNeAfvJzZzW3ot0t0BBAvyLoG
+
 
 #EXTINF:-1 tvg-id="139982" tvg-name="Day 2 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Petronas-Grand-Prix-of-Malaysia_fc-web.jpg" group-title="MotoGP",Day 2 [English]
 https://in-mc-flive.fancode.com/mumbai/139982_english_hls_db06becffb50637_1ta-di_h264/720p.m3u8?hdntl=Expires=1793493042~_GO=Generated~acl=/mumbai/139982_english_hls_db06becffb50637_1ta-di_h264/*~SessionID=fc-app_sportsguruand_7cb_watcho_a23f8368-aaea-4a~Signature=ATFKiJtQfzcpJoinDCNFbY8F0F1o2uttGWXFkyj_Hf1B8Rd3NTVmMgn1b91rttUPNR2B2d7sEWk5SiB9cBh5SoLImVQF
 
+
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
+
 
 #EXTINF:-1 tvg-id="9ec9bde1-a54d-4b3d-93ac-b5b5e9d0913b" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/wufidbibejkd7f4ptzk9" tvg-lang="English" group-title="Cricket",English | UAE v India
 #KODIPROP:inputstream=inputstream.adaptive
@@ -666,12 +674,14 @@ https://ComeInNextMatch.com/4K.m3u8
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793443509~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=b4325d6120462673f5d9fda642997f784c6bcad57c2b7f6cd712efd8eda31a40/manifest.mpd?vcfilter=9ec9bde1-a54d-4b3d-93ac-b5b5e9d0913b&
 
+
 #EXTINF:-1 tvg-id="B0HLPHVTPB" tvg-name="Hong Kong Sixes 2026 - 11th Match - Scotland vs Sri Lanka" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6d4fd29c-1738-463c-8252-d92ad764de01/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Hong Kong Sixes 2026 - 11th Match - Scotland vs Sri Lanka
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a247eb23d3520f5492bdb8ff1d7ad7ef:49e80b833b1aefbad21536e2390ec9b6
 https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bhvsklfjf2/out/v1/cecb823f77a845a0a5d61ac33bcc627e/cenc.mpd
+
 
 #EXTINF:-1 tvg-id="B0HP7S4L72" tvg-name="Hong Kong Sixes 2026 - 12th Match - United Arab Emirates vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.561ec0f8-75e0-40bc-8b07-5b2e8a35a3c6/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Hong Kong Sixes 2026 - 12th Match - United Arab Emirates vs India
 #KODIPROP:inputstream=inputstream.adaptive
@@ -680,12 +690,14 @@ https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bhvsklfjf2
 #KODIPROP:inputstream.adaptive.license_key=1417c5f1bf3be20dbbc07ac02882ee58:d8b860211c19eced1e6b83248f9dbf1c
 https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ahjbrf0moc/out/v1/f879245328274dce9cab868884c6fb37/cenc.mpd
 
+
 #EXTINF:-1 tvg-id="B0HL6BH6C8" tvg-name="Iron-Man Halloween Nationals at Portsmouth Raceway Park" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.38eff73c-4bc6-4782-b2fc-dbc8130959e6/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Iron-Man Halloween Nationals at Portsmouth Raceway Park
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/piohtevobl/out/v1/5492835514884933abee7a9b852dd1af/cenc.mpd
+
 
 #EXTINF:-1 tvg-id="B0HMJFZ74Z" tvg-name="Gonzaga at San Diego State" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4c682098-f80a-4bdf-ab2b-0f3cadc28cbe/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Gonzaga at San Diego State
 #KODIPROP:inputstream=inputstream.adaptive
@@ -694,12 +706,14 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/piohtevobl/
 #KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd
 
+
 #EXTINF:-1 tvg-id="B0HP1BG9N4" tvg-name="Petronas Grand Prix of Malaysia, Qualifying" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a92c755c-d224-4710-8cbf-7b9fc6112d33/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Petronas Grand Prix of Malaysia, Qualifying
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
 https://ABCQQJ3AAAAAAAAMNW75TXX2HSLGP.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq-RnGBhpq5VNGA2pjbG91ZGZyb250AngoZmlkOjAxYTE4ZmNkLTRkMWEtNzQ5Ny04ZWZjLWNiMDcyODE2MGIwORkBOKEFoQJ4My9tczIzZnNlcXhmL291dC92MS8zMGYzYWQ5YmEyYzM0MDczOWVhMjk0M2YyOWQ0NGIzMlggmKiEeGBr1gcD4qdSK2mZgnyGReow2cYVxx-BXJffhEg/PDX/709b3c4313a9405ab5e8634864c7cc3b/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ms23fseqxf/out/v1/30f3ad9ba2c340739ea2943f29d44b32/a22cb49d-630b-4622-8aea-2407e2640716-cenc.mpd?aws.sessionId=4796439a-0d26-4bae-a317-a8495aeee2b2
+
 
 #EXTINF:-1 tvg-id="B0HMBNKX9J" tvg-name="United Arab Emirates vs. India" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b8766c14-2bed-4b73-8a6a-fa24fcd2a6eb/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",United Arab Emirates vs. India
 #KODIPROP:inputstream=inputstream.adaptive
@@ -708,12 +722,14 @@ https://ABCQQJ3AAAAAAAAMNW75TXX2HSLGP.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhA
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
+
 #EXTINF:-1 tvg-id="B0HFYL7XCZ" tvg-name="El Salvador, Day 3" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cc593f4b-845c-4c48-bd57-59570d6f2eb3/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",El Salvador, Day 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
 https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
+
 
 #EXTINF:-1 tvg-id="B0HP7S4L72" tvg-name="Hong Kong Sixes 2026 - 12th Match - United Arab Emirates vs India" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.561ec0f8-75e0-40bc-8b07-5b2e8a35a3c6/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Hong Kong Sixes 2026 - 12th Match - United Arab Emirates vs India
 #KODIPROP:inputstream=inputstream.adaptive
@@ -722,6 +738,7 @@ https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzli
 #KODIPROP:inputstream.adaptive.license_key=1417c5f1bf3be20dbbc07ac02882ee58:d8b860211c19eced1e6b83248f9dbf1c
 https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/dlz1vrcgtg/out/v1/e8bb40f19fa44eb7932c9b77324fb2fc/cenc.mpd
 
+
 #EXTINF:-1 tvg-id="B0HNWDHX8V" tvg-name="Scotland vs. Sri Lanka" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5d13947d-e7ee-4238-bb0e-c95bf602a25e/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Scotland vs. Sri Lanka
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -729,10 +746,10 @@ https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/dlz1vrcg
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
+
 #EXTINF:-1 tvg-id="B0HLPHVTPB" tvg-name="Hong Kong Sixes 2026 - 11th Match - Scotland vs Sri Lanka" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6d4fd29c-1738-463c-8252-d92ad764de01/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Hong Kong Sixes 2026 - 11th Match - Scotland vs Sri Lanka
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a247eb23d3520f5492bdb8ff1d7ad7ef:49e80b833b1aefbad21536e2390ec9b6
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2cgejpq95l/out/v1/9b293aed35e446e68089ba6d947cc026/cenc.mpd
-
