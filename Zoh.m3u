@@ -676,6 +676,9 @@ https://in-mc-flive.fancode.com/mumbai/4249207_english_hls_07fe52cc7848011_1ta-d
 #EXTINF:-1 tvg-id="4249633" tvg-name="Glaubandich Court [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png" group-title="Tennis",Glaubandich Court [English]
 https://in-mc-flive.fancode.com/mumbai/4249633_english_hls_421e45ee2157_1ta-di_h264/720p.m3u8?hdntl=Expires=1793533790~_GO=Generated~acl=/mumbai/4249633_english_hls_421e45ee2157_1ta-di_h264/*~SessionID=fc-app_sportsguruand_3ff_watcho_6f9e1979-4663-4b~Signature=ATFKiJvi5a-a0krb6V-Bm4txA6tQDIOxcXmfim3Fyjn0ZZhHAMJp5RbIpjC52ieuYqQ1uX1zKxmsWgxASSDMC59T1D0P
 
+#EXTINF:-1 tvg-id="4250524" tvg-name="Semi-Finals [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hylo-Open-2026_fc-web.jpg" group-title="Badminton",Semi-Finals [English]
+https://in-mc-flive.fancode.com/mumbai/4250524_english_hls_60e4ade45e61091_1ta-di_h264/720p.m3u8?hdntl=Expires=1793537478~_GO=Generated~acl=/mumbai/4250524_english_hls_60e4ade45e61091_1ta-di_h264/*~SessionID=fc-app_sportsguruand_372_watcho_de46c727-146b-49~Signature=ATFKiJuY5pUJl-7rfzVhmIdLv1yB6AaUx5bTpNJfNaaICPrekqPOdtUX3on0dARMrDQJT0pJEQ_ez-NzCQ_Tb8HioNsD
+
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
 
