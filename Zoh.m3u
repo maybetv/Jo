@@ -646,9 +646,6 @@ https://in-mc-flive.fancode.com/mumbai/4249669_english_hls_0ad52e993378592_1ta-d
 #EXTINF:-1 tvg-id="4249670" tvg-name="Victoria vs Queensland [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249670_53087_QUN_VCT_FC-WEB.jpg" group-title="Cricket",Victoria vs Queensland [English]
 https://in-mc-flive.fancode.com/mumbai/4249670_english_hls_72230a09d416519_1ta-di_h264/720p.m3u8?hdntl=Expires=1793490617~_GO=Generated~acl=/mumbai/4249670_english_hls_72230a09d416519_1ta-di_h264/*~SessionID=fc-app_sportsguruand_494_watcho_0dced4d6-e051-43~Signature=ATFKiJu850NqEaV9tsqHZfoiQ8_kpx9-51kOpjjfk0L6TTqX732_qYa3XmapLHaMjV-6CyhjosrBC2MmFswohYFyrUcD
 
-#EXTINF:-1 tvg-id="4250318" tvg-name="India vs United Arab Emirates [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250318_53120_UAE_IND_fc-web.jpg" group-title="Cricket",India vs United Arab Emirates [English]
-https://in-mc-flive.fancode.com/mumbai/4250318_english_hls_70a4af040149501_1ta-di_h264/720p.m3u8?hdntl=Expires=1793499710~_GO=Generated~acl=/mumbai/4250318_english_hls_70a4af040149501_1ta-di_h264/*~SessionID=fc-app_sportsguruand_fb8_watcho_1c3930de-a362-43~Signature=ATFKiJsnMdEL3kAS5Ub7u7SB79q-TcxBBhVEgc8238CxI612GB2pycPfoPBEkPagygySNeAfvJzZzW3ot0t0BBAvyLoG
-
 #EXTINF:-1 tvg-id="4250319" tvg-name="Bangladesh vs South Africa [English]" tvg-logo="https://images.fancode.com/aig/match/v1793417141979/4250319_CASACARDS_APP.png" group-title="Cricket",Bangladesh vs South Africa [English]
 https://in-mc-flive.fancode.com/mumbai/4250319_english_hls_577669225565164_1ta-di_h264/720p.m3u8?hdntl=Expires=1793503346~_GO=Generated~acl=/mumbai/4250319_english_hls_577669225565164_1ta-di_h264/*~SessionID=fc-app_sportsguruand_8ce_watcho_30c83803-9499-4e~Signature=ATFKiJthZfxxwzbnnIsjtbqQqSQmXmggYhXxM0eTXRHpsCsADJusdSdsNyxzzbFiEbphOvDQQ59HR0jVpXKnP2h6Gs8N
 
@@ -658,7 +655,7 @@ https://in-mc-flive.fancode.com/mumbai/139982_english_hls_db06becffb50637_1ta-di
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
 
-#EXTINF:-1 tvg-id="9ec9bde1-a54d-4b3d-93ac-b5b5e9d0913b" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/wufidbibejkd7f4ptzk9" tvg-lang="English" group-title="Cricket",English | UAE v India
+#EXTINF:-1 tvg-id="c5a529ff-7d5f-4fc7-b0cc-538d57e3e7cd" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/yyb9ntjvijdvrocl4v54" tvg-lang="English" group-title="Cricket",English | 1st Semi-final: Bangladesh v South Africa
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -667,7 +664,7 @@ https://ComeInNextMatch.com/4K.m3u8
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793443509~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=b4325d6120462673f5d9fda642997f784c6bcad57c2b7f6cd712efd8eda31a40/manifest.mpd?vcfilter=9ec9bde1-a54d-4b3d-93ac-b5b5e9d0913b&
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793447110~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=4793d7983e658faa63f8f139e289aff5ea30ecdb9667fa0394743dcce2343277/manifest.mpd?vcfilter=c5a529ff-7d5f-4fc7-b0cc-538d57e3e7cd&
 
 #EXTINF:-1 tvg-id="B0HP7S4L72" tvg-name="Hong Kong Sixes 2026 - 12th Match - United Arab Emirates vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.561ec0f8-75e0-40bc-8b07-5b2e8a35a3c6/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Hong Kong Sixes 2026 - 12th Match - United Arab Emirates vs India
 #KODIPROP:inputstream=inputstream.adaptive
