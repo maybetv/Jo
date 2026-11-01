@@ -19,11 +19,8 @@ https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_i
 https://hjh-545.pages.dev/stream?id=asianethd
 
 
-# --- ISL SPECIAL EVENTS ---
-
 #EXTINF:-1 tvg-id="sonyliv-1090551626" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792881645594355_ISL26_Mumbai_City_FC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg" group-title="Football", Mumbai City FC vs Sporting Club Delhi | MG Indian Super League 2026-27 [English]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2120299/footlive0111/ENG/master.m3u8?hdnea=exp=1793573457~acl=/*~id=51841935488676790268620609403187~hmac=7064df43423b00a303c0236945e80e356a72c5bd41322796c2bd6b9a3ba1e8e3
-
 # --- END ISL SPECIAL EVENTS ---
 
 
@@ -636,38 +633,48 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
-
 # --- LIVE EVENTS ---
+
 
 #EXTINF:-1 tvg-id="sonyliv-1090551626" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792881645594355_ISL26_Mumbai_City_FC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg" group-title="Football", Mumbai City FC vs Sporting Club Delhi | MG Indian Super League 2026-27 [Hindi]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2120301/footlive0111/HIN/master.m3u8?hdnea=exp=1793573457~acl=/*~id=51841935488676790268620609403187~hmac=7064df43423b00a303c0236945e80e356a72c5bd41322796c2bd6b9a3ba1e8e3
 
+
 #EXTINF:-1 tvg-id="4250363" tvg-name="Janakpur Bolts vs Pokhara Avengers [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250363_53124_JKB_PKA_fc-Web.jpg" group-title="Cricket",Janakpur Bolts vs Pokhara Avengers [English]
 https://in-mc-flive.fancode.com/mumbai/4250363_english_hls_3c429d187460404_1ta-di_h264/720p.m3u8?hdntl=Expires=1793617430~_GO=Generated~acl=/mumbai/4250363_english_hls_3c429d187460404_1ta-di_h264/*~SessionID=fc-app_sportsguruand_970_watcho_c1520ad2-c382-4a~Signature=ATFKiJs3cucmC-xXBcA0YLQqC1W82T0ucFg21W4JPcnhSXFPFK7ihJT25EA0rdUcmGlDhs3uivHcWbzkXLaqMehQaToF
+
 
 #EXTINF:-1 tvg-id="4250498" tvg-name="Abu Dhabi vs Sharjah [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250498_53130_SHA_ABD_fc-web_1792412929343.jpg" group-title="Cricket",Abu Dhabi vs Sharjah [English]
 https://in-mc-flive.fancode.com/mumbai/4250498_english_hls_b5e2ad79b155192_1ta-di_h264/720p.m3u8?hdntl=Expires=1793622276~_GO=Generated~acl=/mumbai/4250498_english_hls_b5e2ad79b155192_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f25_watcho_db921d9d-7870-40~Signature=ATFKiJsRhUgcw0QJ_P2rvXCz2yi8Z405KtWG13kTu78y7NUFgExTq5Uwcxat6akZuBvhW18RfpQwNhBqvcjQ94p6_egP
 
+
 #EXTINF:-1 tvg-id="4249208" tvg-name="Arsenal Women vs Aston Villa Women [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249208_53038_ARS-W_AST-W_fc-web.jpg" group-title="Football",Arsenal Women vs Aston Villa Women [English]
 https://in-mc-flive.fancode.com/mumbai/4249208_english_hls_8498ed0a4035447_1ta-di_h264/720p.m3u8?hdntl=Expires=1793620457~_GO=Generated~acl=/mumbai/4249208_english_hls_8498ed0a4035447_1ta-di_h264/*~SessionID=fc-app_sportsguruand_759_watcho_db34ea29-08ac-4e~Signature=ATFKiJtr-ngUIzg7YW7cVjn0Uv76fQEQny84HDAq5m4AqnRON7W9QWVksgHYwaKIfjxgkm55QEojdMiWjo-dGNpEyjEI
+
 
 #EXTINF:-1 tvg-id="4249209" tvg-name="London City Lionesses vs Manchester City Women [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249209_53038_LCL_MCI-W_fc-web.jpg" group-title="Football",London City Lionesses vs Manchester City Women [English]
 https://in-mc-flive.fancode.com/mumbai/4249209_english_hls_921e9e98cf28684_1ta-di_h264/720p.m3u8?hdntl=Expires=1793620459~_GO=Generated~acl=/mumbai/4249209_english_hls_921e9e98cf28684_1ta-di_h264/*~SessionID=fc-app_sportsguruand_580_watcho_f5b8fd72-bb31-46~Signature=ATFKiJsWNVsZ8A5iTorxGW2F3KnDQ4HmXCBbqGzoaOvx_77iB1lw_3fO-ogmt1v_Q-fI0vXCfu0Wzc1OdjnU0_gt8-0O
 
+
 #EXTINF:-1 tvg-id="4250249" tvg-name="Naegohyang Women's FC vs Ayeyawady FC Women [English]" tvg-logo="https://images.fancode.com/aig/match/v1793533399051/4250249_CASACARDS_APP.png" group-title="Football",Naegohyang Women's FC vs Ayeyawady FC Women [English]
 https://in-mc-flive.fancode.com/mumbai/4250249_english_hls_18fcbe65ac20248_1ta-di_h264/720p.m3u8?hdntl=Expires=1793622278~_GO=Generated~acl=/mumbai/4250249_english_hls_18fcbe65ac20248_1ta-di_h264/*~SessionID=fc-app_sportsguruand_5e7_watcho_b5bb57bb-8d49-4a~Signature=ATFKiJtxlIMd9AXKPwD5Jr2Fc2UipEaBCSqHg2pfsGPgKP8C8Cl7__89tZ6R5DBuEfzU33eck33lKtfFJMA_jirQcOYL
+
 
 #EXTINF:-1 tvg-id="4249648" tvg-name="Doubles Final [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png" group-title="Tennis",Doubles Final [English]
 https://in-mc-flive.fancode.com/mumbai/4249648_english_hls_7546102b5f25230_1ta-di_h264/720p.m3u8?hdntl=Expires=1793620460~_GO=Generated~acl=/mumbai/4249648_english_hls_7546102b5f25230_1ta-di_h264/*~SessionID=fc-app_sportsguruand_5d0_watcho_ca6248a4-e308-42~Signature=ATFKiJtBTiyUCHh5U_T_4v6XnL3wIv5T5VHJOgQcGdMpzNntllBF53ClJWJ45nykuJ0oeDkGxAJsPH_i77LOe_zXI1oC
 
+
 #EXTINF:-1 tvg-id="4249634" tvg-name="Final: A. de Minaur vs C. Alcaraz [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/A.-de-Minaur-vs-C.-Alcaraz-web-match-card.png" group-title="Tennis",Final: A. de Minaur vs C. Alcaraz [English]
 https://in-mc-flive.fancode.com/mumbai/4249634_english_hls_6cf072c33d16064_1ta-di_h264/720p.m3u8?hdntl=Expires=1793623507~_GO=Generated~acl=/mumbai/4249634_english_hls_6cf072c33d16064_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e1f_watcho_74d7c058-7998-4b~Signature=ATFKiJs55Nuoi7_ufWSkeEsqP_PiIC41hhq0BLMa_fmJnCYZa5Rzc-HNvmZHi0LNez9mileV-WKDpLkemj8_1lm3sdUC
+
 
 #EXTINF:-1 tvg-id="4250525" tvg-name="Finals: L Kjaersfeldt vs PV Sindhu [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/PV-Sindhu-Mini.jpg" group-title="Badminton",Finals: L Kjaersfeldt vs PV Sindhu [English]
 https://in-mc-flive.fancode.com/mumbai/4250525_english_hls_a9ed43883055995_1ta-di_h264/720p.m3u8?hdntl=Expires=1793623514~_GO=Generated~acl=/mumbai/4250525_english_hls_a9ed43883055995_1ta-di_h264/*~SessionID=fc-app_sportsguruand_802_watcho_9f62184e-7f49-49~Signature=ATFKiJuXu8UdWjxooosgpYkA4NYdGagy4mai9JamUr7488dAl6FvZJGDyq0IfL6djrAQko5aw-b5DaGNPo0MDdTCR6MJ
 
+
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
+
 
 #EXTINF:-1 tvg-id="B0H86LZDSS" tvg-name="LIVE: HotelPlanner Final 2026 Day 4" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ba2b6566-86eb-4bff-a2e7-8f1758b839aa/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",LIVE: HotelPlanner Final 2026 Day 4
 #KODIPROP:inputstream=inputstream.adaptive
@@ -676,12 +683,14 @@ https://ComeInNextMatch.com/4K.m3u8
 #KODIPROP:inputstream.adaptive.license_key=9590ea43d0f770c24205e23440d8af8c:b127454380d8fffc3acd12575b2b4adb
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd
 
+
 #EXTINF:-1 tvg-id="B0HN7TKWTX" tvg-name="EuroTour Spanish Open Billiards-2026 Predator EuroTour: Spanish Open" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.54acd68c-aa00-48d5-8eee-8df4dde8932c/14/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",EuroTour Spanish Open Billiards-2026 Predator EuroTour: Spanish Open
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
+
 
 #EXTINF:-1 tvg-id="B0HPH15QTN" tvg-name="London City Lionesses vs. Manchester City" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a354d0e9-11d7-460b-a126-692236dbbada/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",London City Lionesses vs. Manchester City
 #KODIPROP:inputstream=inputstream.adaptive
@@ -690,10 +699,10 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 
+
 #EXTINF:-1 tvg-id="B0HN9B1MVM" tvg-name="Perth Steel vs. Canberra Heat" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.50284e30-e9ed-457d-a32e-920a671ff849/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Perth Steel vs. Canberra Heat
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
-
