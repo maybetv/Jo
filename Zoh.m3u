@@ -19,11 +19,8 @@ https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_i
 https://hjh-545.pages.dev/stream?id=asianethd
 
 
-# --- ISL SPECIAL EVENTS ---
-
 #EXTINF:-1 tvg-id="sonyliv-1090551626" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792881645594355_ISL26_Mumbai_City_FC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg" group-title="Football", Mumbai City FC vs Sporting Club Delhi | MG Indian Super League 2026-27 [English]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2120299/footlive0111/ENG/master.m3u8?hdnea=exp=1793573457~acl=/*~id=51841935488676790268620609403187~hmac=7064df43423b00a303c0236945e80e356a72c5bd41322796c2bd6b9a3ba1e8e3
-
 # --- END ISL SPECIAL EVENTS ---
 
 
@@ -636,32 +633,40 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
-
 # --- LIVE EVENTS ---
+
 
 #EXTINF:-1 tvg-id="sonyliv-1090551626" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792881645594355_ISL26_Mumbai_City_FC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg" group-title="Football", Mumbai City FC vs Sporting Club Delhi | MG Indian Super League 2026-27 [Hindi]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2120301/footlive0111/HIN/master.m3u8?hdnea=exp=1793573457~acl=/*~id=51841935488676790268620609403187~hmac=7064df43423b00a303c0236945e80e356a72c5bd41322796c2bd6b9a3ba1e8e3
 
+
 #EXTINF:-1 tvg-id="sonyliv-1090551654" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg" group-title="Cricket", 5th T20I | India Tour of New Zealand 2026 [English]
 https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1793557250~acl=/*~id=19985914225233742252051235600186~hmac=335ff81241bab07b20eb3e7c0e2af0df47fe58728b49b43e705b6789245e9424
+
 
 #EXTINF:-1 tvg-id="4250335" tvg-name="Ireland vs Namibia [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-Ireland_fc-web.jpg" group-title="Cricket",Ireland vs Namibia [English]
 https://in-mc-flive.fancode.com/mumbai/4250335_english_hls_7eef3e039e34060_1ta-di_h264/720p.m3u8?hdntl=Expires=1793602885~_GO=Generated~acl=/mumbai/4250335_english_hls_7eef3e039e34060_1ta-di_h264/*~SessionID=fc-app_sportsguruand_3b4_watcho_869cd832-72c0-45~Signature=ATFKiJv6cMzSDLk8kKcDz6n3eHS5GQAgYHxSbmA258LS-1KJDrVzsfHwOUJFJpNv_GkDQEnt5M-3GHLV4XyOcW0vl4kC
 
+
 #EXTINF:-1 tvg-id="4250393" tvg-name="Sydney Sixers Women vs Hobart Hurricanes Women [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250393_53125_SS-W_HB-W_fc-web_1793352701389.jpg" group-title="Cricket",Sydney Sixers Women vs Hobart Hurricanes Women [English]
 https://in-mc-flive.fancode.com/mumbai/4250393_english_hls_c6be72e7f114158_1ta-di_h264/720p.m3u8?hdntl=Expires=1793606521~_GO=Generated~acl=/mumbai/4250393_english_hls_c6be72e7f114158_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f92_watcho_69d340a1-e38d-47~Signature=ATFKiJsb0rCG5Id-ZgPUz1coQHpYXZV8RK5sEFVABxzKYdxN5i10LHp1T36UQ5cDYyRpIW10T4PEzd92_5PSX8Grd6AC
+
 
 #EXTINF:-1 tvg-id="4250363" tvg-name="Janakpur Bolts vs Pokhara Avengers [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250363_53124_JKB_PKA_fc-Web.jpg" group-title="Cricket",Janakpur Bolts vs Pokhara Avengers [English]
 https://in-mc-flive.fancode.com/mumbai/4250363_english_hls_3c429d187460404_1ta-di_h264/720p.m3u8?hdntl=Expires=1793617430~_GO=Generated~acl=/mumbai/4250363_english_hls_3c429d187460404_1ta-di_h264/*~SessionID=fc-app_sportsguruand_970_watcho_c1520ad2-c382-4a~Signature=ATFKiJs3cucmC-xXBcA0YLQqC1W82T0ucFg21W4JPcnhSXFPFK7ihJT25EA0rdUcmGlDhs3uivHcWbzkXLaqMehQaToF
 
+
 #EXTINF:-1 tvg-id="4250260" tvg-name="Beijing Jingtan FC Women vs Kaya FC Iloilo Women [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg" group-title="Football",Beijing Jingtan FC Women vs Kaya FC Iloilo Women [English]
 https://in-mc-flive.fancode.com/mumbai/4250260_english_hls_a7dbecca5730938_1ta-di_h264/720p.m3u8?hdntl=Expires=1793615007~_GO=Generated~acl=/mumbai/4250260_english_hls_a7dbecca5730938_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e56_watcho_4cbc7e8a-5338-45~Signature=ATFKiJuhgxmIxz-Y5TVRVS921-B3Dz5Lx73qCZQMEz4UEkwhemcKjY-gScTr-65n4y5GKzikCQYG4Qnwls9Ei6RIAAkD
+
 
 #EXTINF:-1 tvg-id="4249641" tvg-name="Doubles Final [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png" group-title="Tennis",Doubles Final [English]
 https://in-mc-flive.fancode.com/mumbai/4249641_english_hls_d9e4584e1617784_1ta-di_h264/720p.m3u8?hdntl=Expires=1793615008~_GO=Generated~acl=/mumbai/4249641_english_hls_d9e4584e1617784_1ta-di_h264/*~SessionID=fc-app_sportsguruand_d43_watcho_51d1770d-11da-45~Signature=ATFKiJuXgrM4mtCa6Id1MuZwqES0pHehcMQ8LphgF8tT0RRYDM_cF-3bdljhw74UC1F6XWU_F8JRVJEJTuEfhf-HSUwO
 
+
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
+
 
 #EXTINF:-1 tvg-id="76f6f068-73a8-4dfa-99df-1554f70e7594" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ss2qcabfqh4vfmt81h7o" tvg-lang="English" group-title="Cricket",English | 5th ODI: Namibia vs Ireland (2nd Innings)
 #KODIPROP:inputstream=inputstream.adaptive
@@ -674,12 +679,14 @@ https://ComeInNextMatch.com/4K.m3u8
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1793557806~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=991a456855a7341ae3600498e10e2cbc19d60db61f5b91727e940596c660dac6/manifest.mpd?vcfilter=76f6f068-73a8-4dfa-99df-1554f70e7594&
 
+
 #EXTINF:-1 tvg-id="B0HNWRBDCQ" tvg-name="New Zealand vs. India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2d613298-262a-42ed-a769-e267442a7aa6/3/BOXART-16X9/en-US._UR1920,1080_.jpg" group-title="Cricket",New Zealand vs. India
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2765adbf6880195515fed136e5a989fa:f1356a68a923c31d7184dfa1b91c161f
 https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pog3pkfhga/out/v1/20164001c7d9489f898d05761ad05077/cenc.mpd
+
 
 #EXTINF:-1 tvg-id="B0HN61HF5F" tvg-name="Womens Big Bash League 2026 - 7th Match - Sydney Sixers Women vs Hobart Hurricanes Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.63c97416-9e71-4c56-a95d-9ef474669f7a/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Womens Big Bash League 2026 - 7th Match - Sydney Sixers Women vs Hobart Hurricanes Women
 #KODIPROP:inputstream=inputstream.adaptive
@@ -688,12 +695,14 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pog3pkfh
 #KODIPROP:inputstream.adaptive.license_key=a59f28b25431a5ab1091707c14e6e5b5:0e2b44300a38bd47fbb02e9c687aa2c8
 https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/vqu1w8f6e7/out/v1/f7d7ec07c208491681c1b6f68d0e823f/cenc.mpd
 
+
 #EXTINF:-1 tvg-id="B0H86LZDSS" tvg-name="LIVE: HotelPlanner Final 2026 Day 4" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ba2b6566-86eb-4bff-a2e7-8f1758b839aa/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",LIVE: HotelPlanner Final 2026 Day 4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9590ea43d0f770c24205e23440d8af8c:b127454380d8fffc3acd12575b2b4adb
 https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd
+
 
 #EXTINF:-1 tvg-id="B0HN7TKWTX" tvg-name="EuroTour Spanish Open Billiards-2026 Predator EuroTour: Spanish Open" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.54acd68c-aa00-48d5-8eee-8df4dde8932c/14/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",EuroTour Spanish Open Billiards-2026 Predator EuroTour: Spanish Open
 #KODIPROP:inputstream=inputstream.adaptive
@@ -702,12 +711,14 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueeph
 #KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
 https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
 
+
 #EXTINF:-1 tvg-id="B0HNWRBDCQ" tvg-name="New Zealand vs. India" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2d613298-262a-42ed-a769-e267442a7aa6/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpg" group-title="Prime Video Sports",New Zealand vs. India
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2765adbf6880195515fed136e5a989fa:f1356a68a923c31d7184dfa1b91c161f
 https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pog3pkfhga/out/v1/20164001c7d9489f898d05761ad05077/cenc.mpd
+
 
 #EXTINF:-1 tvg-id="B0H6HF19CZ" tvg-name="Sydney Sixers vs. Hobart Hurricanes" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.89aaaf0a-9cae-4c54-b40a-31d5c4468129/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Sydney Sixers vs. Hobart Hurricanes
 #KODIPROP:inputstream=inputstream.adaptive
@@ -716,6 +727,7 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pog3pkfh
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
+
 #EXTINF:-1 tvg-id="B0HN61HF5F" tvg-name="Womens Big Bash League 2026 - 7th Match - Sydney Sixers Women vs Hobart Hurricanes Women" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.63c97416-9e71-4c56-a95d-9ef474669f7a/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Womens Big Bash League 2026 - 7th Match - Sydney Sixers Women vs Hobart Hurricanes Women
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -723,10 +735,10 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/
 #KODIPROP:inputstream.adaptive.license_key=a59f28b25431a5ab1091707c14e6e5b5:0e2b44300a38bd47fbb02e9c687aa2c8
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vqu1w8f6e7/out/v1/f7d7ec07c208491681c1b6f68d0e823f/cenc.mpd
 
+
 #EXTINF:-1 tvg-id="B0HN9B1MVM" tvg-name="Perth Steel vs. Canberra Heat" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.50284e30-e9ed-457d-a32e-920a671ff849/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Perth Steel vs. Canberra Heat
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
 https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
-
