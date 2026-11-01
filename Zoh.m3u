@@ -628,38 +628,48 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
-
 # --- LIVE EVENTS ---
+
 
 #EXTINF:-1 tvg-id="sonyliv-1090551577" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027940/1793474597073145_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day2_landscape_thumb.jpg" group-title="Cricket", 2nd Unofficial Test - Day 2 | India A Tour of New Zealand [English]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTf4faprod-PlaybackConfig/2018457/criclive3110/ENG/master.m3u8?hdnea=exp=1793526649~acl=/*~id=21758488662213733113165110736931~hmac=747f87ea6ea3d9404b2c229e8fe400393401e2841ccc2762546ed8c83e4510e9
 
+
 #EXTINF:-1 tvg-id="4249669" tvg-name="Tasmania vs New South Wales [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249669_53087_TAS_NSW_FC-WEB.jpg" group-title="Cricket",Tasmania vs New South Wales [English]
 https://in-mc-flive.fancode.com/mumbai/4249669_english_hls_0ad52e993333483_1ta-di_h264/720p.m3u8?hdntl=Expires=1793574409~_GO=Generated~acl=/mumbai/4249669_english_hls_0ad52e993333483_1ta-di_h264/*~SessionID=fc-app_sportsguruand_b18_watcho_bf02a9ce-e61f-49~Signature=ATFKiJu4bYm-ZKg7qcHdsbrQNC94rrHoySRhMNtEa0IAmpp3mwtgfnaVsSy7tWzHmySVaPgBAkr8hTXas5_uKC5QZIYI
+
 
 #EXTINF:-1 tvg-id="4249670" tvg-name="Victoria vs Queensland [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249670_53087_QUN_VCT_FC-WEB.jpg" group-title="Cricket",Victoria vs Queensland [English]
 https://in-mc-flive.fancode.com/mumbai/4249670_english_hls_72230a09d418743_1ta-di_h264/720p.m3u8?hdntl=Expires=1793575018~_GO=Generated~acl=/mumbai/4249670_english_hls_72230a09d418743_1ta-di_h264/*~SessionID=fc-app_sportsguruand_d5f_watcho_c9b3a075-b664-47~Signature=ATFKiJsFPyv4rHxSGCIuyQdEQRQG4TpiZQN9TQD7seMzXv6QrmKR6IWnUKiVrBqcmOxNG-CS4HIfT8OesueKGgA-03IH
 
+
 #EXTINF:-1 tvg-id="4250327" tvg-name="Scotland vs United Arab Emirates [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/UAE-vs-SCO_fc-web.jpg" group-title="Cricket",Scotland vs United Arab Emirates [English]
 https://in-mc-flive.fancode.com/mumbai/4250327_english_hls_718722817217539_1ta-di_h264/720p.m3u8?hdntl=Expires=1793589562~_GO=Generated~acl=/mumbai/4250327_english_hls_718722817217539_1ta-di_h264/*~SessionID=fc-app_sportsguruand_a17_watcho_747416c7-a2ec-43~Signature=ATFKiJsOxX7YTNuWohtUzP_yI3H8424cmUOVYxTNLhL4jF1_zESSCuXBEXh8YK6ttM3tvcr9N5LIFstJTXFBFjXMzi8F
+
 
 #EXTINF:-1 tvg-id="4250596" tvg-name="Womens &quot;A&quot; vs Womens &quot;B&quot; [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Womens-Exhibition-Game_fc-web.jpg" group-title="Cricket",Womens "A" vs Womens "B" [English]
 https://in-mc-flive.fancode.com/mumbai/4250596_english_hls_4c84fdac6035948_1ta-di_h264/720p.m3u8?hdntl=Expires=1793593195~_GO=Generated~acl=/mumbai/4250596_english_hls_4c84fdac6035948_1ta-di_h264/*~SessionID=fc-app_sportsguruand_661_watcho_beb55b00-65d1-4e~Signature=ATFKiJuKG9laYMoBhzhJHJWs7bf3D5GfJ-9NBEf87D1fbEa3LE8dpRAdH5IOKNN4sApR3Oc8TQL6P1RAwVYsFo0XlcgN
 
+
 #EXTINF:-1 tvg-id="4250392" tvg-name="Brisbane Heat Women vs Sydney Thunder Women [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250392_53125_ST-W_BH-W_fc-web_1793352701384.jpg" group-title="Cricket",Brisbane Heat Women vs Sydney Thunder Women [English]
 https://in-mc-flive.fancode.com/mumbai/4250392_english_hls_ab5ad34ec069159_1ta-di_h264/720p.m3u8?hdntl=Expires=1793593803~_GO=Generated~acl=/mumbai/4250392_english_hls_ab5ad34ec069159_1ta-di_h264/*~SessionID=fc-app_sportsguruand_10b_watcho_97af2646-76b5-47~Signature=ATFKiJsk3ZiY6XHAAp9p3-rOzk_WgV8BqWYqsBOcW47KIgudMIyBxK3IxOIC0Yls4f1RNyU9_9yYs0Nc0jkys-7kQkAD
+
 
 #EXTINF:-1 tvg-id="139983" tvg-name="Race Day [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Petronas-Grand-Prix-of-Malaysia_fc-web.jpg" group-title="MotoGP",Race Day [English]
 https://in-mc-flive.fancode.com/mumbai/139983_english_hls_919a9f8e1987742_1ta-di_h264/720p.m3u8?hdntl=Expires=1793582892~_GO=Generated~acl=/mumbai/139983_english_hls_919a9f8e1987742_1ta-di_h264/*~SessionID=fc-app_sportsguruand_fe7_watcho_53ef9a7b-ec98-47~Signature=ATFKiJvItIEk7fcbU6wB72ZCyI_lzfKWCK0YP4wp6k7usPepP0n5CRGKKvpzd26dGPPcPjEmi0wOEePqp4xE31YEzJMI
 
+
 #EXTINF:-1 tvg-id="4249850" tvg-name="Melbourne Victory vs Central Coast Mariners [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249850_53101_MLV_CCM_fc-Web_1792223292114.jpg" group-title="Football",Melbourne Victory vs Central Coast Mariners [English]
 https://in-mc-flive.fancode.com/mumbai/4249850_english_hls_a46fd6b90643009_1ta-di_h264/720p.m3u8?hdntl=Expires=1793591378~_GO=Generated~acl=/mumbai/4249850_english_hls_a46fd6b90643009_1ta-di_h264/*~SessionID=fc-app_sportsguruand_cfd_watcho_3609b875-92ac-4b~Signature=ATFKiJvG6PM2oTHFp7mZ1tbr-B0_iJax5tG0D_5uNLGggLwJPj0jtpsjDkfWclIyXOKsRa1BVBaPeECMxohz4LgKSNIK
+
 
 #EXTINF:-1 tvg-id="4250515" tvg-name="Day 4 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Wistron-Ladies-Open-2026_fc-web.jpg" group-title="Golf",Day 4 [English]
 https://in-mc-flive.fancode.com/mumbai/4250515_english_hls_380a64861941846_1ta-di_h264/720p.m3u8?hdntl=Expires=1793593196~_GO=Generated~acl=/mumbai/4250515_english_hls_380a64861941846_1ta-di_h264/*~SessionID=fc-app_sportsguruand_992_watcho_f853425f-41c1-45~Signature=ATFKiJvMVVphDtWuE_cz26FvGLp39Uc2oGDMOQVLknbDNSgIneftDHdlcArPbyN6LpX16U7BQYlkZIaacK45qFeKG6QP
 
+
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
+
 
 #EXTINF:-1 tvg-id="4e11414a-6829-4012-a804-4eee5edc73c1" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/bgxobpaqhnc6g15mbqib" tvg-lang="English" group-title="Cricket",English | Hong Kong Sixes: Hong Kong, China Women v China Women Stars
 #KODIPROP:inputstream=inputstream.adaptive
@@ -672,12 +682,14 @@ https://ComeInNextMatch.com/4K.m3u8
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793537109~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=14aecc74b995b21e3d69064aa4627ad3bf33d034f1ce5285030821c74d48e9f8/manifest.mpd?vcfilter=4e11414a-6829-4012-a804-4eee5edc73c1&
 
+
 #EXTINF:-1 tvg-id="B0HK3VBJC3" tvg-name="Hong Kong Sixes 2026 - Cup Play-off - United Arab Emirates vs Scotland" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b31bbf10-d78e-4244-a344-95a338e78552/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Hong Kong Sixes 2026 - Cup Play-off - United Arab Emirates vs Scotland
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=232530a82e67bbbfb57e91e47acad246:f79fa1efbdf64975a6e1263c5c00750b
 https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7yddiomgbx/out/v1/1b021c8ef5424cdf9474d931e90a32e8/cenc.mpd
+
 
 #EXTINF:-1 tvg-id="B0HMDKRJ72" tvg-name="Hong Kong Sixes 2026 - EXHIBITION GAME - Hong Kong SAR Women vs China Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.04d6e568-3205-4644-8329-e0e68868d317/1/BOXART-16X9/en-US._UR1920,1080_.jpg" group-title="Cricket",Hong Kong Sixes 2026 - EXHIBITION GAME - Hong Kong SAR Women vs China Women
 #KODIPROP:inputstream=inputstream.adaptive
@@ -686,12 +698,14 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7yddiomg
 #KODIPROP:inputstream.adaptive.license_key=b60700acb269f428bb828c21a125f149:c80c0baea9477553e545fec46cb50e9c
 https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/zftvs8ttph/out/v1/d43af91e5e4545328277170da4067922/cenc.mpd
 
+
 #EXTINF:-1 tvg-id="B0HP27TWRR" tvg-name="CF América vs. Deportivo Toluca FC" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.410e9b94-3ac0-4254-a875-953ec5d3f495/3/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",CF América vs. Deportivo Toluca FC
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+
 
 #EXTINF:-1 tvg-id="B0HMDKRJ72" tvg-name="Hong Kong Sixes 2026 - EXHIBITION GAME - Hong Kong SAR Women vs China Women" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.04d6e568-3205-4644-8329-e0e68868d317/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Hong Kong Sixes 2026 - EXHIBITION GAME - Hong Kong SAR Women vs China Women
 #KODIPROP:inputstream=inputstream.adaptive
@@ -700,12 +714,14 @@ https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorc
 #KODIPROP:inputstream.adaptive.license_key=b60700acb269f428bb828c21a125f149:c80c0baea9477553e545fec46cb50e9c
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zftvs8ttph/out/v1/d43af91e5e4545328277170da4067922/cenc.mpd
 
+
 #EXTINF:-1 tvg-id="B0HN5SH9KK" tvg-name="SFT Combat 65 - Pink October 9" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cbf71ad9-1c62-40ed-9137-4e2cccbc6388/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",SFT Combat 65 - Pink October 9
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8bbdba18ab0d7703db5f3daf7f63c0d4:126f816b9e3e2784086f5658b2fa2da7
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/prmajfawd0/out/v1/d5e14bbd144840bb917f7558d4bc0884/cenc.mpd
+
 
 #EXTINF:-1 tvg-id="B0HNSJLMP1" tvg-name="Petronas Grand Prix of Malaysia" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.71d233c5-c6ea-4445-829e-2a5394e51b29/8/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Petronas Grand Prix of Malaysia
 #KODIPROP:inputstream=inputstream.adaptive
@@ -714,10 +730,10 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/prmajfawd0/
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
 https://live-emt-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBpq-mtTBhpq5qTTA2ZmYXN0bHkCeChmaWQ6MDFhMTk0ZjMtZGJmZS03NjAxLTg1MDctM2NmZDZmYTZjYjg1GQE4oQWhAngzL3liZHY2cXBibmYvb3V0L3YxLzMwZjNhZDliYTJjMzQwNzM5ZWEyOTQzZjI5ZDQ0YjMyWCAHyaFzaOwlVGEOtVaxm5UmxXYLIRJ32Y3alM7Lag7HFA/PDX/709b3c4313a9405ab5e8634864c7cc3b/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ybdv6qpbnf/out/v1/30f3ad9ba2c340739ea2943f29d44b32/1a6eb501-690c-4f83-9447-a0cb91017769-cenc.mpd?aws.sessionId=abc4246d-7ade-49a4-9558-e7c84e280f1d
 
+
 #EXTINF:-1 tvg-id="B0HK3VBJC3" tvg-name="Hong Kong Sixes 2026 - Cup Play-off - United Arab Emirates vs Scotland" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b31bbf10-d78e-4244-a344-95a338e78552/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Hong Kong Sixes 2026 - Cup Play-off - United Arab Emirates vs Scotland
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=232530a82e67bbbfb57e91e47acad246:f79fa1efbdf64975a6e1263c5c00750b
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7yddiomgbx/out/v1/1b021c8ef5424cdf9474d931e90a32e8/cenc.mpd
-
