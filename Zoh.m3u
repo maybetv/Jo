@@ -648,7 +648,7 @@ https://in-mc-flive.fancode.com/mumbai/4250335_english_hls_7eef3e039e34060_1ta-d
 #EXTINF:-1 tvg-id="4250363" tvg-name="Janakpur Bolts vs Pokhara Avengers [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250363_53124_JKB_PKA_fc-Web.jpg" group-title="Cricket",Janakpur Bolts vs Pokhara Avengers [English]
 https://in-mc-flive.fancode.com/mumbai/4250363_english_hls_3c429d187460404_1ta-di_h264/720p.m3u8?hdntl=Expires=1793617430~_GO=Generated~acl=/mumbai/4250363_english_hls_3c429d187460404_1ta-di_h264/*~SessionID=fc-app_sportsguruand_970_watcho_c1520ad2-c382-4a~Signature=ATFKiJs3cucmC-xXBcA0YLQqC1W82T0ucFg21W4JPcnhSXFPFK7ihJT25EA0rdUcmGlDhs3uivHcWbzkXLaqMehQaToF
 
-#EXTINF:-1 tvg-id="4250260" tvg-name="Beijing Jingtan FC Women vs Kaya FC Iloilo Women [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg" group-title="Football",Beijing Jingtan FC Women vs Kaya FC Iloilo Women [English]
+#EXTINF:-1 tvg-id="4250260" tvg-name="Beijing Jingtan FC Women vs Kaya FC Iloilo Women [English]" tvg-logo="https://images.fancode.com/aig/match/v1793534597428/4250260_CASACARDS_APP.png" group-title="Football",Beijing Jingtan FC Women vs Kaya FC Iloilo Women [English]
 https://in-mc-flive.fancode.com/mumbai/4250260_english_hls_a7dbecca5730938_1ta-di_h264/720p.m3u8?hdntl=Expires=1793615007~_GO=Generated~acl=/mumbai/4250260_english_hls_a7dbecca5730938_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e56_watcho_4cbc7e8a-5338-45~Signature=ATFKiJuhgxmIxz-Y5TVRVS921-B3Dz5Lx73qCZQMEz4UEkwhemcKjY-gScTr-65n4y5GKzikCQYG4Qnwls9Ei6RIAAkD
 
 #EXTINF:-1 tvg-id="4249208" tvg-name="Arsenal Women vs Aston Villa Women [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249208_53038_ARS-W_AST-W_fc-web.jpg" group-title="Football",Arsenal Women vs Aston Villa Women [English]
@@ -674,13 +674,6 @@ https://ComeInNextMatch.com/4K.m3u8
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1793557806~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=991a456855a7341ae3600498e10e2cbc19d60db61f5b91727e940596c660dac6/manifest.mpd?vcfilter=76f6f068-73a8-4dfa-99df-1554f70e7594&
 
-#EXTINF:-1 tvg-id="B0HN61HF5F" tvg-name="Womens Big Bash League 2026 - 7th Match - Sydney Sixers Women vs Hobart Hurricanes Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.63c97416-9e71-4c56-a95d-9ef474669f7a/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Womens Big Bash League 2026 - 7th Match - Sydney Sixers Women vs Hobart Hurricanes Women
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a59f28b25431a5ab1091707c14e6e5b5:0e2b44300a38bd47fbb02e9c687aa2c8
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vqu1w8f6e7/out/v1/f7d7ec07c208491681c1b6f68d0e823f/cenc.mpd
-
 #EXTINF:-1 tvg-id="B0H86LZDSS" tvg-name="LIVE: HotelPlanner Final 2026 Day 4" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ba2b6566-86eb-4bff-a2e7-8f1758b839aa/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",LIVE: HotelPlanner Final 2026 Day 4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -693,26 +686,19 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueeph
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0H6HF19CZ" tvg-name="Sydney Sixers vs. Hobart Hurricanes" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.89aaaf0a-9cae-4c54-b40a-31d5c4468129/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Sydney Sixers vs. Hobart Hurricanes
+#EXTINF:-1 tvg-id="B0HPH15QTN" tvg-name="London City Lionesses vs. Manchester City" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a354d0e9-11d7-460b-a126-692236dbbada/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",London City Lionesses vs. Manchester City
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HN9B1MVM" tvg-name="Perth Steel vs. Canberra Heat" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.50284e30-e9ed-457d-a32e-920a671ff849/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Perth Steel vs. Canberra Heat
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HN61HF5F" tvg-name="Womens Big Bash League 2026 - 7th Match - Sydney Sixers Women vs Hobart Hurricanes Women" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.63c97416-9e71-4c56-a95d-9ef474669f7a/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Womens Big Bash League 2026 - 7th Match - Sydney Sixers Women vs Hobart Hurricanes Women
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a59f28b25431a5ab1091707c14e6e5b5:0e2b44300a38bd47fbb02e9c687aa2c8
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vqu1w8f6e7/out/v1/f7d7ec07c208491681c1b6f68d0e823f/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
 
