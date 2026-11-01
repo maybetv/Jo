@@ -655,9 +655,6 @@ https://in-mc-flive.fancode.com/mumbai/4249669_english_hls_0ad52e993333483_1ta-d
 #EXTINF:-1 tvg-id="4249670" tvg-name="Victoria vs Queensland [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249670_53087_QUN_VCT_FC-WEB.jpg" group-title="Cricket",Victoria vs Queensland [English]
 https://in-mc-flive.fancode.com/mumbai/4249670_english_hls_72230a09d418743_1ta-di_h264/720p.m3u8?hdntl=Expires=1793575018~_GO=Generated~acl=/mumbai/4249670_english_hls_72230a09d418743_1ta-di_h264/*~SessionID=fc-app_sportsguruand_d5f_watcho_c9b3a075-b664-47~Signature=ATFKiJsFPyv4rHxSGCIuyQdEQRQG4TpiZQN9TQD7seMzXv6QrmKR6IWnUKiVrBqcmOxNG-CS4HIfT8OesueKGgA-03IH
 
-#EXTINF:-1 tvg-id="4250325" tvg-name="Bangladesh vs India [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IND_fc-web.jpg" group-title="Cricket",Bangladesh vs India [English]
-https://in-mc-flive.fancode.com/mumbai/4250325_english_hls_00493f9e9683011_1ta-di_h264/720p.m3u8?hdntl=Expires=1793582285~_GO=Generated~acl=/mumbai/4250325_english_hls_00493f9e9683011_1ta-di_h264/*~SessionID=fc-app_sportsguruand_2bf_watcho_5485bf58-aa37-48~Signature=ATFKiJteOoD4PyDfaiMXdKOhmHsydmEFlOqFya9sbHvGaj7vP49xd1mtmcjuOtn_WeJXRpK6q1C706yowuqKFih0NlcA
-
 #EXTINF:-1 tvg-id="4250326" tvg-name="Hong Kong, China vs Sri Lanka [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SL-vs-HK_fc-web.jpg" group-title="Cricket",Hong Kong, China vs Sri Lanka [English]
 https://in-mc-flive.fancode.com/mumbai/4250326_english_hls_614a79b84949329_1ta-di_h264/720p.m3u8?hdntl=Expires=1793586531~_GO=Generated~acl=/mumbai/4250326_english_hls_614a79b84949329_1ta-di_h264/*~SessionID=fc-app_sportsguruand_ef1_watcho_adf24242-6017-4c~Signature=ATFKiJvX28gWACnwYFq8p7hy8Xm92vAgnpAm3gD71k1I2he4663-jkI4pSIUCG-QWamDzYkmoe1htaGn75EmFEdK94oI
 
@@ -667,7 +664,7 @@ https://in-mc-flive.fancode.com/mumbai/139983_english_hls_919a9f8e1987742_1ta-di
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
 
-#EXTINF:-1 tvg-id="cd4097e9-20be-49c5-8cbc-fa2b6bb92012" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/xswuyyxabn8mtbklyhqm" tvg-lang="English" group-title="Cricket",English | Hong Kong Sixes: 11th Place Play-off - Bangladesh v India
+#EXTINF:-1 tvg-id="bb8bef80-1b30-4d7a-9827-a8181907c058" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/obzzkmk5trfwc6s9kztg" tvg-lang="English" group-title="Cricket",English | Hong Kong Sixes: 7th Place Play-off - Sri Lanka v Hong Kong, China
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -676,7 +673,7 @@ https://ComeInNextMatch.com/4K.m3u8
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793524507~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=d6ac072c39e7ec8ecf1d39e0ef8dfa98e4ced72d1e3c96631b87d8cd7e4b0389/manifest.mpd?vcfilter=cd4097e9-20be-49c5-8cbc-fa2b6bb92012&
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1793529907~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=1866f1d202079ad64427efb9153c438ae599707c3eaa3b4d8a5c61cbfa3e516e/manifest.mpd?vcfilter=bb8bef80-1b30-4d7a-9827-a8181907c058&
 
 #EXTINF:-1 tvg-id="B0HPBMQSPR" tvg-name="Hong Kong Sixes 2026 - Bowl Play-off - Bangladesh vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8d3092af-d45c-4071-ba1e-6d686fe74ff5/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Hong Kong Sixes 2026 - Bowl Play-off - Bangladesh vs India
 #KODIPROP:inputstream=inputstream.adaptive
