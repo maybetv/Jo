@@ -628,33 +628,40 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
-
 # --- LIVE EVENTS ---
+
 
 #EXTINF:-1 tvg-id="sonyliv-1090551577" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027940/1793474597073145_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day2_landscape_thumb.jpg" group-title="Cricket", 2nd Unofficial Test - Day 2 | India A Tour of New Zealand [English]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTf4faprod-PlaybackConfig/2018457/criclive3110/ENG/master.m3u8?hdnea=exp=1793526649~acl=/*~id=21758488662213733113165110736931~hmac=747f87ea6ea3d9404b2c229e8fe400393401e2841ccc2762546ed8c83e4510e9
 
+
 #EXTINF:-1 tvg-id="sonyliv-1090551580" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027899/179338917292269_UFC_Fight_Night_Moicano_vs_Nolan_landscape_thumb.jpg" group-title="Fight Sports", UFC Fight Night - Moicano vs Nolan | UFC Fight Night - Moicano vs Nolan [English]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2094589/UFC_UFCF3110/ENG/master.m3u8?hdnea=exp=1793533867~acl=/*~id=22167057535440375592320468527524~hmac=ec199917d1aba2cbb2ac17fa8608bd6827c02014392eeb3012db7db4d62e3c6e
+
 
 #EXTINF:-1 tvg-id="sonyliv-1090551580" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027899/179338917292269_UFC_Fight_Night_Moicano_vs_Nolan_landscape_thumb.jpg" group-title="Fight Sports", UFC Fight Night - Moicano vs Nolan | UFC Fight Night - Moicano vs Nolan [Hindi]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT37d2prod-PlaybackConfig/2120299/UFC_UFCF3110/HIN/master.m3u8?hdnea=exp=1793533867~acl=/*~id=22167057535440375592320468527524~hmac=ec199917d1aba2cbb2ac17fa8608bd6827c02014392eeb3012db7db4d62e3c6e
 
+
 #EXTINF:-1 tvg-id="sonyliv-1090551580" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027899/179338917292269_UFC_Fight_Night_Moicano_vs_Nolan_landscape_thumb.jpg" group-title="Fight Sports", UFC Fight Night - Moicano vs Nolan | UFC Fight Night - Moicano vs Nolan [Telugu]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT669bprod-PlaybackConfig/2120301/UFC_UFCF3110/TEL/master.m3u8?hdnea=exp=1793533867~acl=/*~id=22167057535440375592320468527524~hmac=ec199917d1aba2cbb2ac17fa8608bd6827c02014392eeb3012db7db4d62e3c6e
+
 
 #EXTINF:-1 tvg-id="sonyliv-1090551580" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027899/179338917292269_UFC_Fight_Night_Moicano_vs_Nolan_landscape_thumb.jpg" group-title="Fight Sports", UFC Fight Night - Moicano vs Nolan | UFC Fight Night - Moicano vs Nolan [Tamil]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2094588/UFC_UFCF3110/TAM/master.m3u8?hdnea=exp=1793533867~acl=/*~id=22167057535440375592320468527524~hmac=ec199917d1aba2cbb2ac17fa8608bd6827c02014392eeb3012db7db4d62e3c6e
 
+
 #EXTINF:-1 tvg-id="sonyliv-1090551580" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027899/179338917292269_UFC_Fight_Night_Moicano_vs_Nolan_landscape_thumb.jpg" group-title="Fight Sports", UFC Fight Night - Moicano vs Nolan | UFC Fight Night - Moicano vs Nolan [Kannada]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT0b06prod-PlaybackConfig/2005444/UFC_UFCF3110/KAN/master.m3u8?hdnea=exp=1793533867~acl=/*~id=22167057535440375592320468527524~hmac=ec199917d1aba2cbb2ac17fa8608bd6827c02014392eeb3012db7db4d62e3c6e
+
 
 #EXTINF:-1 tvg-id="4249669" tvg-name="Tasmania vs New South Wales [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249669_53087_TAS_NSW_FC-WEB.jpg" group-title="Cricket",Tasmania vs New South Wales [English]
 https://in-mc-flive.fancode.com/mumbai/4249669_english_hls_0ad52e993333483_1ta-di_h264/720p.m3u8?hdntl=Expires=1793574409~_GO=Generated~acl=/mumbai/4249669_english_hls_0ad52e993333483_1ta-di_h264/*~SessionID=fc-app_sportsguruand_b18_watcho_bf02a9ce-e61f-49~Signature=ATFKiJu4bYm-ZKg7qcHdsbrQNC94rrHoySRhMNtEa0IAmpp3mwtgfnaVsSy7tWzHmySVaPgBAkr8hTXas5_uKC5QZIYI
 
+
 #EXTINF:-1 tvg-id="4249670" tvg-name="Victoria vs Queensland [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249670_53087_QUN_VCT_FC-WEB.jpg" group-title="Cricket",Victoria vs Queensland [English]
 https://in-mc-flive.fancode.com/mumbai/4249670_english_hls_72230a09d418743_1ta-di_h264/720p.m3u8?hdntl=Expires=1793575018~_GO=Generated~acl=/mumbai/4249670_english_hls_72230a09d418743_1ta-di_h264/*~SessionID=fc-app_sportsguruand_d5f_watcho_c9b3a075-b664-47~Signature=ATFKiJsFPyv4rHxSGCIuyQdEQRQG4TpiZQN9TQD7seMzXv6QrmKR6IWnUKiVrBqcmOxNG-CS4HIfT8OesueKGgA-03IH
 
+
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
-
