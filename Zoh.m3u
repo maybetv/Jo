@@ -19,6 +19,14 @@ https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_i
 https://hjh-545.pages.dev/stream?id=asianethd
 
 
+# --- ISL SPECIAL EVENTS ---
+
+#EXTINF:-1 tvg-id="sonyliv-1090551626" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792881645594355_ISL26_Mumbai_City_FC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg" group-title="Football", Mumbai City FC vs Sporting Club Delhi | MG Indian Super League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2120299/footlive0111/ENG/master.m3u8?hdnea=exp=1793573457~acl=/*~id=51841935488676790268620609403187~hmac=7064df43423b00a303c0236945e80e356a72c5bd41322796c2bd6b9a3ba1e8e3
+
+# --- END ISL SPECIAL EVENTS ---
+
+
 #EXTINF:-1 tvg-id="22020" tvg-logo="https://img.media.jio.com/tvpimages/97/2/300156_1752854414598_l_medium.jpg" group-title="Malayalam Entertainment",Mazhavil Manorama HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=37b4403a66f2565da33ba3b5704bb178:449f87256b3c1d7c2cdcbe04cbfd5530
@@ -631,6 +639,9 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 # --- LIVE EVENTS ---
 
+#EXTINF:-1 tvg-id="sonyliv-1090551626" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792881645594355_ISL26_Mumbai_City_FC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg" group-title="Football", Mumbai City FC vs Sporting Club Delhi | MG Indian Super League 2026-27 [Hindi]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2120301/footlive0111/HIN/master.m3u8?hdnea=exp=1793573457~acl=/*~id=51841935488676790268620609403187~hmac=7064df43423b00a303c0236945e80e356a72c5bd41322796c2bd6b9a3ba1e8e3
+
 #EXTINF:-1 tvg-id="sonyliv-1090551654" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg" group-title="Cricket", 5th T20I | India Tour of New Zealand 2026 [English]
 https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1793557250~acl=/*~id=19985914225233742252051235600186~hmac=335ff81241bab07b20eb3e7c0e2af0df47fe58728b49b43e705b6789245e9424
 
@@ -642,9 +653,6 @@ https://in-mc-flive.fancode.com/mumbai/4250393_english_hls_c6be72e7f114158_1ta-d
 
 #EXTINF:-1 tvg-id="4250248" tvg-name="INAC Kobe Leonessa Women vs Bam Khatoon FC [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg" group-title="Football",INAC Kobe Leonessa Women vs Bam Khatoon FC [English]
 https://in-mc-flive.fancode.com/mumbai/4250248_english_hls_fba9246d6c94053_1ta-di_h264/720p.m3u8?hdntl=Expires=1793607735~_GO=Generated~acl=/mumbai/4250248_english_hls_fba9246d6c94053_1ta-di_h264/*~SessionID=fc-app_sportsguruand_70e_watcho_90646fb0-3939-42~Signature=ATFKiJsqGElvNjmDWpj7k404iBY9dmHaA1dS8JCZzRPfnwyeXrB1-3Re_MCcdHI8ciyUjV77fLf0Xk0d37FlOjjpzBgC
-
-#EXTINF:-1 tvg-id="4250254" tvg-name="Hwacheon KSPO WFC vs 4.25 SC Women [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg" group-title="Football",Hwacheon KSPO WFC vs 4.25 SC Women [English]
-https://in-mc-flive.fancode.com/mumbai/4250254_english_hls_a445844a7886968_1ta-di_h264/720p.m3u8?hdntl=Expires=1793607128~_GO=Generated~acl=/mumbai/4250254_english_hls_a445844a7886968_1ta-di_h264/*~SessionID=fc-app_sportsguruand_625_watcho_90d13875-cf5f-43~Signature=ATFKiJuNJxc3ugi2ZVx2x5J7n9xV8weG5Hg_R19XoA1fAxgz1uG285vWMS3Sb-2hWEvpxRtlER4SE2bX0S8xyze4_iUD
 
 #EXTINF:-1 tvg-id="4250260" tvg-name="Beijing Jingtan FC Women vs Kaya FC Iloilo Women [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg" group-title="Football",Beijing Jingtan FC Women vs Kaya FC Iloilo Women [English]
 https://in-mc-flive.fancode.com/mumbai/4250260_english_hls_a7dbecca5730938_1ta-di_h264/720p.m3u8?hdntl=Expires=1793615007~_GO=Generated~acl=/mumbai/4250260_english_hls_a7dbecca5730938_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e56_watcho_4cbc7e8a-5338-45~Signature=ATFKiJuhgxmIxz-Y5TVRVS921-B3Dz5Lx73qCZQMEz4UEkwhemcKjY-gScTr-65n4y5GKzikCQYG4Qnwls9Ei6RIAAkD
