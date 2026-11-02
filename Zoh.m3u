@@ -643,6 +643,9 @@ https://in-mc-flive.fancode.com/mumbai/4250365_english_hls_bb6466746876937_1ta-d
 #EXTINF:-1 tvg-id="4250500" tvg-name="Emirates Blues vs Ajman [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250500_53130_EMB_AJM_fc-web_1792412930091.jpg" group-title="Cricket",Emirates Blues vs Ajman [English]
 https://in-mc-flive.fancode.com/mumbai/4250500_english_hls_c4ed8ba72c46666_1ta-di_h264/720p.m3u8?hdntl=Expires=1793708691~_GO=Generated~acl=/mumbai/4250500_english_hls_c4ed8ba72c46666_1ta-di_h264/*~SessionID=fc-app_sportsguruand_785_watcho_f612e6de-a22f-49~Signature=AV7HGj53nJb1AyDSaHUZ5DS75s446oSjfX2loEI1UPw8YZF2yw1auN2vKpGWbyiIj1QwDc4XcklayNJXW0c2ayGAkJsD
 
+#EXTINF:-1 tvg-id="4248728" tvg-name="Pakhtakor Tashkent vs Al-Nassr FC [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248728_53053_PT_ANF_fc-web_1793182503341.jpg" group-title="Football",Pakhtakor Tashkent vs Al-Nassr FC [English]
+https://in-mc-flive.fancode.com/mumbai/4248728_english_hls_74a916e7e810742_1ta-di_h264/720p.m3u8?hdntl=Expires=1793712930~_GO=Generated~acl=/mumbai/4248728_english_hls_74a916e7e810742_1ta-di_h264/*~SessionID=fc-app_sportsguruand_479_watcho_37a748e1-56f6-40~Signature=AV7HGj68QP-BELRlZzZZ0UuXJdeKcZR7TmRSGG2It1ZZrT04YG9qRIfXuqh8z-02yBE8NniRxTjXdu3fRWxY_DDZiJUE
+
 #EXTINF:-1 tvg-id="4250547" tvg-name="Court 2 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Tennis",Court 2 [English]
 https://in-mc-flive.fancode.com/mumbai/4250547_english_hls_86bc2823d575763_1ta-di_h264/720p.m3u8?hdntl=Expires=1793699608~_GO=Generated~acl=/mumbai/4250547_english_hls_86bc2823d575763_1ta-di_h264/*~SessionID=fc-app_sportsguruand_648_watcho_00587922-f63b-4b~Signature=AV7HGj629vel17uwy79eQAyXSXWnL2E_84EM9O6QPJnYL_KxN34b1-efJzV-9OJbSbg64BXHF1u3QEg915_IBfXMf2oH
 
@@ -655,31 +658,17 @@ https://in-mc-flive.fancode.com/mumbai/4250549_english_hls_cd610edfc088949_1ta-d
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
 
-#EXTINF:-1 tvg-id="B0HNCVKXNW" tvg-name="Tennis Today Live-Hong Kong-WTA and Chennai-WTA-Live Early Rounds" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0cef4cf1-1286-4b6f-a276-ef4696452380/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Tennis Today Live-Hong Kong-WTA and Chennai-WTA-Live Early Rounds
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
-
 #EXTINF:-1 tvg-id="B0HP8GGRWK" tvg-name="The Morning Drive" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0acecee8-14a1-45bb-b78e-c83dd4167822/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",The Morning Drive
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HP3R1MG3" tvg-name="Melbourne Stars vs. Perth Scorchers" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ced7313e-f0e8-4696-b6ec-4660232403cb/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Melbourne Stars vs. Perth Scorchers
+#EXTINF:-1 tvg-id="B0HNCVKXNW" tvg-name="Tennis Today Live-Hong Kong-WTA and Chennai-WTA-Live Early Rounds" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0cef4cf1-1286-4b6f-a276-ef4696452380/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Tennis Today Live-Hong Kong-WTA and Chennai-WTA-Live Early Rounds
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HPF99XKQ" tvg-name="Cricket Review-WBBL 2026: Stars vs Scorchers - 8th Match" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c200d5f7-d534-44e4-b41e-857a193e2f44/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Cricket Review-WBBL 2026: Stars vs Scorchers - 8th Match
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
 
