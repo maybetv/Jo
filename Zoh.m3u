@@ -634,20 +634,22 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
-# --- LIVE EVENTS ---
 
+# --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="4250366" tvg-name="Biratnagar Kings vs Janakpur Bolts [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250366_53124_BK_JKB_fc-Web_1793616701848.jpg" group-title="Cricket",Biratnagar Kings vs Janakpur Bolts [English]
 https://in-mc-flive.fancode.com/mumbai/4250366_english_hls_88259a4e5e85082_1ta-di_h264/720p.m3u8?hdntl=Expires=1793774390~_GO=Generated~acl=/mumbai/4250366_english_hls_88259a4e5e85082_1ta-di_h264/*~SessionID=fc-app_sportsguruand_65b_watcho_21c2375a-79eb-4c~Signature=AV7HGj49ETFnna7sO0LgGROYdmMG_8Gfg-qz_74pzIv9Cxk1MpZ3czIJKrJOy5UzKlN4ycNFvtuoxuoJZBV9Y20CfJoI
 
+#EXTINF:-1 tvg-id="4248736" tvg-name="Newcastle Jets vs Shanghai Port [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248736_53053_NJ_SHG_fc-web.jpg" group-title="Football",Newcastle Jets vs Shanghai Port [English]
+https://in-mc-flive.fancode.com/mumbai/4248736_english_hls_00cc8fff6212802_1ta-di_h264/720p.m3u8?hdntl=Expires=1793777417~_GO=Generated~acl=/mumbai/4248736_english_hls_00cc8fff6212802_1ta-di_h264/*~SessionID=fc-app_sportsguruand_7f1_watcho_aaf71c6a-1bfe-4d~Signature=AV7HGj76DlpFRMHRlffnapACgwqxrZ7dojtrbchT7-ThAlwRv0I875YR9MDY7cgt_zbcttI5AhvqxKYn4sv5jsnYq6cD
 
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
-
 
 #EXTINF:-1 tvg-id="B0HN3X9VQZ" tvg-name="Tennis Today Live-Hong Kong-WTA & Chennai-WTA-Live Early Rounds" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b5d9b993-dc82-453c-af0a-adadb157c03d/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Tennis Today Live-Hong Kong-WTA & Chennai-WTA-Live Early Rounds
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+
