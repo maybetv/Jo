@@ -640,6 +640,9 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 #EXTINF:-1 tvg-id="sonyliv-1090551748" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792952482824378_UCL26_MD4_Man_United_vs_AS_Roma_eng_landscape_thumb.jpg" group-title="Football", Manchester United vs AS Roma | UEFA Champions League 2026-27 [English]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa270prod-PlaybackConfig/2120308/footlive0311/ENG/master.m3u8?hdnea=exp=1793778670~acl=/*~id=00697157076113949785893863624833~hmac=1f53f35929440f77adb676a4b87c25e10b1cbb8fa6c882e76a2c3831741b06cf
 
+#EXTINF:-1 tvg-id="sonyliv-1090551748" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792952482824378_UCL26_MD4_Man_United_vs_AS_Roma_eng_landscape_thumb.jpg" group-title="Football", Manchester United vs AS Roma | UEFA Champions League 2026-27 [Hindi]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe7d9prod-PlaybackConfig/2120306/footlive0311/HIN/master.m3u8?hdnea=exp=1793778670~acl=/*~id=00697157076113949785893863624833~hmac=1f53f35929440f77adb676a4b87c25e10b1cbb8fa6c882e76a2c3831741b06cf
+
 #EXTINF:-1 tvg-id="sonyliv-1090551748" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792952482824378_UCL26_MD4_Man_United_vs_AS_Roma_eng_landscape_thumb.jpg" group-title="Football", Manchester United vs AS Roma | UEFA Champions League 2026-27 [Telugu]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe7d9prod-PlaybackConfig/2120307/footlive0311/TEL/master.m3u8?hdnea=exp=1793778670~acl=/*~id=00697157076113949785893863624833~hmac=1f53f35929440f77adb676a4b87c25e10b1cbb8fa6c882e76a2c3831741b06cf
 
@@ -672,9 +675,6 @@ https://in-mc-flive.fancode.com/mumbai/4250503_english_hls_4296eb262d14134_1ta-d
 
 #EXTINF:-1 tvg-id="4250204" tvg-name="England Lions vs West Indies A [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Mini.png" group-title="Cricket",England Lions vs West Indies A [English]
 https://in-mc-flive.fancode.com/mumbai/4250204_english_hls_db064b627223626_1ta-di_h264/720p.m3u8?hdntl=Expires=1793810776~_GO=Generated~acl=/mumbai/4250204_english_hls_db064b627223626_1ta-di_h264/*~SessionID=fc-app_sportsguruand_b07_watcho_7ea9c1d7-5dce-4b~Signature=AV7HGj5ZM-2Q-qFDl91AmU39lbftcVmOQRET7agSkZbxAGFKBdCt_Ra0zwydIUyHd7K8H2UWlwZ3bx9xKq9_4JfYQOAO
-
-#EXTINF:-1 tvg-id="4248735" tvg-name="Al Hilal SFC vs Shabab Al Ahli [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248735_53053_AHS_SAA_fc-web.jpg" group-title="Football",Al Hilal SFC vs Shabab Al Ahli [English]
-https://in-mc-flive.fancode.com/mumbai/4248735_english_hls_2dcd97502268096_1ta-di_h264/720p.m3u8?hdntl=Expires=1793815631~_GO=Generated~acl=/mumbai/4248735_english_hls_2dcd97502268096_1ta-di_h264/*~SessionID=fc-app_sportsguruand_2ca_watcho_d8c517e6-21a2-4b~Signature=AV7HGj7SSN-e3YaU0F8EKkIvVoWqvQ5yn67csUygBxkKbhZUNQjPFhC5vFwN3lxTtXpr0TJ90wBxfB-CBw4xBB1G2BsP
 
 #EXTINF:-1 tvg-id="4250006" tvg-name="West Bromwich Albion F.C. vs Southampton F.C. [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250006_52993_WBA_SOU_fc-web.jpg" group-title="Football",West Bromwich Albion F.C. vs Southampton F.C. [English]
 https://in-mc-flive.fancode.com/mumbai/4250006_english_hls_fb6b33f21815004_1ta-di_h264/720p.m3u8?hdntl=Expires=1793821692~_GO=Generated~acl=/mumbai/4250006_english_hls_fb6b33f21815004_1ta-di_h264/*~SessionID=fc-app_sportsguruand_1d8_watcho_c6bb0884-b573-4d~Signature=AV7HGj4UkiZh9OD4NBkSUc3YJwHEgaHXSzgiEEcFcK4iWT5R6Tir3au8a1w2m9f2l43dMhRW8Mmfo17cZcFt-cD7ZL4E
