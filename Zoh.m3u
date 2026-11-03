@@ -187,13 +187,13 @@ _____sports_____
 
 #EXTINF:-1 tvg-id="9624886" tvg-name="Unite8 Sports 1 HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/396cbd0f0e8d492db65b304859af478d/version/0" group-title="Sports",Unite8 Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=20c49271321446c38ea7233331ea1379:60d77fb1426a24b037498181d5c6e1ad
+#KODIPROP:inputstream.adaptive.license_key=bfc394e7995a45ce8ec287c0a0806730:c0e814ae6d3a47f18cb17ce20e9bc63b
 https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd
 
 
 #EXTINF:-1 tvg-id="9624884" tvg-name="Unite8 Sports 2 HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/03fc75c46d9a4b8daff3ef58d77c5bc7/version/0" group-title="Sports",Unite8 Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fac2a31969024d2db77b5c9ffd56b4b5:9423ce7d63bfa9ff2045490e99229bb2
+#KODIPROP:inputstream.adaptive.license_key=2e992c8325fa47f5af357bbe125240da:f7440ac0f1e1f9f9f57b9eb01d64e97c
 https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_2_HD/dash/Unite8_Sports_2_HD.mpd
 
 
