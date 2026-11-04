@@ -634,48 +634,38 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
-# --- LIVE EVENTS ---
 
+# --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="4250521" tvg-name="United Arab Emirates vs Oman [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png" group-title="Cricket",United Arab Emirates vs Oman [English]
 https://in-mc-flive.fancode.com/mumbai/4250521_english_hls_67c3c2083472952_1ta-di_h264/720p.m3u8?hdntl=Expires=1793856261~_GO=Generated~acl=/mumbai/4250521_english_hls_67c3c2083472952_1ta-di_h264/*~SessionID=fc-app_sportsguruand_7da_watcho_8a658618-026b-42~Signature=AV7HGj5eizmYu5KZyPRKkQ9pPYIm7I9H_Hi73-ZpXRHPu3t5xtXaFoye4o2DqTI8X_sQPsWrYwNmin57UZFyh3fCqFcN
 
-
 #EXTINF:-1 tvg-id="4250395" tvg-name="Hobart Hurricanes Women vs Melbourne Renegades Women [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250395_53125_HB-W_MR-W_fc-web_1793352702028.jpg" group-title="Cricket",Hobart Hurricanes Women vs Melbourne Renegades Women [English]
 https://in-mc-flive.fancode.com/mumbai/4250395_english_hls_e4b3957daa9486_1ta-di_h264/720p.m3u8?hdntl=Expires=1793865367~_GO=Generated~acl=/mumbai/4250395_english_hls_e4b3957daa9486_1ta-di_h264/*~SessionID=fc-app_sportsguruand_906_watcho_432b20c8-0608-40~Signature=AV7HGj4SxjDjMnkfBev6T1AOSIaknRPmyW-i8KAenLCWfmwFBSKzVv5Y3pKRVz-jcnQ0GaWjYhL019pnmqKriH6yJHME
-
 
 #EXTINF:-1 tvg-id="4248742" tvg-name="Pohang Steelers vs Gamba Osaka [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248742_53053_PHG_OSK_fc-web.jpg" group-title="Football",Pohang Steelers vs Gamba Osaka [English]
 https://in-mc-flive.fancode.com/mumbai/4248742_english_hls_704e0f513640525_1ta-di_h264/720p.m3u8?hdntl=Expires=1793872041~_GO=Generated~acl=/mumbai/4248742_english_hls_704e0f513640525_1ta-di_h264/*~SessionID=fc-app_sportsguruand_7dc_watcho_e17e2b1f-365c-46~Signature=AV7HGj7KoKfJVuczNuWIvc3wPtrJmcr-n44QQOMttLGL6ftLLtCCEwKmQ1gbe3QSXRw_qK3JV1uYtfixARil6tEQCL0P
 
-
 #EXTINF:-1 tvg-id="4249010" tvg-name="Seoul vs The Cong - Viettel FC [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249010_53057_SE_CV_fc-web_1789025065555.jpg" group-title="Football",Seoul vs The Cong - Viettel FC [English]
 https://in-mc-flive.fancode.com/mumbai/4249010_english_hls_04468d42f594603_1ta-di_h264/720p.m3u8?hdntl=Expires=1793872042~_GO=Generated~acl=/mumbai/4249010_english_hls_04468d42f594603_1ta-di_h264/*~SessionID=fc-app_sportsguruand_2ac_watcho_6c942efb-e438-41~Signature=AV7HGj5HTfeRCPeeNFVeqZ7sBS-Mh_7k2BQ8ePU25C8qnCq02KjU0d6ASS7FgvCMqB2pxd_2xQ42vvJKFC5v9axs4N4A
-
 
 #EXTINF:-1 tvg-id="4250262" tvg-name="Kaya FC Iloilo Women vs Melbourne City Women [English]" tvg-logo="https://images.fancode.com/aig/match/v1793533399054/4250262_CASACARDS_APP.png" group-title="Football",Kaya FC Iloilo Women vs Melbourne City Women [English]
 https://in-mc-flive.fancode.com/mumbai/4250262_english_hls_51169e83de95924_1ta-di_h264/720p.m3u8?hdntl=Expires=1793873880~_GO=Generated~acl=/mumbai/4250262_english_hls_51169e83de95924_1ta-di_h264/*~SessionID=fc-app_sportsguruand_b87_watcho_4d6e62ef-6791-4d~Signature=AV7HGj5pAlb5U304Oytw_WRCgpcG1FaMswzPZ1pDgmU-7opWwgsKOgCNFRqnKBjfgVQRjjug17EmkyoEJk_exGJwEkYM
 
-
 #EXTINF:-1 tvg-id="4250555" tvg-name="Court 2 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Tennis",Court 2 [English]
 https://in-mc-flive.fancode.com/mumbai/4250555_english_hls_2f6e1265bd94660_1ta-di_h264/720p.m3u8?hdntl=Expires=1793861128~_GO=Generated~acl=/mumbai/4250555_english_hls_2f6e1265bd94660_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e36_watcho_459b0d1a-8740-45~Signature=AV7HGj4zK2NeGWkeTC0XM8lg6nLcbGaak5lrMNm_7_XzSJhLffXRvcGvIILtEU67UqtAvrZARFnyf0heSJl9WXYn6hEB
-
 
 #EXTINF:-1 tvg-id="4250556" tvg-name="Court 1 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Tennis",Court 1 [English]
 https://in-mc-flive.fancode.com/mumbai/4250556_english_hls_29cd6c5f7087053_1ta-di_h264/720p.m3u8?hdntl=Expires=1793861129~_GO=Generated~acl=/mumbai/4250556_english_hls_29cd6c5f7087053_1ta-di_h264/*~SessionID=fc-app_sportsguruand_aad_watcho_7ec0b261-06e5-4d~Signature=AV7HGj7PXy9qb4vSAKlSRWXU0BonKHgXUUJzCSmsY2MOOp6uuu-jeskVoSOGgRaOr9fLDYw_5ClRK11DjPuQOZF2kHkP
 
-
 #EXTINF:-1 tvg-id="4250557" tvg-name="World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Tennis",World Feed [English]
 https://in-mc-flive.fancode.com/mumbai/4250557_english_hls_f271ef0bfa17291_1ta-di_h264/720p.m3u8?hdntl=Expires=1793861130~_GO=Generated~acl=/mumbai/4250557_english_hls_f271ef0bfa17291_1ta-di_h264/*~SessionID=fc-app_sportsguruand_444_watcho_2b5bc415-6cd1-4c~Signature=AV7HGj4U-IK3cFnzk9uHC40ohQrtIl9nPbf1GIxFAMvdl_5zbASFre8aBrLHgi-d7Gp8l_Z0m87sTnEKELKhbPxPXegI
-
 
 #EXTINF:-1 tvg-id="4250558" tvg-name="Court 3 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Tennis",Court 3 [English]
 https://in-mc-flive.fancode.com/mumbai/4250558_english_hls_ce2c31320352771_1ta-di_h264/720p.m3u8?hdntl=Expires=1793861131~_GO=Generated~acl=/mumbai/4250558_english_hls_ce2c31320352771_1ta-di_h264/*~SessionID=fc-app_sportsguruand_c39_watcho_2df14c51-1fc5-49~Signature=AV7HGj7B1OxExuIQzrTahU0FLuqjU_RbLUZmsIBPZkT73vnCFD6ZWGdCcsEfPn1gSsQXfpgMo-nZhe3dPZfkNTqNW1UF
 
-
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
-
 
 #EXTINF:-1 tvg-id="d41a233d-015f-46c4-a811-63c33a97aa98" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/pvp94bhzn7rdkalcg2ua" tvg-lang="English" group-title="Cricket",English | Oman v United Arab Emirates (2nd Innings)
 #KODIPROP:inputstream=inputstream.adaptive
@@ -688,30 +678,12 @@ https://ComeInNextMatch.com/4K.m3u8
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1793812507~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=11c098a21a1469bc89f92c503bb1b65cb33e33633504e3495f46790eef76f716/manifest.mpd?vcfilter=d41a233d-015f-46c4-a811-63c33a97aa98&
 
-
-#EXTINF:-1 tvg-id="B0HLMSF6ZN" tvg-name="India tour of New Zealand 2026 - 1st ODI - New Zealand vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.99ec681a-3141-49d1-8feb-512b02667fca/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",India tour of New Zealand 2026 - 1st ODI - New Zealand vs India
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a028d5592b0e81f9c4fd4de4df6d5c7:9378d2ddd738b2d0b7a85ba65b643a7f
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/pkooyxhqmr/out/v1/4c8d0ecc7d704eb2935efde33b289d50/cenc.mpd
-
-
 #EXTINF:-1 tvg-id="B0HMQLGGJ8" tvg-name="Womens Big Bash League 2026 - 9th Match - Hobart Hurricanes Women vs Melbourne Renegades Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d3f5c03f-a9aa-4e4e-b278-f3902eb5e0de/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Womens Big Bash League 2026 - 9th Match - Hobart Hurricanes Women vs Melbourne Renegades Women
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3bbeb16c18d825f04b51b17b67baf5a:f744722c08e3d13fecfa59de5436cce7
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fp3yc5p9tv/out/v1/6b56556dd5304f8897403a55a27298e3/cenc.mpd
-
-
-#EXTINF:-1 tvg-id="B0HMPF2QBS" tvg-name="New Zealand vs. India" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3f469c59-a7e3-4104-be52-5a1a3ea1d0c5/8/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",New Zealand vs. India
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fp3yc5p9tv/out/v1/6b56556dd5304f8897403a55a27298e3/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HLV6XWJC" tvg-name="Early Rounds" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1ff79b2f-f09a-4999-82c8-e6c1687858b0/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Early Rounds
 #KODIPROP:inputstream=inputstream.adaptive
@@ -720,22 +692,12 @@ https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwep
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
 https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
 
-
 #EXTINF:-1 tvg-id="B0HPYVHRBJ" tvg-name="Hobart Hurricanes vs. Melbourne Renegades" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.aee0daab-20d0-4b52-ba6c-5594ee7f5010/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Hobart Hurricanes vs. Melbourne Renegades
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-
-
-#EXTINF:-1 tvg-id="B0HLMSF6ZN" tvg-name="India tour of New Zealand 2026 - 1st ODI - New Zealand vs India" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.99ec681a-3141-49d1-8feb-512b02667fca/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",India tour of New Zealand 2026 - 1st ODI - New Zealand vs India
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a028d5592b0e81f9c4fd4de4df6d5c7:9378d2ddd738b2d0b7a85ba65b643a7f
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pkooyxhqmr/out/v1/4c8d0ecc7d704eb2935efde33b289d50/cenc.mpd
-
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HMQLGGJ8" tvg-name="Womens Big Bash League 2026 - 9th Match - Hobart Hurricanes Women vs Melbourne Renegades Women" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d3f5c03f-a9aa-4e4e-b278-f3902eb5e0de/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Womens Big Bash League 2026 - 9th Match - Hobart Hurricanes Women vs Melbourne Renegades Women
 #KODIPROP:inputstream=inputstream.adaptive
@@ -743,3 +705,4 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pkooyxhq
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3bbeb16c18d825f04b51b17b67baf5a:f744722c08e3d13fecfa59de5436cce7
 https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fp3yc5p9tv/out/v1/6b56556dd5304f8897403a55a27298e3/cenc.mpd
+
