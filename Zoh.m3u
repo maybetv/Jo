@@ -631,9 +631,6 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 # --- LIVE EVENTS ---
 
-#EXTINF:-1 tvg-id="4250007" tvg-name="Bristol City F.C. vs Wolverhampton Wanderers F.C. [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250007_52993_BRI_WOL_fc-web.jpg" group-title="Football",Bristol City F.C. vs Wolverhampton Wanderers F.C. [English]
-https://in-mc-flive.fancode.com/mumbai/4250007_english_hls_2e496b9f3d57022_1ta-di_h264/720p.m3u8?hdntl=Expires=1793907933~_GO=Generated~acl=/mumbai/4250007_english_hls_2e496b9f3d57022_1ta-di_h264/*~SessionID=7814838588_watcho_367c9c3f-560c-46~Signature=AV7HGj72_qLsPhmSYvq2JLeCmqryIsGB_r5TdwyTOU_QOWpCQxtHNXazq1pa8sMw7SMQ12dsrDSsPTshK141TDmssSgG
-
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
 
