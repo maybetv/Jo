@@ -641,13 +641,16 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe3b6prod-PlaybackConfig/2120301/footlive0411/ENG/master.m3u8?hdnea=exp=1793839852~acl=/*~id=69885559663089223148204455128802~hmac=37e47dcf73cd02f2f58618579ea185c58639360a21d6a6aaf73b14855f7a13c3
 
 #EXTINF:-1 tvg-id="4250521" tvg-name="United Arab Emirates vs Oman [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png" group-title="Cricket",United Arab Emirates vs Oman [English]
-https://in-mc-flive.fancode.com/mumbai/4250521_english_hls_67c3c2083472952_1ta-di_h264/720p.m3u8?hdntl=Expires=1793856261~_GO=Generated~acl=/mumbai/4250521_english_hls_67c3c2083472952_1ta-di_h264/*~SessionID=fc-app_sportsguruand_7da_watcho_8a658618-026b-42~Signature=AV7HGj5eizmYu5KZyPRKkQ9pPYIm7I9H_Hi73-ZpXRHPu3t5xtXaFoye4o2DqTI8X_sQPsWrYwNmin57UZFyh3fCqFcN
+https://in-mc-flive.fancode.com/mumbai/4250521_english_hls_67c3c2083472952_1ta-di_h264/720p.m3u8?hdntl=Expires=1793885487~_GO=Generated~acl=/mumbai/4250521_english_hls_67c3c2083472952_1ta-di_h264/*~SessionID=fc-app_sportsguruand_352_watcho_0a95a946-48a2-4f~Signature=AV7HGj41j1nYU3E5v2eH-NSvVfO3ggmErB3zXWjbZz6OAlgF8qcDpMgO-k61Y1_HqCSfLUJ4LoqOWJD0in0yDlkHTbYH
 
 #EXTINF:-1 tvg-id="4250504" tvg-name="Ajman vs Abu Dhabi [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250494_53130_ABD_AJM_fc-web_1792412929370.jpg" group-title="Cricket",Ajman vs Abu Dhabi [English]
 https://in-mc-flive.fancode.com/mumbai/4250504_english_hls_c3f36ea13013606_1ta-di_h264/720p.m3u8?hdntl=Expires=1793881242~_GO=Generated~acl=/mumbai/4250504_english_hls_c3f36ea13013606_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f95_watcho_914a65ab-f6f4-41~Signature=AV7HGj4BNWLaDtzqFjTTiERptGaf_3lEFuGci_8r_5AnU11czLOwpRWvuOphOAqJYDJDh1lyt7C-NwQLredWKM7Nus8A
 
 #EXTINF:-1 tvg-id="4248743" tvg-name="Buriram United vs Kashima Antlers [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248743_53053_BU_ANL_fc-web.jpg" group-title="Football",Buriram United vs Kashima Antlers [English]
 https://in-mc-flive.fancode.com/mumbai/4248743_english_hls_491fd58fc035740_1ta-di_h264/720p.m3u8?hdntl=Expires=1793880027~_GO=Generated~acl=/mumbai/4248743_english_hls_491fd58fc035740_1ta-di_h264/*~SessionID=fc-app_sportsguruand_024_watcho_8391f782-9a49-4b~Signature=AV7HGj6I5vJks4XD3BcrXqU9jYJuP-9zSP53RW5oXX2bCfYWoig3Hv392-P9OVyeVCF6NulEZjavskAfF1T-YG-oWYQG
+
+#EXTINF:-1 tvg-id="4249003" tvg-name="FK Arkadag vs Golgohar Sirjan SC [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249003_53057_ARK_GGS_fc-web_1789025066349.jpg" group-title="Football",FK Arkadag vs Golgohar Sirjan SC [English]
+https://in-mc-flive.fancode.com/mumbai/4249003_english_hls_cf16fd752976923_1ta-di_h264/720p.m3u8?hdntl=Expires=1793885488~_GO=Generated~acl=/mumbai/4249003_english_hls_cf16fd752976923_1ta-di_h264/*~SessionID=fc-app_sportsguruand_0d6_watcho_b8a34a98-11fd-48~Signature=AV7HGj4WmKT8WR1O8gK9nBHHsFDcpbAsf7RRxspmt4DmXj4gRqUYxHAj2vqEWQqyq5h7-DmFIIBQQbwn1sCLRcDzQ_EE
 
 #EXTINF:-1 tvg-id="4250251" tvg-name="Ayeyawady FC Women vs INAC Kobe Leonessa Women [English]" tvg-logo="https://images.fancode.com/aig/match/v1793533399052/4250251_CASACARDS_APP.png" group-title="Football",Ayeyawady FC Women vs INAC Kobe Leonessa Women [English]
 https://in-mc-flive.fancode.com/mumbai/4250251_english_hls_dec98c5fac26108_1ta-di_h264/720p.m3u8?hdntl=Expires=1793881243~_GO=Generated~acl=/mumbai/4250251_english_hls_dec98c5fac26108_1ta-di_h264/*~SessionID=fc-app_sportsguruand_5b2_watcho_109743dd-e550-44~Signature=AV7HGj5fuRenYRlqfVh6tvCd1XQP2isgiqPXXALeSiUjGfb9SClIHdMA6ZuofUhe0_kYMH7rr3GwCNj85EPbHATf4MIL
@@ -683,12 +686,12 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HLV6XWJC" tvg-name="Early Rounds" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1ff79b2f-f09a-4999-82c8-e6c1687858b0/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Early Rounds
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
 
