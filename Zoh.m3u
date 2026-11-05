@@ -628,20 +628,11 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
+
 # --- LIVE EVENTS ---
-
-
-#EXTINF:-1 tvg-id="4250527" tvg-name="West Indies vs Bangladesh [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg" group-title="Cricket",West Indies vs Bangladesh [English]
-https://in-mc-flive.fancode.com/mumbai/4250527_english_hls_370c6945842186_1ta-di_h264/720p.m3u8?hdntl=Expires=1793935213~_GO=Generated~acl=/mumbai/4250527_english_hls_370c6945842186_1ta-di_h264/*~SessionID=7814838588_watcho_58780f57-bab1-44~Signature=AV7HGj71ARxIQesQ5Wka-l2yk_FD-yAjgHpJeFmWzOd8nm0_W4RvBZrd7p6jizaNVZqOinQJqV3SxG9Js1_ySIBhbfEI
-
-
-#EXTINF:-1 tvg-id="4250603" tvg-name="Round of 16 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BWF-Korean-Open-web-2.png" group-title="Badminton",Round of 16 [English]
-https://in-mc-flive.fancode.com/mumbai/4250603_english_hls_ef3001b64b61956_1ta-di_h264/720p.m3u8?hdntl=Expires=1793926104~_GO=Generated~acl=/mumbai/4250603_english_hls_ef3001b64b61956_1ta-di_h264/*~SessionID=7814838588_watcho_02f7c744-36c6-41~Signature=AV7HGj5hFxdPFjDHkEoBUqOIgA8NGxmbA-Eh3_l7yHYxSKIDeuu39pz2Ch3P_BWGM5B6NI0I0_sCZBnTwDL1ikgMfZcI
-
 
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
-
 
 #EXTINF:-1 tvg-id="d41a233d-015f-46c4-a811-63c33a97aa98" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/pvp94bhzn7rdkalcg2ua" tvg-lang="English" group-title="Cricket",English | Oman v United Arab Emirates (2nd Innings)
 #KODIPROP:inputstream=inputstream.adaptive
@@ -654,30 +645,26 @@ https://ComeInNextMatch.com/4K.m3u8
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1793812507~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=11c098a21a1469bc89f92c503bb1b65cb33e33633504e3495f46790eef76f716/manifest.mpd?vcfilter=d41a233d-015f-46c4-a811-63c33a97aa98&
 
-
 #EXTINF:-1 tvg-id="B0HLT5L53C" tvg-name="USA Seniors Cricket NPL 2026 - 3rd Match - Austin Hunters vs Washington Eagles" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bc7c6e05-e59b-410f-807b-697cacd0f841/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",USA Seniors Cricket NPL 2026 - 3rd Match - Austin Hunters vs Washington Eagles
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e2640cee439724e435e786303ea9668f:f6109a1e9135a4aca6bf8ae4d761c51d
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qsllmnzzjj/out/v1/275a953aa837465aaddb54d9ae09ef47/cenc.mpd
-
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qsllmnzzjj/out/v1/275a953aa837465aaddb54d9ae09ef47/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HPZSW432" tvg-name="Texas State at Utah State" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d9f2a53c-34f7-4c56-995e-3905963bdbef/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Texas State at Utah State
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd
-
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HFCYQCN8" tvg-name="ECHL Hockey: Allen Americans vs New Mexico Goatheads" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2ba592c2-a345-4d38-87c7-1685abb66f94/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",ECHL Hockey: Allen Americans vs New Mexico Goatheads
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/n0gubjzzdn/out/v1/4a96409cca884f9780798b74a4a90017/cenc.mpd
-
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/n0gubjzzdn/out/v1/4a96409cca884f9780798b74a4a90017/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HLT5L53C" tvg-name="USA Seniors Cricket NPL 2026 - 3rd Match - Austin Hunters vs Washington Eagles" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bc7c6e05-e59b-410f-807b-697cacd0f841/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",USA Seniors Cricket NPL 2026 - 3rd Match - Austin Hunters vs Washington Eagles
 #KODIPROP:inputstream=inputstream.adaptive
@@ -685,3 +672,4 @@ https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/n0gubjzzd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e2640cee439724e435e786303ea9668f:f6109a1e9135a4aca6bf8ae4d761c51d
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qsllmnzzjj/out/v1/275a953aa837465aaddb54d9ae09ef47/cenc.mpd
+
