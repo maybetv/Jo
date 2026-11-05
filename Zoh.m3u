@@ -19,12 +19,7 @@ https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_i
 https://hjh-545.pages.dev/stream?id=asianethd
 
 
-# --- ISL SPECIAL EVENTS ---
 
-#EXTINF:-1 tvg-id="sonyliv-1090552592" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792883929690355_ISL26_MohunBaganSG_vs_OFC_live_landscape_thumb.jpg" group-title="Football", Mohun Bagan Super Giant vs OFC | MG Indian Super League 2026-27 [English]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT01adprod-PlaybackConfig/2094590/Footlive0511/ENG/master.m3u8?hdnea=exp=1793929859~acl=/*~id=56085130896891619164690979368158~hmac=da80bcef1b6d3e06a02a324d517900b43537679b4df6e1f250ba54fadb554f22
-
-# --- END ISL SPECIAL EVENTS ---
 
 
 #EXTINF:-1 tvg-id="22020" tvg-logo="https://img.media.jio.com/tvpimages/97/2/300156_1752854414598_l_medium.jpg" group-title="Malayalam Entertainment",Mazhavil Manorama HD
@@ -644,12 +639,6 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 # --- LIVE EVENTS ---
-
-#EXTINF:-1 tvg-id="sonyliv-1090552592" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792883929690355_ISL26_MohunBaganSG_vs_OFC_live_landscape_thumb.jpg" group-title="Football", Mohun Bagan Super Giant vs OFC | MG Indian Super League 2026-27 [Hindi]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT01adprod-PlaybackConfig/2105079/Footlive0511/HIN/master.m3u8?hdnea=exp=1793929859~acl=/*~id=56085130896891619164690979368158~hmac=da80bcef1b6d3e06a02a324d517900b43537679b4df6e1f250ba54fadb554f22
-
-#EXTINF:-1 tvg-id="sonyliv-1090552592" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792883929690355_ISL26_MohunBaganSG_vs_OFC_live_landscape_thumb.jpg" group-title="Football", Mohun Bagan Super Giant vs OFC | MG Indian Super League 2026-27 [Bengali]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT01adprod-PlaybackConfig/2105080/Footlive0511/BEN/master.m3u8?hdnea=exp=1793929859~acl=/*~id=56085130896891619164690979368158~hmac=da80bcef1b6d3e06a02a324d517900b43537679b4df6e1f250ba54fadb554f22
 
 #EXTINF:-1 tvg-id="4250559" tvg-name="World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Tennis",World Feed [English]
 https://in-mc-flive.fancode.com/mumbai/4250559_english_hls_cc6d0bad3541603_1ta-di_h264/720p.m3u8?hdntl=Expires=1793958336~_GO=Generated~acl=/mumbai/4250559_english_hls_cc6d0bad3541603_1ta-di_h264/*~SessionID=7814838588_watcho_14eda7e2-c2ca-42~Signature=AV7HGj5PlAK2ltq_nI6oXwfFCmCISuzem_lDXIjH0UtJ3jYnwB4eJvFcBmd5jIWNFgkmPZJn7QIZQIk957DyV_cASDsO
