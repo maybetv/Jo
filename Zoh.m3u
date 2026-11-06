@@ -19,12 +19,7 @@ https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_i
 https://hjh-545.pages.dev/stream?id=asianethd
 
 
-# --- ISL SPECIAL EVENTS ---
 
-#EXTINF:-1 tvg-id="sonyliv-1090552768" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792884419195355_ISL26_FC_GOA_vs_Bengaluru_FC_live_landscape_thumb.jpg" group-title="Football", FC Goa vs Bengaluru FC | MG Indian Super League 2026-27 [English]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT7b01prod-PlaybackConfig/2120301/footlive0611/ENG/master.m3u8?hdnea=exp=1794014457~acl=/*~id=71780757088595886050000995767357~hmac=2d130d3374fc5ac76977d8ea6983dae023aae6b4f15ca9633845cadff3275720
-
-# --- END ISL SPECIAL EVENTS ---
 
 
 #EXTINF:-1 tvg-id="22020" tvg-logo="https://img.media.jio.com/tvpimages/97/2/300156_1752854414598_l_medium.jpg" group-title="Malayalam Entertainment",Mazhavil Manorama HD
@@ -638,9 +633,6 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 # --- LIVE EVENTS ---
-
-#EXTINF:-1 tvg-id="sonyliv-1090552768" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792884419195355_ISL26_FC_GOA_vs_Bengaluru_FC_live_landscape_thumb.jpg" group-title="Football", FC Goa vs Bengaluru FC | MG Indian Super League 2026-27 [Hindi]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT7b01prod-PlaybackConfig/2120303/footlive0611/HIN/master.m3u8?hdnea=exp=1794014457~acl=/*~id=71780757088595886050000995767357~hmac=2d130d3374fc5ac76977d8ea6983dae023aae6b4f15ca9633845cadff3275720
 
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
