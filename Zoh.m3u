@@ -634,44 +634,29 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
-# --- LIVE EVENTS ---
 
+# --- LIVE EVENTS ---
 
 #EXTINF:-1 tvg-id="4249772" tvg-name="Zimbabwe vs Afghanistan [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AFG-vs-ZIM_Test_fc-web.jpg" group-title="Cricket",Zimbabwe vs Afghanistan [English]
 https://in-mc-flive.fancode.com/mumbai/4249772_english_hls_ea87fdf8341075_1ta-di_h264/720p.m3u8?hdntl=Expires=1794203032~_GO=Generated~acl=/mumbai/4249772_english_hls_ea87fdf8341075_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_89540dd1-4345-41~Signature=AV7HGj5qNuBFgL7cKLU8Hw80WHdNrfxXTzjTJ9y-Jf5phiJbUb8JQbPShQTXXhl5NhMyjqFQ-wC0h7AM-thS0RvkzJwO
 
-
 #EXTINF:-1 tvg-id="4250746" tvg-name="Eavion Eagles vs Pupkewitz Wildcats [English]" tvg-logo="https://images.fancode.com/aig/match/v1793949984312/4250746_CASACARDS_APP.png" group-title="Cricket",Eavion Eagles vs Pupkewitz Wildcats [English]
 https://in-mc-flive.fancode.com/mumbai/4250746_english_hls_58958726b464286_1ta-di_h264/720p.m3u8?hdntl=Expires=1794209096~_GO=Generated~acl=/mumbai/4250746_english_hls_58958726b464286_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_0fb3216c-22fa-46~Signature=AV7HGj6VX9-omVuNSXPGx0PqUQ7Ogc_zQ8GGagQ0YDoIfhRt85wrG3UK8sh0HYdjoOAcIv3IZ_avS9Pbbtt1X9pxE8cN
-
 
 #EXTINF:-1 tvg-id="4250757" tvg-name="Liverpool Women vs Arsenal Women [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg" group-title="Football",Liverpool Women vs Arsenal Women [English]
 https://in-mc-flive.fancode.com/mumbai/4250757_english_hls_76734b6ec057316_1ta-di_h264/720p.m3u8?hdntl=Expires=1794224833~_GO=Generated~acl=/mumbai/4250757_english_hls_76734b6ec057316_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_509838bd-b0b2-4c~Signature=AV7HGj5qnboO9tx_JwRS8OazOfLhkQXlwdP6GI2xK48JB7gmJfDhP0Nhp2OFIxR38cOQ-YBvtClnD_34ehnRC2JNNMQA
 
-
 #EXTINF:-1 tvg-id="4250758" tvg-name="Aston Villa Women vs Manchester United Women [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg" group-title="Football",Aston Villa Women vs Manchester United Women [English]
 https://in-mc-flive.fancode.com/mumbai/4250758_english_hls_845fd9e3124015_1ta-di_h264/720p.m3u8?hdntl=Expires=1794224834~_GO=Generated~acl=/mumbai/4250758_english_hls_845fd9e3124015_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_7b9ab35d-352e-4a~Signature=AV7HGj61rCJazIQllnIV2RPsTpvt4iCMmLgrv9iLnJWseVZdlGbs-OAogl0wmEDy2wtnpW7F4V9hQxM3oQofeiUALRoM
-
 
 #EXTINF:-1 tvg-id="4250571" tvg-name="Doubles Final [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Tennis",Doubles Final [English]
 https://in-mc-flive.fancode.com/mumbai/4250571_english_hls_7f90c23fda51673_1ta-di_h264/720p.m3u8?hdntl=Expires=1794219385~_GO=Generated~acl=/mumbai/4250571_english_hls_7f90c23fda51673_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_8e338cb5-c125-4b~Signature=AV7HGj7HAzWORku6QwHXrZ5yhlL8sw_yQoqunPQw5gdYrGYxZu4a5rvszjYH5PPjkGK05IRIZYrKWNCbDkeW727j0R0P
 
-
 #EXTINF:-1 tvg-id="139935" tvg-name="Race Day [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Qatar-_GP_2026_FC-WEB.jpg" group-title="MotoGP",Race Day [English]
 https://in-mc-flive.fancode.com/mumbai/139935_english_hls_f07d5cc36555106_1ta-di_h264/720p.m3u8?hdntl=Expires=1794219992~_GO=Generated~acl=/mumbai/139935_english_hls_f07d5cc36555106_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_59f29ce5-34d9-43~Signature=AV7HGj7-qOBblZCMpkvKbMzlFsnE60WXPtHgS_UUw62QqvBdwThNrazYysFztHCexzyYMevgsU-onBZrumeZmnffcIYN
 
-
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
-
-
-#EXTINF:-1 tvg-id="B0HQ7MQV7F" tvg-name="ACC Mens U19 Asia Cup 2026 - 8th Match - India U19 vs Pakistan U19" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3fbc3e12-23d1-4e81-9b7b-079b54ab7724/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",ACC Mens U19 Asia Cup 2026 - 8th Match - India U19 vs Pakistan U19
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb402b40b2aa0cceeb399dc8a3cfb6f1:8f089d69677070e893da78d9ba7c35b6
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/swccd6o1bx/out/v1/782ed415026645beb52cae42251d0a0d/cenc.mpd
-
 
 #EXTINF:-1 tvg-id="B0HMNN211T" tvg-name="Afghanistan vs Zimbabwe in UAE 2026 - 1st Test - Afghanistan vs Zimbabwe" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7cdc79e9-37f7-4576-abb3-baad628b810c/11/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Afghanistan vs Zimbabwe in UAE 2026 - 1st Test - Afghanistan vs Zimbabwe
 #KODIPROP:inputstream=inputstream.adaptive
@@ -680,7 +665,6 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/swccd6o1
 #KODIPROP:inputstream.adaptive.license_key=7f6cef23a9b2d9b21e04cd96753f7d01:3f260e0025a8b3273ece982cff0562e0
 https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0anti1gqwp/out/v1/318c6b0fc3184ab3aced919fccc017f9/cenc.mpd
 
-
 #EXTINF:-1 tvg-id="B0HNK1J47K" tvg-name="Abu Dhabi T10 League 2026 - 4th Match - Yas Lions vs Emirates Eagles" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4a4e0c59-8d9a-4c9d-94bf-e2d66fbc4a31/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Abu Dhabi T10 League 2026 - 4th Match - Yas Lions vs Emirates Eagles
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -688,46 +672,19 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0anti1gq
 #KODIPROP:inputstream.adaptive.license_key=bf29a35e375da99d9ee225515621294e:41c2975121d22fd57ef0d436fa6d5971
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rpefporlb5/out/v1/e6bb4ef3929e41e7a893cf20d8ea7c0b/cenc.mpd
 
-
 #EXTINF:-1 tvg-id="B0HM7N447W" tvg-name="Bassmaster Redfish Cup at Port Aransas" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.e7dfd46d-5b94-4fa8-91f0-0bf32de6a7da/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Bassmaster Redfish Cup at Port Aransas
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad6e7091d1d36a16d5475bdb2d900888:8c67e6b1e4bcf1ee1f12167526ef2503
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qy6usrjqzw/out/v1/48d0ffdc0c354fc8bf9b565c245d0f07/cenc.mpd
-
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qy6usrjqzw/out/v1/48d0ffdc0c354fc8bf9b565c245d0f07/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HFDNX2NF" tvg-name="Triton Poker ONE Series Cyprus-$3K One-W Championship" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.2b65c2cc-9120-4a80-b792-559163353e78/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Triton Poker ONE Series Cyprus-$3K One-W Championship
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
-
-
-#EXTINF:-1 tvg-id="B0HLZVWP5K" tvg-name="Napoli vs. Lazio" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a72899a0-474e-4577-9647-8a2b80dc8879/5/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",Napoli vs. Lazio
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
-
-
-#EXTINF:-1 tvg-id="B0HFF8KS1L" tvg-name="US Open Netball Champs" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.e3db4b0e-e9f1-43d5-841d-b6a61e04db41/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",US Open Netball Champs
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
-
-
-#EXTINF:-1 tvg-id="B0HP7N94GD" tvg-name="Qatar Airways Grand Prix of Qatar" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.a773e190-97b9-46b9-aa51-f41243073f3f/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Qatar Airways Grand Prix of Qatar
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
-https://ABBISGVAAAAAAAAMAAAH7IVG43ZKN.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprBCRRBhpq8F3RA2pjbG91ZGZyb250AngoZmlkOjAxYTFiYWVlLTdjMmMtNzc2Yy05ZTlkLTVhZWRjOTA1ZjhmMxkBOKEFoQJ4My9kMmh6c284d2g5L291dC92MS8zMGYzYWQ5YmEyYzM0MDczOWVhMjk0M2YyOWQ0NGIzMlggjAxUJtVlusbA-gnuRcQyPe6difHE-o4im5W6qKf5I4A/PDX/709b3c4313a9405ab5e8634864c7cc3b/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/d2hzso8wh9/out/v1/30f3ad9ba2c340739ea2943f29d44b32/94538be2-fb87-4655-bd42-260f9a065a33-cenc.mpd?aws.sessionId=58bda48c-1da9-4fb6-825d-a3dcc3ab40e7
-
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HP7TT15F" tvg-name="Chennai-WTA: Final" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.ac0c5330-da3e-482f-a0b3-d90763af0b57/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Chennai-WTA: Final
 #KODIPROP:inputstream=inputstream.adaptive
@@ -736,14 +693,19 @@ https://ABBISGVAAAAAAAAMAAAH7IVG43ZKN.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhA
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
 https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
 
-
-#EXTINF:-1 tvg-id="B0HQ7MQV7F" tvg-name="ACC Mens U19 Asia Cup 2026 - 8th Match - India U19 vs Pakistan U19" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.3fbc3e12-23d1-4e81-9b7b-079b54ab7724/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",ACC Mens U19 Asia Cup 2026 - 8th Match - India U19 vs Pakistan U19
+#EXTINF:-1 tvg-id="B0HP7N94GD" tvg-name="Qatar Airways Grand Prix of Qatar" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.a773e190-97b9-46b9-aa51-f41243073f3f/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Qatar Airways Grand Prix of Qatar
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb402b40b2aa0cceeb399dc8a3cfb6f1:8f089d69677070e893da78d9ba7c35b6
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/swccd6o1bx/out/v1/782ed415026645beb52cae42251d0a0d/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+https://ABBISGVAAAAAAAAMAAAH7IVG43ZKN.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprBCRRBhpq8F3RA2pjbG91ZGZyb250AngoZmlkOjAxYTFiYWVlLTdjMmMtNzc2Yy05ZTlkLTVhZWRjOTA1ZjhmMxkBOKEFoQJ4My9kMmh6c284d2g5L291dC92MS8zMGYzYWQ5YmEyYzM0MDczOWVhMjk0M2YyOWQ0NGIzMlggjAxUJtVlusbA-gnuRcQyPe6difHE-o4im5W6qKf5I4A/PDX/709b3c4313a9405ab5e8634864c7cc3b/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/d2hzso8wh9/out/v1/30f3ad9ba2c340739ea2943f29d44b32/94538be2-fb87-4655-bd42-260f9a065a33-cenc.mpd?aws.sessionId=58bda48c-1da9-4fb6-825d-a3dcc3ab40e7
 
+#EXTINF:-1 tvg-id="B0HLZVWP5K" tvg-name="Napoli vs. Lazio" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a72899a0-474e-4577-9647-8a2b80dc8879/5/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video Sports",Napoli vs. Lazio
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HNK1J47K" tvg-name="Abu Dhabi T10 League 2026 - 4th Match - Yas Lions vs Emirates Eagles" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.4a4e0c59-8d9a-4c9d-94bf-e2d66fbc4a31/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Abu Dhabi T10 League 2026 - 4th Match - Yas Lions vs Emirates Eagles
 #KODIPROP:inputstream=inputstream.adaptive
@@ -752,26 +714,10 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/swccd6o1
 #KODIPROP:inputstream.adaptive.license_key=bf29a35e375da99d9ee225515621294e:41c2975121d22fd57ef0d436fa6d5971
 https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/rpefporlb5/out/v1/e6bb4ef3929e41e7a893cf20d8ea7c0b/cenc.mpd
 
-
-#EXTINF:-1 tvg-id="B0HPMDR1RB" tvg-name="Cricket Review-ACC Mens U19 Asia Cup 2026: UAE vs Nepal - 7th Match" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.3a430ccb-c83b-4677-a66b-9f2619759292/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Cricket Review-ACC Mens U19 Asia Cup 2026: UAE vs Nepal - 7th Match
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-
-
 #EXTINF:-1 tvg-id="B0HMNN211T" tvg-name="Afghanistan vs Zimbabwe in UAE 2026 - 1st Test - Afghanistan vs Zimbabwe" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.7cdc79e9-37f7-4576-abb3-baad628b810c/11/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Afghanistan vs Zimbabwe in UAE 2026 - 1st Test - Afghanistan vs Zimbabwe
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f6cef23a9b2d9b21e04cd96753f7d01:3f260e0025a8b3273ece982cff0562e0
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0anti1gqwp/out/v1/318c6b0fc3184ab3aced919fccc017f9/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0anti1gqwp/out/v1/318c6b0fc3184ab3aced919fccc017f9/cenc.mpd
 
-
-#EXTINF:-1 tvg-id="B0HPXXW5Z7" tvg-name="United Arab Emirates U19 vs. Nepal U19" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.a1cffcb6-f678-4f66-9f27-4506bba9ca3c/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",United Arab Emirates U19 vs. Nepal U19
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
