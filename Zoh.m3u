@@ -637,6 +637,9 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 # --- LIVE EVENTS ---
 
+#EXTINF:-1 tvg-id="sonyliv-1090553122" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888647343682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day4_landscape_thumb.jpg" group-title="Golf", Abu Dhabi HSBC Championship - Day 4 | DP World Tour [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTf4faprod-PlaybackConfig/2120300/Golf_Abu0811/ENG/master.m3u8?hdnea=exp=1794162054~acl=/*~id=19792493879521449842394790612092~hmac=b739bc99bb873cb046b2004fcaec49ec7686f77e6ca776748254edac80b57373
+
 #EXTINF:-1 tvg-id="4250527" tvg-name="West Indies vs Bangladesh [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg" group-title="Cricket",West Indies vs Bangladesh [English]
 https://in-mc-flive.fancode.com/mumbai/4250527_english_hls_370c69458464083_1ta-di_h264/720p.m3u8?hdntl=Expires=1794194554~_GO=Generated~acl=/mumbai/4250527_english_hls_370c69458464083_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_51780389-0030-4f~Signature=AV7HGj7L4pYTleDCMsl-xF0EDvaR_CFQ3z83F1Nx-0NwqQG6_kSSvDlZSUZrWdC9LiNvm_GJpEEyBTIXH7yDMWJuWxAJ
 
