@@ -637,9 +637,6 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 # --- LIVE EVENTS ---
 
-#EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
-https://ComeInNextMatch.com/4K.m3u8
-
 #EXTINF:-1 tvg-id="B0HPL6FJBL" tvg-name="ACC Mens U19 Asia Cup 2026 - 9th Match - Bangladesh U19 vs Malaysia U19" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9b615900-8458-4cf3-85e6-5ed24a3df44f/5/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",ACC Mens U19 Asia Cup 2026 - 9th Match - Bangladesh U19 vs Malaysia U19
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
