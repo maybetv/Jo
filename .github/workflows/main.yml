@@ -36,6 +36,8 @@ jobs:
 
           FILE_NAME = "Zoh.m3u"
           SOURCE_URL = "https://hjh-545.pages.dev/"
+          # നിങ്ങളുടെ EPG ലിങ്ക് ഇവിടെ നൽകുക (ഇത് എല്ലാ ചാനലുകൾക്കും ബാധകമാകും)
+          EPG_URL = "https://sflex.fun/content-jiotvplus.media.jio/metadata/v2/livechannels/epg.xml.gz" 
           HEADERS = {"User-Agent": "Mozilla/5.0"}
 
           def parse_m3u(content):
@@ -52,8 +54,8 @@ jobs:
                       continue
                   if stripped.startswith("#EXTINF"):
                       if current_block:
-                          blocks.append("\n".join(current_block))
-                          current_block = []
+                        blocks.append("\n".join(current_block))
+                        current_block = []
                   if not blocks and not current_block and not stripped.startswith("#EXTINF"):
                       header_lines.append(stripped)
                       continue
@@ -69,17 +71,24 @@ jobs:
               match = re.search(r'tvg-id="([^"]+)"', block)
               return match.group(1) if match else None
 
+          def get_channel_url(block):
+              lines = block.splitlines()
+              return lines[-1] if lines else ""
+
           try:
               print("Fetching source playlist...")
               response = requests.get(SOURCE_URL, headers=HEADERS, timeout=30)
               response.raise_for_status()
 
               _, source_blocks = parse_m3u(response.text)
-              source_dict = {
-                  get_channel_id(b): b
-                  for b in source_blocks
-                  if get_channel_id(b)
-              }
+              
+              # സോഴ്സ് ലിങ്കുകളിൽ നിന്നുള്ള tvg-id മാപ്പ് തയ്യാറാക്കുന്നു
+              source_dict = {}
+              for b in source_blocks:
+                  cid = get_channel_id(b)
+                  curl = get_channel_url(b)
+                  if cid:
+                      source_dict[cid] = curl
 
               if not os.path.exists(FILE_NAME):
                   print(f"Error: {FILE_NAME} not found!")
@@ -89,21 +98,42 @@ jobs:
                   current_content = f.read()
 
               header, my_blocks = parse_m3u(current_content)
+              
+              # EPG ലിങ്ക് ഹെഡറിൽ ഉണ്ടോ എന്ന് പരിശോധിക്കുക, ഇല്ലെങ്കിൽ അല്ലെങ്കിൽ അപ്ഡേറ്റ് ചെയ്യുക
+              if "url-tvg" in header.lower():
+                  # നിലവിലുള്ള url-tvg മാറ്റി പുതിയ EPG_URL കൊടുക്കുന്നു
+                  header = re.sub(r'url-tvg="[^"]*"', f'url-tvg="{EPG_URL}"', header, flags=re.IGNORECASE)
+              else:
+                  header = f'{header} url-tvg="{EPG_URL}"'
+
               updated_blocks = []
               updated_count = 0
+              existing_ids = set()
 
               for mb in my_blocks:
-                  # JioTV ചാനലുകൾ tvg-id പ്രകാരം മാത്രം റീപ്ലേസ് ചെയ്യുന്നു
-                  if "jiotv" in mb.lower():
-                      cid = get_channel_id(mb)
-                      if cid and cid in source_dict:
-                          updated_blocks.append(source_dict[cid])
+                  cid = get_channel_id(mb)
+                  if cid:
+                      existing_ids.add(cid)
+                  
+                  # ജിയോടിവി ചാനൽ ആണെങ്കിൽ സോഴ്സ് ലിങ്ക് വെച്ച് സ്ട്രീം മാത്രം അപ്ഡേറ്റ് ചെയ്യും
+                  if "jiotv" in mb.lower() and cid and cid in source_dict:
+                      lines = mb.splitlines()
+                      if lines:
+                          lines[-1] = source_dict[cid]
+                          updated_blocks.append("\n".join(lines))
                           updated_count += 1
                       else:
                           updated_blocks.append(mb)
                   else:
-                      # BB Malayalam ഉൾപ്പെടെയുള്ള മറ്റ് എല്ലാ ചാനലുകളും സുരക്ഷിതമായി നിലനിർത്തുന്നു
+                      # നിങ്ങൾ മാനുവൽ ആയി ചേർത്ത ചാനലുകൾ (BB Malayalam ഉൾപ്പെടെ) 
+                      # ഒരു മാറ്റവുമില്ലാതെ അതുപോലെ തന്നെ നിലനിർത്തും.
                       updated_blocks.append(mb)
+
+              # സോഴ്സിൽ പുതിയതായി വന്നിട്ടുള്ള ജിയോടിവി ചാനലുകൾ ഉണ്ടെങ്കിൽ മാത്രം താഴെ ചേർക്കും
+              for b in source_blocks:
+                  cid = get_channel_id(b)
+                  if cid and cid not in existing_ids and "jiotv" in b.lower():
+                      updated_blocks.append(b)
 
               new_playlist = header + "\n\n\n" + "\n\n\n".join(updated_blocks) + "\n"
 
@@ -123,11 +153,10 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add Zoh.m3u
           if git status --porcelain | grep -q 'Zoh.m3u'; then
-            git commit -m "Auto-update JioTV links in Zoh.m3u [skip ci]"
-            # മറ്റ് ആക്ഷൻ (BB Malayalam) വഴി മാറ്റങ്ങൾ വന്നിട്ടുണ്ടെങ്കിൽ അത് ആദ്യം വലിച്ചെടുത്ത് ലയിപ്പിക്കുന്നു
+            git commit -m "Auto-update JioTV links & EPG sync [skip ci]"
             git pull --rebase origin main
             git push origin main
             echo "Successfully committed and pushed updates."
           else
-            echo "No changes found in JioTV links."
+            echo "No changes found."
           fi
