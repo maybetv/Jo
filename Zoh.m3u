@@ -72,6 +72,8 @@ https://hjh-545.pages.dev/stream?id=asianetmovieshd
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Asianet CINEMA" tvg-logo="https://i.postimg.cc/9fGq9ZKz/Asianet-Cinema.png" group-title="Malayalam",Asianet Cinema
 https://ev-hw-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/EV-HW-PreRoll-Live-DASH/Asianet_Cinema/dash/drm/index.mpd
 
+#EXTINF:-1 tvg-id="AsianetMovies" tvg-logo="https://i.imgur.com/cps67hs.png" group-title="Movies",Asianet Movies
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies.smil/chunklist_b1928000.m3u8
 
 #EXTINF:-1 tvg-id="1139" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Plus.png" group-title="Malayalam",Asianet Plus
 #KODIPROP:inputstream=inputstream.adaptive
