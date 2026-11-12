@@ -437,29 +437,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=287&uid=3037&deviceMac=00:1A:79:0A:3B
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
 
-#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://tataprime.files.wordpress.com/2024/05/20240513_0718037281702601479724023.png" group-title="Sports",Sky Sports Cricket
-http://ae325328.ucomist.net/iptv/Z3SWF9EL3YPX5N/9258/index.m3u8
 
-
-#EXTINF:-1 tvg-id="foxcricket.in" tvg-logo="https://i.ibb.co/Qcy3Dcg/Od-KOXawp-400x400-modified.png" group-title="Sports",Fox Sports 501 HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19146/index.m3u8
-
-
-#EXTINF:-1 tvg-id="HubSports4.sg" tvg-logo="https://iili.io/FkbZuBS.jpg" group-title="Sports",Hub Sports 4
-http://4kgood.org:80/live/Zakaria24_053922/fRUQ4buD/280825.ts
-
-
-#EXTINF:-1 tvg-id="skysp.1" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="Sports", Sky Sport
-http://lordstream.fans:80/live/Kennedy1/Kennedy1/251422.m3u8
-
-
-#EXTINF:-1 tvg-id="ten_cricket" tvg-name="SONY TEN Cricket" tvg-logo="https://images.toffeelive.com/images/program/301891/logo/240x240/mobile_logo_578686001735197654.png" group-title="Sports",SONY TEN Cricket
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-https://drk6xq0vhn.gpcdn.net/live/ten_cricket_hd_720/index.m3u8
-
-
-#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Eurospot HD" tvg-logo="https://i.postimg.cc/MG5smh9G/Eurospots.jpg" group-title="Sports",Eurospot HD
-http://103.155.18.186:8000/play/a05s/index.m3u8
 
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="beIN SPORTS XTRA" tvg-logo="https://i.imgur.com/f7FXJm1.png" group-title="Sports", beIN SPORTS XTRA
@@ -469,69 +447,6 @@ https://bein-xtra-bein.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png" group-title="Astro GO",Premier Sports
 https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/PremierSports2_logo.png/revision/latest?cb=20220528091432" group-title="Astro GO",Premier Sports 2
-https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7hrhzQhvqb/AUF5tXp4n6Q", "kid":"isiy968FrYKYBTRaUXvBEA" } ], "type":"temporary" }
-
-
-#EXTINF:-1 tvg-id="AstroSportsUHD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroSportsUHD_2024.png" group-title="Astro GO",SuperSport UHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_primary.mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yLiGFCAF1+UGfIcXd36qxA", "kid":"gTUrxH7BF3syHuZawb5/EA" } ], "type":"temporary" }
-
-
-#EXTINF:-1 group-title="Astro GO" tvg-id="AstroSportsPlus" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSportsPlus_2024.png",Sports Plus HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5171/default_ott.mpd
-
-
-#EXTINF:-1 tvg-id="W-Sport" group-title="Astro GO" tvg-logo="https://linear-poster.astro.com.my/prod/logo/W-Sport.png",W-Sport
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9e8888ac964d430cbfef9c922ee6714b:9b1dbd9f59a39a9ebaf1fb8e665a3ef3
-https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.mpd
-
-
-#EXTINF:-1 tvg-id="Foxsports1.us" group-title="Sports" tvg-logo="https://cdn.iptvboss.pro/logos/USA/FoxSports1.us.png",FOX SPORTS 1 HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
-
-
-#EXTINF:-1 tvg-id="Foxsports2.us" group-title="Sports" tvg-logo="https://iili.io/KYJC4V9.png",FOX SPORTS 2 HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
-
-
-#EXTINF:-1 tvg-id="FoxSports4KEvents1.us" tvg-logo="https://iptv-epg.org/images/6364d3f0f495b6ab9dcf8d3b5c6e0b01/pU85oUhkwd9hFYvskkMhBbr4JcjUM2a0XJ56U_rnGIIkigaTw5xxA1NxHeoZq9LTCH2_lwTyL_o6HAW_OPj3SWzZ4dwuofbe1VTApeBQPKzG6DB0-PHE8g" group-title="Sports",FOX Sports 4K
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/lsilniwjf7/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
-
-
-#EXTINF:-1 tvg-id="0-1-6z5974924" tvg-logo="https://iptv-epg.org/images/6364d3f0f495b6ab9dcf8d3b5c6e0b01/pU85oUhkwd9hFYvskkMhBbr4JcjUM2a0XJ56U_rnGIIkigaTw5xxA1NxHeoZq9LTCH2_lwTyL_o6HAW_OPj3SWzZ4dwuofbe1VTApeBQPKzG6DB0-PHE8g" group-title="Sports", FOX Sports HDR
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=48afc63fa0ecccc3a71f46d3fda20249:c7cd8801e238a263fe4349a95682b83b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rgmw19qjux/out/v1/c6ac7e638a9d4998891ae85aba377c59/cenc.mpd
-
-
-#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-logo="https://s3.us-west-2.amazonaws.com/prod-cbssportstenantstack-citadelbucket0907d78c-qwwjcczd8p3p/CBS-Sports-Logo-1731106414735.png" group-title="Sports",CBS Sports
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 
 
 #EXTINF:-1 tvg-id="UFC1.UFC" tvg-logo="https://iptv-epg.org/logos/USA/UFC1.UFC.png" group-title="Sports",UFC
@@ -548,12 +463,6 @@ https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/8mxwjn
 #KODIPROP:inputstream.adaptive.license_key=609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd
 
-
-#EXTINF:-1 tvg-id="NBAtv.us" tvg-logo="https://dtil.tmsimg.com/assets/s45526_ll_h15_ab.png?w=360&h=270" group-title="Sports",NBA TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=84077d18bcf234a42de3745be106a87f:aee3069c062ec8ee6bfdd32985f287ef
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd
 
 
 #EXTINF:-1 tvg-id="motogp_event1.p13" tvg-logo="https://m.media-amazon.com/images/I/21uTWIbyL8L.png" group-title="Sports",MotoGP
