@@ -42,6 +42,5 @@ https://streamhub.dhruvpatil681.workers.dev/3454.m3u8
 #EXTVLCOPT:http-referrer=https://colorsportscreen.com/
 https://colorsportscreen.com/freetv/stream.m3u8?id=eca30f720962
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sabha TV" tvg-logo="https://i.postimg.cc/2SjKLMnm/Sabha-TV.png" group-title="Malayalam News",Sabha TV
-http://103.251.43.36/hls/test.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Janam TV " tvg-logo="https://i.postimg.cc/W1FnsHbx/Janam-TV.png" group-title="Malayalam News",Janam TV
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8
