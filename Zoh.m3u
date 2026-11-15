@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTM3U url-tvg="https://sflex.fun/content-jiotvplus.media.jio/metadata/v2/livechannels/epg.xml.gz"
 
 
 #EXTINF:-1 tvg-id="" tvg-name="BBS MALAYALAM" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/5711/1789027865711-t" group-title="Bigg Boss",BBS MALAYALAM
@@ -191,15 +190,9 @@ _____sports_____
 
 
 #EXTINF:-1 tvg-id="9624886" tvg-name="Unite8 Sports 1 HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/396cbd0f0e8d492db65b304859af478d/version/0" group-title="Sports",Unite8 Sports 1 HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe5ee339d8d54084ac84b78bcd789d5a:37bd2ffbb86bb381b23eceba003868aa
-https://d1iwj24qiokrul.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd
 
 
 #EXTINF:-1 tvg-id="9624884" tvg-name="Unite8 Sports 2 HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/03fc75c46d9a4b8daff3ef58d77c5bc7/version/0" group-title="Sports",Unite8 Sports 2 HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=94e7fb64c408441fb7d7c71d0fa4f738:e7be39a37bc269d49ce6344e9bda0acf
-https://d1iwj24qiokrul.cloudfront.net/live/media/Unite8_Sports_2_HD/dash/Unite8_Sports_2_HD.mpd
 
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Star Sports 1 HD" tvg-logo="https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_medium.jpg" group-title="Sports",Star Sports 1 HD
