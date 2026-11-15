@@ -102,9 +102,10 @@ jobs:
                       else:
                           updated_blocks.append(mb)
                   else:
-                      # BB Malayalam ഉൾപ്പെടെയുള്ള മറ്റ് എല്ലാ ചാനലുകളും സുരക്ഷിതമായി നിലനിർത്തുന്നു
+                      # EPG ലിങ്കുകളും മറ്റ് ചാനലുകളും യാതൊരു മാറ്റവുമില്ലാതെ നിലനിർത്തുന്നു
                       updated_blocks.append(mb)
 
+              # ചാനൽ ബ്ലോക്കുകൾക്കിടയിൽ കൃത്യമായി 2 ലൈൻ ഗ്യാപ്പ് നൽകി പുതിയ പ്ലേലിസ്റ്റ് തയ്യാറാക്കുന്നു
               new_playlist = header + "\n\n\n" + "\n\n\n".join(updated_blocks) + "\n"
 
               with open(FILE_NAME, "w", encoding="utf-8") as f:
@@ -124,7 +125,7 @@ jobs:
           git add Zoh.m3u
           if git status --porcelain | grep -q 'Zoh.m3u'; then
             git commit -m "Auto-update JioTV links in Zoh.m3u [skip ci]"
-            # മറ്റ് ആക്ഷൻ (BB Malayalam) വഴി മാറ്റങ്ങൾ വന്നിട്ടുണ്ടെങ്കിൽ അത് ആദ്യം വലിച്ചെടുത്ത് ലയിപ്പിക്കുന്നു
+            # മറ്റ് ആക്ഷൻ വഴി മാറ്റങ്ങൾ വന്നിട്ടുണ്ടെങ്കിൽ അത് ആദ്യം വലിച്ചെടുത്ത് ലയിപ്പിക്കുന്നു
             git pull --rebase origin main
             git push origin main
             echo "Successfully committed and pushed updates."
