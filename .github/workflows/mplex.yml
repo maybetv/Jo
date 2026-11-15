@@ -40,7 +40,7 @@ jobs:
           from playwright.sync_api import sync_playwright
 
           TARGET_FILE = "plex.m3u"
-          IP_MANAGER_URL = "https://game.playindia.fun/Jtv/IP.php?id=RiYlIZ"
+          IP_MANAGER_URL = "https://sonydismthjgdtarsadfsghdjf.higuifytdrseaw.workers.dev/m3u"
           SECRET_URL = os.environ.get("PLAYLIST_URL", "").strip()
 
           # 1. IP Manager വഴി ഐപി ആക്റ്റീവ് ആക്കുന്നു
