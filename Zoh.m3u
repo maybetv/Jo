@@ -273,12 +273,7 @@ https://sonydismthjgdtarsadfsghdjf.higuifytdrseaw.workers.dev/live/ten4-hd.sonyl
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com"}
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://sonydismthjgdtarsadfsghdjf.higuifytdrseaw.workers.dev/live/ten4.sonyliv.m3u8
-#EXTINF:-1 tvg-id="ten4-kannada.sonyliv" tvg-name="Sony Sports Ten 4 Kannada" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyTen4Kan.png" group-title="Sony Dishmt" group-logo="https://i.pinimg.com/736x/51/25/2f/51252f28975fff6ec06e265a54a5d83b.jpg",Sony Sports Ten 4 Kannada
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com"}
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://sonydismthjgdtarsadfsghdjf.higuifytdrseaw.workers.dev/live/ten4-kannada.sonyliv.m3u8
+
 #EXTINF:-1 tvg-id="ten5-hd.sonyliv" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://dtil.tmsimg.com/assets/s157593_ld_h15_aa.png?lock=720x540" group-title="Sony Dishmt" group-logo="https://i.pinimg.com/736x/51/25/2f/51252f28975fff6ec06e265a54a5d83b.jpg",Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
