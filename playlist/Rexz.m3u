@@ -26,10 +26,10 @@ https://d1iwj24qiokrul.cloudfront.net/live/media/News_Nation/hls_fta/News_Nation
 https://d1iwj24qiokrul.cloudfront.net/live/media/Sangeet_Bangla/hls_fta/Sangeet_Bangla.m3u8
 #EXTINF:-1 tvg-id="9487059" tvg-name="Sangeet Bhojpuri" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/032d38ed29b54e51a6e0575bd9e0d837/version/0" group-title="Music",Sangeet Bhojpuri
 https://d1iwj24qiokrul.cloudfront.net/live/media/Sangeet_Bhojpuri/hls_fta/Sangeet_Bhojpuri.m3u8
-#EXTINF:-1 tvg-id="9487058" tvg-name="Sansad TV HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/f6ace40e05bd435184b232ca5d67fc62/version/0" group-title="Entertainment",Sansad TV HD
-https://d2o8pibksxtln6.cloudfront.net/live/media/Sansad_TV_HD/hls_fta/Sansad_TV_HD.m3u8
-#EXTINF:-1 tvg-id="9487056" tvg-name="Sansad TV SD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/599cdaeda82a49bda2daf6f649eb2065/version/0" group-title="Entertainment",Sansad TV SD
-https://d1iwj24qiokrul.cloudfront.net/live/media/Sansad_TV_SD/dash_fta/Sansad_TV_SD.mpd
+#EXTINF:-1 tvg-id="9487056" tvg-name="Sansad TV 1" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/599cdaeda82a49bda2daf6f649eb2065/version/0" group-title="Entertainment",Sansad TV 1
+https://d1iwj24qiokrul.cloudfront.net/live/media/Sansad_TV_HD/hls_fta/Sansad_TV_HD.m3u8
+#EXTINF:-1 tvg-id="9487058" tvg-name="Sansad TV 2" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/f6ace40e05bd435184b232ca5d67fc62/version/0" group-title="Entertainment",Sansad TV 2
+https://d1iwj24qiokrul.cloudfront.net/live/media/Sansad_TV_2_HD/hls_fta/Sansad_TV_2_HD.m3u8
 #EXTINF:-1 tvg-id="9487067" tvg-name="Times Now" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/162d960506c64575affc1c4825c3ae75/version/0" group-title="News",Times Now
 #EXTINF:-1 tvg-id="9624886" tvg-name="Unite8 Sports 1 HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/396cbd0f0e8d492db65b304859af478d/version/0" group-title="Sports",Unite8 Sports 1 HD
 #EXTINF:-1 tvg-id="9624884" tvg-name="Unite8 Sports 2 HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/03fc75c46d9a4b8daff3ef58d77c5bc7/version/0" group-title="Sports",Unite8 Sports 2 HD
@@ -58,5 +58,6 @@ https://d1iwj24qiokrul.cloudfront.net/live/media/Sansad_TV_SD/dash_fta/Sansad_TV
 #EXTINF:-1 tvg-id="9649000" tvg-name="Zee Thirai" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/cef53bf4b0cd4d79913452f6f645c13f/version/0" group-title="Movies",Zee Thirai
 #EXTINF:-1 tvg-id="9487083" tvg-name="ZEE TV HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/04bc627420754c2592f21bb6c37d7f41/version/0" group-title="Entertainment",ZEE TV HD
 #EXTINF:-1 tvg-id="9624888" tvg-name="Zee Yuva" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/4c0723e870914be8b9e77207a96227cd/version/0" group-title="Entertainment",Zee Yuva
+#EXTINF:-1 tvg-id="9650645" tvg-name="Zee Zest" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/d2cc8c4a35c44b0bb21c05185150f4a0/version/0" group-title="Entertainment",Zee Zest
 #EXTINF:-1 tvg-id="9487091" tvg-name="Zing" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/8ec419e798e644fca91ae4e11f182a1c/version/0" group-title="Entertainment",Zing
 #EXTINF:-1 tvg-id="9487084" tvg-name="Zoom" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/f84de3464c0a4609ac222605bd3b3bfe/version/0" group-title="Entertainment",Zoom
