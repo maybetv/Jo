@@ -30,7 +30,7 @@ https://d1iwj24qiokrul.cloudfront.net/live/media/Sangeet_Bhojpuri/hls_fta/Sangee
 https://d1iwj24qiokrul.cloudfront.net/live/media/Sansad_TV_HD/hls_fta/Sansad_TV_HD.m3u8
 #EXTINF:-1 tvg-id="9487058" tvg-name="Sansad TV 2" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/f6ace40e05bd435184b232ca5d67fc62/version/0" group-title="Entertainment",Sansad TV 2
 https://d1iwj24qiokrul.cloudfront.net/live/media/Sansad_TV_2_HD/hls_fta/Sansad_TV_2_HD.m3u8
-#EXTINF:-1 tvg-id="9487067" tvg-name="Times Now" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/162d960506c64575affc1c4825c3ae75/version/0" group-title="News",Times Now
+#EXTINF:-1 tvg-id="9487067" tvg-name="Times Now" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/ff9991eb1ad44ddca1df937a771c583d/version/0" group-title="News",Times Now
 #EXTINF:-1 tvg-id="9624886" tvg-name="Unite8 Sports 1 HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/396cbd0f0e8d492db65b304859af478d/version/0" group-title="Sports",Unite8 Sports 1 HD
 #EXTINF:-1 tvg-id="9624884" tvg-name="Unite8 Sports 2 HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/03fc75c46d9a4b8daff3ef58d77c5bc7/version/0" group-title="Sports",Unite8 Sports 2 HD
 #EXTINF:-1 tvg-id="9487082" tvg-name="Wion" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/938610751fea47dbbaa97beae47fdc12/version/0" group-title="News",Wion
@@ -51,7 +51,7 @@ https://d1iwj24qiokrul.cloudfront.net/live/media/Sansad_TV_2_HD/hls_fta/Sansad_T
 #EXTINF:-1 tvg-id="9487055" tvg-name="Zee News" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/087a098c826c480796c1e9ac0ade0d82/version/0" group-title="News",Zee News
 #EXTINF:-1 tvg-id="9649339" tvg-name="Zee Power" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/c3166a46bb1945638c6c62bd2aa8bff5/version/0" group-title="Entertainment",Zee Power
 #EXTINF:-1 tvg-id="9624890" tvg-name="ZEE PUNJABI" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/600751eb0b714c9992c92d8bfc78e814/version/0" group-title="Entertainment",ZEE PUNJABI
-#EXTINF:-1 tvg-id="9487093" tvg-name="Zee Sarthak" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/c86007cd6db744eeb8b6f8431e4f363a/version/0" group-title="Entertainment",Zee Sarthak
+#EXTINF:-1 tvg-id="9487093" tvg-name="Zee Sarthak" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/9e787a13afa1447abde693bf57f7f9db/version/0" group-title="Entertainment",Zee Sarthak
 #EXTINF:-1 tvg-id="9487089" tvg-name="Zee Talkies HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/8afbf5d35d83410e9ee9597d9645d3be/version/0" group-title="Movies",Zee Talkies HD
 #EXTINF:-1 tvg-id="9624892" tvg-name="Zee Tamil HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/5c9c11bbbda849479e58f8759e1fc4d5/version/0" group-title="Entertainment",Zee Tamil HD
 #EXTINF:-1 tvg-id="9624891" tvg-name="Zee Telugu HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/3e8e7c08dedc48ee9ed67fc0bc4ecf76/version/0" group-title="Entertainment",Zee Telugu HD
