@@ -19,6 +19,14 @@ https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_i
 https://hjh-545.pages.dev/stream?id=asianethd
 
 
+# --- ISL SPECIAL EVENTS ---
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029506/1795187845283930_ISL26_NorthEast-United-FC-vs-FC-GOA-_landscape_thumb.jpg" group-title="Live Sports",NorthEast United FC vs FC Goa - MG Indian Super League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive2111/ENG/master.m3u8?hdnea=exp=1795326231~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=a05c1d08255a2767bdeb2c24bd8f373d63f0853128600c0d786dd808ad9dc622
+
+# --- END ISL SPECIAL EVENTS ---
+
+
 #EXTINF:-1 tvg-id="22020" tvg-logo="https://img.media.jio.com/tvpimages/97/2/300156_1752854414598_l_medium.jpg" group-title="Malayalam Entertainment",Mazhavil Manorama HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=37b4403a66f2565da33ba3b5704bb178:449f87256b3c1d7c2cdcbe04cbfd5530
@@ -546,32 +554,61 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+
 # --- LIVE EVENTS ---
 
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029480/1795172675588333_AsiaCup_RisingStar_BAN-vs-AFG_Live_landscape_thumb.jpg" group-title="Live Sports",Bangladesh A vs Afghanistan A - ACC Men's Asia Cup Rising Stars 2026
+https://sonydaimenew.akamaized.net/hls/live/2120303/criclive2111/ENG/master.m3u8?hdnea=exp=1795319432~acl=/*~id=78070633636678863740015153154568~hmac=de04f4547c2486045ac0756505a42516cb576696f9f49ba396f24465f850b471
 
 #EXTINF:-1 tvg-name="Use Again In Next Indian Match" group-title="Use Again In Next Indian Match",Use Again In Next Indian Match
 https://ComeInNextMatch.com/4K.m3u8
 
-
-#EXTINF:-1 tvg-id="B0HNMFJNRM" tvg-name="Womens Big Bash League 2026 - 30th Match - Sydney Sixers Women vs Perth Scorchers Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.74e81e99-a2da-490e-b621-063bce13c67f/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Womens Big Bash League 2026 - 30th Match - Sydney Sixers Women vs Perth Scorchers Women
+#EXTINF:-1 tvg-id="B0HMCN5NM8" tvg-name="ACC Mens Asia Cup Rising Stars 2026 - 6th Match - Bangladesh A vs Afghanistan A" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5a28093f-2e23-4bdb-8aaa-ca038715ae16/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",ACC Mens Asia Cup Rising Stars 2026 - 6th Match - Bangladesh A vs Afghanistan A
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6012ce4af4cad526b730a7dc830bb35d:80280163cc6aad3985a22ebf2f082e76
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xzhvi2grfc/out/v1/0c7ba1d749ea465c8caac7e84fc34891/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=46bbf645122de0df0cd0b19d4487e2ce:45e84957268ce56d53ae6d0fadec5964
+https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/fceyqwjpo4/out/v1/3d62c2d3722b4801b8c7dce78217ff87/cenc.mpd
 
+#EXTINF:-1 tvg-id="B0HS85SP95" tvg-name="International League T20 2026 - 1st Match - Desert Vipers vs Mi Emirates" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f5566761-b72f-45ad-89b5-d9febee8e5f4/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",International League T20 2026 - 1st Match - Desert Vipers vs Mi Emirates
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=61403ba13e0032108b86ec3078314ec9:ec2ac53d37954d51dd4d9eb11ecf322b
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u7thf3dqfv/out/v1/b6a0f070688648ac849771947211a8fb/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HPQCYYZ5" tvg-name="Sydney Sixers vs. Perth Scorchers" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.ca364d79-7f14-4a0e-a9a4-e466c6afcec7/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Sydney Sixers vs. Perth Scorchers
+#EXTINF:-1 tvg-id="B0HPTW2Y8D" tvg-name="Middlesbrough vs. Bristol City" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.159618ae-144c-42ad-aaff-70bbbdbe03de/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Middlesbrough vs. Bristol City
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HLV4257F" tvg-name="Triton Poker Series Cyprus-$200K Triton Invitational" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.e7d441f0-ae5a-496e-9591-bd3793592c26/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Triton Poker Series Cyprus-$200K Triton Invitational
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HS85SP95" tvg-name="International League T20 2026 - 1st Match - Desert Vipers vs Mi Emirates" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.f5566761-b72f-45ad-89b5-d9febee8e5f4/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",International League T20 2026 - 1st Match - Desert Vipers vs Mi Emirates
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=61403ba13e0032108b86ec3078314ec9:ec2ac53d37954d51dd4d9eb11ecf322b
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/u7thf3dqfv/out/v1/b6a0f070688648ac849771947211a8fb/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HMCN5NM8" tvg-name="ACC Mens Asia Cup Rising Stars 2026 - 6th Match - Bangladesh A vs Afghanistan A" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.5a28093f-2e23-4bdb-8aaa-ca038715ae16/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",ACC Mens Asia Cup Rising Stars 2026 - 6th Match - Bangladesh A vs Afghanistan A
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=46bbf645122de0df0cd0b19d4487e2ce:45e84957268ce56d53ae6d0fadec5964
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fceyqwjpo4/out/v1/3d62c2d3722b4801b8c7dce78217ff87/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HQCYM5QL" tvg-name="Bangladesh A vs. Afghanistan A" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.6d5e1abf-242b-4bb7-9e28-5363bbb49770/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Bangladesh A vs. Afghanistan A
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
-
-#EXTINF:-1 tvg-id="B0HNMFJNRM" tvg-name="Womens Big Bash League 2026 - 30th Match - Sydney Sixers Women vs Perth Scorchers Women" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.74e81e99-a2da-490e-b621-063bce13c67f/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Womens Big Bash League 2026 - 30th Match - Sydney Sixers Women vs Perth Scorchers Women
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6012ce4af4cad526b730a7dc830bb35d:80280163cc6aad3985a22ebf2f082e76
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xzhvi2grfc/out/v1/0c7ba1d749ea465c8caac7e84fc34891/cenc.mpd
