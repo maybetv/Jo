@@ -23,7 +23,7 @@ https://d1iwj24qiokrul.cloudfront.net/live/media/Anmol_Cinema_2/dash/Anmol_Cinem
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=22f385ba1d814f2ea0a5c972790ae45e:ba97bbcd9735e1965ddffe806f09ac61
 https://d1iwj24qiokrul.cloudfront.net/live/media/Big_Magic/dash/Big_Magic.mpd
-#EXTINF:-1 tvg-id="9487060" tvg-name="DD Bharti" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/352de2ba90694929895751d926b6f3bc/version/0" group-title="Entertainment",DD Bharti
+#EXTINF:-1 tvg-id="9487060" tvg-name="DD Bharti" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/9ac9516189654175bffc220b723e928d/version/0" group-title="Entertainment",DD Bharti
 https://d1iwj24qiokrul.cloudfront.net/live/media/DD_Bharti/hls_fta/DD_Bharti.m3u8
 #EXTINF:-1 tvg-id="9487068" tvg-name="DD National" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/28b8bef7e39548d0ab6ab86d4bbb5e88/version/0" group-title="Entertainment",DD National
 https://d1iwj24qiokrul.cloudfront.net/live/media/DD_National/hls_fta/DD_National.m3u8
@@ -57,7 +57,7 @@ https://d1iwj24qiokrul.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1bf8995c68d64315b22420c4477bc292:8be5ee28aebac15b279460f36caa843c
 https://d1iwj24qiokrul.cloudfront.net/live/media/Unite8_Sports_2_HD/dash/Unite8_Sports_2_HD.mpd
-#EXTINF:-1 tvg-id="9487082" tvg-name="Wion" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/938610751fea47dbbaa97beae47fdc12/version/0" group-title="News",Wion
+#EXTINF:-1 tvg-id="9487082" tvg-name="Wion" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/11d3678b209d426688a88adc01830f1d/version/0" group-title="News",Wion
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e0dc8ab384314258bda845a627485c57:cbceaf076bc8065fa7026cf187b263ac
 https://d1iwj24qiokrul.cloudfront.net/live/media/Wion/dash/Wion.mpd
@@ -65,7 +65,7 @@ https://d1iwj24qiokrul.cloudfront.net/live/media/Wion/dash/Wion.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3334a3af2b384c01a5436e5208f1558f:6a2e03a67e9317bc91df420eb4845e52
 https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Twenty_Four_Ghanta/dash/Zee_Twenty_Four_Ghanta.mpd
-#EXTINF:-1 tvg-id="9487052" tvg-name="Zee Action" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/1939be35954742989bd03c0108a64f4c/version/0" group-title="Movies",Zee Action
+#EXTINF:-1 tvg-id="9487052" tvg-name="Zee Action" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/34108078d7874122b00072cb48a6968a/version/0" group-title="Movies",Zee Action
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=08c3d3f0e3bc49d694229a0d7f341a99:c9ef1aef542b7ee1ed745990e38c93cc
 https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Action/dash/Zee_Action.mpd
@@ -109,7 +109,7 @@ https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Business/dash/Zee_Business.
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=190aed4caff84c21b240df5abeb8eac1:b9a73ef03becb3d98cc441d166035e1e
 https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Cinema_HD/dash/Zee_Cinema_HD.mpd
-#EXTINF:-1 tvg-id="9624889" tvg-name="Zee Cinemalu HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/b9ab293f61c24d7697352215c83ce463/version/0" group-title="Movies",Zee Cinemalu HD
+#EXTINF:-1 tvg-id="9624889" tvg-name="Zee Cinemalu HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/a33211ad359a4cba8b23144e4081ff68/version/0" group-title="Movies",Zee Cinemalu HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaaad73caba484184127da53408546e:18554568e60d809ee0df06fda2ac5f63
 https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Cinemalu_HD/dash/Zee_Cinemalu_HD.mpd
@@ -169,7 +169,7 @@ https://d1iwj24qiokrul.cloudfront.net/live/media/ZEE_Tamil_HD/dash/ZEE_Tamil_HD.
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=62099a6e6c04471d94bf02a6a005decb:19ff7b82f5ab78c1101b81d773bc9f10
 https://d1iwj24qiokrul.cloudfront.net/live/media/ZEE_Telugu_HD/dash/ZEE_Telugu_HD.mpd
-#EXTINF:-1 tvg-id="9649000" tvg-name="Zee Thirai" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/cef53bf4b0cd4d79913452f6f645c13f/version/0" group-title="Movies",Zee Thirai
+#EXTINF:-1 tvg-id="9649000" tvg-name="Zee Thirai" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/52a61ca3a8d0466492b16fe324dfe66c/version/0" group-title="Movies",Zee Thirai
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa1ce15a4d784c5690d2d1713f8ce98d:6dc5c8591834fb369480fc5bcaeadd84
 httpS://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Thirai_SD/dash/Zee_Thirai_SD.mpd
