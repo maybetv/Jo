@@ -40,6 +40,7 @@ https://yt-live-proxy.npashru.workers.dev/flowers
 
 #EXTINF:-1 tvg-id="1641" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeKeralamHD.png" group-title="Malayalam",Zee Keralam HD
 https://yt-live-proxy.npashru.workers.dev/zeekeralam
+http://tv.cloudcdn.me:80/live.ts?channelId=132560&uid=19260&deviceMac=00:1A:79:00:02:27
 
 #EXTINF:-1 tvg-id="22389" tvg-logo="https://i.imgur.com/du9iZ0s.png" group-title="Malayalam Entertainment",Asianet Middle East
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -59,11 +60,7 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies.smil/chunklist_
 
 
 #EXTINF:-1 tvg-id="1139" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Plus.png" group-title="Malayalam",Asianet Plus
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=679f44827ae353b6ae01046247b47a4f:7a401e0b947861c564af4dabf89410fc
-https://hjh-545.pages.dev/stream?id=asianetplus
+http://tv.cloudcdn.me:80/live.ts?channelId=43472&uid=19260&deviceMac=00:1A:79:00:02:27
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/DgfjRPnf/Picsart-25-02-10-14-22-46-534.png" group-title="SunNXT",SURYA Movies
